@@ -137,7 +137,7 @@ class XYZsportsManager:
 
 # ---------------- Main ----------------
 if __name__ == "__main__":
-    CIKTI_DOSYASI = "Birlesik.m3u"
+    CIKTI_DOSYASI = "trgoalvsdenge.m3u"
 
     all_m3u = ["#EXTM3U"]
 
