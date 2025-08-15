@@ -1,32 +1,118 @@
-# This is a basic workflow that is manually triggered
+name: Çoklu Bot Çalıştırma
 
-name: Manual workflow
-
-# Controls when the action will run. Workflow runs when manually triggered using the UI
-# or API.
 on:
-  workflow_dispatch:
-    # Inputs the workflow accepts.
-    inputs:
-      name:
-        # Friendly description to be shown in the UI instead of 'name'
-        description: 'Person to greet'
-        # Default value if no value is explicitly provided
-        default: 'World'
-        # Input has to be provided for the workflow to run
-        required: true
-        # The data type of the input
-        type: string
+  schedule:
+    - cron: '0 */12 * * *'  # Her 12 saatte bir çalışacak
+  workflow_dispatch:  # Manuel tetikleme
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+permissions:
+  contents: write  # repo içeriklerine yazma izni veriyoruz
+
 jobs:
-  # This workflow contains a single job called "greet"
-  greet:
-    # The type of runner that the job will run on
+  bot_1:
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    # Runs a single command using the runners shell
-    - name: Send greeting
-      run: echo "Hello ${{ inputs.name }}"
+    - name: Check out repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python for Bot 1
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
+
+    - name: Install dependencies for Bot 1
+      run: |
+        python -m pip install --upgrade pip
+        pip install cloudscraper requests
+
+    - name: Run Bot 1 (channels.py)
+      run: |
+        python channels.py  # channels.py dosyasını çalıştırıyoruz
+
+    - name: Update M3U file from Bot 1 (Adding timestamp)
+      run: |
+        echo "# Updated on $(date)" >> rectv_kanallar.m3u  # Dosyaya zaman damgası ekliyoruz
+
+    - name: Pull latest changes before commit
+      run: |
+        git pull origin main  # Uzak depodaki son değişiklikleri yerel deponuza çekiyoruz
+
+    - name: Commit the M3U file from Bot 1
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add rectv_kanallar.m3u
+        git commit -m "Bot 1: Add new m3u file with timestamp"
+        git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+
+  bot_2:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python for Bot 2
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
+
+    - name: Install dependencies for Bot 2
+      run: |
+        python -m pip install --upgrade pip
+        pip install cloudscraper requests
+
+    - name: Run Bot 2 (movies.py)
+      run: |
+        python movies.py  # movies.py dosyasını çalıştırıyoruz
+
+    - name: Update M3U file from Bot 2 (Adding timestamp)
+      run: |
+        echo "# Updated on $(date)" >> rectv_movies.m3u  # Dosyaya zaman damgası ekliyoruz
+
+    - name: Pull latest changes before commit
+      run: |
+        git pull origin main  # Uzak depodaki son değişiklikleri yerel deponuza çekiyoruz
+
+    - name: Commit the M3U file from Bot 2
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add rectv_movies.m3u
+        git commit -m "Bot 2: Add new m3u file with timestamp"
+        git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+
+  bot_3:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python for Bot 3
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
+
+    - name: Install dependencies for Bot 3
+      run: |
+        python -m pip install --upgrade pip
+        pip install cloudscraper requests
+
+    - name: Run Bot 3 (series.py)
+      run: |
+        python series.py  # series.py dosyasını çalıştırıyoruz
+
+    - name: Update M3U file from Bot 3 (Adding timestamp)
+      run: |
+        echo "# Updated on $(date)" >> rectv_series.m3u  # Dosyaya zaman damgası ekliyoruz
+
+    - name: Pull latest changes before commit
+      run: |
+        git pull origin main  # Uzak depodaki son değişiklikleri yerel deponuza çekiyoruz
+
+    - name: Commit the M3U file from Bot 3
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add rectv_series.m3u
+        git commit -m "Bot 3: Add new m3u file with timestamp"
+        git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
