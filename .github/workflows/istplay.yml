@@ -1,0 +1,42 @@
+name: İstplay M3U List Update
+
+on:
+  # Her saat başında (saat 0'da) çalıştır
+  schedule:
+    - cron: '0 * * * *'
+  # Manuel çalıştırmaya izin ver
+  workflow_dispatch:
+
+# Depoya (repository) yazma izni verilir. Bu, M3U dosyasını commit edip pushlamak için zorunludur.
+permissions:
+  contents: write
+
+jobs:
+  update-list:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 1. Depoyu Klonla (Checkout)
+        uses: actions/checkout@v4
+
+      - name: 2. Python Ortamını Kur (3.11)
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 3. Gerekli Kütüphaneleri Yükle
+        # requests, zstandard ve beautifulsoup4 kütüphaneleri kurulur
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests zstandard beautifulsoup4
+
+      - name: 4. M3U Scraper Scriptini Çalıştır
+        # scraper.py dosyasını çalıştırır ve yeni all_world_sports_categorized.m3u dosyasını oluşturur
+        run: python stplay.py
+
+      - name: 5. Değişiklikleri Otomatik Commit Et ve Gönder (Push)
+        # Sadece all_world_sports_categorized.m3u dosyası değiştiyse commit yap
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🤖 [Scheduled] Updated M3U list with latest streams"
+          files: all_world_sports_categorized.m3u
+          branch: main # Ana dal adınız "master" ise burayı "master" olarak değiştirin.
