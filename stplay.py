@@ -18,7 +18,6 @@ def decompress_content_istplay(response):
         else:
             return response.content
     except zstd.ZstdError:
-        # Zstd hatası durumunda orijinal içeriği döndür
         return response.content
 
 # --- 1.2. IstPlay: m3u8 linkini alma fonksiyonu ---
@@ -74,7 +73,7 @@ def main():
     
     try:
         response = requests.get(url_list, headers=headers, timeout=15)
-        response.raise_for_status() # HTTP hatası varsa istisna fırlat
+        response.raise_for_status() 
         data = decompress_content_istplay(response)
         parsed = json.loads(data)
         print("✅ [IstPlay] Yayın listesi başarıyla alındı.")
@@ -100,7 +99,7 @@ def main():
         print("ℹ️ [IstPlay] İşlenecek yayın (event) bulunamadı.")
         return
 
-    print(f"🔗 [IstPlay] {len(all_events)} adet yayın linki çekiliyor (Bu işlem biraz sürebilir)...")
+    print(f"🔗 [IstPlay] {len(all_events)} adet yayın linki çekiliyor...")
     with ThreadPoolExecutor(max_workers=20) as executor:
         future_to_event = {executor.submit(get_m3u8_istplay, ev[2]['stream_id'], headers): ev for ev in all_events}
         for future in as_completed(future_to_event):
@@ -130,31 +129,24 @@ def main():
             away = competitors.get("away", "").strip()
             m3u8_url = event_data.get("m3u8_url")
 
-            # Eğer m3u8 linki alınamadıysa bu yayını atla
             if not m3u8_url:
                 continue
 
-            # Başlangıç saatini al ve formatla
             start_timestamp = event_data.get("start_time")
             start_time_str = ""
             if start_timestamp:
                 try:
-                    # Unix timestamp'i datetime objesine çevir
                     dt_object = datetime.datetime.fromtimestamp(int(start_timestamp))
-                    # HH:MM formatına getir
                     start_time_str = f"[{dt_object.strftime('%H:%M')}] "
                 except (ValueError, TypeError):
-                    start_time_str = "" # Hatalı timestamp durumunda boş bırak
+                    start_time_str = "" 
 
-            # Grup başlığını spor isminden al
             sport_info = SPORT_TRANSLATION_ISTPLAY.get(sport_name.upper(), {"name": sport_name.upper(), "logo": ""})
             display_sport = sport_info["name"]
             logo_url = sport_info.get("logo", "")
             
-            # Grup başlığına kaynak bilgisi ekle
             group_title = f"IstPlay - {display_sport}"
 
-            # Başlığı saat bilgisi ve telegram ekiyle birleştir
             if sport_name.upper() == "HORSE_RACING":
                 display_title = f"{start_time_str}{home.upper()} ({league.upper()}) (telegram @playtvmedya)"
             else:
