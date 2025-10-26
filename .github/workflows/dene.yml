@@ -27,8 +27,9 @@ jobs:
       
       - name: Debug - Check config file
         run: |
-          echo "=== Config file content (config_fixed.json) ==="
-          cat config_fixed.json
+          echo "=== Config file content (config.json) ==="
+          # HATA BURADAYDI: config_fixed.json -> config.json olarak düzeltildi
+          cat config.json
           echo ""
           echo "=== Current directory ==="
           pwd
@@ -36,8 +37,8 @@ jobs:
       
       - name: Execute py script (using v2)
         run: |
-          # main_v2.py script'ini ve config_fixed.json dosyasını kullan
-          python main_v2.py config_fixed.json
+          # HATA BURADAYDI: Script'e config.json dosyasını ver
+          python main_v2.py config.json
           echo ""
           echo "=== Script completed, checking output ==="
           ls -la
