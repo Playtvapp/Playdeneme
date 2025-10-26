@@ -101,4 +101,4 @@ for name, cid, logo in channels:
     with open(os.path.join(out_dir, file_name), "w", encoding="utf-8") as f:
         f.write("\n".join(content))
 
-print(f"✅ {len(channels)} kanal ayrıca '{out_dir}' qovluğuna .m3u8 faylı olaraq yazıldı.")
+print(f"✅ {len(channels)} kanal ayrıca '{out_dir}' qovluğuna .m3u8 faylı olaraq yazıldı.") 
