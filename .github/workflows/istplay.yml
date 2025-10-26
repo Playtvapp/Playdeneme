@@ -1,58 +1,50 @@
-name: ISTPLAY M3U Listesi Güncelleme
+name: M3U Listesini Oluştur ve Güncelle
 
 on:
-  # Her saat başında (XX:00) çalıştır
+  workflow_dispatch: # Manuel olarak tetikleme
   schedule:
-    - cron: '0 * * * *'
-  
-  # Manuel olarak da tetikleyebilmek için
-  workflow_dispatch:
-
-# Depoya yazma izni ver
-permissions:
-  contents: write
+    - cron: '0 */6 * * *' # 6 saatte bir otomatik çalıştır
 
 jobs:
-  build-and-commit:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Depoyu klonla
-      - name: Depoyu Çek (Checkout)
+      # 1. Adım: Depodaki kodları (stplay.py ve requirements.txt) runner'a indir
+      - name: Depoyu Klonla
         uses: actions/checkout@v4
 
-      # 2. Python 3.10 kur
-      - name: Python 3.10 Kur
+      # 2. Adım: Python 3.10'u kur
+      - name: Python 3.10 Kurulumu
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-          cache: 'pip' # Bağımlılıkları cache'le
+          cache: 'pip' # pip önbelleğini kullanarak kurulumları hızlandır
 
-      # 3. Bağımlılıkları kur (requirements.txt'den)
-      - name: Bağımlılıkları Kur
+      # 3. Adım: Gerekli Python kütüphanelerini kur (HATANIN ÇÖZÜMÜ)
+      # Burası requirements.txt dosyasını okur ve (requests, zstandard, beautifulsoup4) kurar.
+      - name: Gerekli Kütüphaneleri Kur
         run: |
+          python -m pip install --upgrade pip
           pip install -r requirements.txt
-          
-      # 4. Python script'ini çalıştırarak m3u dosyasını oluştur
+      
+      # 4. Adım: Python betiğini çalıştırarak M3U dosyasını oluştur
       - name: M3U Listesini Oluştur
+        run: python stplay.py
+
+      # 5. Adım: Oluşturulan M3U dosyasını depoya geri yükle (Commit)
+      - name: Değişiklikleri Depoya Yükle
         run: |
-          python stplay.py
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           
-      # 5. Oluşturulan dosyayı depoya commit'le ve push'la
-      - name: Değişiklikleri Commit et ve Pushla
-        run: |
-          git config --global user.name "GitHub Actions Bot"
-          git config --global user.email "github-actions-bot@github.com"
-          
-          # Sadece 'istplay_streams.m3u' dosyasını ekle
+          # Yalnızca 'istplay_streams.m3u' dosyasında değişiklik varsa commit at
           git add istplay_streams.m3u
           
-          # `git diff` ile değişiklik olup olmadığını kontrol et
-          # Değişiklik yoksa `exit 0` ile adımı başarılı say, varsa commit at
-          if git diff --staged --quiet; then
-            echo "Değişiklik yok, commit atılmadı."
-          else
-            git commit -m "Otomatik M3U Listesi Güncellemesi ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+          # Değişiklik olup olmadığını kontrol et
+          if [[ -n $(git status --porcelain) ]]; then
+            git commit -m "M3U listesi güncellendi (Otomatik)"
             git push
-            echo "M3U listesi güncellendi ve pushlandı."
+          else
+            echo "Değişiklik bulunamadı, commit atılmadı."
           fi
