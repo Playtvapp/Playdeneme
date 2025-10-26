@@ -44,8 +44,8 @@ jobs:
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "github-actions-bot@github.com"
           
-          # Sadece 'all_world_sports_categorized.m3u' dosyasını ekle
-          git add all_world_sports_categorized.m3u
+          # Sadece 'istplay_streams.m3u' dosyasını ekle
+          git add istplay_streams.m3u
           
           # `git diff` ile değişiklik olup olmadığını kontrol et
           # Değişiklik yoksa `exit 0` ile adımı başarılı say, varsa commit at
