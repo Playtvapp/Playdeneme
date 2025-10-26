@@ -1,57 +1,58 @@
-name: 🔁 Update İSTPLAY Playlist
+name: ISTPLAY M3U Listesi Güncelleme
 
 on:
+  # Her saat başında (XX:00) çalıştır
   schedule:
     - cron: '0 * * * *'
+  
+  # Manuel olarak da tetikleyebilmek için
   workflow_dispatch:
 
+# Depoya yazma izni ver
 permissions:
   contents: write
 
 jobs:
-  scrape:
+  build-and-commit:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📥 Checkout repository
-        uses: actions/checkout@v3
+      # 1. Depoyu klonla
+      - name: Depoyu Çek (Checkout)
+        uses: actions/checkout@v4
+
+      # 2. Python 3.10 kur
+      - name: Python 3.10 Kur
+        uses: actions/setup-python@v5
         with:
-          fetch-depth: 0
+          python-version: '3.10'
+          cache: 'pip' # Bağımlılıkları cache'le
 
-      - name: 🐍 Set up Python 3.11
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
-
-      - name: 📦 Install Python dependencies
+      # 3. Bağımlılıkları kur (requirements.txt'den)
+      - name: Bağımlılıkları Kur
         run: |
-          python -m pip install --upgrade pip
-          pip install requests
-
-      - name: 🎯 Run scraping script
-        run: python stplay.py
-
-      - name: 💾 Commit & Safely Push if Playlist Changed
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          pip install -r requirements.txt
+          
+      # 4. Python script'ini çalıştırarak m3u dosyasını oluştur
+      - name: M3U Listesini Oluştur
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          python stplay.py
+          
+      # 5. Oluşturulan dosyayı depoya commit'le ve push'la
+      - name: Değişiklikleri Commit et ve Pushla
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "github-actions-bot@github.com"
+          
+          # Sadece 'all_world_sports_categorized.m3u' dosyasını ekle
           git add all_world_sports_categorized.m3u
-          if git diff --cached --quiet; then
-            echo "✅ No changes to commit"
-            exit 0
-          fi
-          git commit -m "🔁 Update playlist $(date -u +'%a %b %d %T UTC %Y')"
-          sleep $((RANDOM % 10 + 5))
-          if ! git push origin main; then
-            echo "⚠️ Push rejected. Trying safe fetch + merge..."
-            git pull origin main --rebase || {
-              echo "❌ Rebase failed. Exiting to avoid corruption."
-              exit 1
-            }
-            git push origin main || {
-              echo "❌ Second push failed. Remote changed again."
-              exit 1
-            }
+          
+          # `git diff` ile değişiklik olup olmadığını kontrol et
+          # Değişiklik yoksa `exit 0` ile adımı başarılı say, varsa commit at
+          if git diff --staged --quiet; then
+            echo "Değişiklik yok, commit atılmadı."
+          else
+            git commit -m "Otomatik M3U Listesi Güncellemesi ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push
+            echo "M3U listesi güncellendi ve pushlandı."
           fi
