@@ -23,7 +23,8 @@ def decompress_content(response):
         return response.content
 
 # --- 1. Stream listesi al ---
-url_list = "https://istplay.xyz/api/list"
+
+    url_list = "url_list = "https://istplay.xyz/api/list""
 headers = {
     "Accept": "application/json, text/plain, */*",
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -40,7 +41,7 @@ print("✅ Yayın listesi başarıyla alındı.")
 def get_m3u8(stream_id):
     """Verilen stream_id için m3u8 linkini çeker."""
     try:
-        url = f"https://istplay.xyz/tv/?stream_id={stream_id}"
+        url = f"https://api.istplay.xyz/stream-list-v2/?tv=tv={stream_id}"
         response = requests.get(url, headers=headers, timeout=10)
         
         # BeautifulSoup kullanarak script etiketini bul
