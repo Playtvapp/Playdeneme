@@ -1,0 +1,67 @@
+name: Run Stream Extractor (v2)
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  pull_request:
+      branches:
+        - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps: 
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+            python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install streamlink
+      
+      - name: Debug - Check config file
+        run: |
+          echo "=== Config file content (config_fixed.json) ==="
+          cat config_fixed.json
+          echo ""
+          echo "=== Current directory ==="
+          pwd
+          ls -la
+      
+      - name: Execute py script (using v2)
+        run: |
+          # main_v2.py script'ini ve config_fixed.json dosyasını kullan
+          python main_v2.py config_fixed.json
+          echo ""
+          echo "=== Script completed, checking output ==="
+          ls -la
+          # Çıktı klasör adını config'den al (streams)
+          if [ -d "streams" ]; then
+            echo "Streams folder exists:"
+            ls -la streams/
+            if [ -d "streams/master" ]; then
+              echo "Master folder files:"
+              ls -la streams/master/
+            fi
+            if [ -d "streams/best" ]; then
+              echo "Best folder files:"
+              ls -la streams/best/
+            fi
+          else
+            echo "ERROR: Streams folder not created!"
+          fi
+      
+      - name: Commit and push files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git status
+          git diff --quiet && git diff --staged --quiet || git commit -m "updated streams $(date +'%Y-%m-%d %H:%M:%S')"
+          git push
