@@ -24,7 +24,7 @@ def decompress_content(response):
 
 # --- 1. Stream listesi al ---
 
-    url_list = "url_list = "https://istplay.xyz/api/list""
+    url_list = "url_list = "https://api.istplay.xyz/stream-list-v2""
 headers = {
     "Accept": "application/json, text/plain, */*",
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
