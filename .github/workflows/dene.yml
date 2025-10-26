@@ -1,4 +1,4 @@
-name: Run Stream Extractor (v2)
+name: Run Stream Extractor (v3)
 on:
   schedule:
     - cron: '0 */2 * * *'
@@ -23,39 +23,31 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install streamlink
+          # YENİ: YouTube uyumluluğu için 'yt-dlp' eklendi
+          pip install streamlink yt-dlp
       
       - name: Debug - Check config file
         run: |
           echo "=== Config file content (config.json) ==="
-          # HATA BURADAYDI: config_fixed.json -> config.json olarak düzeltildi
           cat config.json
           echo ""
           echo "=== Current directory ==="
           pwd
           ls -la
       
-      - name: Execute py script (using v2)
+      - name: Execute py script (using v3)
         run: |
-          # HATA BURADAYDI: Script'e config.json dosyasını ver
+          # YENİ: main_v2.py script'ini çalıştır
           python main_v2.py config.json
           echo ""
           echo "=== Script completed, checking output ==="
           ls -la
-          # Çıktı klasör adını config'den al (streams)
+          # config.json'daki 'folder' ayarını kontrol et (örn: 'streams')
           if [ -d "streams" ]; then
             echo "Streams folder exists:"
             ls -la streams/
-            if [ -d "streams/master" ]; then
-              echo "Master folder files:"
-              ls -la streams/master/
-            fi
-            if [ -d "streams/best" ]; then
-              echo "Best folder files:"
-              ls -la streams/best/
-            fi
           else
-            echo "ERROR: Streams folder not created!"
+            echo "ERROR: 'streams' folder not created!"
           fi
       
       - name: Commit and push files
