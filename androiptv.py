@@ -74,7 +74,7 @@ channels = [
 # ✅ Toplu M3U faylı (androiptv.m3u8)
 lines = ["#EXTM3U"]
 for name, cid, logo in channels:
-    lines.append(f'#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:{name}" tvg-logo="{logo}" group-title="DeaTHLesS",TR:{name}')
+    lines.append(f'#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:{name}" tvg-logo="{logo}" group-title="Telegram @playtvmedya",TR:{name}')
     full_url = f"{base_url}{cid}.m3u8"
     lines.append(full_url)
 
