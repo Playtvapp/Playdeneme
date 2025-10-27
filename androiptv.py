@@ -10,6 +10,7 @@ for i in range(25, 100):
         r = requests.head(url, timeout=5)
         if r.status_code == 200:
             active_domain = url
+            print(f"Aktif domain bulundu: {active_domain}")
             break
     except:
         continue
@@ -23,13 +24,16 @@ m = re.search(r'<iframe[^>]+id="matchPlayer"[^>]+src="event\.html\?id=([^"]+)"',
 if not m:
     raise SystemExit("Kanal ID bulunamadı.")
 first_id = m.group(1)
+print(f"İlk Kanal ID: {first_id}")
 
 # Base URL çek
-event_source = requests.get(active_domain + "event.html?id=" + first_id, timeout=10).text
+event_source_url = active_domain + "event.html?id=" + first_id
+event_source = requests.get(event_source_url, timeout=10).text
 b = re.search(r'var\s+baseurls\s*=\s*\[\s*"([^"]+)"', event_source)
 if not b:
     raise SystemExit("Base URL bulunamadı.")
 base_url = b.group(1)
+print(f"Base URL: {base_url}")
 
 # Kanal listesi (tam siyahın saxlanıldı)
 channels = [
@@ -71,11 +75,15 @@ channels = [
     ("Exxen 8 HD","androstreamliveexn8","https://i.ibb.co/v61Yw2ds/v-QSm-JSfa-S2apqzv-Rwlp-X2-Q.webp"),
 ]
 
+# Proxy URL
+proxy_prefix = "https://api.codetabs.com/v1/proxy/?quest="
+
 # ✅ Toplu M3U faylı (androiptv.m3u8)
 lines = ["#EXTM3U"]
 for name, cid, logo in channels:
     lines.append(f'#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:{name}" tvg-logo="{logo}" group-title="Telegram @playtvmedya",TR:{name}')
-    full_url = f"{base_url}{cid}.m3u8"
+    # GÜNCELLENDİ: URL'nin başına proxy eklendi
+    full_url = f"{proxy_prefix}{base_url}{cid}.m3u8"
     lines.append(full_url)
 
 with open("androiptv.m3u8", "w", encoding="utf-8") as f:
@@ -89,7 +97,8 @@ os.makedirs(out_dir, exist_ok=True)
 
 for name, cid, logo in channels:
     file_name = name.replace(" ", "_").replace("/", "_") + ".m3u8"
-    full_url = f"{base_url}{cid}.m3u8"
+    # GÜNCELLENDİ: URL'nin başına proxy eklendi
+    full_url = f"{proxy_prefix}{base_url}{cid}.m3u8"
 
     content = [
         "#EXTM3U",
