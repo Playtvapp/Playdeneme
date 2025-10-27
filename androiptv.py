@@ -81,7 +81,7 @@ proxy_prefix = "https://api.codetabs.com/v1/proxy/?quest="
 # ✅ Toplu M3U faylı (androiptv.m3u8)
 lines = ["#EXTM3U"]
 for name, cid, logo in channels:
-    lines.append(f'#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:{name}" tvg-logo="{logo}" group-title="Telegram @playtvmedya",TR:{name}')
+    lines.append(f'#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:{name}" tvg-logo="{logo}" group-title="PLAY SPOR | Telegram @playtvmedya",TR:{name}')
     # GÜNCELLENDİ: URL'nin başına proxy eklendi
     full_url = f"{proxy_prefix}{base_url}{cid}.m3u8"
     lines.append(full_url)
