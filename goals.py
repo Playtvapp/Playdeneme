@@ -133,7 +133,7 @@ def main():
             full_url = f"http://proxylendim101010.mywire.org/proxy.php?url={encoded_url}"
 
             # İstenen format (logo ve grup başlığı ile)
-            extinf_line = f'#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:{channel_name}" tvg-logo="{logo_url}" group-title="Telegram @playtvmedya",TR:{channel_name}'
+            extinf_line = f'#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:{channel_name}" tvg-logo="{logo_url}" group-title="TRGOALS Telegram @playtvmedya",TR:{channel_name}'
 
             # 1. Ayrı M3U dosyası için içerik
             # Orijinal betikteki gibi stream info satırını da ekleyelim
