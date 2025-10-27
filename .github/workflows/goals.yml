@@ -1,0 +1,40 @@
+name: PyGoals M3U8 Link Güncelleyici
+
+on:
+  schedule:
+    # Orijinal dosyanızdaki gibi her 5 dakikada bir çalışır
+    - cron: '*/5 * * * *'
+  workflow_dispatch: # Manuel çalıştırma butonu
+
+jobs:
+  build-and-commit:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Depoyu Klonla (Checkout)
+        uses: actions/checkout@v4
+
+      - name: Python 3.10 Kur
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Gerekli Python Paketlerini Kur
+        run: pip install requests
+
+      - name: Python Betiğini Çalıştır (goals.py)
+        run: python goals.py
+
+      - name: Değişiklikleri Commit'le ve Push'la
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          
+          # Sadece 'channels_files' klasöründeki .m3u8 dosyalarını ekle
+          # Bu, hem toplu listeyi hem de ayrı dosyaları kapsar.
+          git add channels_files/*.m3u8
+          
+          # Değişiklik varsa commit at, yoksa "No changes" yazdır
+          git commit -m "Auto-update m3u8 files" || echo "No changes to commit"
+          
+          git push
