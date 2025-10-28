@@ -1,13 +1,18 @@
-Name: İSTPLAY M3U Listesini Oluştur ve Güncelle
+name: İSTPLAY M3U Listesini Oluştur ve Güncelle
 
 on:
   workflow_dispatch: # Manuel olarak tetikleme
   schedule:
-    - cron: '0 */6 * * *' # 6 saatte bir otomatik çalıştır
+    - cron: '*/30 * * * *' # 30 dakikada bir otomatik çalıştır
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # Adım: Depoya yazma izni ver
+    # Bu, 'git push' adımının başarılı olması için gereklidir.
+    permissions:
+      contents: write
 
     steps:
       # 1. Adım: Depodaki kodları (stplay.py ve requirements.txt) runner'a indir
@@ -21,12 +26,16 @@ jobs:
           python-version: '3.10'
           cache: 'pip' # pip önbelleğini kullanarak kurulumları hızlandır
 
-      # 3. Adım: Gerekli Python kütüphanelerini kur (HATANIN ÇÖZÜMÜ)
+      # 3. Adım: Gerekli Python kütüphanelerini kur
       # Burası requirements.txt dosyasını okur ve (requests, zstandard, beautifulsoup4) kurar.
       - name: Gerekli Kütüphaneleri Kur
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            echo "requirements.txt bulunamadı, kurulum atlanıyor."
+          fi
       
       # 4. Adım: Python betiğini çalıştırarak M3U dosyasını oluştur
       - name: M3U Listesini Oluştur
@@ -48,4 +57,3 @@ jobs:
           else
             echo "Değişiklik bulunamadı, commit atılmadı."
           fi
-
