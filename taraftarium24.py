@@ -66,7 +66,7 @@ def extract_base_m3u8_url(page, event_url):
         print(f"-> ❌ Event sayfası işlenirken hata oluştu: {e}")
         return None
 
-# --- TEKRAR GÜNCELLENEN FONKSİYON: Tüm Kanal Listesini Kazıma (YİNELENENLERE İZİN VER) ---
+# --- Tüm Kanal Listesini Kazıma Fonksiyonu (DEĞİŞİKLİK YOK) ---
 def scrape_all_channels(page):
     """
     Taraftarium ana sayfasında JS'in yüklenmesini bekler ve TÜM kanalların
@@ -97,7 +97,6 @@ def scrape_all_channels(page):
         channel_elements = page.query_selector_all(mac_item_selector)
         print(f"-> {len(channel_elements)} adet potensiye kanal elemanı bulundu.")
 
-        # --- DEĞİŞİKLİK: processed_ids ve filtreleme kaldırıldı ---
         for element in channel_elements:
             name_element = element.query_selector(".takimlar")
             channel_name = name_element.inner_text().strip() if name_element else "İsimsiz Kanal"
@@ -126,7 +125,6 @@ def scrape_all_channels(page):
                     'name': final_channel_name,
                     'id': stream_id
                 })
-        # --- DEĞİŞİKLİK BİTTİ ---
 
         # Kanalları isme göre sırala (isteğe bağlı)
         channels.sort(key=lambda x: x['name'])
@@ -138,7 +136,7 @@ def scrape_all_channels(page):
         print(f"❌ Kanal listesi işlenirken hata oluştu: {e}")
         return []
 
-# --- Gruplama Fonksiyonu (Güncellendi: Daha fazla anahtar kelime) ---
+# --- Gruplama Fonksiyonu (DEĞİŞİKLİK YOK) ---
 def get_channel_group(channel_name):
     channel_name_lower = channel_name.lower()
     group_mappings = {
@@ -198,7 +196,7 @@ def main():
             sys.exit(1)
 
         m3u_content = []
-        output_filename = "taraftarium24_kanallar.m3u8"
+        output_filename = "taraftarium24_kanallar_proxy.m3u8" # Dosya adı güncellendi
         print(f"\n📺 {len(channels)} kanal için M3U8 linkleri oluşturuluyor...")
         created = 0
 
@@ -207,6 +205,9 @@ def main():
 
         m3u_header_lines = [
             "#EXTM3U",
+            # Bu başlıklar proxy ile kullanıldığında sorun çıkarabilir,
+            # ancak orijinal kodda olduğu için bırakıyorum.
+            # Gerekirse yorum satırı yapılabilirler.
             f"#EXT-X-USER-AGENT:{USER_AGENT}",
             f"#EXT-X-REFERER:{player_referer}",
             f"#EXT-X-ORIGIN:{player_origin_host}"
@@ -215,13 +216,14 @@ def main():
         for i, channel_info in enumerate(channels, 1):
             channel_name = channel_info['name']
             stream_id = channel_info['id']
-            # Gruplamayı ID'ye göre değil, isme göre yapalım
             group_name = get_channel_group(channel_name)
 
-            m3u8_link = f"{base_m3u8_url}{stream_id}.m3u8"
-
-            # Konsola yazdırmayı azaltalım, sadece başarılı/başarısız yazsın
-            # print(f"[{i}/{len(channels)}] {channel_name} (ID: {stream_id}, Grup: {group_name}) -> {m3u8_link}")
+            # --- İSTENEN DEĞİŞİKLİK ---
+            # Orijinal M3U8 linki oluştur
+            original_m3u8_link = f"{base_m3u8_url}{stream_id}.m3u8"
+            # Proxy önekini ekle
+            m3u8_link = f"https://api.codetabs.com/v1/proxy/?quest={original_m3u8_link}"
+            # --- DEĞİŞİKLİK SONU ---
 
             m3u_content.append(f'#EXTINF:-1 tvg-name="{channel_name}" group-title="{group_name}",{channel_name}')
             m3u_content.append(m3u8_link)
