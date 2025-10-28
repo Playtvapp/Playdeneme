@@ -1,4 +1,4 @@
-name: M3U Listesini Oluştur ve Güncelle
+name: İSTPLAY M3U Listesini Oluştur ve Güncelle
 
 on:
   workflow_dispatch: # Manuel olarak tetikleme
