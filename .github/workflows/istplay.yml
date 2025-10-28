@@ -3,7 +3,7 @@ Name: İSTPLAY M3U Listesini Oluştur ve Güncelle
 on:
   workflow_dispatch: # Manuel olarak tetikleme
   schedule:
-    - cron: '0 */30 * * *' # 30 saatte bir otomatik çalıştır
+    - cron: '0 */6 * * *' # 6 saatte bir otomatik çalıştır
 
 jobs:
   build:
@@ -48,3 +48,4 @@ jobs:
           else
             echo "Değişiklik bulunamadı, commit atılmadı."
           fi
+
