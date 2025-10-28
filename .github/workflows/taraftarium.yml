@@ -1,4 +1,4 @@
-name: taraftarium24 fayli Links
+Name: taraftarium24 fayli Links
 
 on:
   schedule:
@@ -20,12 +20,10 @@ jobs:
         with:
           python-version: '3.10'
 
-      # DEĞİŞİKLİK 1: Gerekli kütüphaneler kuruluyor (artık playwright kullanıyoruz)
       - name: Install Python dependencies
         run: |
           pip install playwright
 
-      # DEĞİŞİKLİK 2: Playwright'ın kontrol edeceği Chromium tarayıcısı kuruluyor
       - name: Install Playwright browsers
         run: |
           playwright install chromium
@@ -42,5 +40,12 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Auto-update m3u8 files"
+            
+            # --- HATA ÇÖZÜMÜ ---
+            # 'git push' yapmadan önce sunucudaki olası yeni değişiklikleri
+            # 'rebase' moduyla al. Bu, "fetch first" hatasını çözer.
+            git pull --rebase
+            # --- ÇÖZÜM SONU ---
+            
             git push
           fi
