@@ -24,7 +24,7 @@ def decompress_content_istplay(response):
 def get_m3u8_istplay(stream_id, headers):
     """Verilen stream_id için m3u8 linkini çeker."""
     try:
-        url = f"https://istplay.xyz/tv/?stream_id={stream_id}"
+        url = f"https://api.istplay.xyz/stream-list-v2/?tv=tv/?stream_id={stream_id}"
         response = requests.get(url, headers=headers, timeout=10)
         data = decompress_content_istplay(response)
         html_text = data.decode("utf-8", errors="replace")
