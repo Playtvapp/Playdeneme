@@ -1,5 +1,5 @@
 # Workflow'un adı
-name: TÜRKÇE M3U Playlist Güncelleyici
+name: M3U Playlist Güncelleyici
 
 on:
   # 1. Workflow'u manuel olarak çalıştırmak için (GitHub arayüzünden)
@@ -37,9 +37,16 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests
 
-      # Adım 4: Python script'ini çalıştır (Bu, turkey_first_playlist.m3u dosyasını oluşturacak)
+      # Adım 4: Python script'ini çalıştır (Bu, turkey_first_playlist.m3u dosyasını oluşturmalı)
       - name: Playlist İşleyici Script'ini Çalıştır
         run: python translate_playlist.py
+
+      # YENİ HATA AYIKLAMA ADIMI:
+      # Python script'i çalıştıktan sonra dosyanın gerçekten oluşturulup oluşturulmadığını kontrol et
+      - name: Dosyaları Listele (Hata Ayıklama)
+        run: |
+          echo "Script çalıştıktan sonraki dosya listesi:"
+          ls -l
 
       # Adım 5: Oluşturulan dosyayı depoya commit'le ve push'la
       - name: Değişiklikleri Kaydet (Commit & Push)
@@ -52,13 +59,10 @@ jobs:
           git add turkey_first_playlist.m3u
 
           # Değişiklik olup olmadığını kontrol et.
-          # Eğer dosya değişmediyse boş commit atmamak için kontrol ediyoruz.
           if ! git diff --staged --quiet; then
-            # Değişiklik varsa
             echo "Değişiklikler algılandı, commit atılıyor..."
             git commit -m "Otomatik M3U playlist güncellemesi"
             git push
           else
-            # Değişiklik yoksa
             echo "Playlist'te değişiklik yok. Commit atılmadı."
           fi
