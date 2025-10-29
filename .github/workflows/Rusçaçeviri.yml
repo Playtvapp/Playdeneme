@@ -1,0 +1,47 @@
+name: M3U Çeviri ve Güncelleme
+
+on:
+  # Manuel olarak "Run workflow" butonuyla çalıştırmayı sağlar
+  workflow_dispatch:
+  
+  # Zamanlanmış çalıştırma (Aşağıdaki örnek her gün 03:00 UTC'de çalışır)
+  schedule:
+    - cron: '0 3 * * *' # Saati dilediğiniz gibi değiştirebilirsiniz (UTC zaman dilimi)
+
+# İsteğiniz üzerine: İşin depoya yazma izni (contents: write)
+permissions:
+  contents: write
+
+jobs:
+  build-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Adım: Depodaki kodları çalışma alanına klonlar
+      - name: Depoyu Klonla
+        uses: actions/checkout@v4
+
+      # 2. Adım: Python 3.10 kurulumu yapar
+      - name: Python Kurulumu
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      # 3. Adım: Gerekli Python kütüphanelerini yükler
+      - name: Bağımlılıkları Yükle
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests deep-translator
+
+      # 4. Adım: Python script'ini çalıştırır (playlist_tr.m3u dosyasını oluşturur)
+      - name: Çeviri Script'ini Çalıştır
+        run: python translate_playlist.py
+
+      # 5. Adım: Dosyalarda değişiklik varsa otomatik olarak commit atar
+      - name: Değişiklikleri Depoya Kaydet (Commit)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Oto: M3U listesi Türkçeye çevrildi ve güncellendi'
+          file_pattern: 'playlist_tr.m3u' # Sadece bu dosyadaki değişiklikleri dikkate al
+          commit_user_name: 'github-actions[bot]' # Commit atan botun adı
+          commit_user_email: 'github-actions[bot]@users.noreply.github.com' # Commit atan botun e-postası
