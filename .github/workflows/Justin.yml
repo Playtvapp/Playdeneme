@@ -1,0 +1,72 @@
+# Bu dosya, GitHub deponuzda .github/workflows/scrape_channels.yml
+# olarak adlandırılmalıdır.
+
+name: Justin TV Kanal Listesi Güncelleyici
+
+on:
+  # 1. Manuel olarak çalıştırma izni (Actions sekmesinden)
+  workflow_dispatch:
+
+  # 2. Zamanlanmış görev (Her 6 saatte bir)
+  # (Cron formatı: dakika saat gün ay haftanın_günü)
+  schedule:
+    - cron: '0 */6 * * *'
+
+# GÖREV İZİNLERİ: Bu bölüm, "depoya yazma izni" için KRİTİKTİR.
+permissions:
+  contents: write # Workflow'un depoya commit atabilmesi (git push) için izin verir.
+
+jobs:
+  scrape-and-commit:
+    runs-on: ubuntu-latest # Görevin çalışacağı sanal makine
+
+    steps:
+      # 1. Adım: Depodaki kodları sanal makineye kopyalar
+      - name: Depoyu Kopyala (Checkout)
+        uses: actions/checkout@v4
+
+      # 2. Adım: Python 3.11'i kurar
+      - name: Python'ı Kur (3.11)
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # 3. Adım: Playwright kütüphanesini kurar
+      - name: Gereksinimleri Yükle (Playwright)
+        run: |
+          pip install playwright
+
+      # 4. Adım: Playwright'ın çalışması için gerekli tarayıcıları kurar
+      # Bu adım olmadan Playwright hata verir.
+      - name: Playwright Tarayıcılarını Kur
+        run: |
+          playwright install --with-deps
+
+      # 5. Adım: Esas Python betiğimizi çalıştırır
+      # Betik adı justintv_proxy_scraper.py olarak varsayılmıştır.
+      - name: Justin TV Scraper Betiğini Çalıştır
+        run: |
+          python justintv_proxy_scraper.py
+
+      # 6. Adım: Oluşturulan dosyayı depoya commit'ler ve push'lar
+      - name: Değişiklikleri Depoya Commit'le ve Push'la
+        run: |
+          # Git için bot kimliğini ayarla
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Betiğin oluşturduğu dosyayı git'e ekle
+          # Dosya adının betiğinizdeki 'output_filename' ile aynı olduğundan emin olun
+          git add justintv_proxy_kanallar.m3u8
+          
+          # Değişiklik olup olmadığını kontrol et
+          # Eğer dosya değişmediyse boş commit atmaz
+          if git diff --staged --quiet; then
+            echo "Kanal listesinde değişiklik yok, commit atılmayacak."
+          else
+            echo "Kanal listesinde değişiklikler bulundu, commit atılıyor..."
+            # Değişiklikleri commit'le
+            git commit -m "Otomatik Güncelleme: Justin TV Kanal Listesi" -m "Bu commit GitHub Actions tarafından otomatik olarak oluşturulmuştur."
+            # Değişiklikleri ana dala (main veya master) push'la
+            git push
+          fi
