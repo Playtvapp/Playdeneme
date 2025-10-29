@@ -1,0 +1,30 @@
+[
+  {
+    "name": "TRT 1 (Doğrudan Link)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_1_logo_2021.svg/1200px-TRT_1_logo_2021.svg.png",
+    "category": "Ulusal",
+    "source": "direct",
+    "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8"
+  },
+  {
+    "name": "A Haber (Doğrudan Link)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/A_Haber_logo.svg/640px-A_Haber_logo.svg.png",
+    "category": "Haber",
+    "source": "direct",
+    "url": "https://trkvz-live.ercdn.net/ahaber/playlist.m3u8"
+  },
+  {
+    "name": "Euronews (YouTube Canlı)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Euronews_logo_2022.svg/1200px-Euronews_logo_2022.svg.png",
+    "category": "Haber (YT)",
+    "source": "youtube",
+    "url": "https://www.youtube.com/c/euronewsturkce/live"
+  },
+  {
+    "name": "TRT World (YouTube Canlı)",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TRT_World_logo.svg/1024px-TRT_World_logo.svg.png",
+    "category": "Haber (YT)",
+    "source": "youtube",
+    "url": "https://www.youtube.com/c/TRTWorld/live"
+  }
+]
