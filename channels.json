@@ -14,17 +14,17 @@
     "url": "https://trkvz-live.ercdn.net/ahaber/playlist.m3u8"
   },
   {
-    "name": "Euronews (YouTube Canlı)",
+    "name": "Euronews (YouTube Kanal)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Euronews_logo_2022.svg/1200px-Euronews_logo_2022.svg.png",
     "category": "Haber (YT)",
     "source": "youtube",
-    "url": "https://www.youtube.com/c/euronewsturkce/live"
+    "url": "https://www.youtube.com/@euronewsturkce"
   },
   {
-    "name": "TRT World (YouTube Canlı)",
+    "name": "Güldür Güldür (YouTube Kanal)",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TRT_World_logo.svg/1024px-TRT_World_logo.svg.png",
     "category": "Haber (YT)",
     "source": "youtube",
-    "url": "https://www.youtube.com/live/jNMe50AHZMc?si=XFSn6ixanzvuAhp8"
+    "url": "https://youtube.com/@guldurguldurtv"
   }
 ]
