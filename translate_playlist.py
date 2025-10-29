@@ -21,22 +21,22 @@ def fetch_playlist(url):
         response = requests.get(url, timeout=10)
         # Hata durumunda (4xx veya 5xx) exception fırlat
         response.raise_for_status()
-        
+
         # İçeriğin metin olup olmadığını kontrol et
         if 'text' not in response.headers.get('Content-Type', ''):
             print(f"Hata: URL bir metin dosyası döndürmedi. Content-Type: {response.headers.get('Content-Type')}", file=sys.stderr)
             return None
-            
+
         content = response.text
-        
+
         # İçeriğin geçerli bir M3U olup olmadığını kontrol et
         if not content.strip().startswith("#EXTM3U"):
             print("Hata: İndirilen içerik geçerli bir M3U dosyası değil (Başlıkta #EXTM3U yok).", file=sys.stderr)
             return None
-            
+
         print("Playlist başarıyla indirildi.")
         return content
-        
+
     except requests.exceptions.RequestException as e:
         print(f"Hata: Playlist indirilemedi. {e}", file=sys.stderr)
         return None
@@ -46,31 +46,31 @@ def process_playlist(content):
     M3U içeriğini işleyerek belirtilen grubu yeniden adlandırır ve başa taşır.
     """
     print(f"'{TARGET_GROUP_ORIGINAL}' grubu işleniyor...")
-    
+
     lines = content.splitlines()
-    
+
     if not lines:
         print("Hata: Playlist boş.", file=sys.stderr)
         return None
-        
+
     # Başlık satırını ayır
     header_line = [lines[0]]
     # Hedef (Türkiye) ve diğer kanallar için ayrı listeler oluştur
     turkey_channels = []
     other_channels = []
-    
+
     i = 1 # 0. satır başlık olduğu için 1'den başla
     while i < len(lines):
         line = lines[i].strip()
-        
+
         # Kanal bilgi satırı mı diye kontrol et (#EXTINF)
         if line.startswith("#EXTINF:"):
             extinf_line = line
-            
+
             # Grup başlığını bulmak için regex kullan
             group_match = re.search(r'group-title="([^"]+)"', extinf_line)
             current_group = group_match.group(1) if group_match else ""
-            
+
             # Bir sonraki satırın URL olduğunu varsay
             url_line = ""
             if i + 1 < len(lines) and not lines[i+1].strip().startswith("#"):
@@ -100,15 +100,15 @@ def process_playlist(content):
                 other_channels.append(extinf_line)
                 if url_line:
                     other_channels.append(url_line)
-            
+
             i += lines_to_advance
-            
+
         else:
             # #EXTINF ile başlamayan diğer satırlar (örn. #EXTGRP veya boş satırlar)
             if line: # Boş satırları atla
                 other_channels.append(line)
             i += 1
-            
+
     if not turkey_channels:
         print(f"Uyarı: '{TARGET_GROUP_ORIGINAL}' adında bir grup bulunamadı.")
     else:
@@ -116,7 +116,7 @@ def process_playlist(content):
 
     # Son listeyi birleştir: Başlık + Türkiye Kanalları + Diğer Kanallar
     final_lines = header_line + turkey_channels + other_channels
-    
+
     # Satırları birleştirerek tek bir metin oluştur
     return "\n".join(final_lines)
 
