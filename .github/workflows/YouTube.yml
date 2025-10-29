@@ -12,10 +12,8 @@ on:
   # 2. Manuel olarak çalıştırma (Actions sekmesindeki "Run workflow" butonu)
   workflow_dispatch:
 
-  # 3. YENİ: Zamanlanmış Görev (SCHEDULE)
-  # Bu, cron formatıdır: (dakika saat gün ay hafta)
-  # '0 */6 * * *' = "Her 6 saatte bir, saat 0. dakikada"
-  # Bu, eskiyen YouTube linklerini otomatik olarak yenileyecektir.
+  # 3. Zamanlanmış Görev (SCHEDULE)
+  # Her 6 saatte bir çalışarak YouTube linklerini taze tutar
   schedule:
     - cron: '0 */6 * * *'
 
@@ -34,7 +32,7 @@ jobs:
         with:
           python-version: '3.10'
 
-      # Adım 3: YENİ - yt-dlp aracını kur
+      # Adım 3: yt-dlp aracını kur
       - name: yt-dlp Kurulumu
         run: |
           pip install yt-dlp
@@ -44,13 +42,20 @@ jobs:
         run: |
           python build_m3u.py
           
-      # Adım 5: Oluşan playlist.m3u dosyasını depoya geri kaydet (Commit)
-      # (Sadece bir değişiklik varsa commit atar)
-      - name: Değişiklikleri Depoya Kaydet (Commit)
-        uses: stefanzweiger/git-auto-commit-action@v5
+      # Adım 5: YENİ DÜZELTİLMİŞ COMMIT ADIMI
+      # Oluşan playlist.m3u dosyasını depoya geri kaydet (Commit)
+      - name: Değişiklikleri Depoya Kaydet (Add & Commit)
+        uses: EndBug/add-and-commit@v9 # Hata veren eylem yerine bunu kullanıyoruz
         with:
-          commit_message: "Otomatik: playlist.m3u (YT linkleri) güncellendi"
-          file_pattern: "playlist.m3u"
-          commit_user_name: "GitHub Actions Bot"
-          commit_user_email: "actions@github.com"
-          commit_author: "GitHub Actions Bot <actions@github.com>"
+          # Eklenecek dosya(lar). Sadece 'playlist.m3u'yu izle.
+          add: 'playlist.m3u'
+          
+          # Commit atacak bot'un adı ve e-postası
+          author_name: GitHub Actions Bot
+          author_email: actions@github.com
+          
+          # Commit mesajı
+          message: 'Otomatik: playlist.m3u (YT linkleri) güncellendi'
+          
+          # 'add' ile bulunan bir değişiklik yoksa boş commit atma
+          default_author: github_actions
