@@ -1,47 +1,64 @@
-name: RUSÇA M3U Çeviri ve Güncelleme
+# Workflow'un adı
+name: TÜRKÇE M3U Playlist Güncelleyici
 
 on:
-  # Manuel olarak "Run workflow" butonuyla çalıştırmayı sağlar
+  # 1. Workflow'u manuel olarak çalıştırmak için (GitHub arayüzünden)
   workflow_dispatch:
-  
-  # Zamanlanmış çalıştırma (Aşağıdaki örnek her gün 03:00 UTC'de çalışır)
-  schedule:
-    - cron: '0 3 * * *' # Saati dilediğiniz gibi değiştirebilirsiniz (UTC zaman dilimi)
 
-# İsteğiniz üzerine: İşin depoya yazma izni (contents: write)
-permissions:
-  contents: write
+  # 2. Her gün 03:00 UTC'de (Türkiye saati ile sabah 6) otomatik çalıştır
+  schedule:
+    - cron: '0 3 * * *'
 
 jobs:
-  build-and-commit:
+  update-playlist:
+    # Job'un adı
+    name: Playlist'i İndir ve Güncelle
+    # Çalışacağı işletim sistemi
     runs-on: ubuntu-latest
 
+    # GEREKLİ: Bu job'a depoya yazma (commit/push) izni ver
+    permissions:
+      contents: write
+
     steps:
-      # 1. Adım: Depodaki kodları çalışma alanına klonlar
-      - name: Depoyu Klonla
+      # Adım 1: Depodaki kodları (Python script'i dahil) indir
+      - name: Depoyu Klonla (Checkout)
         uses: actions/checkout@v4
 
-      # 2. Adım: Python 3.10 kurulumu yapar
-      - name: Python Kurulumu
+      # Adım 2: Python 3.x ortamını kur
+      - name: Python 3.x Kur
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.10' # Python versiyonunu belirleyebilirsiniz
 
-      # 3. Adım: Gerekli Python kütüphanelerini yükler
+      # Adım 3: Gerekli Python kütüphanelerini (requests) yükle
       - name: Bağımlılıkları Yükle
         run: |
           python -m pip install --upgrade pip
-          pip install requests deep-translator
+          pip install requests
 
-      # 4. Adım: Python script'ini çalıştırır (playlist_tr.m3u dosyasını oluşturur)
-      - name: Çeviri Script'ini Çalıştır
+      # Adım 4: Python script'ini çalıştır (Bu, turkey_first_playlist.m3u dosyasını oluşturacak)
+      - name: Playlist İşleyici Script'ini Çalıştır
         run: python translate_playlist.py
 
-      # 5. Adım: Dosyalarda değişiklik varsa otomatik olarak commit atar
-      - name: Değişiklikleri Depoya Kaydet (Commit)
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: 'Oto: M3U listesi Türkçeye çevrildi ve güncellendi'
-          file_pattern: 'playlist_tr.m3u' # Sadece bu dosyadaki değişiklikleri dikkate al
-          commit_user_name: 'github-actions[bot]' # Commit atan botun adı
-          commit_user_email: 'github-actions[bot]@users.noreply.github.com' # Commit atan botun e-postası
+      # Adım 5: Oluşturulan dosyayı depoya commit'le ve push'la
+      - name: Değişiklikleri Kaydet (Commit & Push)
+        run: |
+          # Git için bot kimliğini ayarla
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+          # Sadece 'turkey_first_playlist.m3u' dosyasını ekle
+          git add turkey_first_playlist.m3u
+
+          # Değişiklik olup olmadığını kontrol et.
+          # Eğer dosya değişmediyse boş commit atmamak için kontrol ediyoruz.
+          if ! git diff --staged --quiet; then
+            # Değişiklik varsa
+            echo "Değişiklikler algılandı, commit atılıyor..."
+            git commit -m "Otomatik M3U playlist güncellemesi"
+            git push
+          else
+            # Değişiklik yoksa
+            echo "Playlist'te değişiklik yok. Commit atılmadı."
+          fi
