@@ -1,115 +1,141 @@
 import requests
 import re
-import time
-from deep_translator import GoogleTranslator
+import sys
 
-# Çevrilecek M3U listesinin URL'si
-M3U_URL = "https://play-x.ru/playlist.php?token=cBzBp"
+# İşlenecek M3U playlist'in URL'si
+SOURCE_URL = "https://play-x.ru/playlist.php?token=cBzBp"
+
+# Bulunacak orijinal grup adı
+TARGET_GROUP_ORIGINAL = "ТУРЦИЯ(231)"
+# Gruba verilecek yeni ad
+TARGET_GROUP_NEW = "TÜRKİYE"
 
 # Çıktı dosyasının adı
-OUTPUT_FILE = "playlist_tr.m3u"
+OUTPUT_FILE = "turkey_first_playlist.m3u"
 
-# Çeviri için önbellek (API'ye aynı isteği tekrar tekrar atmamak için)
-# Bu, "Новости" gibi bir kategoriyi 100 kere çevirmeye çalışmasını engeller.
-translation_cache = {}
-
-def translate_text(text):
-    """
-    Metni Rusça'dan Türkçe'ye çevirir ve önbelleğe alır.
-    """
-    if text in translation_cache:
-        return translation_cache[text]
-    
-    # Metin boşsa veya sadece boşluk içeriyorsa çeviri yapma
-    if not text or text.isspace():
-        return text
-
+def fetch_playlist(url):
+    """Verilen URL'den playlist içeriğini indirir."""
+    print(f"Playlist indiriliyor: {url}")
     try:
-        # API limitlerine takılmamak için her çeviri arasında kısa bir bekleme
-        time.sleep(0.1) 
+        # 10 saniye zaman aşımı ile GET isteği
+        response = requests.get(url, timeout=10)
+        # Hata durumunda (4xx veya 5xx) exception fırlat
+        response.raise_for_status()
         
-        translated = GoogleTranslator(source='ru', target='tr').translate(text)
+        # İçeriğin metin olup olmadığını kontrol et
+        if 'text' not in response.headers.get('Content-Type', ''):
+            print(f"Hata: URL bir metin dosyası döndürmedi. Content-Type: {response.headers.get('Content-Type')}", file=sys.stderr)
+            return None
+            
+        content = response.text
         
-        if translated:
-            print(f"Çevrildi: '{text}' -> '{translated}'")
-            translation_cache[text] = translated
-            return translated
+        # İçeriğin geçerli bir M3U olup olmadığını kontrol et
+        if not content.strip().startswith("#EXTM3U"):
+            print("Hata: İndirilen içerik geçerli bir M3U dosyası değil (Başlıkta #EXTM3U yok).", file=sys.stderr)
+            return None
+            
+        print("Playlist başarıyla indirildi.")
+        return content
+        
+    except requests.exceptions.RequestException as e:
+        print(f"Hata: Playlist indirilemedi. {e}", file=sys.stderr)
+        return None
+
+def process_playlist(content):
+    """
+    M3U içeriğini işleyerek belirtilen grubu yeniden adlandırır ve başa taşır.
+    """
+    print(f"'{TARGET_GROUP_ORIGINAL}' grubu işleniyor...")
+    
+    lines = content.splitlines()
+    
+    if not lines:
+        print("Hata: Playlist boş.", file=sys.stderr)
+        return None
+        
+    # Başlık satırını ayır
+    header_line = [lines[0]]
+    # Hedef (Türkiye) ve diğer kanallar için ayrı listeler oluştur
+    turkey_channels = []
+    other_channels = []
+    
+    i = 1 # 0. satır başlık olduğu için 1'den başla
+    while i < len(lines):
+        line = lines[i].strip()
+        
+        # Kanal bilgi satırı mı diye kontrol et (#EXTINF)
+        if line.startswith("#EXTINF:"):
+            extinf_line = line
+            
+            # Grup başlığını bulmak için regex kullan
+            group_match = re.search(r'group-title="([^"]+)"', extinf_line)
+            current_group = group_match.group(1) if group_match else ""
+            
+            # Bir sonraki satırın URL olduğunu varsay
+            url_line = ""
+            if i + 1 < len(lines) and not lines[i+1].strip().startswith("#"):
+                # URL satırı var
+                url_line = lines[i+1].strip()
+                lines_to_advance = 2 # 2 satır atla (EXTINF + URL)
+            else:
+                # Hatalı giriş (URL yok veya bir sonraki satır da # ile başlıyor)
+                url_line = None
+                lines_to_advance = 1 # Sadece 1 satır atla
+
+            # Grubun hedef grup olup olmadığını kontrol et
+            if current_group == TARGET_GROUP_ORIGINAL:
+                # Evet, hedef grup.
+                # Grup adını değiştir
+                modified_extinf = extinf_line.replace(
+                    f'group-title="{TARGET_GROUP_ORIGINAL}"', 
+                    f'group-title="{TARGET_GROUP_NEW}"'
+                )
+                # Türkiye listesine ekle
+                turkey_channels.append(modified_extinf)
+                if url_line:
+                    turkey_channels.append(url_line)
+            else:
+                # Hayır, başka bir grup.
+                # Diğer kanallar listesine ekle
+                other_channels.append(extinf_line)
+                if url_line:
+                    other_channels.append(url_line)
+            
+            i += lines_to_advance
+            
         else:
-            # Çeviri başarısız olursa orijinal metni koru
-            return text
+            # #EXTINF ile başlamayan diğer satırlar (örn. #EXTGRP veya boş satırlar)
+            if line: # Boş satırları atla
+                other_channels.append(line)
+            i += 1
             
-    except Exception as e:
-        print(f"Çeviri hatası: {e} - Orijinal metin kullanılıyor: {text}")
-        return text
+    if not turkey_channels:
+        print(f"Uyarı: '{TARGET_GROUP_ORIGINAL}' adında bir grup bulunamadı.")
+    else:
+        print(f"'{TARGET_GROUP_ORIGINAL}' grubu bulundu, '{TARGET_GROUP_NEW}' olarak yeniden adlandırıldı ve başa taşındı.")
 
-def process_m3u():
-    """
-    M3U listesini indirir, işler, çevirir ve yeni dosyayı kaydeder.
-    """
-    print(f"M3U listesi indiriliyor: {M3U_URL}")
+    # Son listeyi birleştir: Başlık + Türkiye Kanalları + Diğer Kanallar
+    final_lines = header_line + turkey_channels + other_channels
+    
+    # Satırları birleştirerek tek bir metin oluştur
+    return "\n".join(final_lines)
+
+def save_playlist(content, filename):
+    """İşlenmiş içeriği bir dosyaya kaydeder."""
     try:
-        response = requests.get(M3U_URL, timeout=10)
-        response.raise_for_status() # HTTP hatası varsa programı durdur
-        lines = response.text.splitlines()
-        print("Liste başarıyla indirildi.")
-    except requests.RequestException as e:
-        print(f"URL indirilemedi: {e}")
-        return
-
-    new_m3u_content = []
-    
-    # Gerekli Regex kalıpları
-    group_title_re = re.compile(r'group-title="([^"]*)"')
-    channel_name_re = re.compile(r',(.+)$') # Satırın sonundaki kanal adı (virgülden sonra)
-
-    print("Liste işleniyor ve çevriliyor... (Bu işlem listenin uzunluğuna göre uzun sürebilir)")
-    
-    for line in lines:
-        line = line.strip()
-        
-        if line.startswith("#EXTM3U"):
-            new_m3u_content.append(line)
-            continue
-        
-        if line.startswith("#EXTINF"):
-            new_line = line
-            
-            # 1. Kategori Başlığını (group-title) bul ve çevir
-            group_match = group_title_re.search(line)
-            if group_match:
-                original_group = group_match.group(1)
-                translated_group = translate_text(original_group)
-                # Orijinal başlığı yenisiyle değiştir
-                new_line = new_line.replace(f'group-title="{original_group}"', f'group-title="{translated_group}"')
-            
-            # 2. Kanal Adını (virgülden sonraki kısım) bul ve çevir
-            name_match = channel_name_re.search(line)
-            if name_match:
-                original_name = name_match.group(1)
-                translated_name = translate_text(original_name)
-                # Satırın sadece son kısmını (kanal adını) değiştir
-                start_index = line.rfind(',') + 1
-                new_line = new_line[:start_index] + translated_name
-                
-            new_m3u_content.append(new_line)
-            
-        elif line.startswith("http") or line.startswith("rtmp"):
-            # Medya URL'si, olduğu gibi ekle
-            new_m3u_content.append(line)
-        else:
-            # Diğer etiketleri (varsa) olduğu gibi ekle
-            new_m3u_content.append(line)
-
-    print(f"Çeviri tamamlandı. {OUTPUT_FILE} dosyası oluşturuluyor.")
-    
-    # Yeni M3U dosyasını UTF-8 formatında yaz
-    try:
-        with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-            for item in new_m3u_content:
-                f.write(f"{item}\n")
-        print(f"İşlem başarıyla tamamlandı. Yeni liste '{OUTPUT_FILE}' olarak kaydedildi.")
+        with open(filename, 'w', encoding='utf-8') as f:
+            f.write(content)
+        print(f"Yeni playlist başarıyla '{filename}' dosyasına kaydedildi.")
     except IOError as e:
-        print(f"Dosya yazılamadı: {e}")
+        print(f"Hata: Dosya kaydedilemedi. {e}", file=sys.stderr)
+
+def main():
+    """Ana fonksiyon"""
+    content = fetch_playlist(SOURCE_URL)
+    if content:
+        processed_content = process_playlist(content)
+        if processed_content:
+            save_playlist(processed_content, OUTPUT_FILE)
 
 if __name__ == "__main__":
-    process_m3u()
+    main()
