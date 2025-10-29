@@ -16,9 +16,18 @@ OUTPUT_FILE = "turkey_first_playlist.m3u"
 def fetch_playlist(url):
     """Verilen URL'den playlist içeriğini indirir."""
     print(f"Playlist indiriliyor: {url}")
+    
+    # --- YENİ EKLENEN KISIM ---
+    # Sunucunun bizi engellememesi için tarayıcı gibi davranıyoruz (User-Agent)
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    }
+    # --- YENİ EKLENEN KISIM SONU ---
+
     try:
-        # 10 saniye zaman aşımı ile GET isteği
-        response = requests.get(url, timeout=10)
+        # 10 saniye zaman aşımı ve YENİ headers ile GET isteği
+        response = requests.get(url, timeout=10, headers=headers) # 'headers=headers' eklendi
+        
         # Hata durumunda (4xx veya 5xx) exception fırlat
         response.raise_for_status()
 
