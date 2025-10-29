@@ -1,0 +1,56 @@
+name: M3U Oluşturucu (YouTube Destekli)
+
+on:
+  # 1. "main" branch'ine bir "push" (kayıt) yapıldığında (dosyalar değişince)
+  push:
+    branches: [ "main", "master" ]
+    paths:
+      - 'channels.json'
+      - 'build_m3u.py'
+      - '.github/workflows/main.yml' # İş akışının kendisi değişirse
+      
+  # 2. Manuel olarak çalıştırma (Actions sekmesindeki "Run workflow" butonu)
+  workflow_dispatch:
+
+  # 3. YENİ: Zamanlanmış Görev (SCHEDULE)
+  # Bu, cron formatıdır: (dakika saat gün ay hafta)
+  # '0 */6 * * *' = "Her 6 saatte bir, saat 0. dakikada"
+  # Bu, eskiyen YouTube linklerini otomatik olarak yenileyecektir.
+  schedule:
+    - cron: '0 */6 * * *'
+
+jobs:
+  build-m3u-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Adım 1: Depodaki kodları (dosyaları) sanal makineye indir
+      - name: Depoyu Kopyala
+        uses: actions/checkout@v4
+
+      # Adım 2: Python 3.10 ortamını kur
+      - name: Python 3.10 Kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      # Adım 3: YENİ - yt-dlp aracını kur
+      - name: yt-dlp Kurulumu
+        run: |
+          pip install yt-dlp
+          
+      # Adım 4: M3U oluşturucu Python script'ini çalıştır
+      - name: M3U Listesini Oluştur
+        run: |
+          python build_m3u.py
+          
+      # Adım 5: Oluşan playlist.m3u dosyasını depoya geri kaydet (Commit)
+      # (Sadece bir değişiklik varsa commit atar)
+      - name: Değişiklikleri Depoya Kaydet (Commit)
+        uses: stefanzweiger/git-auto-commit-action@v5
+        with:
+          commit_message: "Otomatik: playlist.m3u (YT linkleri) güncellendi"
+          file_pattern: "playlist.m3u"
+          commit_user_name: "GitHub Actions Bot"
+          commit_user_email: "actions@github.com"
+          commit_author: "GitHub Actions Bot <actions@github.com>"
