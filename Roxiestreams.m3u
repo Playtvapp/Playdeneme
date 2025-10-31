@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Roxiestreams - Getafe vs Girona
-https://slucc.009292.xyz/deportes.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Roxiestreams - Augsburg vs Dortmund
 https://sluc.009292.xyz/bein.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Roxiestreams - Getafe vs Girona
+https://slucc.009292.xyz/deportes.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams",Roxiestreams - Los Angeles Dodgers vs Toronto Blue Jays
 https://tri.qiyarmedia.com/mlbalty.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams",Roxiestreams - Los Angeles Dodgers vs Toronto Blue Jays
-https://tri.qiyarmedia.com/mlbalt.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams",Roxiestreams - Los Angeles Dodgers vs Toronto Blue Jays
 https://tri.qiyarmedia.com/mlb.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams",Roxiestreams - Los Angeles Dodgers vs Toronto Blue Jays
+https://tri.qiyarmedia.com/mlbalt.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Baltimore Ravens vs Miami Dolphins
+https://tri.qiyarmedia.com/nflalt.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Baltimore Ravens vs Miami Dolphins
 https://tri.qiyarmedia.com/nfl.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Baltimore Ravens vs Miami Dolphins
 https://tri.qiyarmedia.com/nflalty.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Baltimore Ravens vs Miami Dolphins
-https://tri.qiyarmedia.com/nflalt.m3u8
