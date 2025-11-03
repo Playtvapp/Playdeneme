@@ -1,19 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Roxiestreams - Barcelona vs Elche
-https://surl.qiyarmedia.com/dep.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Roxiestreams - Real Oviedo vs Osauna
+https://surl.qiyarmedia.com/deportes.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Roxiestreams - Sunderland vs Everton
-https://surl.qiyarmedia.com/dep.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Roxiestreams - Milan vs Roma
-https://surl.qiyarmedia.com/tnt.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Roxiestreams - River Plate vs Gimnasia La Plata
-https://surl.qiyarmedia.com/tyc.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Roxiestreams - Deportivo AlavÃ©s vs Espanyol
-https://surl.qiyarmedia.com/dep.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Roxiestreams - Estudiantes vs Boca Juniors
-https://surl.qiyarmedia.com/tyc.m3u8
+https://simply.qiyarmedia.com/usa.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams",Roxiestreams - Los Angeles Dodgers vs Toronto Blue Jays
 https://s1.quantumaim.shop/mlb.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Roxiestreams - Lalga
-https://surl.qiyarmedia.com/dep.m3u8
+https://simply.qiyarmedia.com/usa.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Roxiestreams - Lalga
-https://surl.qiyarmedia.com/dep.m3u8
+https://simply.qiyarmedia.com/usa.m3u8
