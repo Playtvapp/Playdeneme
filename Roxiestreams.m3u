@@ -1,3 +1,15 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Roxiestreams - Seattle Sounders vs Minnesota
+https://simply.qiyarmedia.com/fs1.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" tvg-id="MLB.Baseball.Dummy.us" group-title="Roxiestreams",Roxiestreams - Los Angeles Dodgers vs Toronto Blue Jays
 https://s1.quantumaim.shop/mlb.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Maxx.png" tvg-id="Football.Dummy.us" group-title="Roxiestreams",Roxiestreams - Arizona Cardinals vs Dallas Cowboys
+https://simply.qiyarmedia.com/nfll.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Roxiestreams - Premier League
+https://simply.qiyarmedia.com/fs1.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Roxiestreams - Lalga
+https://simply.qiyarmedia.com/usa.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Roxiestreams - Lalga
+https://simply.qiyarmedia.com/usa.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Roxiestreams - Premier League
+https://simply.qiyarmedia.com/fs1.m3u8
