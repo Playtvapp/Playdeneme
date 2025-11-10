@@ -1,6 +1,10 @@
 import os
 import requests
 import re
+import xml.etree.ElementTree as ET
+
+# Eklendi: EPG dosyasının URL'si
+EPG_URL = "https://raw.githubusercontent.com/braveheart1983/tvg-macther/main/tr-epg.xml"
 
 # Domain aralığı (25–99)
 active_domain = None
@@ -35,7 +39,39 @@ if not b:
 base_url = b.group(1)
 print(f"Base URL: {base_url}")
 
-# Kanal listesi (tam siyahın saxlanıldı)
+# --- YENİ BÖLÜM: EPG Verilerini İndir ve İşle ---
+print(f"EPG verileri şuradan indiriliyor: {EPG_URL}")
+epg_map = {} # Kanal adını EPG ID'sine eşleştirmek için bir sözlük (dictionary)
+try:
+    epg_response = requests.get(EPG_URL, timeout=10)
+    epg_response.raise_for_status() # Bir HTTP hatası varsa hata fırlat
+    
+    # XML içeriğini ayrıştır
+    root = ET.fromstring(epg_response.content)
+    
+    # Tüm 'channel' etiketlerini bul
+    for channel in root.findall('channel'):
+        channel_id = channel.get('id') # Kanalın ID'si (örn: "beIN.Sport.1.HD")
+        display_name_element = channel.find('display-name') # 'display-name' etiketi
+        
+        if channel_id and display_name_element is not None:
+            display_name = display_name_element.text # Kanalın adı (örn: "beIN Sport 1 HD")
+            # Eşleştirme haritasını doldur: {"beIN Sport 1 HD": "beIN.Sport.1.HD"}
+            if display_name not in epg_map:
+                epg_map[display_name] = channel_id
+                
+    print(f"✅ {len(epg_map)} adet EPG kanalı eşleştirme için yüklendi.")
+
+except requests.exceptions.RequestException as e:
+    print(f"⚠️ EPG verisi indirilemedi: {e}")
+except ET.ParseError as e:
+    print(f"⚠️ EPG XML dosyası ayrıştırılamadı: {e}")
+except Exception as e:
+    print(f"⚠️ EPG işlenirken beklenmedik bir hata oluştu: {e}")
+# --- EPG BÖLÜMÜ SONU ---
+
+
+# Kanal listesi (Bu liste değişmedi)
 channels = [
     ("beIN Sport 1 HD","androstreamlivebs1","https://i.ibb.co/v61Yw2ds/v-QSm-JSfa-S2apqzv-Rwlp-X2-Q.webp"),
     ("beIN Sport 2 HD","androstreamlivebs2","https://i.ibb.co/v61Yw2ds/v-QSm-JSfa-S2apqzv-Rwlp-X2-Q.webp"),
@@ -79,25 +115,32 @@ channels = [
 proxy_prefix = "https://api.codetabs.com/v1/proxy/?quest="
 
 # ✅ Toplu M3U faylı (androiptv.m3u8)
-lines = ["#EXTM3U"]
+# GÜNCELLENDİ: #EXTM3U satırına EPG URL'si eklendi
+lines = [f'#EXTM3U x-tvg-url="{EPG_URL}"']
+
 for name, cid, logo in channels:
-    lines.append(f'#EXTINF:-1 tvg-id="sport.tr" tvg-name="TR:{name}" tvg-logo="{logo}" group-title="PLAY SPOR | Telegram @playtvmedya",TR:{name}')
-    # GÜNCELLENDİ: URL'nin başına proxy eklendi
+    # GÜNCELLENDİ: EPG ID'sini otomatık bul
+    # epg_map'te kanal adını ara. Bulursa, EPG ID'sini kullan (örn: "beIN.Sport.1.HD").
+    # Bulamazsa, varsayılan olarak kanal adını kullan (örn: "Tabii HD").
+    tvg_id = epg_map.get(name, name) 
+    
+    # GÜNCELLENDİ: tvg-id ve tvg-name dinamik olarak ayarlandı
+    lines.append(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{name}" tvg-logo="{logo}" group-title="PLAY SPOR | Telegram @playtvmedya",{name}')
+    
     full_url = f"{proxy_prefix}{base_url}{cid}.m3u8"
     lines.append(full_url)
 
 with open("androiptv.m3u8", "w", encoding="utf-8") as f:
     f.write("\n".join(lines))
 
-print("✅ androiptv.m3u8 faylı yaradıldı.")
+print("✅ androiptv.m3u8 faylı EPG entegrasyonu ile yaradıldı.")
 
-# ✅ Ayrı-ayrı .m3u8 faylları
+# ✅ Ayrı-ayrı .m3u8 faylları (Bu kısım EPG'den etkilenmez, olduğu gibi kalır)
 out_dir = "channels"
 os.makedirs(out_dir, exist_ok=True)
 
 for name, cid, logo in channels:
     file_name = name.replace(" ", "_").replace("/", "_") + ".m3u8"
-    # GÜNCELLENDİ: URL'nin başına proxy eklendi
     full_url = f"{proxy_prefix}{base_url}{cid}.m3u8"
 
     content = [
