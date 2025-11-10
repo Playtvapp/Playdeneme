@@ -3,7 +3,7 @@ import requests
 import re
 import xml.etree.ElementTree as ET
 
-# Eklendi: EPG dosyasının URL'si
+# EPG dosyasının URL'si
 EPG_URL = "https://raw.githubusercontent.com/braveheart1983/tvg-macther/main/tr-epg.xml"
 
 # Domain aralığı (25–99)
@@ -39,39 +39,33 @@ if not b:
 base_url = b.group(1)
 print(f"Base URL: {base_url}")
 
-# --- YENİ BÖLÜM: EPG Verilerini İndir ve İşle ---
+# --- EPG Verilerini İndir ve İşle ---
 print(f"EPG verileri şuradan indiriliyor: {EPG_URL}")
-epg_map = {} # Kanal adını EPG ID'sine eşleştirmek için bir sözlük (dictionary)
+# 1. Otomatik Eşleştirme Haritası (XML'deki display-name'e göre)
+epg_map_auto = {} 
 try:
     epg_response = requests.get(EPG_URL, timeout=10)
-    epg_response.raise_for_status() # Bir HTTP hatası varsa hata fırlat
+    epg_response.raise_for_status() 
     
-    # XML içeriğini ayrıştır
     root = ET.fromstring(epg_response.content)
     
-    # Tüm 'channel' etiketlerini bul
     for channel in root.findall('channel'):
-        channel_id = channel.get('id') # Kanalın ID'si (örn: "beIN.Sport.1.HD")
-        display_name_element = channel.find('display-name') # 'display-name' etiketi
+        channel_id = channel.get('id') 
+        display_name_element = channel.find('display-name')
         
         if channel_id and display_name_element is not None:
-            display_name = display_name_element.text # Kanalın adı (örn: "beIN Sport 1 HD")
-            # Eşleştirme haritasını doldur: {"beIN Sport 1 HD": "beIN.Sport.1.HD"}
-            if display_name not in epg_map:
-                epg_map[display_name] = channel_id
+            display_name = display_name_element.text
+            if display_name not in epg_map_auto:
+                epg_map_auto[display_name] = channel_id
                 
-    print(f"✅ {len(epg_map)} adet EPG kanalı eşleştirme için yüklendi.")
+    print(f"✅ {len(epg_map_auto)} adet EPG kanalı otomatik eşleştirme için yüklendi.")
 
-except requests.exceptions.RequestException as e:
-    print(f"⚠️ EPG verisi indirilemedi: {e}")
-except ET.ParseError as e:
-    print(f"⚠️ EPG XML dosyası ayrıştırılamadı: {e}")
 except Exception as e:
-    print(f"⚠️ EPG işlenirken beklenmedik bir hata oluştu: {e}")
+    print(f"⚠️ EPG verisi işlenirken hata oluştu: {e}")
 # --- EPG BÖLÜMÜ SONU ---
 
 
-# Kanal listesi (Bu liste değişmedi)
+# Kanal listesi
 channels = [
     ("beIN Sport 1 HD","androstreamlivebs1","https://i.ibb.co/v61Yw2ds/v-QSm-JSfa-S2apqzv-Rwlp-X2-Q.webp"),
     ("beIN Sport 2 HD","androstreamlivebs2","https://i.ibb.co/v61Yw2ds/v-QSm-JSfa-S2apqzv-Rwlp-X2-Q.webp"),
@@ -91,6 +85,8 @@ channels = [
     ("Smart Sport 2 HD","androstreamlivesm2","https://i.ibb.co/v61Yw2ds/v-QSm-JSfa-S2apqzv-Rwlp-X2-Q.webp"),
     ("Euro Sport 1 HD","androstreamlivees1","https://i.ibb.co/v61Yw2ds/v-QSm-JSfa-S2apqzv-Rwlp-X2-Q.webp"),
     ("Euro Sport 2 HD","androstreamlivees2","https://i.ibb.co/v61Yw2ds/v-QSm-JSfa-S2apqzv-Rwlp-X2-Q.webp"),
+    # Exxen ve Tabii kanalları EPG dosyasında bulunmuyor.
+    # Onlar için tvg-id, kanalın kendi adı olarak atanacak.
     ("Tabii HD","androstreamlivetb","https://i.ibb.co/v61Yw2ds/v-QSm-JSfa-S2apqzv-Rwlp-X2-Q.webp"),
     ("Tabii 1 HD","androstreamlivetb1","https://i.ibb.co/v61Yw2ds/v-QSm-JSfa-S2apqzv-Rwlp-X2-Q.webp"),
     ("Tabii 2 HD","androstreamlivetb2","https://i.ibb.co/v61Yw2ds/v-QSm-JSfa-S2apqzv-Rwlp-X2-Q.webp"),
@@ -111,20 +107,54 @@ channels = [
     ("Exxen 8 HD","androstreamliveexn8","https://i.ibb.co/v61Yw2ds/v-QSm-JSfa-S2apqzv-Rwlp-X2-Q.webp"),
 ]
 
+# --- YENİ BÖLÜM: Manuel EPG Eşleştirme Haritası ---
+# Script'teki 'name' ile EPG'deki 'id' arasında manuel eşleştirme.
+# Otomatik eşleştirme (epg_map_auto) "beIN Sport 1 HD" gibi birebir aynı olanları yakalar.
+# Bu manuel harita, "S Sport 1 HD" (script) -> "S Sport.tr" (EPG) gibi farklı olanları düzeltir.
+MANUAL_EPG_MAP = {
+    # Script Adı : EPG ID
+    "S Sport 1 HD"      : "S Sport.tr",
+    "S Sport 2 HD"      : "S Sport 2.tr",
+    "Tivibu Sport HD"   : "T.Sport.tr",
+    # Tivibu 1-4, EPG dosyasında bulunmuyor.
+    "Smart Sport 1 HD"  : "Smart Spor.tr",
+    "Smart Sport 2 HD"  : "Smart Spor 2.tr",
+    "Euro Sport 1 HD"   : "Eurosport 1.tr",
+    "Euro Sport 2 HD"   : "Eurosport 2.tr",
+    # beIN kanalları otomatik haritadan (epg_map_auto) doğru eşleşecektir.
+    # Exxen ve Tabii kanalları EPG'de bulunmadığı için varsayılan (isim) ID'sini alacaktır.
+}
+
+
 # Proxy URL
 proxy_prefix = "https://api.codetabs.com/v1/proxy/?quest="
 
 # ✅ Toplu M3U faylı (androiptv.m3u8)
-# GÜNCELLENDİ: #EXTM3U satırına EPG URL'si eklendi
 lines = [f'#EXTM3U x-tvg-url="{EPG_URL}"']
+eşleşen_sayisi = 0
+eşleşmeyen_sayisi = 0
 
 for name, cid, logo in channels:
-    # GÜNCELLENDİ: EPG ID'sini otomatık bul
-    # epg_map'te kanal adını ara. Bulursa, EPG ID'sini kullan (örn: "beIN.Sport.1.HD").
-    # Bulamazsa, varsayılan olarak kanal adını kullan (örn: "Tabii HD").
-    tvg_id = epg_map.get(name, name) 
     
-    # GÜNCELLENDİ: tvg-id ve tvg-name dinamik olarak ayarlandı
+    # --- GÜNCELLENMİŞ EŞLEŞTİRME MANTIĞI ---
+    tvg_id = None
+    
+    # 1. Önce Manuel Haritayı (MANUAL_EPG_MAP) kontrol et
+    if name in MANUAL_EPG_MAP:
+        tvg_id = MANUAL_EPG_MAP[name]
+        eşleşen_sayisi += 1
+    
+    # 2. Manuel haritada yoksa, Otomatik Haritayı (epg_map_auto) kontrol et
+    elif name in epg_map_auto:
+        tvg_id = epg_map_auto[name]
+        eşleşen_sayisi += 1
+        
+    # 3. Hiçbir haritada (ne manuel ne otomatik) yoksa, varsayılan olarak kanal adını kullan
+    else:
+        tvg_id = name # Örn: "Exxen 1 HD"
+        eşleşmeyen_sayisi += 1
+    # --- EŞLEŞTİRME MANTIĞI SONU ---
+    
     lines.append(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{name}" tvg-logo="{logo}" group-title="PLAY SPOR | Telegram @playtvmedya",{name}')
     
     full_url = f"{proxy_prefix}{base_url}{cid}.m3u8"
@@ -133,9 +163,12 @@ for name, cid, logo in channels:
 with open("androiptv.m3u8", "w", encoding="utf-8") as f:
     f.write("\n".join(lines))
 
-print("✅ androiptv.m3u8 faylı EPG entegrasyonu ile yaradıldı.")
+print(f"✅ androiptv.m3u8 dosyası doğru EPG ID'leri ile oluşturuldu.")
+print(f"   EPG Eşleşen Kanal: {eşleşen_sayisi}")
+print(f"   EPG Eşleşmeyen (Varsayılan): {eşleşmeyen_sayisi}")
 
-# ✅ Ayrı-ayrı .m3u8 faylları (Bu kısım EPG'den etkilenmez, olduğu gibi kalır)
+
+# ✅ Ayrı-ayrı .m3u8 faylları (Bu kısım değişmedi)
 out_dir = "channels"
 os.makedirs(out_dir, exist_ok=True)
 
