@@ -4,7 +4,7 @@ import re
 import xml.etree.ElementTree as ET
 
 # EPG dosyasının URL'si
-EPG_URL = "https://raw.githubusercontent.com/braveheart1983/tvg-macther/main/tr-epg.xml"
+EPG_URL = "https://belgeselsemo.com.tr/yayin-akisi2/xml/turkey1.xml"
 
 # Domain aralığı (25–99)
 active_domain = None
