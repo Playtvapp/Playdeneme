@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="FUTBOL" tvg-logo="https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg" group-title="IstPlay - FUTBOL",OPATIJA vs HNK CIBALIA (CROATIA 1.NL) (telegram @playtvmedya)
-https://e1-22.n4154.xyz/35392227.m3u8
-#EXTINF:-1 tvg-name="FUTBOL" tvg-logo="https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg" group-title="IstPlay - FUTBOL",AL-DERAA vs AL SELMEYAH (SAUDI ARABIA DIVISION 3) (telegram @playtvmedya)
-https://e2-22.n4154.xyz/35392155.m3u8
-#EXTINF:-1 tvg-name="FUTBOL" tvg-logo="https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg" group-title="IstPlay - FUTBOL",CZECHIA U20 vs POLAND U20 (U20 INTERNATIONAL) (telegram @playtvmedya)
-https://e1-22.n4154.xyz/35392247.m3u8
 #EXTINF:-1 tvg-name="FUTBOL" tvg-logo="https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg" group-title="IstPlay - FUTBOL",TANTA vs DEROT (EGYPT - 2ND DIVISION) (telegram @playtvmedya)
 https://e3-22.n4154.xyz/35392411.m3u8
 #EXTINF:-1 tvg-name="FUTBOL" tvg-logo="https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg" group-title="IstPlay - FUTBOL",MUHAYIL vs AL NAKHL (SAUDI ARABIA DIVISION 3) (telegram @playtvmedya)
@@ -38,14 +32,14 @@ https://e1-22.n4154.xyz/35393693.m3u8
 https://e3-22.n4154.xyz/35393713.m3u8
 #EXTINF:-1 tvg-name="FUTBOL" tvg-logo="https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg" group-title="IstPlay - FUTBOL",SMALL TOWN FC (W) vs TAP TAP FC (W) (LIBERIA NATIONAL LEAGUE WOMEN) (telegram @playtvmedya)
 https://e4-22.n4154.xyz/35393743.m3u8
+#EXTINF:-1 tvg-name="FUTBOL" tvg-logo="https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg" group-title="IstPlay - FUTBOL",REAL MALDIVES vs SAINT MICHEL (SEYCHELLES PREMIER LEAGUE) (telegram @playtvmedya)
+https://e4-22.n4154.xyz/35393857.m3u8
+#EXTINF:-1 tvg-name="FUTBOL" tvg-logo="https://thepfsa.co.uk/wp-content/uploads/2022/06/Playing-Football.jpg" group-title="IstPlay - FUTBOL",AL-ARABI DOHA vs AL SHAMAL SC (QATAR STARS CUP) (telegram @playtvmedya)
+https://e3-22.n4154.xyz/35393853.m3u8
 #EXTINF:-1 tvg-name="BASKETBOL" tvg-logo="https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg" group-title="IstPlay - BASKETBOL",POLITECHNIKA KRAKOW (W) vs MUKS POZNAN (W) (POLAND 1 LIGA WOMEN) (telegram @playtvmedya)
 https://e3-22.n4154.xyz/35392853.m3u8
-#EXTINF:-1 tvg-name="BASKETBOL" tvg-logo="https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg" group-title="IstPlay - BASKETBOL",ORIOLES FB vs GUARDIANS FB (FROSTBALL) (telegram @playtvmedya)
-https://e1-22.n4154.xyz/35392903.m3u8
 #EXTINF:-1 tvg-name="BASKETBOL" tvg-logo="https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg" group-title="IstPlay - BASKETBOL",CHARGE vs RED CLAWS (IPBL. PRIME DIVISION) (telegram @playtvmedya)
 https://e4-22.n4154.xyz/35393141.m3u8
-#EXTINF:-1 tvg-name="BASKETBOL" tvg-logo="https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg" group-title="IstPlay - BASKETBOL",WOLFPACK (W) vs DOLPHINS (W) (IPBL. PRIME DIVISION. WOMEN) (telegram @playtvmedya)
-https://e2-22.n4154.xyz/35393205.m3u8
 #EXTINF:-1 tvg-name="BASKETBOL" tvg-logo="https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg" group-title="IstPlay - BASKETBOL",APR BBC (W) vs LES HIPPOS (W) (BASKETBALL AFRICA LEAGUE QUAL.WOMEN) (telegram @playtvmedya)
 https://e3-22.n4154.xyz/35393215.m3u8
 #EXTINF:-1 tvg-name="BASKETBOL" tvg-logo="https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg" group-title="IstPlay - BASKETBOL",TVER vs KACHKANAR (IPBL. PRO DIVISION) (telegram @playtvmedya)
@@ -58,16 +52,22 @@ https://e4-22.n4154.xyz/35393491.m3u8
 https://e3-22.n4154.xyz/35393547.m3u8
 #EXTINF:-1 tvg-name="BASKETBOL" tvg-logo="https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg" group-title="IstPlay - BASKETBOL",MAGNITOGORSK (W) vs BRYANSK (W) (IPBL. PRO DIVISION. WOMEN) (telegram @playtvmedya)
 https://e1-22.n4154.xyz/35393647.m3u8
+#EXTINF:-1 tvg-name="BASKETBOL" tvg-logo="https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg" group-title="IstPlay - BASKETBOL",BRONCOS FB vs ORIOLES FB (FROSTBALL) (telegram @playtvmedya)
+https://e3-22.n4154.xyz/35393835.m3u8
+#EXTINF:-1 tvg-name="BASKETBOL" tvg-logo="https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg" group-title="IstPlay - BASKETBOL",ORBI vs BATUMI (GEORGIA SUPER LEAGUE) (telegram @playtvmedya)
+https://e1-22.n4154.xyz/35393929.m3u8
+#EXTINF:-1 tvg-name="BASKETBOL" tvg-logo="https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg" group-title="IstPlay - BASKETBOL",TURKEY [W] vs NIGERIA [W] (INTERNATIONAL FRIENDLIES (W)) (telegram @playtvmedya)
+https://e1-22.n4154.xyz/35393939.m3u8
+#EXTINF:-1 tvg-name="BASKETBOL" tvg-logo="https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg" group-title="IstPlay - BASKETBOL",ADRIATIC HURRICANZ vs BELGRAD WARRIORZ (BSKT CUP INTERNATIONAL) (telegram @playtvmedya)
+https://e4-22.n4154.xyz/35393971.m3u8
+#EXTINF:-1 tvg-name="BASKETBOL" tvg-logo="https://minio.yalispor.com.tr/sneakscloud/blog/basketbol-hakkinda-bilmen-gereken-kurallar_5e53ae3fdd3fc.jpg" group-title="IstPlay - BASKETBOL",PANTHERS vs WOLFPACK (IPBL PRIME DIVISION WOMAN ) (telegram @playtvmedya)
+https://e2-22.n4154.xyz/35394007.m3u8
 #EXTINF:-1 tvg-name="TENİS" tvg-logo="https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg" group-title="IstPlay - TENİS",SUZAN LAMENS vs KAJA JUVAN (BILLIE JEAN KING CUP) (telegram @playtvmedya)
 https://e1-22.n4154.xyz/35391797.m3u8
 #EXTINF:-1 tvg-name="TENİS" tvg-logo="https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg" group-title="IstPlay - TENİS",FINN MURGETT vs ULADZIMIR IGNATIK (ITF M15 HERAKLION) (telegram @playtvmedya)
 https://e1-22.n4154.xyz/35392285.m3u8
 #EXTINF:-1 tvg-name="TENİS" tvg-logo="https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg" group-title="IstPlay - TENİS",JANNIK SINNER vs BEN SHELTON (ATP - WORLD TOUR FINALS) (telegram @playtvmedya)
 https://e2-22.n4154.xyz/35392605.m3u8
-#EXTINF:-1 tvg-name="TENİS" tvg-logo="https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg" group-title="IstPlay - TENİS",ACHILLES BELKOVICS vs MARTIN DOSKOCIL (UTR PRO TRNAVA) (telegram @playtvmedya)
-https://e3-22.n4154.xyz/35392769.m3u8
-#EXTINF:-1 tvg-name="TENİS" tvg-logo="https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg" group-title="IstPlay - TENİS",KAMILA NERADOVA vs INGRID VOJCINAKOVA (UTR PRO OLOMOUC WOMEN) (telegram @playtvmedya)
-https://e4-22.n4154.xyz/35392805.m3u8
 #EXTINF:-1 tvg-name="TENİS" tvg-logo="https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg" group-title="IstPlay - TENİS",OSCAR BROWN vs DANIEL DE JONGE (UTR PRO TRNAVA) (telegram @playtvmedya)
 https://e1-22.n4154.xyz/35392927.m3u8
 #EXTINF:-1 tvg-name="TENİS" tvg-logo="https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg" group-title="IstPlay - TENİS",SERGEY FOMIN vs NINO EHRENSCHNEIDER (ITF - MANAMA (M)) (telegram @playtvmedya)
@@ -80,124 +80,114 @@ https://e2-22.n4154.xyz/35393291.m3u8
 https://e1-22.n4154.xyz/35393589.m3u8
 #EXTINF:-1 tvg-name="TENİS" tvg-logo="https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg" group-title="IstPlay - TENİS",P. HENNING / C.J. LOCK vs PA. TSITSIPAS / PE. TSITSIPAS (ITF DOUBLES - HERAKLION (M)) (telegram @playtvmedya)
 https://e2-22.n4154.xyz/35393675.m3u8
-#EXTINF:-1 tvg-name="TENİS" tvg-logo="https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg" group-title="IstPlay - TENİS",EVA GUERRERO ALVAREZ vs MINA HODZIC (15:28) (telegram @playtvmedya)
+#EXTINF:-1 tvg-name="TENİS" tvg-logo="https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg" group-title="IstPlay - TENİS",EVA GUERRERO ALVAREZ vs MINA HODZIC (ITF W50 FUNCHAL) (telegram @playtvmedya)
 https://e3-22.n4154.xyz/35392341.m3u8
+#EXTINF:-1 tvg-name="TENİS" tvg-logo="https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg" group-title="IstPlay - TENİS",JACK LOGE vs RAFAEL IZQUIERDO LUQUE (ITF - VALE DO LOBO (M)) (telegram @playtvmedya)
+https://e4-22.n4154.xyz/35393821.m3u8
+#EXTINF:-1 tvg-name="TENİS" tvg-logo="https://calista.com.tr/media/c2sl3pug/calista-resort-hotel-blog-tenis-banner.jpg" group-title="IstPlay - TENİS",MARRERO CURBELO/STEVENSON vs HSU/OZOLINS (ITF M25 MANAMA MD) (telegram @playtvmedya)
+https://e4-22.n4154.xyz/35393837.m3u8
 #EXTINF:-1 tvg-name="BUZ HOKEYİ" tvg-logo="https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg" group-title="IstPlay - BUZ HOKEYİ",TORPEDO UST-KAMENOGORSK vs NOMAD ASTANA NOMAD ASTANA (KAZAKHSTAN OPEN CHAMPS) (telegram @playtvmedya)
 https://e3-22.n4154.xyz/35393023.m3u8
 #EXTINF:-1 tvg-name="BUZ HOKEYİ" tvg-logo="https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg" group-title="IstPlay - BUZ HOKEYİ",MHK MOLOT U20 vs KUZNETSKIE MEDVEDI U20 (RUSSIA MHL) (telegram @playtvmedya)
 https://e1-22.n4154.xyz/35393063.m3u8
-#EXTINF:-1 tvg-name="BUZ HOKEYİ" tvg-logo="https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg" group-title="IstPlay - BUZ HOKEYİ",THUNDERHEADS vs SKYHAWKS (RUSSIA MNHL) (telegram @playtvmedya)
-https://e1-22.n4154.xyz/35393297.m3u8
 #EXTINF:-1 tvg-name="BUZ HOKEYİ" tvg-logo="https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg" group-title="IstPlay - BUZ HOKEYİ",KULAGER vs ALMATY (KAZAKHSTAN OPEN CHAMPS) (telegram @playtvmedya)
 https://e3-22.n4154.xyz/35393479.m3u8
 #EXTINF:-1 tvg-name="BUZ HOKEYİ" tvg-logo="https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg" group-title="IstPlay - BUZ HOKEYİ",RYSI GOMEL vs JUNIOR MINSK (BELARUS VYSCHA LIGA) (telegram @playtvmedya)
 https://e4-22.n4154.xyz/35393503.m3u8
-#EXTINF:-1 tvg-name="BUZ HOKEYİ" tvg-logo="https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg" group-title="IstPlay - BUZ HOKEYİ",ENERGIYA YEKATERINBURG vs TIGRY TYUMEN (RHL) (telegram @playtvmedya)
-https://e2-22.n4154.xyz/35393535.m3u8
-#EXTINF:-1 tvg-name="BUZ HOKEYİ" tvg-logo="https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg" group-title="IstPlay - BUZ HOKEYİ",IMPULS + vs MAYAK + (SUBHOCKEY) (telegram @playtvmedya)
-https://e4-22.n4154.xyz/35393551.m3u8
 #EXTINF:-1 tvg-name="BUZ HOKEYİ" tvg-logo="https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg" group-title="IstPlay - BUZ HOKEYİ",DNEPROVSKIE LVI vs BELSTAL (BELARUS VYSCHA LIGA) (telegram @playtvmedya)
 https://e4-22.n4154.xyz/35393577.m3u8
 #EXTINF:-1 tvg-name="BUZ HOKEYİ" tvg-logo="https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg" group-title="IstPlay - BUZ HOKEYİ",GORNYAK RUDNY vs IRTYSH PAVLODAR (KAZAKHSTAN OPEN CHAMPS) (telegram @playtvmedya)
 https://e2-22.n4154.xyz/35393607.m3u8
 #EXTINF:-1 tvg-name="BUZ HOKEYİ" tvg-logo="https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg" group-title="IstPlay - BUZ HOKEYİ",SUNQAR U20 vs QARMET U20 ( KAZAKHSTAN MHL) (telegram @playtvmedya)
 https://e2-22.n4154.xyz/35393639.m3u8
-#EXTINF:-1 tvg-name="BUZ HOKEYİ" tvg-logo="https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg" group-title="IstPlay - BUZ HOKEYİ",FIREBIRDS vs HEAVY HAMMERS (RUSSIA MNHL) (telegram @playtvmedya)
-https://e3-22.n4154.xyz/35393641.m3u8
 #EXTINF:-1 tvg-name="BUZ HOKEYİ" tvg-logo="https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg" group-title="IstPlay - BUZ HOKEYİ",ATLANT OREL vs METEOR NIZHNY NOVGOROD (RHL) (telegram @playtvmedya)
 https://e3-22.n4154.xyz/35393671.m3u8
 #EXTINF:-1 tvg-name="BUZ HOKEYİ" tvg-logo="https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg" group-title="IstPlay - BUZ HOKEYİ",COYOTES vs WHITE BRUINS (3HL LEAGUE) (telegram @playtvmedya)
 https://e4-22.n4154.xyz/35393673.m3u8
-#EXTINF:-1 tvg-name="BUZ HOKEYİ" tvg-logo="https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg" group-title="IstPlay - BUZ HOKEYİ",GLADIATORS vs APACHE EAST (RUSSIA MNHL) (telegram @playtvmedya)
-https://e4-22.n4154.xyz/35393717.m3u8
 #EXTINF:-1 tvg-name="BUZ HOKEYİ" tvg-logo="https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg" group-title="IstPlay - BUZ HOKEYİ",MOTOR CESKE BUDEJOVICE U20 vs KARLOVY VARY U20 (CZECHIA EXTRALIGA U20) (telegram @playtvmedya)
 https://e2-22.n4154.xyz/35393747.m3u8
-#EXTINF:-1 tvg-name="BUZ HOKEYİ" tvg-logo="https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg" group-title="IstPlay - BUZ HOKEYİ",ZVEZDA + vs PROMETEY + (SUBHOCKEY) (telegram @playtvmedya)
-https://e3-22.n4154.xyz/35393749.m3u8
 #EXTINF:-1 tvg-name="BUZ HOKEYİ" tvg-logo="https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg" group-title="IstPlay - BUZ HOKEYİ",WIZARDS vs DREAM CHASERS (3HL LEAGUE) (telegram @playtvmedya)
 https://e2-22.n4154.xyz/35393771.m3u8
-#EXTINF:-1 tvg-name="BUZ HOKEYİ" tvg-logo="https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg" group-title="IstPlay - BUZ HOKEYİ",IZHSTAL vs BURAN VORONEZH (VHL) (telegram @playtvmedya)
+#EXTINF:-1 tvg-name="BUZ HOKEYİ" tvg-logo="https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg" group-title="IstPlay - BUZ HOKEYİ",IZHSTAL vs BURAN VORONEZH (RUSSIA VHL) (telegram @playtvmedya)
 https://e1-22.n4154.xyz/35393809.m3u8
-#EXTINF:-1 tvg-name="BUZ HOKEYİ" tvg-logo="https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg" group-title="IstPlay - BUZ HOKEYİ",FIN vs SWE (DREAM LEAGUE) (telegram @playtvmedya)
+#EXTINF:-1 tvg-name="BUZ HOKEYİ" tvg-logo="https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg" group-title="IstPlay - BUZ HOKEYİ",FINLAND (AMATEUR) vs SWEDEN (AMATEUR) (DREAM LEAGUE) (telegram @playtvmedya)
 https://e3-22.n4154.xyz/35393813.m3u8
-#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",VLADISLAV KUNITSYN vs EVGENIY PETROV (MASTERS. RUSSIA) (telegram @playtvmedya)
-https://e2-22.n4154.xyz/35393243.m3u8
-#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",EVGENY KOSYANENKO vs ALEXANDER KRAPIVNITSKY (MASTERS. RUSSIA) (telegram @playtvmedya)
-https://e3-22.n4154.xyz/35393293.m3u8
-#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",CAO WAN BENG vs CHEN YU HENG (MASTERS. CHINA) (telegram @playtvmedya)
-https://e4-22.n4154.xyz/35393323.m3u8
-#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",NAZAR DANILYUK vs ANTON MOLOCHKO (SETKA CUP) (telegram @playtvmedya)
-https://e2-22.n4154.xyz/35393337.m3u8
-#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",WANG YAO TING vs CHANG XU GUANG (MASTERS. CHINA) (telegram @playtvmedya)
-https://e2-22.n4154.xyz/35393433.m3u8
-#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",OLEG SAPUZHAK vs DMITRIY PALIY (SETKA CUP) (telegram @playtvmedya)
-https://e4-22.n4154.xyz/35393443.m3u8
-#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",SERGEY YACENKO vs KIRILL ABRAMOV (MASTERS. RUSSIA) (telegram @playtvmedya)
-https://e2-22.n4154.xyz/35393447.m3u8
-#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",IVAN FEDORISHIN vs ARTEM KASYYANOV (SETKA CUP) (telegram @playtvmedya)
-https://e4-22.n4154.xyz/35393463.m3u8
-#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",YURIY ZVOLINSKIY vs ANATOLIY LISIY (SETKA CUP) (telegram @playtvmedya)
-https://e1-22.n4154.xyz/35393465.m3u8
-#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",MICHAL MURAWSKI vs MACIEJ NOWALINSKI (TT ELITE SERIES) (telegram @playtvmedya)
-https://e4-22.n4154.xyz/35393481.m3u8
-#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",ONDRZHEY MEZERA vs ZDENEK VASHATKO (SETKA CUP) (telegram @playtvmedya)
-https://e2-22.n4154.xyz/35393483.m3u8
-#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",VIOREL EVSTRATIY vs IGORY MIHALAKI (SETKA CUP) (telegram @playtvmedya)
-https://e3-22.n4154.xyz/35393489.m3u8
-#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",DMITRY VOLIN vs ALEXANDER DMITRIEV (MASTERS. RUSSIA) (telegram @playtvmedya)
-https://e1-22.n4154.xyz/35393497.m3u8
-#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",SERGEI GAVRILOV vs ALEKSANDR SHCHADKO (MASTERS. BELARUS) (telegram @playtvmedya)
-https://e3-22.n4154.xyz/35393529.m3u8
-#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",MUHRIDIN ABDUNAZAROV vs IGOR SIDORENKO (MASTERS. RUSSIA) (telegram @playtvmedya)
-https://e2-22.n4154.xyz/35393545.m3u8
+#EXTINF:-1 tvg-name="BUZ HOKEYİ" tvg-logo="https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg" group-title="IstPlay - BUZ HOKEYİ",METEOR + vs VOLGA + (SUBHOCKEY) (telegram @playtvmedya)
+https://e1-22.n4154.xyz/35393825.m3u8
+#EXTINF:-1 tvg-name="BUZ HOKEYİ" tvg-logo="https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg" group-title="IstPlay - BUZ HOKEYİ",REAKTOR vs SPARTA (RHL) (telegram @playtvmedya)
+https://e2-22.n4154.xyz/35393979.m3u8
+#EXTINF:-1 tvg-name="BUZ HOKEYİ" tvg-logo="https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg" group-title="IstPlay - BUZ HOKEYİ",RODINA + vs BAIKAL + (SUBHOCKEY) (telegram @playtvmedya)
+https://e3-22.n4154.xyz/35393981.m3u8
+#EXTINF:-1 tvg-name="BUZ HOKEYİ" tvg-logo="https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg" group-title="IstPlay - BUZ HOKEYİ",HEAVY HAMMERS vs THUNDERHEADS (RUSSIA MNHL) (telegram @playtvmedya)
+https://e4-22.n4154.xyz/35393985.m3u8
+#EXTINF:-1 tvg-name="BUZ HOKEYİ" tvg-logo="https://istanbulbbsk.org/uploads/medias/public-4b3b1703-c744-4631-8c42-8bab9be542bc.jpg" group-title="IstPlay - BUZ HOKEYİ",APACHE EAST vs WILD VIKINGS (RUSSIA MNHL) (telegram @playtvmedya)
+https://e3-22.n4154.xyz/35394009.m3u8
 #EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",ARTEM BORODIY vs ANATOLIY NIKOLENKO (SETKA CUP) (telegram @playtvmedya)
 https://e1-22.n4154.xyz/35393553.m3u8
-#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",OLENA BONDAREVA vs OLEKSANDRA IVCHENKO (SETKA CUP WOMEN) (telegram @playtvmedya)
-https://e3-22.n4154.xyz/35393557.m3u8
-#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",ANASTASIA SHEVCHUK vs DIANA LOGINOVA (MASTERS. RUSSIA. WOMEN) (telegram @playtvmedya)
-https://e4-22.n4154.xyz/35393565.m3u8
-#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",JACEK SKRZECZKOWSKI vs KRYSTIAN SZAJEWSKI (MASTERS. POLAND) (telegram @playtvmedya)
-https://e3-22.n4154.xyz/35393575.m3u8
-#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",VADIM YAROSHENKO vs VITALY SHABAN (MASTERS. SUPER LEAGUE) (telegram @playtvmedya)
-https://e2-22.n4154.xyz/35393593.m3u8
-#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",DANIIL FEDOROV vs ALEKSANDR GOROCHNY (MASTERS. RUSSIA) (telegram @playtvmedya)
-https://e4-22.n4154.xyz/35393597.m3u8
-#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",ROBERT NIEWIADOMSKI vs ROBERT PEDZIAK (MASTERS. POLAND) (telegram @playtvmedya)
-https://e3-22.n4154.xyz/35393659.m3u8
-#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",PAVEL PAVLOV vs DANIIL SOKOLOV (MASTERS. RUSSIA) (telegram @playtvmedya)
-https://e4-22.n4154.xyz/35393665.m3u8
 #EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",MILOSZ PACZKIEWICZ vs JAKUB KONIECZNY (MASTERS. POLAND) (telegram @playtvmedya)
 https://e2-22.n4154.xyz/35393669.m3u8
 #EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",ARTEM YURKOV vs MAKSIM MRIH (SETKA CUP) (telegram @playtvmedya)
 https://e2-22.n4154.xyz/35393677.m3u8
 #EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",DOMINIK RUZHICHKA vs FILIP KUBOSH (SETKA CUP) (telegram @playtvmedya)
 https://e3-22.n4154.xyz/35393679.m3u8
-#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",RUSLAN ROMANOVSKY vs ANDREY NIKONCHUK (MASTERS. BELARUS) (telegram @playtvmedya)
-https://e4-22.n4154.xyz/35393683.m3u8
-#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",DARIA YUZHAKOVA vs OLGA TIKHONOVA (MASTERS. RUSSIA. WOMEN) (telegram @playtvmedya)
-https://e1-22.n4154.xyz/35393705.m3u8
 #EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",ALEXANDER SAGITOV vs VLADISLAV BUSHKOV (MASTERS. RUSSIA) (telegram @playtvmedya)
 https://e1-22.n4154.xyz/35393721.m3u8
 #EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",ALEKSANDR DUHOVENKO vs PAVEL PLAKUSHTIY (SETKA CUP) (telegram @playtvmedya)
 https://e2-22.n4154.xyz/35393727.m3u8
-#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",PETR LAHOVICH (POL) vs KSHISHTOF RUSETSKI (POL) (MASTERS) (telegram @playtvmedya)
+#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",PIOTR LACHOWICZ vs KRZYSZTOF RUSIECKI (MASTERS. POLAND) (telegram @playtvmedya)
 https://e3-22.n4154.xyz/35393729.m3u8
 #EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",MILCO RAMOS vs DANIEL ARAKAKI (MASTERS. ARGENTINA) (telegram @playtvmedya)
 https://e1-22.n4154.xyz/35393745.m3u8
-#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",ZDENEK KUKSA vs KAREL FARSKI (17:30 MUZHCHINI) (telegram @playtvmedya)
+#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",ZDENEK KUKSA vs KAREL FARSKI (SETKA CUP) (telegram @playtvmedya)
 https://e1-22.n4154.xyz/35393791.m3u8
-#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",SERGEY PRUS vs VLADIMIR IVASIV (17:25 MUZHCHINI) (telegram @playtvmedya)
+#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",SERGEY PRUS vs VLADIMIR IVASIV (SETKA CUP) (telegram @playtvmedya)
 https://e2-22.n4154.xyz/35393811.m3u8
+#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",MAXIM BOBORYKO vs KIRILL ABRAMOV (MASTERS. RUSSIA) (telegram @playtvmedya)
+https://e3-22.n4154.xyz/35393855.m3u8
+#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",YIN LI XIN vs CAO WAN BENG (MASTERS. CHINA) (telegram @playtvmedya)
+https://e1-22.n4154.xyz/35393859.m3u8
+#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",MIKHAIL ROSLY vs DMITRY MIKHALENKO (MASTERS. RUSSIA) (telegram @playtvmedya)
+https://e4-22.n4154.xyz/35393873.m3u8
+#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",ANTON TUR vs MAKSIM BADAY (SETKA CUP) (telegram @playtvmedya)
+https://e1-22.n4154.xyz/35393883.m3u8
+#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",SERGEY SIDELYTSEV vs IGORY SOROCHAN (SETKA CUP) (telegram @playtvmedya)
+https://e2-22.n4154.xyz/35393885.m3u8
+#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",VITALIY ANGEL vs GEORGIY PISARENKO (SETKA CUP) (telegram @playtvmedya)
+https://e3-22.n4154.xyz/35393887.m3u8
+#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",SIMON BELIK vs JAN ZANDECKI (TT ELITE SERIES) (telegram @playtvmedya)
+https://e3-22.n4154.xyz/35393903.m3u8
+#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",ZHANG SHU JIAN vs LI QIANG (MASTERS. CHINA) (telegram @playtvmedya)
+https://e3-22.n4154.xyz/35393911.m3u8
+#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",MIKOLAJ SIERON vs MARIUSZ SOLIWODA (MASTERS. POLAND) (telegram @playtvmedya)
+https://e4-22.n4154.xyz/35393915.m3u8
+#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",MAKSIM LIAKHOV vs MIKHAIL TSYGANOVSKY (MASTERS. SUPER LEAGUE) (telegram @playtvmedya)
+https://e1-22.n4154.xyz/35393917.m3u8
+#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",JESUS MAYO BAEZA vs ALEJANDRO MERINO PENA (MASTERS. SPAIN) (telegram @playtvmedya)
+https://e2-22.n4154.xyz/35393923.m3u8
+#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",ALEXANDER DMITRIEV vs GLEB RADIONOV (MASTERS. RUSSIA) (telegram @playtvmedya)
+https://e4-22.n4154.xyz/35393927.m3u8
+#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",ALINA MAN vs MARGARITA GORDEETS (SETKA CUP WOMEN) (telegram @playtvmedya)
+https://e2-22.n4154.xyz/35393931.m3u8
+#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",ALEKSEY SHALYOPA vs BOGDAN PLAHTIY (SETKA CUP) (telegram @playtvmedya)
+https://e3-22.n4154.xyz/35393933.m3u8
+#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",ROBERT PEDZIAK vs ADRIAN KOSTEWICZ (MASTERS. POLAND) (telegram @playtvmedya)
+https://e4-22.n4154.xyz/35393951.m3u8
+#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",VLADIMIR VORONENKOV vs VLADISLAV MISHTENKO (SETKA CUP) (telegram @playtvmedya)
+https://e3-22.n4154.xyz/35393965.m3u8
+#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",EVZHEN ONDRACHEK vs YAN KROYIDLO (SETKA CUP) (telegram @playtvmedya)
+https://e1-22.n4154.xyz/35393977.m3u8
+#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",PAVEL MELESHKO vs DANIIL TRETYAKOV (MASTERS. RUSSIA) (telegram @playtvmedya)
+https://e1-22.n4154.xyz/35393987.m3u8
+#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",MIKHAIL ROZHKOV vs ANDREY DERGUNOV (MASTERS. RUSSIA) (telegram @playtvmedya)
+https://e3-22.n4154.xyz/35393993.m3u8
+#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",VASILY TULCHINSKY vs MUHRIDIN ABDUNAZAROV (MASTERS. RUSSIA) (telegram @playtvmedya)
+https://e4-22.n4154.xyz/35393995.m3u8
+#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",SERGEI GAVRILOV vs VALENTIN ZHIVOLKOVSKY (MASTERS. BELARUS) (telegram @playtvmedya)
+https://e1-22.n4154.xyz/35394001.m3u8
+#EXTINF:-1 tvg-name="MASA TENİSİ" tvg-logo="https://tossfed.gov.tr/storage/2022/03/1399486-masa-tenisinde-3-lig-2-nisan-da-baslayacak-60642719b43dd.jpg" group-title="IstPlay - MASA TENİSİ",ELENA LITVINENKO (ROS) vs MARINA DOBRYANSKAYA (ROS) (MASTERS) (telegram @playtvmedya)
+https://e4-22.n4154.xyz/35394019.m3u8
 #EXTINF:-1 tvg-name="VOLEYBOL" tvg-logo="https://www.sidasturkiye.com/images/aktiviteler/alt-aktiviteler_voleybol4.jpg" group-title="IstPlay - VOLEYBOL",DYNAMO vs ASHGAU (RUSSIA YOUTH LEAGUE) (telegram @playtvmedya)
 https://e1-22.n4154.xyz/35392655.m3u8
-#EXTINF:-1 tvg-name="VOLEYBOL" tvg-logo="https://www.sidasturkiye.com/images/aktiviteler/alt-aktiviteler_voleybol4.jpg" group-title="IstPlay - VOLEYBOL",BELOGORIE II vs SSHOR SAMOTLOR (RUSSIA YOUTH LEAGUE) (telegram @playtvmedya)
-https://e4-22.n4154.xyz/35392681.m3u8
-#EXTINF:-1 tvg-name="VOLEYBOL" tvg-logo="https://www.sidasturkiye.com/images/aktiviteler/alt-aktiviteler_voleybol4.jpg" group-title="IstPlay - VOLEYBOL",SUNGIR vs TEKSTILSHCHIK II (RUSSIA 1ST LEAGUE) (telegram @playtvmedya)
-https://e3-22.n4154.xyz/35392803.m3u8
-#EXTINF:-1 tvg-name="VOLEYBOL" tvg-logo="https://www.sidasturkiye.com/images/aktiviteler/alt-aktiviteler_voleybol4.jpg" group-title="IstPlay - VOLEYBOL",REGINA-MEGU ROVNO (W) vs RESHETILOVKA PNPU (W) (UKRAINE HIGHER LEAGUE WOMEN) (telegram @playtvmedya)
-https://e2-22.n4154.xyz/35392835.m3u8
-#EXTINF:-1 tvg-name="VOLEYBOL" tvg-logo="https://www.sidasturkiye.com/images/aktiviteler/alt-aktiviteler_voleybol4.jpg" group-title="IstPlay - VOLEYBOL",ZAPOROZHYE REGION vs ROSTOV VOLLEY II (RUSSIA 1ST LEAGUE) (telegram @playtvmedya)
-https://e4-22.n4154.xyz/35393127.m3u8
 #EXTINF:-1 tvg-name="VOLEYBOL" tvg-logo="https://www.sidasturkiye.com/images/aktiviteler/alt-aktiviteler_voleybol4.jpg" group-title="IstPlay - VOLEYBOL",PROGRESS vs BLACK WOLVES (URAL LEAGUE) (telegram @playtvmedya)
 https://e3-22.n4154.xyz/35393441.m3u8
 #EXTINF:-1 tvg-name="VOLEYBOL" tvg-logo="https://www.sidasturkiye.com/images/aktiviteler/alt-aktiviteler_voleybol4.jpg" group-title="IstPlay - VOLEYBOL",MGTU MAYKOP II vs DIGORA VLADIKAVKAZ (RUSSIA 1ST LEAGUE) (telegram @playtvmedya)
@@ -206,16 +196,18 @@ https://e2-22.n4154.xyz/35393477.m3u8
 https://e1-22.n4154.xyz/35393763.m3u8
 #EXTINF:-1 tvg-name="VOLEYBOL" tvg-logo="https://www.sidasturkiye.com/images/aktiviteler/alt-aktiviteler_voleybol4.jpg" group-title="IstPlay - VOLEYBOL",REG vs IPRC NGOMA (RWANDA CHAMPIONSHIP) (telegram @playtvmedya)
 https://e4-22.n4154.xyz/35393783.m3u8
+#EXTINF:-1 tvg-name="VOLEYBOL" tvg-logo="https://www.sidasturkiye.com/images/aktiviteler/alt-aktiviteler_voleybol4.jpg" group-title="IstPlay - VOLEYBOL",BEOGRAD (W) vs JEDINSTVO STARA PAZOVA (W) (SERBIA LIGA WOMEN) (telegram @playtvmedya)
+https://e2-22.n4154.xyz/35393869.m3u8
 #EXTINF:-1 tvg-name="HENTBOL" tvg-logo="https://image.fanatik.com.tr/i/fanatik/75/0x410/6282949745d2a051587ed23b.jpg" group-title="IstPlay - HENTBOL",UFA ALISA (W) vs CHERNOMOROCHKA (W) (RUSSIA SUPERLEAGUE WOMEN) (telegram @playtvmedya)
 https://e2-22.n4154.xyz/35393077.m3u8
 #EXTINF:-1 tvg-name="BİLARDO" tvg-logo="https://www.bilardo.org.tr/image/be2a4809f1c796e4453b45ccf0d9740c.jpg" group-title="IstPlay - BİLARDO",VLADIMIR MATVIENKO vs ANDREI SEROSHTAN (RUSSIAN CHAMPIONSHIP. POOL 9) (telegram @playtvmedya)
 https://e4-22.n4154.xyz/35392497.m3u8
+#EXTINF:-1 tvg-name="BİLARDO" tvg-logo="https://www.bilardo.org.tr/image/be2a4809f1c796e4453b45ccf0d9740c.jpg" group-title="IstPlay - BİLARDO",ANDREI SEROSHTAN vs ARSENY KOVALERCHIK (RUSSIAN CUP. POOL 9) (telegram @playtvmedya)
+https://e2-22.n4154.xyz/35393959.m3u8
 #EXTINF:-1 tvg-name="KRİKET" tvg-logo="https://storage.acerapps.io/app-1358/kriket-nedir-nasil-oynanir-kriket-kurallari-nelerdir-sporsepeti-sportsfly-spor-kutuphanesi.jpg" group-title="IstPlay - KRİKET",PAKISTAN vs SRI LANKA (ONE DAY INTERNATIONALS) (telegram @playtvmedya)
 https://e4-22.n4154.xyz/35389565.m3u8
 #EXTINF:-1 tvg-name="KRİKET" tvg-logo="https://storage.acerapps.io/app-1358/kriket-nedir-nasil-oynanir-kriket-kurallari-nelerdir-sporsepeti-sportsfly-spor-kutuphanesi.jpg" group-title="IstPlay - KRİKET",INDIA A vs UAE (ASIA CUP RISING STARS) (telegram @playtvmedya)
 https://e1-22.n4154.xyz/35391421.m3u8
-#EXTINF:-1 tvg-name="KRİKET" tvg-logo="https://storage.acerapps.io/app-1358/kriket-nedir-nasil-oynanir-kriket-kurallari-nelerdir-sporsepeti-sportsfly-spor-kutuphanesi.jpg" group-title="IstPlay - KRİKET",THUNDERWOLVES vs BHIGWAN RIDERS (AKLUJ RURAL CHAMPIONSHIP) (telegram @playtvmedya)
-https://e2-22.n4154.xyz/35391821.m3u8
 #EXTINF:-1 tvg-name="KRİKET" tvg-logo="https://storage.acerapps.io/app-1358/kriket-nedir-nasil-oynanir-kriket-kurallari-nelerdir-sporsepeti-sportsfly-spor-kutuphanesi.jpg" group-title="IstPlay - KRİKET",DHANKA TITANS vs DHANKA KNIGHT RIDERS (INDIA. DHANKA PREMIER LEAGUE AJMER) (telegram @playtvmedya)
 https://e1-22.n4154.xyz/35392447.m3u8
 #EXTINF:-1 tvg-name="KRİKET" tvg-logo="https://storage.acerapps.io/app-1358/kriket-nedir-nasil-oynanir-kriket-kurallari-nelerdir-sporsepeti-sportsfly-spor-kutuphanesi.jpg" group-title="IstPlay - KRİKET",SILIGURI LIONS vs MEDICO MAVERICKS (INDIA. SRT CPL CHAMPIONSHIP) (telegram @playtvmedya)
@@ -242,22 +234,28 @@ https://e1-22.n4154.xyz/35393541.m3u8
 https://e1-22.n4154.xyz/35393567.m3u8
 #EXTINF:-1 tvg-name="KRİKET" tvg-logo="https://storage.acerapps.io/app-1358/kriket-nedir-nasil-oynanir-kriket-kurallari-nelerdir-sporsepeti-sportsfly-spor-kutuphanesi.jpg" group-title="IstPlay - KRİKET",GOLDRUSH BOLAND vs HOLLYWOODBETS DOLPHINS (CSA T20 CHALLENGE) (telegram @playtvmedya)
 https://e3-22.n4154.xyz/35393701.m3u8
-#EXTINF:-1 tvg-name="KRİKET" tvg-logo="https://storage.acerapps.io/app-1358/kriket-nedir-nasil-oynanir-kriket-kurallari-nelerdir-sporsepeti-sportsfly-spor-kutuphanesi.jpg" group-title="IstPlay - KRİKET",HAWKS vs RHINOS (CHENNAI DAILY CRICKET) (telegram @playtvmedya)
+#EXTINF:-1 tvg-name="KRİKET" tvg-logo="https://storage.acerapps.io/app-1358/kriket-nedir-nasil-oynanir-kriket-kurallari-nelerdir-sporsepeti-sportsfly-spor-kutuphanesi.jpg" group-title="IstPlay - KRİKET",HAWKS CHENNAI vs RHINOS CHENNAI (CHENNAI DAILY CRICKET) (telegram @playtvmedya)
 https://e4-22.n4154.xyz/35393751.m3u8
+#EXTINF:-1 tvg-name="KRİKET" tvg-logo="https://storage.acerapps.io/app-1358/kriket-nedir-nasil-oynanir-kriket-kurallari-nelerdir-sporsepeti-sportsfly-spor-kutuphanesi.jpg" group-title="IstPlay - KRİKET",SPORTABLE vs TRIUMPHANTS1 (INDIA. INDOOR SERIES) (telegram @playtvmedya)
+https://e2-22.n4154.xyz/35393759.m3u8
+#EXTINF:-1 tvg-name="KRİKET" tvg-logo="https://storage.acerapps.io/app-1358/kriket-nedir-nasil-oynanir-kriket-kurallari-nelerdir-sporsepeti-sportsfly-spor-kutuphanesi.jpg" group-title="IstPlay - KRİKET",RED RAIDERS vs CITY HULKS (AKLUJ RURAL CHAMPIONSHIP) (telegram @playtvmedya)
+https://e2-22.n4154.xyz/35393941.m3u8
 #EXTINF:-1 tvg-name="BOKS" tvg-logo="https://www.sportsmith.co/wp-content/uploads/2023/04/Thumbnail-scaled.jpg" group-title="IstPlay - BOKS",PETHAOKRADONG LUKJAMESAITHONG vs AYOUB EL KHADRAOUI (BOXING/MMA) (telegram @playtvmedya)
 https://e3-22.n4154.xyz/35393319.m3u8
 #EXTINF:-1 tvg-name="BOKS" tvg-logo="https://www.sportsmith.co/wp-content/uploads/2023/04/Thumbnail-scaled.jpg" group-title="IstPlay - BOKS",SHERZOD HABIBOV vs ASADBEK BEKMIRZAEV (BOXING/MMA) (telegram @playtvmedya)
 https://e1-22.n4154.xyz/35393737.m3u8
+#EXTINF:-1 tvg-name="BOKS" tvg-logo="https://www.sportsmith.co/wp-content/uploads/2023/04/Thumbnail-scaled.jpg" group-title="IstPlay - BOKS",PAYAK SAKSATUN vs DED SOR CHOKMICHAY (BOXING/MMA) (telegram @playtvmedya)
+https://e2-22.n4154.xyz/35393831.m3u8
+#EXTINF:-1 tvg-name="BOKS" tvg-logo="https://www.sportsmith.co/wp-content/uploads/2023/04/Thumbnail-scaled.jpg" group-title="IstPlay - BOKS",BAHT ILESOV vs HURSAND IMANKULIEV (BOXING/MMA) (telegram @playtvmedya)
+https://e1-22.n4154.xyz/35393841.m3u8
 #EXTINF:-1 tvg-name="FLOORBALL" tvg-logo="" group-title="IstPlay - FLOORBALL",KARELIA (W) vs NIZHEGORODEC (W) (RUSSIA CHAMPIONSHIP WOMEN) (telegram @playtvmedya)
 https://e2-22.n4154.xyz/35393213.m3u8
 #EXTINF:-1 tvg-name="DARTS" tvg-logo="" group-title="IstPlay - DARTS",DAVID WAWRZEWSKI vs PETER JACQUES (MODUS SUPER SERIES WEEK 11) (telegram @playtvmedya)
 https://e3-22.n4154.xyz/35393181.m3u8
 #EXTINF:-1 tvg-name="DARTS" tvg-logo="" group-title="IstPlay - DARTS",SCOTT CAMPBELL vs STEVEN JOHNSTONE (MODUS SUPER SERIES WEEK 11) (telegram @playtvmedya)
 https://e4-22.n4154.xyz/35393361.m3u8
-#EXTINF:-1 tvg-name="DARTS" tvg-logo="" group-title="IstPlay - DARTS",PETER JACQUES vs JONATHAN PLATT (MODUS SUPER SERIES WEEK 11) (telegram @playtvmedya)
-https://e4-22.n4154.xyz/35393703.m3u8
-#EXTINF:-1 tvg-name="FUTSAL" tvg-logo="" group-title="IstPlay - FUTSAL",DAEM PANAH vs KASRA GARMDARE (IRAN PREMIER LEAGUE) (telegram @playtvmedya)
-https://e2-22.n4154.xyz/35392505.m3u8
+#EXTINF:-1 tvg-name="DARTS" tvg-logo="" group-title="IstPlay - DARTS",DAVID AIREY vs STEVEN JOHNSTONE (MODUS SUPER SERIES WEEK 11) (telegram @playtvmedya)
+https://e3-22.n4154.xyz/35393943.m3u8
 #EXTINF:-1 tvg-name="FUTSAL" tvg-logo="" group-title="IstPlay - FUTSAL",VIZ SINARA YEKATERINBURG II vs MFC GLAZOV (RUSSIA HIGHER DIVISION) (telegram @playtvmedya)
 https://e3-22.n4154.xyz/35392887.m3u8
 #EXTINF:-1 tvg-name="FUTSAL" tvg-logo="" group-title="IstPlay - FUTSAL",TYUMEN vs VIZ (RUSSIA SUPERLEAGUE) (telegram @playtvmedya)
@@ -268,8 +266,6 @@ https://e3-22.n4154.xyz/35393537.m3u8
 https://e2-22.n4154.xyz/35393555.m3u8
 #EXTINF:-1 tvg-name="FUTSAL" tvg-logo="" group-title="IstPlay - FUTSAL",ECUADOR U20 vs PERU U20 (CONMEBOL LIGA EVOLUCION U20) (telegram @playtvmedya)
 https://e2-22.n4154.xyz/35393569.m3u8
-#EXTINF:-1 tvg-name="AT YARIŞI" tvg-logo="https://medya-cdn.tjk.org/haberftp/2022/ayyd12082022.jpg" group-title="IstPlay - AT YARIŞI",CHELTENHAM (UNITED KINGDOM) (telegram @playtvmedya)
-https://e3-22.n4154.xyz/35393401.m3u8
 #EXTINF:-1 tvg-name="AT YARIŞI" tvg-logo="https://medya-cdn.tjk.org/haberftp/2022/ayyd12082022.jpg" group-title="IstPlay - AT YARIŞI",NEWCASTLE (UNITED KINGDOM) (telegram @playtvmedya)
 https://e3-22.n4154.xyz/35393621.m3u8
 #EXTINF:-1 tvg-name="AT YARIŞI" tvg-logo="https://medya-cdn.tjk.org/haberftp/2022/ayyd12082022.jpg" group-title="IstPlay - AT YARIŞI",RIYADH (SAUDI ARABIA) (telegram @playtvmedya)
@@ -280,3 +276,9 @@ https://e1-22.n4154.xyz/35393633.m3u8
 https://e2-22.n4154.xyz/35393711.m3u8
 #EXTINF:-1 tvg-name="AT YARIŞI" tvg-logo="https://medya-cdn.tjk.org/haberftp/2022/ayyd12082022.jpg" group-title="IstPlay - AT YARIŞI",SAINT CLOUD (FRANCE) (telegram @playtvmedya)
 https://e4-22.n4154.xyz/35393731.m3u8
+#EXTINF:-1 tvg-name="AT YARIŞI" tvg-logo="https://medya-cdn.tjk.org/haberftp/2022/ayyd12082022.jpg" group-title="IstPlay - AT YARIŞI",CHELTENHAM (UNITED KINGDOM) (telegram @playtvmedya)
+https://e3-22.n4154.xyz/35393871.m3u8
+#EXTINF:-1 tvg-name="AT YARIŞI" tvg-logo="https://medya-cdn.tjk.org/haberftp/2022/ayyd12082022.jpg" group-title="IstPlay - AT YARIŞI",RIYADH (SAUDI ARABIA) (telegram @playtvmedya)
+https://e4-22.n4154.xyz/35393935.m3u8
+#EXTINF:-1 tvg-name="AT YARIŞI" tvg-logo="https://medya-cdn.tjk.org/haberftp/2022/ayyd12082022.jpg" group-title="IstPlay - AT YARIŞI",NEWCASTLE (UNITED KINGDOM) (telegram @playtvmedya)
+https://e2-22.n4154.xyz/35393989.m3u8
