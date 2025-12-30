@@ -29,7 +29,7 @@ TV_IDS = {
 }
 
 def get_matches(endpoint="all"):
-    url = f"https://streamed.pk/api/matches/{endpoint}"
+    url = f"https://streamed.pk/api/matches/live{endpoint}"
     try:
         print(f"📡 Fetching {endpoint} matches from the API...")
         response = requests.get(url, timeout=20)
