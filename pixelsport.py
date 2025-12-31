@@ -65,7 +65,7 @@ def get_league_info(league_name):
     for key, (tvid, logo, display_name) in LEAGUE_INFO.items():
         if key.lower() in league_name.lower():
             return tvid, logo, display_name
-    return ("Pixelsports.Dummy.us", "", "Live Sports")
+    return (".Dummy.us", "", "Live Sports")
 
 def build_m3u(events):
     """Generate M3U8 playlist text with EXTVLCOPT headers and smart group titles."""
