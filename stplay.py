@@ -145,7 +145,7 @@ def main():
             display_sport = sport_info["name"]
             logo_url = sport_info.get("logo", "")
 
-            group_title = f"IstPlay - {display_sport}"
+            group_title = f" {display_sport}"
 
             if sport_name.upper() == "HORSE_RACING":
                 display_title = f"{start_time_str}{home.upper()} ({league.upper()}) (telegram @playtvmedya)"
