@@ -260,7 +260,7 @@ async def generate_playlist():
 
             content.append(
                 f'#EXTINF:-1 tvg-id="{tv_id}" tvg-name="{title}" '
-                f'tvg-logo="{logo or FALLBACK_LOGOS["other"]}" group-title="StreamedSU - {display_cat}",{title}'
+                f'tvg-logo="{logo or FALLBACK_LOGOS["other"]}" group-title=" {display_cat}",{title}'
             )
             content.append(f'#EXTVLCOPT:http-origin={CUSTOM_HEADERS["Origin"]}')
             content.append(f'#EXTVLCOPT:http-referrer={CUSTOM_HEADERS["Referer"]}')
