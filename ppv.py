@@ -48,17 +48,17 @@ CATEGORY_TVG_IDS = {
 }
 
 GROUP_RENAME_MAP = {
-    "24/7 Streams": "PPVLand - Live Channels 24/7",
-    "Wrestling": "PPVLand - Wrestling Events",
-    "Football": "PPVLand - Global Football Streams",
-    "Basketball": "PPVLand - Basketball Hub",
-    "Baseball": "PPVLand - Baseball Action HD",
-    "Combat Sports": "PPVLand - MMA & Fight Nights",
-    "Motorsports": "PPVLand - Motorsport Live",
-    "Miscellaneous": "PPVLand - Random Events",
-    "Boxing": "PPVLand - Boxing",
-    "Darts": "PPVLand - Darts",
-    "American Football": "PPVLand - NFL Action"
+    "24/7 Streams": " Live Channels 24/7",
+    "Wrestling": " Wrestling Events",
+    "Football": " Global Football Streams",
+    "Basketball": " Basketball Hub",
+    "Baseball": " Baseball Action HD",
+    "Combat Sports": " MMA & Fight Nights",
+    "Motorsports": " Motorsport Live",
+    "Miscellaneous": " Random Events",
+    "Boxing": " Boxing",
+    "Darts": " Darts",
+    "American Football": " NFL Action"
 }
 
 async def check_m3u8_url(url):
