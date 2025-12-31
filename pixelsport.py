@@ -85,7 +85,7 @@ def build_m3u(events):
             logo = group_logo
 
         for link in collect_links(ev):
-            lines.append(f'#EXTINF:-1 tvg-id="{tvid}" tvg-logo="{logo}" group-title="Pixelsports - {group_display}",{title}')
+            lines.append(f'#EXTINF:-1 tvg-id="{tvid}" tvg-logo="{logo}" group-title=" {group_display}",{title}')
             lines.append(f"#EXTVLCOPT:http-user-agent={VLC_USER_AGENT}")
             lines.append(f"#EXTVLCOPT:http-referrer={VLC_REFERER}")
             lines.append(f"#EXTVLCOPT:http-icy-metadata={VLC_ICY}")
