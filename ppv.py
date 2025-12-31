@@ -50,15 +50,15 @@ CATEGORY_TVG_IDS = {
 GROUP_RENAME_MAP = {
     "24/7 Streams": " Live Channels 24/7",
     "Wrestling": " Wrestling Events",
-    "Football": " Global Football Streams",
-    "Basketball": " Basketball Hub",
+    "Football": " FUTBOL",
+    "Basketball": " BASKETBOL",
     "Baseball": " Baseball Action HD",
     "Combat Sports": " MMA & Fight Nights",
     "Motorsports": " Motorsport Live",
     "Miscellaneous": " Random Events",
     "Boxing": " Boxing",
     "Darts": " Darts",
-    "American Football": " NFL Action"
+    "American Football": " NFL"
 }
 
 async def check_m3u8_url(url):
