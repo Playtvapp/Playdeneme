@@ -9,18 +9,16 @@
       "type": "LIVE"
     },
     {
-      "url": "https://raw.githubusercontent.com/Playtvapp/Playdeneme/main/PPVLand.m3u8",
-      "type": "LIVE"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/Playtvapp/Denemeyt/main/youtube.m3u",
-      "type": "LIVE"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/sultansmgr/smart/main/FilmEkseni.m3u",
+      "url": "ttps://raw.githubusercontent.com/Playtvapp/Denemeyt/main/youtube.m3u",
       "type": "MOVIE"
+    },
+    {
+      "url": "https://ornek.com/karisik_dizi.m3u",
+      "type": "SERIES"
+    },
+    {
+      "url": "https://ornek.com/karisik_hersey.m3u",
+      "type": "AUTO" 
     }
-  ],
-  "mesaj": "Hoşgeldiniz, Tüm Listeler Yüklendi",
-  "aktif": true
+  ]
 }
