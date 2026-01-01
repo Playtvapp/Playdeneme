@@ -1,12 +1,26 @@
 {
-  "playlists": [
-    "https://raw.githubusercontent.com/Playtvapp/Playdeneme/main/androiptv.m3u8",
-    "https://raw.githubusercontent.com/Playtvapp/Playdeneme/main/Pixelsports.m3u8",
-    "https://raw.githubusercontent.com/Playtvapp/Playdeneme/main/PPVLand.m3u8",
-
-"https://raw.githubusercontent.com/Playtvapp/Denemeyt/main/youtube.m3u",
-    "https://raw.githubusercontent.com/sultansmgr/smart/main/FilmEkseni.m3u"
+  "sources": [
+    {
+      "url": "https://raw.githubusercontent.com/Playtvapp/Playdeneme/main/androiptv.m3u8",
+      "type": "LIVE"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Playtvapp/Playdeneme/main/Pixelsports.m3u8",
+      "type": "LIVE"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Playtvapp/Playdeneme/main/PPVLand.m3u8",
+      "type": "LIVE"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Playtvapp/Denemeyt/main/youtube.m3u",
+      "type": "LIVE"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/sultansmgr/smart/main/FilmEkseni.m3u",
+      "type": "MOVIE"
+    }
   ],
   "mesaj": "Hoşgeldiniz, Tüm Listeler Yüklendi",
   "aktif": true
-} 
+}
