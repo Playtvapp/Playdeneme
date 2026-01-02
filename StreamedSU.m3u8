@@ -1,14 +1,29 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="United States vs. Finland" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Hockey",United States vs. Finland
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gg.poocloud.in/iihf/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Indiana Pacers vs San Antonio Spurs" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Indiana Pacers vs San Antonio Spurs
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/JXydaVGXLfBggSeLzQlBOaVBdfAicQpW/delta/stream/live_nba_pacers-spurs-live-streaming-427210416/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Washington Wizards vs Brooklyn Nets" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Washington Wizards vs Brooklyn Nets
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/EuxDonkSVXceMMSHxXuWrtexODLUTCpu/delta/stream/live_nba_wizards-nets-live-streaming-427210848/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Western Kentucky vs Sam Houston State" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDgkwAAwhuIRDG0gAJiAi4ju1RZS4CFJnxRcwZeEXmjHTWmGdjREIA.webp" group-title=" Basketball",Western Kentucky vs Sam Houston State
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/MMHNjWRCuDeuSFEVmzeTQcZarJsjvkkl/delta/stream/live_ncaa_w-kentucky-sam-houston-st-live-streaming-460299888/1/playlist.m3u8
+https://lb7.strmd.top/secure/ROfIgFJZjnfhQIeiGlApptzvKyPOukMr/delta/stream/live_ncaa_w-kentucky-sam-houston-st-live-streaming-460299888/1/playlist.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="USA U20 vs Finland U20" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Hockey",USA U20 vs Finland U20
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/HJzdWUIKaPxPPiGebwmqcbwLsDSmRhsg/delta/stream/live_u20-world-championship-knockout-stage_usa-u20-finland-u20-live-streaming-487401840/1/playlist.m3u8
+https://lb1.strmd.top/secure/EuKSJdaCdUeTMBnQzKtcJSjCfanrcjAF/delta/stream/live_u20-world-championship-knockout-stage_usa-u20-finland-u20-live-streaming-487401840/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="Cincinnati vs Navy" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQgUYsGCRgSIbiF0ATEBBCJExxPrWEYwJn3Vsd5evNHqmtTaKl0gA.webp" group-title=" American Football",Cincinnati vs Navy
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -23,52 +38,17 @@ https://gg.poocloud.in/wjc_cze/index.m3u8
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/ecTIFUlYXuXsYJItzlmXAMRKUwqcAXRJ/delta/stream/live_ncaa_niagara-sacred-heart-live-streaming-427255776/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Canisius vs Fairfield" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATEIhIgUYJCH3cQWg9qMaQEEIZgEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Basketball",Canisius vs Fairfield
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/WgNGoCKLINyytbpvTkAUBtnrSHBwBGrw/delta/stream/live_ncaa_canisius-fairfield-live-streaming-427252320/1/playlist.m3u8
+https://lb6.strmd.top/secure/tJVEmmDzhrbzTyBCbizEPHpflrXxehvR/delta/stream/live_ncaa_niagara-sacred-heart-live-streaming-427255776/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Primeira Liga: Guimaraes vs Nacional" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHIyDYEYwPE1pUwLBDq5DaV8mDvAVQiEA.webp" group-title=" Football",Primeira Liga: Guimaraes vs Nacional
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/cbqwoKBqLbnuXFwHYOSwlafCIlVkkOuj/charlie/stream/guimaraes-vs-nacional-1396389/1/playlist.m3u8
+https://lb4.strmd.top/secure/jcjqPjRIwMBjxLdbSUBEilBIIpJeNWXU/charlie/stream/guimaraes-vs-nacional-1396389/1/playlist.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Czechia U20 vs Switzerland U20" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Hockey",Czechia U20 vs Switzerland U20
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/YtlyZutSJggMiFrQzVdQnYjNToeROXul/delta/stream/live_u20-world-championship-knockout-stage_czechia-u20-switzerland-u20-live-streaming-487401408/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="St. Louis Blues vs Vegas Golden Knights" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACAJnRAQQJXCG4g1+kCh0hERoyBMEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Hockey",St. Louis Blues vs Vegas Golden Knights
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/stlouisblues/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Rayo Vallecano vs Getafe" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIpQuEJpQhuIACYgSh49oggzRxhSZ81bMGXhF5otU1pgHY0RCA.webp" group-title=" Football",Rayo Vallecano vs Getafe
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/ll_ray/index.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Bristol Bears vs Sale Sharks" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhybywIMlAghuGvThggAJnr4hzywjGBM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Rugby",Bristol Bears vs Sale Sharks
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/AQUHYxMOuuvAbFptChDitURKxbtvmFhu/charlie/stream/bristol-bears-vs-sale-sharks-1629472880/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Cagliari vs AC Milan" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gAJuThkc3EBD0hDhmCDWmQuvgQpMrXMGXhF5olMCa0wDsaIhA.webp" group-title=" Football",Cagliari vs AC Milan
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/sa_cag/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Toulouse vs Lens" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDxYYEJTCjQ3ECRAoQxvoZCm9R5YRjAmfFF23l680Y6a0w2saIhA.webp" group-title=" Football",Toulouse vs Lens
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/l1_tou/index.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="PREM Rugby: Newcastle Falcons vs Gloucester Rugby" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SgBMQIMhZwgWICCEmT6IU517AHz64xeS7iIGewOaE9u4cNrgEMMB4enRgLAoQnKxYcWJgScFCEEA.webp" group-title=" American Football",PREM Rugby: Newcastle Falcons vs Gloucester Rugby
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/tMpGaGIlUbmvPWYoCHdnHlCTvnCrGuWo/charlie/stream/newcastle-falcons-vs-gloucester-rugby-1629472879/1/playlist.m3u8
+https://lb1.strmd.top/secure/JaGCwnPZFpIKGloYNmRPdEhxokGagVvL/delta/stream/live_u20-world-championship-knockout-stage_czechia-u20-switzerland-u20-live-streaming-487401408/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="World Darts Championship" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title=" Darts",World Darts Championship
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -78,9 +58,4 @@ https://gg.poocloud.in/darts/index.m3u8
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/yqAoHzLRIxELNUdRnXpHBpGjPpxCxBlD/charlie/stream/semi-finals-1629472876/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Merrimack Warriors vs Mount St Mary's Mountaineers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Merrimack Warriors vs Mount St Mary's Mountaineers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/wAWmUKnYfjysxahnatuWwcoZBApzUFkc/delta/stream/live_ncaa_merrimack-mount-st-marys-live-streaming-427255344/1/playlist.m3u8
+https://lb2.strmd.top/secure/CbiYVqmUkHZXFgniWoVkpwjCGCmITGHZ/charlie/stream/semi-finals-1629472876/1/playlist.m3u8
