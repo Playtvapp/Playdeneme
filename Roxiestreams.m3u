@@ -1,55 +1,55 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Roxiestreams - Fulham vs Chelsea
-https://601.shadow-ran.online/chelsea.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Roxiestreams - Manchester City vs Brighton
 https://daffodil.shadow-ran.online/main.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Roxiestreams - Benfica vs Sporting Braga
 https://601.shadow-ran.online/benfica.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Roxiestreams - Fulham vs Chelsea
+https://601.shadow-ran.online/chelsea.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Soccer.png" tvg-id="Soccer.Dummy.us" group-title="Roxiestreams",Roxiestreams - Everton vs Wolves
 https://601.shadow-ran.online/everton.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Roxiestreams - Washington Wizards vs Philadelphia 76ers
-https://daffodil.shadow-ran.online/nba3.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Roxiestreams - New Orleans Pelicans vs Atlanta Hawks
 https://601.shadow-ran.online/nba5.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Roxiestreams - Toronto Raptors vs Charlotte Hornets
 https://daffodil.shadow-ran.online/nba.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Roxiestreams - Denver Nuggets vs Boston Celtics
-https://601.shadow-ran.online/nba4.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Roxiestreams - Denver Nuggets vs Boston Celtics
-https://daffodil.shadow-ran.online/nba4.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Roxiestreams - Orlando Magic vs Brooklyn Nets
-https://601.shadow-ran.online/nba4.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Roxiestreams - Orlando Magic vs Brooklyn Nets
-https://daffodil.shadow-ran.online/nba4.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Roxiestreams - Chicago Bulls vs Detroit Pistons
 https://daffodil.shadow-ran.online/nba2.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Roxiestreams - Washington Wizards vs Philadelphia 76ers
+https://daffodil.shadow-ran.online/nba3.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Roxiestreams - Los Angeles Clippers vs New York Knicks
 https://daffodil.shadow-ran.online/nba.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Roxiestreams - Boston Bruins vs Seattle Kraken
-https://601.shadow-ran.online/nhl10.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Roxiestreams - Orlando Magic vs Brooklyn Nets
+https://daffodil.shadow-ran.online/nba4.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Roxiestreams - Orlando Magic vs Brooklyn Nets
+https://601.shadow-ran.online/nba4.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Roxiestreams - Denver Nuggets vs Boston Celtics
+https://daffodil.shadow-ran.online/nba4.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" tvg-id="NBA.Basketball.Dummy.us" group-title="Roxiestreams",Roxiestreams - Denver Nuggets vs Boston Celtics
+https://601.shadow-ran.online/nba4.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Roxiestreams - Vancouver Canucks vs Buffalo Sabres
+https://601.shadow-ran.online/nhl.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Roxiestreams - New Jersey Devils vs New York Islanders
+https://601.shadow-ran.online/nhl5.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Roxiestreams - Florida Panthers vs Toronto Maple Leafs
+https://601.shadow-ran.online/nhl6.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Roxiestreams - Columbus Blue Jackets vs San Jose Sharks
+https://601.shadow-ran.online/nhl9.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Roxiestreams - Colorado Avalanche vs Tampa Bay Lightning
 https://601.shadow-ran.online/nhl2.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Roxiestreams - Anaheim Ducks vs Philadelphia Flyers
 https://601.shadow-ran.online/nhl3.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Roxiestreams - Vancouver Canucks vs Buffalo Sabres
-https://601.shadow-ran.online/nhl.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Roxiestreams - Columbus Blue Jackets vs San Jose Sharks
-https://601.shadow-ran.online/nhl9.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Roxiestreams - Dallas Stars vs Carolina Hurricanes
 https://601.shadow-ran.online/nhl4.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Roxiestreams - New Jersey Devils vs New York Islanders
-https://601.shadow-ran.online/nhl5.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Roxiestreams - Nashville Predators vs Edmonton Oilers
 https://601.shadow-ran.online/nhl8.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Roxiestreams - Boston Bruins vs Seattle Kraken
+https://601.shadow-ran.online/nhl10.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Roxiestreams - Vegas Golden Knights vs Winnipeg Jets
 https://601.shadow-ran.online/nhl7.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="Unknown.Dummy.us" group-title="Roxiestreams",Roxiestreams - Florida Panthers vs Toronto Maple Leafs
-https://601.shadow-ran.online/nhl6.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",Roxiestreams - WWE NXT
-https://601.shadow-ran.online/wwe.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",Roxiestreams - WWE NXT
 https://601.shadow-ran.online/wwe2.m3u8
-#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",Roxiestreams - WWE Smackdown
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",Roxiestreams - WWE NXT
 https://601.shadow-ran.online/wwe.m3u8
 #EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",Roxiestreams - WWE Smackdown
 https://601.shadow-ran.online/wwe2.m3u8
+#EXTINF:-1 tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png" tvg-id="PPV.EVENTS.Dummy.us" group-title="Roxiestreams",Roxiestreams - WWE Smackdown
+https://601.shadow-ran.online/wwe.m3u8
