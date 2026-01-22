@@ -1,41 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="WRC Monte Carlo: Live Stage 1" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",WRC Monte Carlo: Live Stage 1
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/sZliVyyFbvpyxFUwMDZiVBrDQhjwRbus/charlie/stream/live-stage-1-1629473820/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="World Rally Championship Monte Carlo" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",World Rally Championship Monte Carlo
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/FdfGtDqpqWmwEuKIxJIwnaFIouRsPKSY/echo/stream/world-rally-championship-monte-carlo-racing-0059/1/playlist.m3u8
+https://lb6.strmd.top/secure/nksYueHmubRhSEKFWthTfgexOMLAewHx/echo/stream/world-rally-championship-monte-carlo-racing-0059/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Joburg Super Kings vs Paarl Royals" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title=" Cricket",Joburg Super Kings vs Paarl Royals
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/cGbEatXvjxwGtYOalltNazAUNWVHiRYD/charlie/stream/paarl-royals-vs-joburg-super-kings-1629473870/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Women's Premier League: Gujarat Giants vs UP Warriorz" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title=" Cricket",Women's Premier League: Gujarat Giants vs UP Warriorz
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/FLZAxbWDRSitTWLGWaQvvnefojXenDUy/charlie/stream/gujarat-giants-vs-up-warriorz-1629473868/1/playlist.m3u8
+https://lb8.strmd.top/secure/gEFYzJbCQODwsgjxdkpumCyATvfjSKhr/charlie/stream/gujarat-giants-vs-up-warriorz-1629473868/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Afghanistan vs West Indies" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SvRAteIWpMmHgEYUMQgX9nI+EATMYjNnyECCBhCAcIOQR-DDAeHp0YCwKDrZYMWJgCfas9kA.webp" group-title=" Cricket",Afghanistan vs West Indies
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/WBiIbxjchKIxOkbTndSERHkUacdENHjQ/charlie/stream/afghanistan-vs-west-indies-1629473869/1/playlist.m3u8
+https://lb2.strmd.top/secure/kKoTCfZjTKWuBjBYsILWTMMdeYJNLdnY/charlie/stream/afghanistan-vs-west-indies-1629473869/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Riyadh Season Horse Racing: Riyadh Racing Season Race Night 15" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Riyadh Season Horse Racing: Riyadh Racing Season Race Night 15
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/ebqJLhyMjyRQfZmwflZjUoudNBcYIGfZ/charlie/stream/riyadh-racing-season-race-night-15-1629473867/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Hero Dubai Desert Classic Round 1" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title=" Golf",Hero Dubai Desert Classic Round 1
+https://lb6.strmd.top/secure/ctUcVxtRgbFeBGlXujiKYgxVBpbBoexf/charlie/stream/riyadh-racing-season-race-night-15-1629473867/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="England tour of Sri Lanka: Sri Lanka vs England" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeOfjGB4mtKmBYIdXIbXPkw14CqEQgA.webp" group-title=" Cricket",England tour of Sri Lanka: Sri Lanka vs England
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/sgRvmuPqdxcUvIejvjKKMiRbrqFDjYZH/echo/stream/hero-dubai-desert-classic-dp-world-tour-pga-526234/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Sri Lanka vs England" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeOfjGB4mtKmBYIdXIbXPkw14CqEQgA.webp" group-title=" Cricket",Sri Lanka vs England
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/vYWtyaBUHCPjRJzBbowxQGNhYWpBiYiB/charlie/stream/sri-lanka-vs-england-1629473866/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="ICC Under-19 Cricket World Cup: West Indies U19 vs South Africa U19" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIFiER8CMYHia0qYFgh1chta+TD3gKoRCA.webp" group-title=" Cricket",ICC Under-19 Cricket World Cup: West Indies U19 vs South Africa U19
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/LATKYSrPKopErOMdxkmLRNafdoYkHdYH/charlie/stream/west-indies-vs-south-africa-1629473865/1/playlist.m3u8
+https://lb10.strmd.top/secure/lQyHzElUxHvxyIIdNKolsfMoExJaVgaP/charlie/stream/sri-lanka-vs-england-1629473866/1/playlist.m3u8
