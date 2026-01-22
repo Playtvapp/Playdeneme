@@ -1,31 +1,41 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="US Street Nationals Brandenton" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",US Street Nationals Brandenton
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/xhWEqDrmSUqfjOMQFaGqLrLOORrgWKlM/echo/stream/ppv-event-01-us-street-nationals-brandenton-ev-1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Napoli W vs Juventus W" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIY8fn8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp" group-title=" Football",Napoli W vs Juventus W
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/AhLdbHskPrzujQTEaYkTnnGWcuVxWXOn/charlie/stream/napoli-w-vs-juventus-w-1629474483/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="The American Express SKY" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title=" Golf",The American Express SKY
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/OClTNitsKTYNCYLFPAzphIZCwlwngBJi/echo/stream/the-american-express-pga-tour-tgl-001/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="World Rally Championship Monte Carlo" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",World Rally Championship Monte Carlo
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/nksYueHmubRhSEKFWthTfgexOMLAewHx/echo/stream/world-rally-championship-monte-carlo-racing-0059/1/playlist.m3u8
+https://lb2.strmd.top/secure/FdJgUUyLwXReHJNGFRytvxngZNSDtMlq/echo/stream/world-rally-championship-monte-carlo-racing-0059/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Joburg Super Kings vs Paarl Royals" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title=" Cricket",Joburg Super Kings vs Paarl Royals
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/cGbEatXvjxwGtYOalltNazAUNWVHiRYD/charlie/stream/paarl-royals-vs-joburg-super-kings-1629473870/1/playlist.m3u8
+https://lb7.strmd.top/secure/gGjzFTcALSScuynmJeeLrjfaOErAQvlk/charlie/stream/paarl-royals-vs-joburg-super-kings-1629473870/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Women's Premier League: Gujarat Giants vs UP Warriorz" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title=" Cricket",Women's Premier League: Gujarat Giants vs UP Warriorz
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/gEFYzJbCQODwsgjxdkpumCyATvfjSKhr/charlie/stream/gujarat-giants-vs-up-warriorz-1629473868/1/playlist.m3u8
+https://lb9.strmd.top/secure/IldrNvTtHaxXkyryGacXRpSfxFkxlUoA/charlie/stream/gujarat-giants-vs-up-warriorz-1629473868/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Afghanistan vs West Indies" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3SvRAteIWpMmHgEYUMQgX9nI+EATMYjNnyECCBhCAcIOQR-DDAeHp0YCwKDrZYMWJgCfas9kA.webp" group-title=" Cricket",Afghanistan vs West Indies
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/kKoTCfZjTKWuBjBYsILWTMMdeYJNLdnY/charlie/stream/afghanistan-vs-west-indies-1629473869/1/playlist.m3u8
+https://lb10.strmd.top/secure/gmSrFPceyorWoVcNKAWfvXohfzTDhUuR/charlie/stream/afghanistan-vs-west-indies-1629473869/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Riyadh Season Horse Racing: Riyadh Racing Season Race Night 15" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Riyadh Season Horse Racing: Riyadh Racing Season Race Night 15
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/ctUcVxtRgbFeBGlXujiKYgxVBpbBoexf/charlie/stream/riyadh-racing-season-race-night-15-1629473867/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="England tour of Sri Lanka: Sri Lanka vs England" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeOfjGB4mtKmBYIdXIbXPkw14CqEQgA.webp" group-title=" Cricket",England tour of Sri Lanka: Sri Lanka vs England
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/lQyHzElUxHvxyIIdNKolsfMoExJaVgaP/charlie/stream/sri-lanka-vs-england-1629473866/1/playlist.m3u8
+https://lb5.strmd.top/secure/kzNsPycICCimVXpxgRJDibXHwtLUYexo/charlie/stream/riyadh-racing-season-race-night-15-1629473867/1/playlist.m3u8
