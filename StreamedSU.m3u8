@@ -1,81 +1,66 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Grand Canyon vs San Diego State" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh24UQwMAhDbuIEtr0gIIGCBS5DZwjGBM+KLmDLwi80Q6a1NoqXSA.webp" group-title=" Basketball",Grand Canyon vs San Diego State
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/xRxhNFYAHLnboyUClHQWktQoAlnYtxwc/delta/stream/live_ncaa_gr-canyon-san-diego-st-live-streaming-461995488/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="USC vs Northwestern" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulzAmSYABM2IbrpCaQEXAf0gj+mAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Basketball",USC vs Northwestern
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/uuvRycvhMeKVjmtxWXiySXJlYDiDdnms/delta/stream/live_ncaa_usc-nw-wildcats-live-streaming-461996352/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs Kia Arena Gea - Wawrinka" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open vs Kia Arena Gea - Wawrinka
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/jqtwvEklSeFqUxsuiknAmsaNftGgLAma/charlie/stream/kia-arena-1629473844/1/playlist.m3u8
+https://lb6.strmd.top/secure/VfFvgvpqNLOdyvegzMErkcAICQiNlVhP/charlie/stream/kia-arena-1629473844/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs ANZ Arena Machac - Tsitsipas" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open vs ANZ Arena Machac - Tsitsipas
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/eooiPLGYHsacVwOjdGvOduXtszBOuJeS/charlie/stream/anz-arena-1629473838/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Auckland Aces vs Northern Brave" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACwwJjnp8Q3VSBggSIRCl0gzegCYEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Cricket",Auckland Aces vs Northern Brave
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/PtinyWzescIPqLRHkMCAKJWOhIxRUyTC/charlie/stream/auckland-aces-vs-northern-brave-1629473862/1/playlist.m3u8
+https://lb9.strmd.top/secure/vDumYkoRuZdUzGwYeEhfgNIavHguFocL/charlie/stream/anz-arena-1629473838/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Australian Open | Men's and Women's 1st Round - Melbourne Park" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Australian Open | Men's and Women's 1st Round - Melbourne Park
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/kTkKrimQOtwlUFIbCJecGovSJwpJsLLW/echo/stream/australian-open-mens-and-womens-1st-round-melbourne-park-game-183262/1/playlist.m3u8
+https://lb4.strmd.top/secure/XJrtyOfRkcTafFfGJcQkjqzvLVZzTGCX/echo/stream/australian-open-mens-and-womens-1st-round-melbourne-park-game-183262/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Court 8" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open: Court 8
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/yKlVcWzFsAULMUCxujNgLqNMoQWQQmsN/charlie/stream/court-8-1629473847/1/playlist.m3u8
+https://lb2.strmd.top/secure/uJVBlXowTRZmhzewqVFMeJirDuLiPwDT/charlie/stream/court-8-1629473847/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Court 15" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open: Court 15
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/JSTnvaRbhLEnybjuViunioXVQWmQfbYx/charlie/stream/court-15-1629473839/1/playlist.m3u8
+https://lb2.strmd.top/secure/qWRZTcLuSliSzerTOJpjoNhfqZGdmZGV/charlie/stream/court-15-1629473839/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Court 12" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open: Court 12
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/aAbmondgkymbKBrxWHcfPANGwDVVSQCi/charlie/stream/court-12-1629473845/1/playlist.m3u8
+https://lb3.strmd.top/secure/hezmcKjSkzcczjtlQoqBcmSoTHRrgBhv/charlie/stream/court-12-1629473845/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Court 13" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open: Court 13
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/NnbdxzHeqiLHqpbBNVowmWBoIoBerPEs/charlie/stream/court-13-1629473841/1/playlist.m3u8
+https://lb4.strmd.top/secure/EbdjZhDSGhgoMbmMaSPSVxgXUlNCcPtR/charlie/stream/court-13-1629473841/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Court 7" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open: Court 7
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/bdCOEeQsnXoeKJQrQBxNHBraqQYGKXyg/charlie/stream/court-7-1629473843/1/playlist.m3u8
+https://lb1.strmd.top/secure/GIFWZaOOSjhkzIQHnKhhDUMxIhkHulAG/charlie/stream/court-7-1629473843/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: 1573 Arena" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open: 1573 Arena
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/EeKytBkChCTMNNnoeRBQARlrSBBmpiXS/charlie/stream/1573-arena-1629473848/1/playlist.m3u8
+https://lb3.strmd.top/secure/VPblBHlMBqYTeFMnlIuiVnJcYVXGKoap/charlie/stream/1573-arena-1629473848/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open - Tennis: John Cain Arena" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open - Tennis: John Cain Arena
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/UEvXjzUNczmObKQcCxrxdUAKJVJfiHAO/charlie/stream/john-cain-arena-1629480945/1/playlist.m3u8
+https://lb9.strmd.top/secure/RnmQNFsbeubKUmUshXoAJhGnMcYZXNFd/charlie/stream/john-cain-arena-1629480945/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Court 6" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open: Court 6
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/lqWJqRtnjKQbKMNCkBrrnybupqTUhPqA/charlie/stream/court-6-1629473846/1/playlist.m3u8
+https://lb10.strmd.top/secure/mywUKiCTuWRSAYjiUvTDrSxLVxeGXzRH/charlie/stream/court-6-1629473846/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Court 5" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open: Court 5
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/uFMGDHYLsYOkcYpPpdSzCYwfjFsJmpVc/charlie/stream/court-5-1629473836/1/playlist.m3u8
+https://lb4.strmd.top/secure/rEhMMyWEtxpkbnqCnfoQAZwDmPIoVDxv/charlie/stream/court-5-1629473836/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Court 14" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open: Court 14
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/ahcIIDRSFFxufOwcUPlgfyrLhTrdibZb/charlie/stream/court-14-1629473840/1/playlist.m3u8
+https://lb1.strmd.top/secure/vjQXHBizkqodpvDmgyUPhIMHAYRyvmwj/charlie/stream/court-14-1629473840/1/playlist.m3u8
