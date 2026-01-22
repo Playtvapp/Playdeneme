@@ -1,41 +1,61 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="New Hampshire vs Binghamton" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1oRcIbiBSwNIACYg1mzSH1nEywjGBM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Basketball",New Hampshire vs Binghamton
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/UYfQpjnuGUFavvAWavXyMIeHOjXZwArC/delta/stream/live_ncaa_new-hampshire-binghamton-live-streaming-428595408/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="West Georgia vs Central Arkansas" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhADe3MElBhuIXQBMQEPSZAgSIFKpAwCFJnxRcwZeEXminTWmBdjREEA.webp" group-title=" Basketball",West Georgia vs Central Arkansas
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/YvTmrRYTyTdJrAnbUeZczViXrjgQxJui/delta/stream/live_ncaa_west-georgia-wolves-central-arkansas-live-streaming-462020976/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Green Bay vs Youngstown State" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Green Bay vs Youngstown State
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/qPzYTJtnLINydrbCfRbNygmmUhYUKQpi/delta/stream/live_ncaa_youngstown-st-uwgb-live-streaming-428600592/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Maine Black Bears vs Albany Great Danes" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Maine Black Bears vs Albany Great Danes
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/FMyuMNOGAAymMkQgKAfbgYFUbNRPrchi/delta/stream/live_ncaa_maine-albany-ny-live-streaming-428594112/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Maryland Baltimore County Retrievers vs NJIT Highlanders" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Maryland Baltimore County Retrievers vs NJIT Highlanders
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/jswCRbfYYGkNZAPUrIbjQELlDagvGuXw/delta/stream/live_ncaa_maryland-baltimore-njit-live-streaming-428594544/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="UMass Lowell River Hawks vs Vermont Catamounts" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",UMass Lowell River Hawks vs Vermont Catamounts
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/wRrljbGstbCHVpEGxhMZBGPVfsHQRhpU/delta/stream/live_ncaa_umass-lowell-vermont-live-streaming-428599728/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="PGA Tour: The American Express: Featured Group 2 (First Round)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title=" Golf",PGA Tour: The American Express: Featured Group 2 (First Round)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/nKeaRfEqUWdYLArUMOHdqtInpjCLBHIH/charlie/stream/the-american-express-featured-group-2-first-round-1629474392/1/playlist.m3u8
+https://lb2.strmd.top/secure/TNjfqfTpDraNtVrldXgLpXvsuJTSrmdU/charlie/stream/the-american-express-featured-group-2-first-round-1629474392/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Volusia Late Models" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Volusia Late Models
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/kbhQfplcIWueITcCvZJmGiJMcrhwMAnQ/echo/stream/ppv-event-02-volusia-late-models-ev-2/1/playlist.m3u8
+https://lb5.strmd.top/secure/ZfbKPPYocdqAlAvvPTBCsRVgSlSwxHYd/echo/stream/ppv-event-02-volusia-late-models-ev-2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Utrecht vs Genk" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpNggYIACZESIbiB2IIIY330gUu4wQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Football",Utrecht vs Genk
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://strm.poocloud.in/secure/HyXfeRZELzkRueMOgMIpeGcDxZdBfbTe/1769107800/1769129400/uel_utr/index.m3u8
+https://lb6.strmd.top/secure/mncoYonCUzdnfRssNmIPPUvRPLxGEvwc/echo/stream/utrecht-vs-genk-football-1451281/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="The Golazo Show   " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",The Golazo Show   
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/qFzccpHJySPpJAOqSDBCpdYJrsjddbyc/echo/stream/the-golazo-show-golaza-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="CBS Sports Golazo Show" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",CBS Sports Golazo Show
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://strm.poocloud.in/secure/lEzAttXMuzCZFnvrvUKWATmxmjvrlpkv/1769096700/1769131800/ucl_golazo/index.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="The American Express Round 1" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title=" Golf",The American Express Round 1
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/ZXlEgsEInPdPPrAoAFXxZHWhZdWVtaBU/echo/stream/the-american-express-pga-tour-tgl-001/1/playlist.m3u8
+https://strm.poocloud.in/secure/CJpveOlJkESSMNyopylViKfFABEsJJUJ/1769096700/1769131800/ucl_golazo/index.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="US Street Nationals Brandenton" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",US Street Nationals Brandenton
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/AFLMtrbxsRhRSVGzOgVPFsxOWQSpZBlk/echo/stream/ppv-event-01-us-street-nationals-brandenton-ev-1/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="The Golazo Show" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",The Golazo Show
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/bPUAVSYDdyGBIXpFNlhTOQeVPmnydySt/echo/stream/the-golazo-show-golaza-1/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="World Rally Championship Monte Carlo" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",World Rally Championship Monte Carlo
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/CRQtBMWBTTnsFfOctlmmRytHNXuNTKjZ/echo/stream/world-rally-championship-monte-carlo-racing-0059/1/playlist.m3u8
+https://lb2.strmd.top/secure/RvOegtpocLSCgUcGnIRypJvBGXMGjrRd/echo/stream/ppv-event-01-us-street-nationals-brandenton-ev-1/1/playlist.m3u8
