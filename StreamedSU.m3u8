@@ -1,41 +1,46 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs ANZ Arena Krawczyk/Skupski - Fernandez/Kyrgios" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open vs ANZ Arena Krawczyk/Skupski - Fernandez/Kyrgios
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="World Rally Championship Monte Carlo" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",World Rally Championship Monte Carlo
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/zrfuPGHbmpDNwcLIhlFUAfMLhaGnwJUA/charlie/stream/anz-arena-1629474404/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs Kia Arena Cerundolo - Rublev" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open vs Kia Arena Cerundolo - Rublev
+https://lb3.strmd.top/secure/yOlEVApPJenHIUGEaQvTCFzVKlzNeJQP/echo/stream/world-rally-championship-monte-carlo-racing-0059/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Brisbane Roar W vs Canberra W" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIbIRz8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp" group-title=" Football",Brisbane Roar W vs Canberra W
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/gCzYYmfmWhdUHvGlINFEapQZVaIDuBjC/charlie/stream/kia-arena-1629474412/1/playlist.m3u8
+https://lb2.strmd.top/secure/brKeqUTeIRRlqgfYtPuyThkjbCCKNWxO/charlie/stream/brisbane-roar-fc-w-vs-canberra-united-w-1484536/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Australia U19 vs Sri Lanka U19" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHHPxjA8TWlTAsEOrkNoXyYG8BVCIQA.webp" group-title=" Cricket",Australia U19 vs Sri Lanka U19
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/CETKJduGSSllHmiLWTkYHaTwSbnXsJPG/charlie/stream/sri-lanka-vs-australia-1629474434/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Bangladesh U19 vs USA U19" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHEIhAgI-GMDxNaVMCwQ6uQ2jfJgHwFUIhA.webp" group-title=" Cricket",Bangladesh U19 vs USA U19
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/CDuoohBraxsthoOpRrlteoXyjuqOzZex/charlie/stream/bangladesh-vs-usa-1629474433/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Canterbury Kings vs Wellington Firebirds" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIwQogAzYQibiD4g1JHSBQg9IU6YIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Cricket",Canterbury Kings vs Wellington Firebirds
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/QkjuHMfNzLZIvSIHMpgwBvirzmGSxIfY/charlie/stream/canterbury-kings-vs-wellington-firebirds-1629474431/1/playlist.m3u8
+https://lb9.strmd.top/secure/qkVIzTkLXkTdKmquSjtuaiPnZReagkUt/charlie/stream/canterbury-kings-vs-wellington-firebirds-1629474431/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="The Hero Dubai Desert Classic SKY" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title=" Golf",The Hero Dubai Desert Classic SKY
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/akyLUewmiFgarlxDxndoFnHaAysoOWrz/echo/stream/hero-dubai-desert-classic-dp-world-tour-pga-526234/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Margaret Court Arena" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open: Margaret Court Arena
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/qzzjZqstqhgSAHuXnntBpmpIACAWicho/charlie/stream/margaret-court-arena-1629481009/1/playlist.m3u8
+https://lb7.strmd.top/secure/YQSHFtsBHdgMkYjZfiuHmaEzAqiSHKHH/charlie/stream/margaret-court-arena-1629481009/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Rod Laver Arena" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open: Rod Laver Arena
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/DizBIsMHkmWFrkUWiMOOzGimOCcwZEvf/charlie/stream/rod-laver-arena-1629481008/1/playlist.m3u8
+https://lb6.strmd.top/secure/UIfLyCKSdwfsTuiNlWrcVKRJOHAdNWBS/charlie/stream/rod-laver-arena-1629481008/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Australian Open | Men's and Women's 1st Round - Melbourne Park" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Australian Open | Men's and Women's 1st Round - Melbourne Park
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/BBtgzlnBDOFhJvzDVmYQhtYYcwlhqtWI/echo/stream/australian-open-mens-and-womens-1st-round-melbourne-park-game-183262/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: John Cain Arena" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open: John Cain Arena
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/owOTmejNzazkvhRKgEHRooXKfqOHEmTA/charlie/stream/john-cain-arena-1629481007/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Court 13" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open: Court 13
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/mWnQFCcTkwFrWrDKyoxCMsqmpMsvzEJw/charlie/stream/court-13-1629474403/1/playlist.m3u8
+https://lb8.strmd.top/secure/NcsDASigZWNQuayWpIxQeXHaQcqdDOxl/echo/stream/australian-open-mens-and-womens-1st-round-melbourne-park-game-183262/1/playlist.m3u8
