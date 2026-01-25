@@ -1,96 +1,86 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Ottawa Senators vs Vegas Golden Knights" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhACAJnRAQQJXCG4g1+kCh0hERoyBMEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Hockey",Ottawa Senators vs Vegas Golden Knights
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://strm.poocloud.in/secure/uFlKRQtPhJdbrRSvowubPEoFDKGNcqPh/1769371200/1769396400/ottawasenators/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Vancouver Canucks vs Pittsburgh Penguins" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Hockey",Vancouver Canucks vs Pittsburgh Penguins
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/lqLxQKDsoHfSXoKVJskAobBMjVNeiZxX/delta/stream/live_nhl_canucks-penguins-live-streaming-494277984/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Novorizontino vs Botafogo-SP" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAM-EPDDhaEENxB8QMPRpAATc5ZK4CFJnxRcwZTfXmjHTWmGdjREIA.webp" group-title=" Football",Novorizontino vs Botafogo-SP
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/cPqRtzdscEJtGPayTDXbelZfxtfdtAem/echo/stream/novorizontino-vs-botafogo-sp-football-1500547/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Boca Juniors vs Deportivo Riestra" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCJE8kCBjAwIbiBIg+mkzgiqQKXAQpM+KLmDLwi80Q6a0wTsaIhA.webp" group-title=" Football",Boca Juniors vs Deportivo Riestra
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/VaHnWXVgyosCTybsdALDuCVhOgKylSmv/echo/stream/boca-juniors-vs-deportivo-riestra-football-1491822/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Minnesota Timberwolves vs Golden State Warriors" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Minnesota Timberwolves vs Golden State Warriors
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/OKZhmOXGauViLAIKFabXkzxRTNdwILbN/delta/stream/live_nba_timberwolves-warriors-live-streaming-428685696/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Wisconsin vs USC" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyRgAJmBQgtfMCBDcQJfQaMgIIGLhCIYBCkz4ouYMvCLzRzprTCuxohBAA.webp" group-title=" Basketball",Wisconsin vs USC
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/OscFpLDTLYumSaivdkoKsQUKxifLdKHg/delta/stream/live_ncaa_wisconsin-usc-live-streaming-462412368/1/playlist.m3u8
+https://lb4.strmd.top/secure/pPhGSdKBErdhOpZXyNVFaGCGFEkxOyua/delta/stream/live_ncaa_wisconsin-usc-live-streaming-462412368/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Rionegro guilas vs Deportivo Pasto" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTAwbMClAhE3ECRB8QAExB6DKHbkMEKTPlo1l4ReaK1NaYMKKl0gA.webp" group-title=" Football",Rionegro guilas vs Deportivo Pasto
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/wBmdjJTirPmfIJMcFjaEZXjEUfcCGCEp/echo/stream/rionegro-aguilas-vs-deportivo-pasto-football-1505943/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Ottawa Senators vs Vegas Golden Knights" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Hockey",Ottawa Senators vs Vegas Golden Knights
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/OrGUnIyyGEJlVOAPWEVbGZfuetxEtESt/delta/stream/live_nhl_senators-golden-knights-live-streaming-494277552/1/playlist.m3u8
+https://lb10.strmd.top/secure/sDZCHyxnnqyXYebNRbXLAqGqCXQguoRe/echo/stream/rionegro-aguilas-vs-deportivo-pasto-football-1505943/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Memphis Grizzlies vs Denver Nuggets" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAhKq4EhCiADCG7aQEEABMQMfadwg+RghSZ8UXMGXhF5o501phXY0QggA.webp" group-title=" Basketball",Memphis Grizzlies vs Denver Nuggets
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/QEYqtiiVhUyXPRxnjpnnKKBXiWeFkHwu/delta/stream/live_nba_grizzlies-nuggets-live-streaming-428874048/1/playlist.m3u8
+https://lb9.strmd.top/secure/bYkdzexCqTHUgTUYEWrohZIJrkGlDUfV/echo/stream/memphis-grizzlies-vs-denver-nuggets-basketball-470130/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Braga vs Alverca" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATYGGBJqKYKpDc1IFAeNmYICyeOEYwJn11swZeEXmjdTWmBdjREEA.webp" group-title=" Football",Braga vs Alverca
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/CpxnebUTxuqfahpwaqhdFguAzAtbTkuD/echo/stream/sc-braga-vs-alverca-football-1396401/1/playlist.m3u8
+https://lb2.strmd.top/secure/LhRQNeAgLBMgCsUuOzkNZYvBOpzQXBzB/echo/stream/sc-braga-vs-alverca-football-1396401/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="Denver Broncos vs New England Patriots" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnBQ+YcCkghuICLh16QiXSBAATEDAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" American Football",Denver Broncos vs New England Patriots
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://strm.poocloud.in/secure/eulagcNMgkFlPRiERJhSWjWCLdzDplPJ/1769364000/1769391000/denverbroncos/index.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Washington vs Oregon" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpkQow4MinYhuIEiAO6YuEBFMgAJjoIUmfLWzBl4ReaK1NaYJ2NEQgA.webp" group-title=" Basketball",Washington vs Oregon
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/quHyVnMoIzmReXOqLkcoYFVhUMjyZbWg/delta/stream/live_ncaa_washington-oregon-live-streaming-462410640/1/playlist.m3u8
+https://strm.poocloud.in/secure/TrYjUcbPPUWGsfPnlcAXcICSePByimUm/1769364000/1769391000/denverbroncos/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Detroit Pistons vs Sacramento Kings" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCiIIWlDhIQ3EABNdRkKpApTJvgQpMrXMGXhF5olMCa0wDsWqA.webp" group-title=" Basketball",Detroit Pistons vs Sacramento Kings
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://strm.poocloud.in/secure/zsyBXeethhFHNjUscxcPFwfeosUykOGF/1769364000/1769388480/detroitpistons/index.m3u8
+https://strm.poocloud.in/secure/PzZVorbNPLwDjgJqoTFjWbvhzONgbXoP/1769364000/1769388480/detroitpistons/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Seattle Kraken vs New Jersey Devils" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiQgoWcgBNYIbiE26QKECRCIDfNSBgEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Hockey",Seattle Kraken vs New Jersey Devils
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://strm.poocloud.in/secure/HQFRUdHQNbNUbcCxdQptRZvnhcDvzEHZ/1769364000/1769389200/seattlekraken/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Deportivo de La Corua vs Racing de Santander" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoQAgAzAtKMNxD6SIRABMQRvuYNXVhGMCZ8UXMGXhF5o501phXY0QggA.webp" group-title=" Football",Deportivo de La Corua vs Racing de Santander
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/wOicWnEARVDtIzHQkVGTvGtVeJTTtjpG/echo/stream/deportivo-la-coruna-vs-racing-santander-football-1392014/1/playlist.m3u8
+https://strm.poocloud.in/secure/WogZeEdzXfJPODhjZHjIMCjVFQKAjVEf/1769364000/1769389200/seattlekraken/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Deportivo Alavs vs Real Betis" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulyUw3MKLBgAJiG4g9exDgggSIRCEMEKTPii6by9eaMdNa20VLpA.webp" group-title=" Football",Deportivo Alavs vs Real Betis
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://strm.poocloud.in/secure/YjRJQGJrJOcnjBWeWZqaijicUXNMhhqf/1769364000/1769387400/laligatv/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Capivariano vs EC Primavera" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmuECGYh6fENxC6S247tMgYGghSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title=" Football",Capivariano vs EC Primavera
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/aZwrTeSMNZRvsQqgKOvAyuTVOifhOtHP/echo/stream/capivariano-vs-primavera-sp-football-1500546/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="CD Alaves vs Real Betis" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsICCHj1yDAMbNxPeCKrcCXVmDC58FoA.webp" group-title=" Football",CD Alaves vs Real Betis
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/pXaSgNButQVInIuyLPdoZxtWnGCVdsZo/echo/stream/alaves-vs-real-betis-football-1391019/1/playlist.m3u8
+https://strm.poocloud.in/secure/GIttuZDQLCjYdTOEMHmoHrGgwJMlwyOQ/1769364000/1769387400/laligatv/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Roma vs AC Milan" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gAJuThkc3EBD0hDhmCDWmQuvgQpMrXMGXhF5olMCa0wDsaIhA.webp" group-title=" Football",Roma vs AC Milan
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://strm.poocloud.in/secure/yrvjRTVIvjCMTbnRUwhIEvNhsnEjurlY/1769363100/1769386500/sa_roma/index.m3u8
+https://lb1.strmd.top/secure/ChetuJqozyVAGxPWakEyBgUFkeqpgPDP/admin/stream/ppv-as-roma-vs-ac-milan/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Lille vs Strasbourg" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxwhgABhB8tYbdy0gAJkZM4SIczBATCMYEz4ouYMvCLzRTprTAuxoiCA.webp" group-title=" Football",Lille vs Strasbourg
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://strm.poocloud.in/secure/spyaroAFlPcDICcEVkwXwaIdkYqevgCu/1769363100/1769386500/l1_lill/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bolivia vs Mexico" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDxsXKrRQhuIPiAggjJXCBM4YRghSZ8UXMGTX15o+01phHY0RCA.webp" group-title=" Football",Bolivia vs Mexico
+https://strm.poocloud.in/secure/wZYhsiotgZMSzaOrpmGJJbijuklPJfSX/1769363100/1769386500/l1_lill/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="The American Express Final Round" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title=" Golf",The American Express Final Round
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/uNKZhjEKoipNPsMsUMoPyWScPWEbwkco/echo/stream/bolivia-vs-mexico-football-1501811/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Toronto Maple Leafs vs Colorado Avalanche" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYMlE0huICLh2G+IRCRDHGFJnxRcN5evNG2mtMBrGiIQA.webp" group-title=" Hockey",Toronto Maple Leafs vs Colorado Avalanche
+https://lb2.strmd.top/secure/VFGCEfpodaEhNzPOrBoDnKakKeEiMyNX/charlie/stream/the-american-express-featured-hole-17-final-round-1629480093/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="The American Express	| PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",The American Express	| PGA Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://strm.poocloud.in/secure/RBUxCNVcfTVXLjIzRlXkLpjpOXqjAbqi/1769358600/1769383800/torontomapleleafs/index.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="PGA Tour: The American Express: Main Feed (Third Round)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title=" Golf",PGA Tour: The American Express: Main Feed (Third Round)
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/gzgInnRqczhiQrDOyIhPRaNKSsjAeqxl/echo/stream/the-american-express-pga-tour-tgl-001/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="US Street Nationals Bradenton   " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",US Street Nationals Bradenton   
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/nbfxlCudXkTHkcjRvRVJKbygazkazymE/echo/stream/ppv-event-01-us-street-nationals-bradenton-ppv-001/1/playlist.m3u8
+https://lb1.strmd.top/secure/HnghWWZvasPSZUMzNTLtwxQnZJBIiuuK/echo/stream/the-american-express-pga-tour-tgl-001/1/playlist.m3u8
