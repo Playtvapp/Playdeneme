@@ -1,101 +1,66 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs ANZ Arena Gibson/Ebden - Krunic/Pavic" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open vs ANZ Arena Gibson/Ebden - Krunic/Pavic
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs Kia Arena Jovic/Mboko - Mertens/Zhang" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open vs Kia Arena Jovic/Mboko - Mertens/Zhang
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/iOKfhUpiueQMJCcXFUJIgkWsGrlnaGIf/charlie/stream/anz-arena-1629480030/1/playlist.m3u8
+https://lb7.strmd.top/secure/AKNueMWXjbRNJQaWdoFQaPttXJKXBAKF/charlie/stream/kia-arena-1629480023/1/playlist.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Edmonton Oilers vs Washington Capitals" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApVzHuu4htAExCIQqkHxAQQMECVwEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Hockey",Edmonton Oilers vs Washington Capitals
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://strm.poocloud.in/secure/HBQhjKhyssIvRaqNBeIUkcQuAtmsZMho/1769302800/1769328000/edmontonoilers/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Wellington Phoenix W vs Adelaide United W" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIbIRAd+MYHia0qYFgh1chta+TD3gKoRCA.webp" group-title=" Football",Wellington Phoenix W vs Adelaide United W
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/VvpjgaMbZEsCiyMMFExQskGKAfamFRBw/charlie/stream/wellington-phoenix-w-vs-adelaide-united-w-1484539/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Utah Jazz vs Miami Heat" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBkAJiA18wIVSG56IIPrn0gjJjfAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Basketball",Utah Jazz vs Miami Heat
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://strm.poocloud.in/secure/bWCjvhgFXDKbuOhbejqHXxvMYvafyZld/1769301000/1769325480/utahjazz/index.m3u8
+https://strm.poocloud.in/secure/hnTSezOLCNXKjtSshXEYwDGZnoeLJcdx/1769302800/1769328000/edmontonoilers/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Raymond Muratalla vs Andy Cruz" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Raymond Muratalla vs Andy Cruz
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://strm.poocloud.in/secure/NEoleJfHzTbBjosEUNVErbAqtfsBwpSd/1769295600/1769331600/daznboxing/index.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Minnesota Wild vs Florida Panthers" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDhuRdUhDdtIEiAgg+u-apw4YBCkz4ouYMvCLzRdprTAOxoiEA.webp" group-title=" Hockey",Minnesota Wild vs Florida Panthers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://strm.poocloud.in/secure/VEsggkRVYOPdLwlUROTObdWJAaGjnPqU/1769299200/1769324400/minnesotawild/index.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Dallas Mavericks vs Los Angeles Lakers" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwghwoquD4huIbbtU4SIVcd0TCMYEz4ouYMvCLzRdprTAOxoiEA.webp" group-title=" Basketball",Dallas Mavericks vs Los Angeles Lakers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/xEtReRfYEgDHjLuNieHlqUWYoAcuaVOu/charlie/stream/los-angeles-lakers-vs-dallas-mavericks-1629480035/1/playlist.m3u8
+https://strm.poocloud.in/secure/uIafhHrYQfCcwNydElvBLXhiBjYzAWAI/1769295600/1769331600/daznboxing/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Saturday Nights Main Event #43" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Saturday Nights Main Event #43
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://strm.poocloud.in/secure/SftswaSuiYSEdWFilubvEByYnLapJOLA/1769295600/1769324400/snme/index.m3u8
+https://lb4.strmd.top/secure/cXgeqpPJmuUPhBBTuCXRFmZJztBNCAwX/echo/stream/ppv-event-07-wwe-saturday-nights-main-event-ppv-07/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="AEW Collision" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",AEW Collision
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/RKZoayowMUSvEMxsXsTeixWrGmkSaRQi/echo/stream/aew-saturday-night-collision-aew-1/1/playlist.m3u8
+https://lb2.strmd.top/secure/oqbrhXehRQnaZdZMMunNHiFlmYRNOrbo/echo/stream/aew-saturday-night-collision-aew-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name=" PBR Unleah The Beast Day 2" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other", PBR Unleah The Beast Day 2
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/WKWogYBILPGuVrCCtciMXnoIAweSMZMl/echo/stream/ppv-event-09-pbr-unleah-the-beast-day-2-ppv-09/1/playlist.m3u8
+https://lb5.strmd.top/secure/KtUpHHNgvqxAhBFjNYJnAULyGYmfiWEg/echo/stream/ppv-event-09-pbr-unleah-the-beast-day-2-ppv-09/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs Margaret Court Arena Siegemund/Roger-Vasselin - Gadecki/Peers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open vs Margaret Court Arena Siegemund/Roger-Vasselin - Gadecki/Peers
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/XxtRVNqTHuMZdjdJzrdtnWMdvuYzdtBv/charlie/stream/margaret-court-arena-1629481082/1/playlist.m3u8
+https://lb2.strmd.top/secure/WVXdpJgiqWMymUeHdXtMyFoWLIEDdbwc/charlie/stream/margaret-court-arena-1629481082/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs Rod Laver Arena Sabalenka - Mboko" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open vs Rod Laver Arena Sabalenka - Mboko
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/YImDncDedSNLCZggpfnlIKpPPNIariLU/charlie/stream/rod-laver-arena-1629481081/1/playlist.m3u8
+https://lb6.strmd.top/secure/lNScZZQDcNfcjFdHMCrqKJeeMKfKDzJO/charlie/stream/rod-laver-arena-1629481081/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Australian Open | Men's and Women's 1st Round - Melbourne Park" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Australian Open | Men's and Women's 1st Round - Melbourne Park
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/gfFlgrWVJOVuphBQGXjKSBvrSOsYWBMb/echo/stream/australian-open-mens-and-womens-1st-round-melbourne-park-game-183262/1/playlist.m3u8
+https://lb7.strmd.top/secure/frMaWDdNjPhPTQKvTwqXICesiephKMWN/echo/stream/australian-open-mens-and-womens-1st-round-melbourne-park-game-183262/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs John Cain Arena Cash/Tracy - Granollers/Zeballos" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open vs John Cain Arena Cash/Tracy - Granollers/Zeballos
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/eFRdZNbJwTbAHVEiALkFQFIUFQJUhxdh/charlie/stream/john-cain-arena-1629481080/1/playlist.m3u8
+https://lb3.strmd.top/secure/AeLiqKmdvvbClHeTTnzUXGoBAaLDlCXd/charlie/stream/john-cain-arena-1629481080/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs 1573 Arena Perez/Schuurs - Hozumi/Wu" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open vs 1573 Arena Perez/Schuurs - Hozumi/Wu
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/PbkEQAdYAdKCrwZRBrqmIEyVqSkHBVHd/charlie/stream/1573-arena-1629480028/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Kia Arena" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open: Kia Arena
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/zyLxLpSCWFComjLaqsapZgRqMSPLClyf/charlie/stream/kia-arena-1629480023/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Toughman" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Toughman
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/xRHzZiAQfZuOziBhtEOzuTLcltUlasWB/echo/stream/ppv-event-05-toughman-ppv-05/1/playlist.m3u8
+https://lb7.strmd.top/secure/poGrmFAtCJalbJXxAlWIoAvvrotqQNPa/charlie/stream/1573-arena-1629480028/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="CSE Combat The Gauntlet Tournament  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",CSE Combat The Gauntlet Tournament  
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/BmGjHtjbFoGzRiXmLlKducHItamiiVEv/echo/stream/ppv-event-04-cse-combat-the-gauntlet-tournament-ppv-004/1/playlist.m3u8
+https://lb9.strmd.top/secure/yiUPuqAnGyUtrPywQkJMWtPxNxpUUyrq/echo/stream/ppv-event-04-cse-combat-the-gauntlet-tournament-ppv-004/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC 324: Gaethje vs. Pimblett" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBEQKEBHrkGY5sDA94Uqt1ENWYbW1wQgA.webp" group-title=" Fight",UFC 324: Gaethje vs. Pimblett
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://strm.poocloud.in/secure/suxKMfyFOFYoCtgeTOhHrCxDoYVWdYxM/1769284800/1769328000/ufc/index.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Volusia Late Models" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Volusia Late Models
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/KSZDiuLqSPyHkHDAyKxSIVUcrHTuwMBO/echo/stream/ppv-event-12-volusia-late-models-ppv-12/1/playlist.m3u8
+https://strm.poocloud.in/secure/gCSpnDBcflAzeeXtltgaUnSOupTKrAeQ/1769284800/1769328000/ufc/index.m3u8
