@@ -1,6 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs Rod Laver Arena Sabalenka - Jovic" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open vs Rod Laver Arena Sabalenka - Jovic
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="England tour of Sri Lanka: Sri Lanka vs England" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeOfjGB4mtKmBYIdXIbXPkw14CqEQgA.webp" group-title=" Cricket",England tour of Sri Lanka: Sri Lanka vs England
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/tBYvZHPeUUxIbGfAKhEoVYaVWQrbWBdx/charlie/stream/rod-laver-arena-1629481847/1/playlist.m3u8
+https://lb3.strmd.top/secure/GDpVEQYPWbUJueWrFnfsRwMgBqSlCcai/charlie/stream/sri-lanka-vs-england-1629480152/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="ICC Under-19 Cricket World Cup: Pakistan vs New Zealand" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQEEPJCEQBgjGB4mtKmBYIdXIbVvkwj4CqEQgA.webp" group-title=" Cricket",ICC Under-19 Cricket World Cup: Pakistan vs New Zealand
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/NcjCWjtDqzuNgzPiEElyXGArqRWURKEW/charlie/stream/pakistan-vs-new-zealand-1629480151/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs Rod Laver Arena Zverev - Tien" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open vs Rod Laver Arena Zverev - Tien
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/oNfJEnCnlXygSLkdVtpLcfBfBqqwnaFc/charlie/stream/rod-laver-arena-1629481847/1/playlist.m3u8
