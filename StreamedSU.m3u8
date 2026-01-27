@@ -1,26 +1,31 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="UCI Pro Series: ES2, Alula Tour, Stage 1" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",UCI Pro Series: ES2, Alula Tour, Stage 1
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/tCTYTKZCqGzhGDCTxLKxbeRITGxBnNjO/charlie/stream/es2-alula-tour-stage-1-1629480735/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="UCI AlUla Tour | Stage 1 - Alula Camel Cup Track in Saudi Arabia" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",UCI AlUla Tour | Stage 1 - Alula Camel Cup Track in Saudi Arabia
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/QmgElHUYRwKNOdbXLWchijoAFcbhBuKa/echo/stream/uci-alula-tour-stage-1-alula-camel-cup-track-in-saudi-arabia-game-13622/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="England tour of Sri Lanka: Sri Lanka vs England" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeOfjGB4mtKmBYIdXIbXPkw14CqEQgA.webp" group-title=" Cricket",England tour of Sri Lanka: Sri Lanka vs England
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/mZvpvzAmwIZfkHmnNYKcuGVEsDeBjEne/charlie/stream/sri-lanka-vs-england-1629480152/1/playlist.m3u8
+https://lb4.strmd.top/secure/GwBjdipcOnIBQUQvGnespMAxnslbunRL/charlie/stream/sri-lanka-vs-england-1629480152/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Snooker German Masters 2026 - Berlin, Germany " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Snooker German Masters 2026 - Berlin, Germany 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/buCyrOOdGLmJSwwUGUocXakUYjEbehNy/echo/stream/snooker-german-masters-2026-berlin-germany-billar/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs Rod Laver Arena Gauff - Svitolina" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open vs Rod Laver Arena Gauff - Svitolina
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/RRRSNgCvcjgfZUAUMHXmxJqZEbOdXyiM/charlie/stream/rod-laver-arena-1629481847/1/playlist.m3u8
+https://lb8.strmd.top/secure/DfSiWjBUjoCARzxysLrRSMFVuQcLGKpd/echo/stream/snooker-german-masters-2026-berlin-germany-billar/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="ICC Under-19 Cricket World Cup: Zimbabwe vs India" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIFiESF+MYHia0qYFgh1chta+TD3gKoRCA.webp" group-title=" Cricket",ICC Under-19 Cricket World Cup: Zimbabwe vs India
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/brSsEukppaumuMXPOTuhvsLKctlrJVyg/charlie/stream/zimbabwe-vs-india-1629480150/1/playlist.m3u8
+https://lb9.strmd.top/secure/DSMsaWTHKdKtdoPJJPoWEwGBpdwbmYAV/charlie/stream/zimbabwe-vs-india-1629480150/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Australian Open | Men's and Women's Quarterfinals - Melbourne Park " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Australian Open | Men's and Women's Quarterfinals - Melbourne Park 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/JIdSLBsjujdzLHQMbhkYYMSskCiIJvXB/echo/stream/australian-open-mens-and-womens-quarterfinals-melbourne-park-tn-1/1/playlist.m3u8
+https://lb4.strmd.top/secure/CFnZuTFptdnuQrtVYRMAyhGmErZomQoT/echo/stream/australian-open-mens-and-womens-quarterfinals-melbourne-park-tn-1/1/playlist.m3u8
