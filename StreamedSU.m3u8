@@ -1,141 +1,131 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Reyer Venezia Mestre vs KK Cedevita Olimpija" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1EATELRIhVwJCG7aQfDSfXqIRkCAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Basketball",Reyer Venezia Mestre vs KK Cedevita Olimpija
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Man City vs. Galatasaray" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh+ICCGz1yDAMbNxPeCKrcCXVmDC58FoA.webp" group-title=" Football",Man City vs. Galatasaray
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/HQIQOXAwSPnbbypRhXvExPUgDtGMmsnI/echo/stream/venezia-vs-cedevita-olimpija-basketball-453244/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Ajax Amsterdam vs Olympiacos" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Ajax Amsterdam vs Olympiacos
+https://strm.poocloud.in/secure/QJIunhqWFzguQwmeFgkJOJMwyUftauop/1769623200/1769644800/ucl_mci/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="CBS Sports Golazo Show" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",CBS Sports Golazo Show
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/sWqqSYIdGJPhOGlbQJFrEtIsnqgxYmbZ/delta/stream/live_uefa-champions-league_ajax-olympiacos-live-streaming-441361440/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Arsenal vs Kairat Almaty" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Arsenal vs Kairat Almaty
+https://strm.poocloud.in/secure/DcrAgoyeSkOxVyMiZSZgEVwbAVMNZpQj/1769623200/1769650200/ucl_golazo/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Paris vs. Newcastle" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQiCPxjA8TWlTAsEOrkNoXyYG8BVCIQA.webp" group-title=" Football",Paris vs. Newcastle
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/syosXwGJwUCYeunfZNHuVudvAQVMCNNV/delta/stream/live_uefa-champions-league_arsenal-kairat-live-streaming-441361872/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="AS Monaco vs Juventus" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",AS Monaco vs Juventus
+https://strm.poocloud.in/secure/JzWriENWMuaItWJxyIrlJjYNKWFwRvZl/1769623200/1769644800/ucl_psg/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="PSV vs. Bayern Mnchen" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIFiEL8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp" group-title=" Football",PSV vs. Bayern Mnchen
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/KtpyFlEIHCGlDnshdzEsAXHAdFlHpACv/delta/stream/live_uefa-champions-league_as-monaco-juventus-live-streaming-441362304/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Athletic Club vs Sporting CP" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Athletic Club vs Sporting CP
+https://lb3.strmd.top/secure/MjPEjnHJVNlKRyLfLlrBEseAhHwGUtts/charlie/stream/psv-eindhoven-vs-bayern-munchen-1451154/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Club Brugge vs. Marseille" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Club Brugge vs. Marseille
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/OBvWWuHzoGtPfWogMGtoecmpJObHiijs/delta/stream/live_uefa-champions-league_athletic-club-sporting-live-streaming-441362736/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bayer Leverkusen vs Villarreal" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Bayer Leverkusen vs Villarreal
+https://strm.poocloud.in/secure/osYcOaPHvJNyDsDJEmfruBEATkxQkvaB/1769623200/1769644800/ucl_bru/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Frankfurt vs. Tottenham" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQEEIX4xgeJrSpgWCHVyG1L5MLeAqhEIA.webp" group-title=" Football",Frankfurt vs. Tottenham
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/VoqMmOHQqrULfUBuZLwTDgpOJjkyGsWp/delta/stream/live_uefa-champions-league_leverkusen-villarreal-live-streaming-441364032/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Benfica vs Real Madrid" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Benfica vs Real Madrid
+https://strm.poocloud.in/secure/RDspvnpRJLHRvcXZrZgqCHopEfVqNHpX/1769623200/1769644800/ucl_fra/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Benfica vs. Real Madrid" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Benfica vs. Real Madrid
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/zJrNARzxhwPOPyKDtBXOUqIQfAJwcRil/delta/stream/live_uefa-champions-league_benfica-real-madrid-live-streaming-441364464/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Borussia Dortmund vs Inter" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Borussia Dortmund vs Inter
+https://strm.poocloud.in/secure/cIHaovFEycKwtATCQoUxxIvGppsdjQbr/1769623200/1769644800/ucl_ben/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Monaco vs. Juventus" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Monaco vs. Juventus
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/bApEYYnTVcHjFRNWoDroySXwpYsTRmVi/delta/stream/live_uefa-champions-league_dortmund-inter-live-streaming-441364896/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Eintracht Frankfurt vs Tottenham Hotspur" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Eintracht Frankfurt vs Tottenham Hotspur
+https://lb9.strmd.top/secure/XLSNtFGAHVfhoPQEMsAodtLNikfUdcNs/charlie/stream/monaco-vs-juventus-1451148/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Ajax vs. Olympiacos" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Ajax vs. Olympiacos
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/fwZaSEZkeFPYCewLmMcxGSqDddztNTXS/delta/stream/live_uefa-champions-league_frankfurt-tottenham-live-streaming-441365760/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Manchester City vs Galatasaray" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Manchester City vs Galatasaray
+https://strm.poocloud.in/secure/sZHJUEqyoOnKyBjZGAXrEPxLQeOkFHKh/1769623200/1769644800/ucl_ajx/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Napoli vs. Chelsea" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQEECn4xgeJrSpgWCHVyG1L5MLeAqhEIA.webp" group-title=" Football",Napoli vs. Chelsea
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/KfMiPSzUUPnioZgKrwFaCZUtpTpngSFo/delta/stream/live_uefa-champions-league_man-city-galatasaray-live-streaming-441366624/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Napoli vs Chelsea" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Napoli vs Chelsea
+https://lb3.strmd.top/secure/UsnnbhBShogQpYHdrmpGdZOTSdXakDHH/delta/stream/live_uefa-champions-league_napoli-chelsea-live-streaming-441367056/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Union SG vs. Atalanta" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIFMvrkGAY2bie8EVW4EurMGFz5zQA.webp" group-title=" Football",Union SG vs. Atalanta
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/qVMNswIhMfnnGuYIcJWWutiEwAffvKUz/delta/stream/live_uefa-champions-league_napoli-chelsea-live-streaming-441367056/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Pafos vs Slavia Prague" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Pafos vs Slavia Prague
+https://strm.poocloud.in/secure/UbMzvVSPbzFZUhhdzOoQDTVTxWfeXUTr/1769623200/1769644800/ucl_usg/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Pafos vs. Slavia Praha" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLEPJz8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp" group-title=" Football",Pafos vs. Slavia Praha
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/HUyDAhsXMVnmIxGoooyqDiGxyujmuDnj/delta/stream/live_uefa-champions-league_pafos-slavia-praha-live-streaming-441367488/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Paris Saint-Germain vs Newcastle United" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Paris Saint-Germain vs Newcastle United
+https://strm.poocloud.in/secure/ewGwbVhpTPJGLVaBpKXWbLeXcLvenymR/1769623200/1769644800/ucl_paf/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Arsenal vs. Kairat Almaty" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQ8oyAj8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp" group-title=" Football",Arsenal vs. Kairat Almaty
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/XXmXNRdlxiSPhiPVxvITyfXdCtToJwJU/delta/stream/live_uefa-champions-league_psg-newcastle-live-streaming-441367920/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="PSV Eindhoven vs Bayern Munich" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",PSV Eindhoven vs Bayern Munich
+https://strm.poocloud.in/secure/MoIJvLujJjsOUBmNzycVqRjLMvofRiRW/1769623200/1769644800/ucl_ars/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Barcelona vs. Copenhagen" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQEHDn4xgeJrSpgWCHVyG1L5MLeAqhEIA.webp" group-title=" Football",Barcelona vs. Copenhagen
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/dSVpvjkIDObltZElLKRqFzZfiPpWZkqU/delta/stream/live_uefa-champions-league_psv-bayern-live-streaming-441368352/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Union St.-Gilloise vs Atalanta" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Union St.-Gilloise vs Atalanta
+https://lb9.strmd.top/secure/XsnLkxBrtyiOveGloQXPnaJJWIWjEFDN/charlie/stream/barcelona-vs-fc-copenhagen-1451161/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Leverkusen vs. Villarreal" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Leverkusen vs. Villarreal
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/niCUrIcSujvsEERejpcaeYCNJUWINdOU/delta/stream/live_uefa-champions-league_usg-atalanta-live-streaming-441368784/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="EuroCup: Umana Reyer Venice vs Cedevita Olimpija Ljubljana" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3ShxDN6IACYhEzFjhCSHiSxFs4yjkCAicnDD4gQmY2ljCO2H5sBDDAeHp0YCwKfs5Y8WJgycDRuUA.webp" group-title=" Basketball",EuroCup: Umana Reyer Venice vs Cedevita Olimpija Ljubljana
+https://strm.poocloud.in/secure/sYKksPHctdQtHtrQhhzMppjcWTTAsUsG/1769623200/1769644800/ucl_lev/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Liverpool vs. Qaraba" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQLIyHn8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp" group-title=" Football",Liverpool vs. Qaraba
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/devYXYOEunlHCztRleKTrnwNaoRAkbBL/charlie/stream/umana-reyer-venice-vs-cedevita-olimpija-ljubljana-1629480784/1/playlist.m3u8
+https://strm.poocloud.in/secure/FGEohQwvAlOzhsBtSfxkDQAuIiMviphL/1769623200/1769644800/ucl_liv/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Atletico Madrid vs Bodo/Glimt" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQiDiEL8YwPE1pUwLBDq5DaV8mDvAVQiEA.webp" group-title=" Football",Atletico Madrid vs Bodo/Glimt
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/DfVZrKeIBCybTjBhSLbEZdbWyMRYKbLS/echo/stream/atletico-madrid-vs-bodoglimt-football-1451152/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="The Golazo Show" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",The Golazo Show
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/kKMsAdNYHPAtMQbWWJrLQUwdDLYZcUXl/echo/stream/the-golazo-show-golaza-1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="EuroCup: Umana Reyer Venice vs Cedevita Olimpija Ljubljana" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",EuroCup: Umana Reyer Venice vs Cedevita Olimpija Ljubljana
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/mNwXZYfuxpAoNhNGbNYQQAuqfkLWqSrJ/charlie/stream/umana-reyer-venice-vs-cedevita-olimpija-ljubljana-1629480784/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Atltico Madrid vs Bod/Glimt" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Atltico Madrid vs Bod/Glimt
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/rQdMwjzHvnuaCqCtxRIgdFUAYAyoFYVh/delta/stream/live_uefa-champions-league_atl-madrid-bodoglimt-live-streaming-441363168/1/playlist.m3u8
+https://lb10.strmd.top/secure/lZwjyqlnTiVdBzuXrHjGNlygmvMhRVLG/delta/stream/live_uefa-champions-league_atl-madrid-bodoglimt-live-streaming-441363168/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Barcelona vs FC Kbenhavn" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Barcelona vs FC Kbenhavn
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/UGOgwzavKsYHnghiAeqjfomJVAyfDInZ/delta/stream/live_uefa-champions-league_barcelona-kobenhavn-live-streaming-441363600/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Liverpool vs Qaraba FK" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Liverpool vs Qaraba FK
+https://lb8.strmd.top/secure/rEaOIRdsPzkmOrJQKIEvKcfklAMjvDmT/delta/stream/live_uefa-champions-league_barcelona-kobenhavn-live-streaming-441363600/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Royale Union Saint-Gilloise vs Atalanta" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Royale Union Saint-Gilloise vs Atalanta
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/hszeYloSpdLODqLzFStsIGjRMdSmwUej/delta/stream/live_uefa-champions-league_liverpool-qarabag-live-streaming-441366192/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Bourg-en-Bresse vs Ulm" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBwIIEiBTswm7iAAmIPscOmQucwQpM+2trvL15o7U1phdY0RCA.webp" group-title=" Basketball",Bourg-en-Bresse vs Ulm
+https://lb7.strmd.top/secure/xslrVZosYtWaeUiohEMyFPffDuVyQNMN/delta/stream/live_uefa-champions-league_usg-atalanta-live-streaming-441368784/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Manresa vs Cluj-Napoca" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Manresa vs Cluj-Napoca
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/OTfeGLjYKHAEmnvYzxWRcRMZubomoFFu/charlie/stream/cosea-jl-bourg-en-bresse-vs-ratiopharm-ulm-1629480782/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ICE Hockey League: Steinbach Black Wings Linz vs HC Bolzano" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCEI5gEEBxBWhiK4hY4Q2ACbA3ZkM+yGXNhCWPtaeIA4BUq4EMMB4enRgLApBkkK08eRgSZaslkA.webp" group-title=" Other",ICE Hockey League: Steinbach Black Wings Linz vs HC Bolzano
+https://lb5.strmd.top/secure/TtKplxtVLudaSZqwzolwsRnquObJnvZT/charlie/stream/baxi-manresa-vs-u-bt-cluj-napoca-1629480785/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Black Wings Linz vs Bolzano" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCEI5gEEBxBWhiK4hY4Q2ACbA3ZkM+yGXNhCWPtaeIA4BUq4EMMB4enRgLApBkkK08eRgSZaslkA.webp" group-title=" Hockey",Black Wings Linz vs Bolzano
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/aGFYwBEBHQstCfRaBbIyGCKQFwCUGJpA/charlie/stream/steinbach-black-wings-linz-vs-hc-bolzano-1629480781/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Basketball Champions League: Joventut Badalona vs Baloncesto Malaga" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Basketball Champions League: Joventut Badalona vs Baloncesto Malaga
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/CVXorqiGJLDOzVYaZbbdoIbJWFsCaAsZ/charlie/stream/joventut-badalona-vs-baloncesto-malaga-1629481717/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Panionios BC vs London Lions" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4gAJmLXZgakNxCqSIIxGNn9OCAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Basketball",Panionios BC vs London Lions
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/xFMEEdgkoEzBremKxhBParHVGizTyTfI/echo/stream/panionios-vs-london-lions-basketball-453246/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Al-Ahli vs Al-Ettifaq" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksNwg+uUCBIhuIACYgUICGv07DpmAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Football",Al-Ahli vs Al-Ettifaq
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/kDaHReIqSOWSoOUJOoLnYtmDPRhlopZX/charlie/stream/al-ahli-jeddah-vs-al-ettifaq-1436076/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Hamburg vs Slask Wroclaw" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQiRIX4xgeJrSpgWCHVyG1L5MLeAqhEIA.webp" group-title=" Basketball",Hamburg vs Slask Wroclaw
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/RBpcjJKblnCWpMIccNKKOTjKNFXtYBJQ/charlie/stream/veolia-towers-hamburg-vs-slask-wroclaw-1629480783/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="EuroCup: Panionios Cosmorama Travel Athens vs London Lions" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjpeIDkZggI-GMDxNaVMCwQ6uQ2jfJgHwFUIhA.webp" group-title=" Basketball",EuroCup: Panionios Cosmorama Travel Athens vs London Lions
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/RkVfJLuZOUHOLiOWGfKafZXSUBmBLUFY/charlie/stream/panionios-cosmorama-travel-athens-vs-london-lions-1629480779/1/playlist.m3u8
+https://lb6.strmd.top/secure/yFUxTCRpqdQAKNJUDHcYWGKrOWTIFxyu/charlie/stream/steinbach-black-wings-linz-vs-hc-bolzano-1629480781/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Arsenal W vs FAR Rabat W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Arsenal W vs FAR Rabat W
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/dPxNelgOpMAXbiNZrstrEBsuqBBitGod/charlie/stream/arsenal-w-vs-as-far-w-1629480780/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="NJ/NY Gotham FC W vs Corinthians W" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIAMYgUINXXINlzcT3giq3Al1ZgwufFaA.webp" group-title=" Football",NJ/NY Gotham FC W vs Corinthians W
+https://lb5.strmd.top/secure/fboLIPEWoDOgFiWkHalMLUmwdXyNQgyC/echo/stream/arsenal-women-v-as-far-game-1662262/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Hamburg vs Slask Wroclaw" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQiRIX4xgeJrSpgWCHVyG1L5MLeAqhEIA.webp" group-title=" Basketball",Hamburg vs Slask Wroclaw
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/yxkgjeBPYaekzmCkCtGWnAhtgfYKhRgV/echo/stream/gotham-fc-v-corinthians-women-game-151151/1/playlist.m3u8
+https://lb6.strmd.top/secure/XFxOlJZUZtVnYdvkpWjHRSXRxBUcgxTc/charlie/stream/veolia-towers-hamburg-vs-slask-wroclaw-1629480783/1/playlist.m3u8
