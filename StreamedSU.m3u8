@@ -1,46 +1,136 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Binghamton Bearcats vs Bryant Bulldogs" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Binghamton Bearcats vs Bryant Bulldogs
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Jaguares de Crdoba vs Internacional de Bogot" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyRhRSZsRQhuIPiAAme47qOJdIAhSZ8UXNeXrzRdprTBqxoiEA.webp" group-title=" Football",Jaguares de Crdoba vs Internacional de Bogot
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/kwsVrxUxTxIdTVAJbzMugIXAeAZIybjW/delta/stream/live_ncaa_binghamton-bryant-live-streaming-429064560/1/playlist.m3u8
+https://lb8.strmd.top/secure/DlMQKuDRvBkjRDCHQJPJSoETBmPfOTHE/echo/stream/jaguares-vs-internacional-de-bogota-football-1505954/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Binghamton vs Bryant" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm64wKYABMwJEHxCrdIAyBggUuY1YgEKTPhrY7y9eaI1NaYHWNEQgA.webp" group-title=" Basketball",Binghamton vs Bryant
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/vGArBWCRkGJomUpnnbqiHIGijWAzLQqG/delta/stream/live_ncaa_binghamton-bryant-live-streaming-429064560/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Chattanooga vs Wofford" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATECmCEQIetxD6SOkHxCIcO00ZQEKTPprZgy8IvNGamtMM7GiIQA.webp" group-title=" Basketball",Chattanooga vs Wofford
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/FOzSkzxIRcLilZTdxrjnJfflTIDNWTah/delta/stream/live_ncaa_chattanooga-wofford-live-streaming-429067152/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Mirassol vs Vasco da Gama" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTBCvMGBCUQ3EABMQiGCBK5dFkygIUmfVWzBl4ReaNVNam0VLpA.webp" group-title=" Football",Mirassol vs Vasco da Gama
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/RpCuRkCXrsrHWjREsWJAwXzAmSSIbvOy/echo/stream/mirassol-vs-vasco-da-gama-football-1492117/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Citadel Bulldogs vs Virginia Military Keydets" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Citadel Bulldogs vs Virginia Military Keydets
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/LonDnivCUySqAOADICaOPcGOsJMMWYMw/delta/stream/live_ncaa_citadel-virginia-military-live-streaming-429068016/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="South Carolina Upstate Spartans vs Longwood Lancers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",South Carolina Upstate Spartans vs Longwood Lancers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/KJBLWJwQtdHJTXHKmfgbJzvJTnSxnPmx/delta/stream/live_ncaa_sc-upstate-longwood-live-streaming-429074064/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Vermont Catamounts vs Maryland Baltimore County Retrievers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Vermont Catamounts vs Maryland Baltimore County Retrievers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/rKyikAkrnsQpRCbWxVpLqqtNyfzHIjGh/delta/stream/live_ncaa_vermont-maryland-baltimore-live-streaming-429076224/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Charleston Southern Buccaneers vs Radford Highlanders" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Charleston Southern Buccaneers vs Radford Highlanders
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/kjpVLmDBbYKgvKiXIRkFdJbTgbvPcgse/delta/stream/live_ncaa_charleston-southern-radford-live-streaming-429077088/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Iowa State Cyclones vs Colorado Buffaloes" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Iowa State Cyclones vs Colorado Buffaloes
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/mxxtwzVTwAYqmIAPDtwcpbOouQZWBIlx/delta/stream/live_ncaa_iowa-state-colorado-live-streaming-462592080/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Middle Tennessee State Blue Raiders vs Liberty Flames" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Middle Tennessee State Blue Raiders vs Liberty Flames
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/dqXnnfwhZroSvGtPpMlVZkUpdqdlbXVe/delta/stream/live_ncaa_middle-tennessee-st-liberty-live-streaming-462592944/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Albany Great Danes vs NJIT Highlanders" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Albany Great Danes vs NJIT Highlanders
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/BDmycDljWAdtPmAlFhSorlwupuMRGNho/delta/stream/live_ncaa_albany-ny-njit-live-streaming-429064128/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="North Carolina Asheville Bulldogs vs Gardner-Webb Runnin' Bulldogs" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",North Carolina Asheville Bulldogs vs Gardner-Webb Runnin' Bulldogs
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/GQeJxucVhiRyMakkKjUJtFmeVYRzMisJ/delta/stream/live_ncaa_unc-asheville-gardner-webb-live-streaming-429073200/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Belgrano vs Tigre" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAM1LGBT8QfENx0gAJiBIgzps5dwEKTPlrZgy8IvNFamtME7GiIQA.webp" group-title=" Football",Belgrano vs Tigre
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/gysXEirUgUxbVKsperdGsDQxjWOzjScz/echo/stream/belgrano-cordoba-vs-tigre-football-1491835/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Lanus vs Union de Santa Fe" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIikCTrkGAY2bie8EVW4EurMGFz5zQA.webp" group-title=" Football",Lanus vs Union de Santa Fe
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/rDQBaKRbkChjQcPWpXFsIAmpavOGKPmY/echo/stream/lanus-vs-union-santa-fe-football-1491841/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Furman vs Samford" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpji8BSEKLQhumkPpIgIIGPpB89EwjGBM+KLmDLwi80Q6a0wTsaIhA.webp" group-title=" Basketball",Furman vs Samford
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/hSjelRRjsZofHcGpNlLbsXVcBpwngsIQ/delta/stream/live_ncaa_furman-samford-live-streaming-429069744/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Chattanooga Mocs vs Wofford Terriers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Chattanooga Mocs vs Wofford Terriers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/eiyKrivjDhjxiADpTYLJGRdpbhZlJjuy/delta/stream/live_ncaa_chattanooga-wofford-live-streaming-429067152/1/playlist.m3u8
+https://lb2.strmd.top/secure/GOzVCGsDnoRXQNTAfEvmilEdgrfHOcBC/delta/stream/live_ncaa_furman-samford-live-streaming-429069744/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="New Hampshire Wildcats vs UMass Lowell River Hawks" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",New Hampshire Wildcats vs UMass Lowell River Hawks
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/WwkyaOZRTBhDetrllUVdACGzeWkLcfSL/delta/stream/live_ncaa_new-hampshire-umass-lowell-live-streaming-429072768/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Rionegro guilas vs Deportivo Cali" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxQJmuMKpIhuIbSBAwDIRIhwGAJgQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Football",Rionegro guilas vs Deportivo Cali
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/qjrRHfOJrPgLzTVRaiEIwEEgPHJzcrqT/echo/stream/rionegro-aguilas-vs-deportivo-cali-football-1505953/1/playlist.m3u8
+https://lb5.strmd.top/secure/rpbOIFQhUWqtgamLMWGMinPUqSzUeBCP/delta/stream/live_ncaa_new-hampshire-umass-lowell-live-streaming-429072768/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="CBS Sports Golazo Show" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",CBS Sports Golazo Show
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://strm.poocloud.in/secure/tBuEDzqGazqyejvnKZvsDPRBMoyQrQmZ/1769709600/1769736600/ucl_golazo/index.m3u8
+https://strm.poocloud.in/secure/rRhQgiirZeOlvBNKfNfjLJbcdLUIhNVA/1769709600/1769736600/ucl_golazo/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Nottingham Forest vs Ferencvaros" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Nottingham Forest vs Ferencvaros
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/jjQOvcTuKDWYhTcOQvmNEsRLlgSsDQfp/bravo/stream/1769716800000-nottingham-forest-ferencvaros/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="PGA Tour: Farmers Insurance Open: Featured Hole #16 (First Round)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title=" Golf",PGA Tour: Farmers Insurance Open: Featured Hole #16 (First Round)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/hNxehfoVsqpPGxlYEwCWFkolfcFQVWMK/charlie/stream/farmers-insurance-open-featured-hole-16-first-round-1629480844/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="The Golazo Show   " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",The Golazo Show   
+https://lb1.strmd.top/secure/orTtclylGNOwSaXsGLdTIMpgeZsLwaWU/charlie/stream/farmers-insurance-open-featured-hole-16-first-round-1629480844/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Valencia Basket vs Maccabi Tel Aviv BC" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxSUQMEL24gUmkCVx7tEEKb76QAEwIUmfVWzBl4ReaNVNaYJ2NEQgA.webp" group-title=" Basketball",Valencia Basket vs Maccabi Tel Aviv BC
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/WmKKAKJGFnlBrRfvtBgjWjihJaLiycxm/echo/stream/the-golazo-show-golaza-1/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Farmers Insurance Open Round 1" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title=" Golf",Farmers Insurance Open Round 1
+https://lb4.strmd.top/secure/DluCfoeoPybaakOkeAYiKBsIVfXgZYDB/bravo/stream/1769715900000-valencia-basket-maccabi-tel-aviv/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Olimpia Milano vs KK Partizan" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjKIYpENzBJNIPiAAmekIiNGShvQQpM+KLmFVF5o+01phHY0RCA.webp" group-title=" Basketball",Olimpia Milano vs KK Partizan
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/HXKIkqTfUrjLPrhXlfFXzlWJNGSpwLjU/echo/stream/farmers-insurance-open-pga-tour-tgl-001/1/playlist.m3u8
+https://lb3.strmd.top/secure/BnZFQfnibLgJrOvyGVYZEwQYYGGQqkFM/bravo/stream/1769715000000-olimpia-milano-partizan-mozzart-bet/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="BC Vienna vs KK Bosna Royal" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDkBKEPDAATENxAkQGxLtMGQfAwQpM+KLmDJb680faa1VoqXSA.webp" group-title=" Basketball",BC Vienna vs KK Bosna Royal
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/qHJGrmUaogqybnROAFPSjpklXWzgKcdn/bravo/stream/1769715000000-vienna-basket-kk-bosna/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Olympiacos BC vs FC Barcelona Basquet" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBwoSXCAAmwDdxB9NKVSGOGIIC-AIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Basketball",Olympiacos BC vs FC Barcelona Basquet
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/AmNNsYKOAVifeqZkKCwhZCkpUibNukpG/bravo/stream/1769714100000-olympiacos-barcelona/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Armann vs IR Reykjavik" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Armann vs IR Reykjavik
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/obeEGRoSrymULWKjbczyTqIPmNZzxsFI/bravo/stream/1769714100000-armann-ir-reykjavik/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Grindavik vs Valur" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Grindavik vs Valur
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/UFoBWjrcZsWjRFAgjIgmTDiaWAGQAhkB/bravo/stream/1769714100000-grindavik-valur/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Njardvik vs Alftanes" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Njardvik vs Alftanes
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/NdPTldeOGYCRWMBlpqLoXTrcKYzkwGES/bravo/stream/1769714100000-njardvik-alftanes/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Hapoel Tel Aviv BC vs Bayern Mnchen Basketball" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiS5sIWqJAhuIACYg+2kDB2Gz2vgQpMrXMGXhF5olMCa0wDsaIhA.webp" group-title=" Basketball",Hapoel Tel Aviv BC vs Bayern Mnchen Basketball
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/lPIxvvzoDcBufXDQSwHwHFuVnhGESqNx/bravo/stream/1769713500000-hapoel-tel-aviv-bayern-munich/1/playlist.m3u8
