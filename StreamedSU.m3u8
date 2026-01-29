@@ -1,31 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Oregon vs UCLA" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0IATYGDBJmIVSG4gSIYwYMpjuEBBB8CFJra5gy8IvNEpgTWptFS6QA.webp" group-title=" Basketball",Oregon vs UCLA
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs Margaret Court Arena Granollers/Zeballos - Harrison/Skupski" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open vs Margaret Court Arena Granollers/Zeballos - Harrison/Skupski
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/ZBRHBaaHDaNzkeptKvIUyEpypnybGFbY/delta/stream/live_ncaa_oregon-ucla-live-streaming-462570480/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Santa Clara vs San Francisco" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiRgkIEGLZ8Q3ECQ36QEEDBApjRlAQpM+KLmDLwi80Q6a0wTsaIhA.webp" group-title=" Basketball",Santa Clara vs San Francisco
+https://lb7.strmd.top/secure/FGMPCmzDhSeVoOMwwsJLDIfJrcLWhlVj/charlie/stream/margaret-court-arena-1629481983/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open vs Rod Laver Arena Kubler/Polmans - Johnson/Zielinski" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open vs Rod Laver Arena Kubler/Polmans - Johnson/Zielinski
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/GRucMBaiVanIvVOloXLktbICuFAkufKm/delta/stream/live_ncaa_santa-clara-san-francisco-live-streaming-462570912/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="San Diego State vs Colorado State" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm1biBQg+YPiA0kQRjSqPbcIQyoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Basketball",San Diego State vs Colorado State
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/DziGqdsbpiOYvEfWvVJZOrFjBTHFYkMQ/delta/stream/live_ncaa_san-diego-st-colorado-st-live-streaming-462570048/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Margaret Court Arena" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open: Margaret Court Arena
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/DrVpINNTKXIxMTifpLTZSLdasXusmFZk/charlie/stream/margaret-court-arena-1629481983/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Australian Open: Rod Laver Arena" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Australian Open: Rod Laver Arena
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/gsiuLLKRzagSAOEPGkftroZPWORKHzGX/charlie/stream/rod-laver-arena-1629481982/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="INKA MMA 53" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",INKA MMA 53
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/weWUKXZDuhakrAdUuhzMHBkqFMHJgowT/charlie/stream/inka-mma-53-1629480808/1/playlist.m3u8
+https://lb4.strmd.top/secure/bQZtJSNtHTMqEdywhtoPlgIcotDkMGvE/charlie/stream/rod-laver-arena-1629481982/1/playlist.m3u8
