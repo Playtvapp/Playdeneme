@@ -1,51 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Accrington Stanley vs Salford City" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Accrington Stanley vs Salford City
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Accrington Stanley vs Salford City" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyiIU7MKL4huIACYgYOkCaMpcIcygIUmfdW03l680eqa0wmsaIhA.webp" group-title=" Football",Accrington Stanley vs Salford City
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/vKLIyhrsUafJIhiTYhIDTaopbxidxZrQ/delta/stream/live_league-two_accrington-salford-live-streaming-441704448/1/playlist.m3u8
+https://lb6.strmd.top/secure/gsneVmCwmyHuYIOeHdtzyyncOtZCpkSn/delta/stream/live_league-two_accrington-salford-live-streaming-441704448/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Atalanta vs Juventus" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIhgAExAx+2ENxB8QEXCBQhziQzj4EKTG1zBl4ReaJTAmtME7GiIQA.webp" group-title=" Football",Atalanta vs Juventus
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/mcfzMlHQwOagaIFjmTrtnuhTBajiriOV/rtmp/stream/ita_ata/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Real Betis vs Atltico Madrid" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBxRYUCHhhuIXXz0gURkKYhbDywjGBM+KLmDLb680Q6a0wTsaIhA.webp" group-title=" Football",Real Betis vs Atltico Madrid
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://kolkata.poocloud.in/secure/tcSBdlnhcCvpcxiyzMtZZoRcRFIUkOmZ/1770310800/1770337800/esp_bet/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Strasbourg vs Monaco" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzIhgSYABMQosCG4htfECZMxT5iCAgEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Football",Strasbourg vs Monaco
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/baHPaPtmtjAmomgwTovOMfiRxHfwkFhb/delta/stream/live_coupe-de-france_strasbourg-as-monaco-live-streaming-500284944/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Paris vs Fenerbahce" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiCogAxiBj1yDdc0k94YqtwJdWYMLnw2gA.webp" group-title=" Basketball",Paris vs Fenerbahce
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/WzdUWnjYCbhZIVXOocgGBBXSCKwUZCpx/echo/stream/paris-vs-fenerbahce-basketball-454542/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Bayern Mnchen Basketball vs AS Monaco Basket" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmwMLiIoQMENxAqQEENv2GQJvSGWEYwJnxRcwZeEXminTWmBdjREEA.webp" group-title=" Basketball",Bayern Mnchen Basketball vs AS Monaco Basket
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/JuTkqqRHmFRgLEFVVvxEXMLspzcVHzBJ/echo/stream/bayern-vs-monaco-basketball-454540/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="KK Partizan vs Panathinaikos BC" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhADa9JGD5gkIbqpAATA4mPGUIS3wIUm1rmDLwi80SmBNaYR2NEQgA.webp" group-title=" Basketball",KK Partizan vs Panathinaikos BC
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/PLWRDRZPCVEsjKNlgMfnzomYQnOIteIo/echo/stream/partizan-mozzart-bet-vs-panathinaikos-basketball-454541/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Hapoel Tel Aviv BC vs Valencia Basket" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAow3MCma4QibiBK6QAEyMoQFi6dWEYwJny1swZeEXmitTWmBdjREEA.webp" group-title=" Basketball",Hapoel Tel Aviv BC vs Valencia Basket
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/LmPfoOLLTqGXkKFNKIwcjObDqaUytnVq/echo/stream/hapoel-tel-aviv-vs-valencia-basketball-454539/1/playlist.m3u8
+https://lb8.strmd.top/secure/zWYnwriqpMMOXBPpWiYqMWAQClvOcvrB/echo/stream/hapoel-tel-aviv-vs-valencia-basketball-454539/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="SC Telstar vs Go Ahead Eagles" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC1w3XMzAoQGgCYhDJEMZ18QMXCD0EKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Football",SC Telstar vs Go Ahead Eagles
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/rZXUDwxEZQTVmYvsjlXcaQMRxxDWoyIu/echo/stream/telstar-vs-go-ahead-eagles-football-1509055/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Real Betis vs Atltico Madrid" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Real Betis vs Atltico Madrid
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/hRlIrkYYuGzzOsPtPYwYbJRRcyefdxOn/delta/stream/live_copa-del-rey_real-betis-atl-madrid-live-streaming-500281920/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Atalanta vs Juventus" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Atalanta vs Juventus
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/AtbqHgPtWxFBsPCLtXKKyGWAGBFtCVuy/delta/stream/live_coppa-italia_atalanta-juventus-live-streaming-483250320/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="RC Strasbourg vs AS Monaco" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",RC Strasbourg vs AS Monaco
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/QFGkyfFLbRScYMHEtmtJeCrTiaCHkItK/delta/stream/live_coupe-de-france_strasbourg-as-monaco-live-streaming-500284944/1/playlist.m3u8
+https://lb7.strmd.top/secure/nzvnKchSwlppWlLUxheFxhTeJOnrkoNu/echo/stream/telstar-vs-go-ahead-eagles-football-1509055/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Premier League Darts: Newcastle " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Premier League Darts: Newcastle 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/jFcrfvGVrCKNibDOBLhlhOEdVSDeJCvO/echo/stream/premier-league-darts-newcastle-darts-1/1/playlist.m3u8
+https://lb7.strmd.top/secure/LZPhCSRnYzcNuDhjYLWKDIrkREgVSpUp/echo/stream/premier-league-darts-newcastle-darts-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Hamburg Towers vs KK Cedevita Olimpija" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1EATELRIhVwJCG7aQfDSfXqIRkCAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Basketball",Hamburg Towers vs KK Cedevita Olimpija
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/CQAhSOPHOGgHglchruROOLYBSiURjuzH/echo/stream/hamburg-vs-cedevita-olimpija-basketball-453258/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Al-Okhdood vs Al-Hilal" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4gYDEJvUQQ3EABMDuoySMpj+ghSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title=" Football",Al-Okhdood vs Al-Hilal
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/NNyiwEwpFYSXecZXIiFZZhekFlYZwEsi/delta/stream/live_saudi-pro-league_al-okhdood-al-hilal-live-streaming-441614592/1/playlist.m3u8
+https://lb2.strmd.top/secure/ykCAgAXNNBgdxAheuRHcEvhDPYujeKFP/echo/stream/hamburg-vs-cedevita-olimpija-basketball-453258/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="WM Phoenix Open | PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",WM Phoenix Open | PGA Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/VdoRxIexxtRTjRllPgqOpJnEBQeccZAc/echo/stream/wm-phoenix-open-pga-tour-tgl-001/1/playlist.m3u8
+https://lb10.strmd.top/secure/lPfPlffOxWOViMiUfjidmWOoYkhWoaaQ/echo/stream/wm-phoenix-open-pga-tour-tgl-001/1/playlist.m3u8
