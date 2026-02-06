@@ -1,6 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP 250 Montpellier " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",ATP 250 Montpellier 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/qWXpvjOMduwxVLSqeCrTSkkNFUBODJbk/echo/stream/atp-250-montpellier-tn-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Qatar Masters | DP World Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Qatar Masters | DP World Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/wcWSxEXmcIfCDjydMoCbEGbpkpEPtYEH/echo/stream/qatar-masters-dp-world-tour-atp1000/1/playlist.m3u8
+https://lb4.strmd.top/secure/CkLBbjekqIUdcesessFeqLLdpfeoJtPL/echo/stream/qatar-masters-dp-world-tour-atp1000/1/playlist.m3u8
