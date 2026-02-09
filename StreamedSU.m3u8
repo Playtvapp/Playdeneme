@@ -1,31 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Bucknell Bison vs Navy Midshipmen" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Bucknell Bison vs Navy Midshipmen
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Bucknell vs Navy" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQh6rMJWAATENxAkQRiCF2GcJnBMIxgTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Basketball",Bucknell vs Navy
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/GAUPfKdqWxYwyNeWxwUGPlwhdiKLyXwH/delta/stream/live_ncaa_bucknell-navy-live-streaming-463576608/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="FC Porto vs Sporting CP" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh1YhgSEABNOIENy25dRkiBMoQfXQQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Football",FC Porto vs Sporting CP
+https://lb9.strmd.top/secure/XyuBFmGGyZEdESDSZuZMIEnysNRbWfur/delta/stream/live_ncaa_bucknell-navy-live-streaming-463576608/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Charlotte Hornets vs Detroit Pistons" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Charlotte Hornets vs Detroit Pistons
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/iqxLWdKYMauUOkilzWExloBlkGjKiaMY/echo/stream/fc-porto-vs-sporting-cp-football-1396423/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Canada vs. Czechia (Women's Group A)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Olympics",Canada vs. Czechia (Women's Group A)
+https://lb4.strmd.top/secure/LwJUrlXLGdBqyOUawrOFFFzgTcsAXjTh/delta/stream/live_nba_hornets-pistons-live-streaming-429942384/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Lamar Cardinals vs Northwestern State Demons" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Lamar Cardinals vs Northwestern State Demons
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/snxNNsMQyDBTVQyCFihXKLEJBAvtDGxq/1770657000/1770684000/olympics_2026-02-09_hockey_canada-vs-czechia-womens-group-a/index.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Canada W vs Czech Republic W" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCIgAJiADGICPXIMVzYGB7xJVKYQasw+trghA.webp" group-title=" Hockey",Canada W vs Czech Republic W
+https://lb6.strmd.top/secure/xBEywTvJBRRELQxlcHkPjMtFeNEjyYIv/delta/stream/live_ncaa_lamar-northwestern-st-live-streaming-429959232/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Louisville Cardinals vs North Carolina State Wolfpack" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Louisville Cardinals vs North Carolina State Wolfpack
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/ynzPdfqMkvffZSzpehmnpgxCkpGiNqJy/echo/stream/canada-w-vs-czech-republic-w-hockey-419993/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Villarreal vs Espanyol" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCqAJiAGEkYJCG4gNqg3xAwQiHFYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Football",Villarreal vs Espanyol
+https://lb6.strmd.top/secure/oKZrYDGZwBUHpRnpVayoOJOwOpLQrLkO/delta/stream/live_ncaa_louisville-nc-state-live-streaming-429959664/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Southeastern Louisiana Lions vs Incarnate Word Cardinals" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Southeastern Louisiana Lions vs Incarnate Word Cardinals
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/dAeIcmcpIlYdtmCDtncLJZzzuhKpFiur/1770656400/1770683400/laligatv/index.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Canada vs Czechia" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Hockey",Canada vs Czechia
+https://lb9.strmd.top/secure/tlBZKfpOAFBpszmvPfqtXzmPlHFSJgDb/delta/stream/live_ncaa_se-louisiana-incarnate-word-live-streaming-429961392/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="North Alabama Lions vs Central Arkansas Bears" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",North Alabama Lions vs Central Arkansas Bears
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/zwpTAzxXMJbYvHywvfAVQYnMuQkVdziU/delta/stream/live_olympic-games-women-group-a_canada-czechia-live-streaming-500064192/1/playlist.m3u8
+https://lb9.strmd.top/secure/gtRNfbbHFcOqqRnugIHoRswUzBHNIuqI/delta/stream/live_ncaa_north-alabama-lions-central-arkansas-live-streaming-462325536/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Indiana State Sycamores vs Southern Illinois Salukis" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Indiana State Sycamores vs Southern Illinois Salukis
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/vghaUETlxPQaGgqFjAOdBvNfnpmStbIS/delta/stream/live_ncaa_indiana-state-southern-illinois-live-streaming-463576176/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Howard Bison vs Yale Bulldogs" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Howard Bison vs Yale Bulldogs
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/OOowfoIJCxZRmWewpgmBUVccYtougqqA/delta/stream/live_ncaa_howard-yale-live-streaming-463577472/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Davidson Wildcats vs Mid-Atlantic Christian Mustangs" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Davidson Wildcats vs Mid-Atlantic Christian Mustangs
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/FTQtDcsjgNQFyenibbHKyMKzzIHDmKcs/delta/stream/live_ncaa_davidson-mid-atlantic-christian-mustangs-live-streaming-502040592/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="St. John's Red Storm vs Xavier Musketeers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",St. John's Red Storm vs Xavier Musketeers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/RbRkMlpellfYIvGzWmpmjIIGgWurxfug/delta/stream/live_ncaa_st-johns-xavier-live-streaming-429961824/1/playlist.m3u8
