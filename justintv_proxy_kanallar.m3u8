@@ -2,10 +2,6 @@
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 #EXT-X-ORIGIN:https://tvjustin.com
-#EXTINF:-1 tvg-name="905 - Chili Peppers (15:25)" group-title="Maç Yayınları",905 - Chili Peppers (15:25)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333330.m3u8
-#EXTINF:-1 tvg-name="905 - Chili Peppers (15:25)" group-title="Maç Yayınları",905 - Chili Peppers (15:25)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333330.m3u8
 #EXTINF:-1 tvg-name="A Spor" group-title="Ulusal Kanallar",A Spor
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamliveas.m3u8
 #EXTINF:-1 tvg-name="A Spor" group-title="Ulusal Kanallar",A Spor
@@ -16,18 +12,20 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/and
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivea2.m3u8
 #EXTINF:-1 tvg-name="A2" group-title="Ulusal Kanallar",A2
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivea2.m3u8
-#EXTINF:-1 tvg-name="Al Ahli Manama - Al Ittihad Jeddah (15:00)" group-title="Maç Yayınları",Al Ahli Manama - Al Ittihad Jeddah (15:00)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333193.m3u8
-#EXTINF:-1 tvg-name="Al Ahli Manama - Al Ittihad Jeddah (15:00)" group-title="Maç Yayınları",Al Ahli Manama - Al Ittihad Jeddah (15:00)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333193.m3u8
 #EXTINF:-1 tvg-name="Al Ittihad - Al Gharafa (21:15)" group-title="Maç Yayınları",Al Ittihad - Al Gharafa (21:15)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivesm2.m3u8
-#EXTINF:-1 tvg-name="Al Zawraa - Al Wasl (19:00)" group-title="Maç Yayınları",Al Zawraa - Al Wasl (19:00)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivesm2.m3u8
 #EXTINF:-1 tvg-name="Alba Berlin - Tofaş (22:00)" group-title="Maç Yayınları",Alba Berlin - Tofaş (22:00)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetb7.m3u8
 #EXTINF:-1 tvg-name="Arkadag - Al Nassr (16:45)" group-title="Maç Yayınları",Arkadag - Al Nassr (16:45)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
+#EXTINF:-1 tvg-name="Artem Buldakov - Oleg Oreshin (20:45)" group-title="Maç Yayınları",Artem Buldakov - Oleg Oreshin (20:45)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335283.m3u8
+#EXTINF:-1 tvg-name="Artem Buldakov - Oleg Oreshin (20:45)" group-title="Maç Yayınları",Artem Buldakov - Oleg Oreshin (20:45)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335283.m3u8
+#EXTINF:-1 tvg-name="Aryna Filistovich - Violetta Maysak (21:04)" group-title="Maç Yayınları",Aryna Filistovich - Violetta Maysak (21:04)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335448.m3u8
+#EXTINF:-1 tvg-name="Aryna Filistovich - Violetta Maysak (21:04)" group-title="Maç Yayınları",Aryna Filistovich - Violetta Maysak (21:04)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335448.m3u8
 #EXTINF:-1 tvg-name="Aston Villa - Brighton (22:30)" group-title="Maç Yayınları",Aston Villa - Brighton (22:30)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs2.m3u8
 #EXTINF:-1 tvg-name="Athletic Bilbao - Real Sociedad (23:00)" group-title="Maç Yayınları",Athletic Bilbao - Real Sociedad (23:00)
@@ -66,44 +64,34 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/and
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebsm2.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports Max 2" group-title="BeinSports",BeIN Sports Max 2
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebsm2.m3u8
-#EXTINF:-1 tvg-name="Belçika (Pro) - Fransa (Pro) (14:40)" group-title="Maç Yayınları",Belçika (Pro) - Fransa (Pro) (14:40)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333233.m3u8
-#EXTINF:-1 tvg-name="Belçika (Pro) - Fransa (Pro) (14:40)" group-title="Maç Yayınları",Belçika (Pro) - Fransa (Pro) (14:40)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333233.m3u8
+#EXTINF:-1 tvg-name="Birmingham - West Bromwich (23:00)" group-title="Maç Yayınları",Birmingham - West Bromwich (23:00)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamliveexn.m3u8
 #EXTINF:-1 tvg-name="Bologna - Lazio (23:00)" group-title="Maç Yayınları",Bologna - Lazio (23:00)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
-#EXTINF:-1 tvg-name="Borac Cacak U19 - Vojvodina U19 (15:00)" group-title="Maç Yayınları",Borac Cacak U19 - Vojvodina U19 (15:00)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333196.m3u8
-#EXTINF:-1 tvg-name="Borac Cacak U19 - Vojvodina U19 (15:00)" group-title="Maç Yayınları",Borac Cacak U19 - Vojvodina U19 (15:00)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333196.m3u8
-#EXTINF:-1 tvg-name="Brezilya - İtalya (14:15)" group-title="Maç Yayınları",Brezilya - İtalya (14:15)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18332822.m3u8
-#EXTINF:-1 tvg-name="Brezilya - İtalya (14:15)" group-title="Maç Yayınları",Brezilya - İtalya (14:15)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18332822.m3u8
-#EXTINF:-1 tvg-name="Bryansk (Bayanlar) - Izhevsk (Bayanlar) (15:05)" group-title="Maç Yayınları",Bryansk (Bayanlar) - Izhevsk (Bayanlar) (15:05)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333186.m3u8
-#EXTINF:-1 tvg-name="Bryansk (Bayanlar) - Izhevsk (Bayanlar) (15:05)" group-title="Maç Yayınları",Bryansk (Bayanlar) - Izhevsk (Bayanlar) (15:05)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333186.m3u8
+#EXTINF:-1 tvg-name="Bulgaristan (TBL) - New Zealand (TBL) (21:00)" group-title="Maç Yayınları",Bulgaristan (TBL) - New Zealand (TBL) (21:00)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335315.m3u8
+#EXTINF:-1 tvg-name="Bulgaristan (TBL) - New Zealand (TBL) (21:00)" group-title="Maç Yayınları",Bulgaristan (TBL) - New Zealand (TBL) (21:00)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335315.m3u8
 #EXTINF:-1 tvg-name="Cbc Sport" group-title="Diğer",Cbc Sport
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivecbcs.m3u8
 #EXTINF:-1 tvg-name="Cbc Sport" group-title="Diğer",Cbc Sport
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivecbcs.m3u8
 #EXTINF:-1 tvg-name="Chelsea - Leeds United (22:30)" group-title="Maç Yayınları",Chelsea - Leeds United (22:30)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-name="Chengdu Rongcheng - Buriram (15:15)" group-title="Maç Yayınları",Chengdu Rongcheng - Buriram (15:15)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
+#EXTINF:-1 tvg-name="Chita - Khabarovsk (21:10)" group-title="Maç Yayınları",Chita - Khabarovsk (21:10)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335531.m3u8
+#EXTINF:-1 tvg-name="Chita - Khabarovsk (21:10)" group-title="Maç Yayınları",Chita - Khabarovsk (21:10)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335531.m3u8
 #EXTINF:-1 tvg-name="Cong An Ha Noi - Tampines (15:15)" group-title="Maç Yayınları",Cong An Ha Noi - Tampines (15:15)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivesm2.m3u8
-#EXTINF:-1 tvg-name="Croatia (TBL) - India (TBL) (15:00)" group-title="Maç Yayınları",Croatia (TBL) - India (TBL) (15:00)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333057.m3u8
-#EXTINF:-1 tvg-name="Croatia (TBL) - India (TBL) (15:00)" group-title="Maç Yayınları",Croatia (TBL) - India (TBL) (15:00)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333057.m3u8
 #EXTINF:-1 tvg-name="Crystal Palace - Burnley (22:30)" group-title="Maç Yayınları",Crystal Palace - Burnley (22:30)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebsm1.m3u8
 #EXTINF:-1 tvg-name="D.Shapovalov - R.Jodar (06:00)" group-title="Maç Yayınları",D.Shapovalov - R.Jodar (06:00)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="Eczacibasi - THY (18:30)" group-title="Maç Yayınları",Eczacibasi - THY (18:30)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetrtsy.m3u8
+#EXTINF:-1 tvg-name="Dar Kulaib - VC Gaz Al Janub (20:30)" group-title="Maç Yayınları",Dar Kulaib - VC Gaz Al Janub (20:30)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335247.m3u8
+#EXTINF:-1 tvg-name="Dar Kulaib - VC Gaz Al Janub (20:30)" group-title="Maç Yayınları",Dar Kulaib - VC Gaz Al Janub (20:30)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335247.m3u8
 #EXTINF:-1 tvg-name="Euro Sport 1" group-title="Diğer Kanallar",Euro Sport 1
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivees1.m3u8
 #EXTINF:-1 tvg-name="Euro Sport 1" group-title="Diğer Kanallar",Euro Sport 1
@@ -150,22 +138,10 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/and
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamliveexn.m3u8
 #EXTINF:-1 tvg-name="Exxen Tv" group-title="Exxen",Exxen Tv
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamliveexn.m3u8
-#EXTINF:-1 tvg-name="FC Cluj Sanatatya - FC Petrolul Ploiești (15:00)" group-title="Maç Yayınları",FC Cluj Sanatatya - FC Petrolul Ploiești (15:00)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333204.m3u8
-#EXTINF:-1 tvg-name="FC Cluj Sanatatya - FC Petrolul Ploiești (15:00)" group-title="Maç Yayınları",FC Cluj Sanatatya - FC Petrolul Ploiești (15:00)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333204.m3u8
-#EXTINF:-1 tvg-name="Farashganj (Bayanlar) - Bangladesh Police (Bayanlar) (13:45)" group-title="Maç Yayınları",Farashganj (Bayanlar) - Bangladesh Police (Bayanlar) (13:45)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18332639.m3u8
-#EXTINF:-1 tvg-name="Farashganj (Bayanlar) - Bangladesh Police (Bayanlar) (13:45)" group-title="Maç Yayınları",Farashganj (Bayanlar) - Bangladesh Police (Bayanlar) (13:45)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18332639.m3u8
 #EXTINF:-1 tvg-name="Fb Tv" group-title="Diğer",Fb Tv
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivefb.m3u8
 #EXTINF:-1 tvg-name="Fb Tv" group-title="Diğer",Fb Tv
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivefb.m3u8
-#EXTINF:-1 tvg-name="Galaxy (Bayanlar) - Comet (Bayanlar) (14:59)" group-title="Maç Yayınları",Galaxy (Bayanlar) - Comet (Bayanlar) (14:59)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333097.m3u8
-#EXTINF:-1 tvg-name="Galaxy (Bayanlar) - Comet (Bayanlar) (14:59)" group-title="Maç Yayınları",Galaxy (Bayanlar) - Comet (Bayanlar) (14:59)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333097.m3u8
 #EXTINF:-1 tvg-name="Gangwon - Shanghai Port (13:00)" group-title="Maç Yayınları",Gangwon - Shanghai Port (13:00)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivesm2.m3u8
 #EXTINF:-1 tvg-name="Gs Tv" group-title="Diğer",Gs Tv
@@ -180,58 +156,60 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/and
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamliveht.m3u8
 #EXTINF:-1 tvg-name="Ht Spor" group-title="Spor",Ht Spor
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamliveht.m3u8
+#EXTINF:-1 tvg-name="Interstellar - Gravity Breakers (21:00)" group-title="Maç Yayınları",Interstellar - Gravity Breakers (21:00)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335375.m3u8
+#EXTINF:-1 tvg-name="Interstellar - Gravity Breakers (21:00)" group-title="Maç Yayınları",Interstellar - Gravity Breakers (21:00)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335375.m3u8
 #EXTINF:-1 tvg-name="Kanada - ABD (22:10)" group-title="Maç Yayınları",Kanada - ABD (22:10)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetb6.m3u8
-#EXTINF:-1 tvg-name="Kostanay - Turan Turkestan (14:00)" group-title="Maç Yayınları",Kostanay - Turan Turkestan (14:00)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333135.m3u8
-#EXTINF:-1 tvg-name="Kostanay - Turan Turkestan (14:00)" group-title="Maç Yayınları",Kostanay - Turan Turkestan (14:00)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333135.m3u8
-#EXTINF:-1 tvg-name="Kuzeyboru - Fenerbahçe Medicana (15:30)" group-title="Maç Yayınları",Kuzeyboru - Fenerbahçe Medicana (15:30)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetrtsy.m3u8
+#EXTINF:-1 tvg-name="Kolombiya (TBL) - Çin (TBL) (21:00)" group-title="Maç Yayınları",Kolombiya (TBL) - Çin (TBL) (21:00)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335317.m3u8
+#EXTINF:-1 tvg-name="Kolombiya (TBL) - Çin (TBL) (21:00)" group-title="Maç Yayınları",Kolombiya (TBL) - Çin (TBL) (21:00)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335317.m3u8
 #EXTINF:-1 tvg-name="Le Mans Basket - Galatasaray MCT Technic (22:00)" group-title="Maç Yayınları",Le Mans Basket - Galatasaray MCT Technic (22:00)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetrtsy.m3u8
+#EXTINF:-1 tvg-name="Lokomotiv Kaliningrad (Bayanlar) - Proton Saratov (Bayanlar) (20:00)" group-title="Maç Yayınları",Lokomotiv Kaliningrad (Bayanlar) - Proton Saratov (Bayanlar) (20:00)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18334949.m3u8
+#EXTINF:-1 tvg-name="Lokomotiv Kaliningrad (Bayanlar) - Proton Saratov (Bayanlar) (20:00)" group-title="Maç Yayınları",Lokomotiv Kaliningrad (Bayanlar) - Proton Saratov (Bayanlar) (20:00)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18334949.m3u8
+#EXTINF:-1 tvg-name="Maccabi Haifa B.C. - Elizur Ashkelon (20:30)" group-title="Maç Yayınları",Maccabi Haifa B.C. - Elizur Ashkelon (20:30)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335244.m3u8
+#EXTINF:-1 tvg-name="Maccabi Haifa B.C. - Elizur Ashkelon (20:30)" group-title="Maç Yayınları",Maccabi Haifa B.C. - Elizur Ashkelon (20:30)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335244.m3u8
+#EXTINF:-1 tvg-name="Maccabi Petah Tikva - MS Safed (20:30)" group-title="Maç Yayınları",Maccabi Petah Tikva - MS Safed (20:30)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335172.m3u8
+#EXTINF:-1 tvg-name="Maccabi Petah Tikva - MS Safed (20:30)" group-title="Maç Yayınları",Maccabi Petah Tikva - MS Safed (20:30)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335172.m3u8
 #EXTINF:-1 tvg-name="Manchester City - Fulham (22:30)" group-title="Maç Yayınları",Manchester City - Fulham (22:30)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 tvg-name="Miami - North Carolina (03:00)" group-title="Maç Yayınları",Miami - North Carolina (03:00)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 tvg-name="Minsk II - BC Avtodor II (15:00)" group-title="Maç Yayınları",Minsk II - BC Avtodor II (15:00)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333197.m3u8
-#EXTINF:-1 tvg-name="Minsk II - BC Avtodor II (15:00)" group-title="Maç Yayınları",Minsk II - BC Avtodor II (15:00)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333197.m3u8
 #EXTINF:-1 tvg-name="Motherwell - Glasgow Rangers (23:00)" group-title="Maç Yayınları",Motherwell - Glasgow Rangers (23:00)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="NK GOŠK Gabela - FK Rudar Prijedor (15:00)" group-title="Maç Yayınları",NK GOŠK Gabela - FK Rudar Prijedor (15:00)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333247.m3u8
-#EXTINF:-1 tvg-name="NK GOŠK Gabela - FK Rudar Prijedor (15:00)" group-title="Maç Yayınları",NK GOŠK Gabela - FK Rudar Prijedor (15:00)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333247.m3u8
-#EXTINF:-1 tvg-name="Nalchik - Saratov (15:05)" group-title="Maç Yayınları",Nalchik - Saratov (15:05)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333201.m3u8
-#EXTINF:-1 tvg-name="Nalchik - Saratov (15:05)" group-title="Maç Yayınları",Nalchik - Saratov (15:05)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333201.m3u8
 #EXTINF:-1 tvg-name="Napoli - Como (23:00)" group-title="Maç Yayınları",Napoli - Como (23:00)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
 #EXTINF:-1 tvg-name="Nba Tv" group-title="Spor",Nba Tv
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivenba.m3u8
 #EXTINF:-1 tvg-name="Nba Tv" group-title="Spor",Nba Tv
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivenba.m3u8
-#EXTINF:-1 tvg-name="Neftçi Bakü - Qabala (18:00)" group-title="Maç Yayınları",Neftçi Bakü - Qabala (18:00)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivecbcs.m3u8
 #EXTINF:-1 tvg-name="Neptunas - Bahçeşehir Klj (21:00)" group-title="Maç Yayınları",Neptunas - Bahçeşehir Klj (21:00)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
+#EXTINF:-1 tvg-name="Netherlands (Pro) - Slovenia (Pro) (20:40)" group-title="Maç Yayınları",Netherlands (Pro) - Slovenia (Pro) (20:40)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335573.m3u8
+#EXTINF:-1 tvg-name="Netherlands (Pro) - Slovenia (Pro) (20:40)" group-title="Maç Yayınları",Netherlands (Pro) - Slovenia (Pro) (20:40)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335573.m3u8
 #EXTINF:-1 tvg-name="Nottingham Forest - Wolverhampton (22:30)" group-title="Maç Yayınları",Nottingham Forest - Wolverhampton (22:30)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs5.m3u8
+#EXTINF:-1 tvg-name="Olimpiada (Bayanlar) - AEL Limassol  (Bayanlar) (20:45)" group-title="Maç Yayınları",Olimpiada (Bayanlar) - AEL Limassol  (Bayanlar) (20:45)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335445.m3u8
+#EXTINF:-1 tvg-name="Olimpiada (Bayanlar) - AEL Limassol (Bayanlar) (20:45)" group-title="Maç Yayınları",Olimpiada (Bayanlar) - AEL Limassol (Bayanlar) (20:45)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335445.m3u8
 #EXTINF:-1 tvg-name="Panionios - Beşiktaş GAİN (20:30)" group-title="Maç Yayınları",Panionios - Beşiktaş GAİN (20:30)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
-#EXTINF:-1 tvg-name="Panthers (Bayanlar) - Eagles (Bayanlar) (15:30)" group-title="Maç Yayınları",Panthers (Bayanlar) - Eagles (Bayanlar) (15:30)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333307.m3u8
-#EXTINF:-1 tvg-name="Panthers (Bayanlar) - Eagles (Bayanlar) (15:30)" group-title="Maç Yayınları",Panthers (Bayanlar) - Eagles (Bayanlar) (15:30)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333307.m3u8
 #EXTINF:-1 tvg-name="Petkimspor - Peristeri (18:00)" group-title="Maç Yayınları",Petkimspor - Peristeri (18:00)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetrtsy.m3u8
 #EXTINF:-1 tvg-name="Pittsburgh - Duke (05:00)" group-title="Maç Yayınları",Pittsburgh - Duke (05:00)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 tvg-name="Premier Lig Maç Önü (22:20)" group-title="Maç Yayınları",Premier Lig Maç Önü (22:20)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 tvg-name="Roeselare - Galatasaray HDIS (22:30)" group-title="Maç Yayınları",Roeselare - Galatasaray HDIS (22:30)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetrtsy.m3u8
 #EXTINF:-1 tvg-name="S Sport" group-title="S Sports",S Sport
@@ -248,12 +226,18 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/and
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 tvg-name="Sepahan FC - Al Ahli Doha (19:00)" group-title="Maç Yayınları",Sepahan FC - Al Ahli Doha (19:00)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
-#EXTINF:-1 tvg-name="Shamakhi - Qarabag (13:30)" group-title="Maç Yayınları",Shamakhi - Qarabag (13:30)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18332550.m3u8
-#EXTINF:-1 tvg-name="Shamakhi - Qarabag (13:30)" group-title="Maç Yayınları",Shamakhi - Qarabag (13:30)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18332550.m3u8
-#EXTINF:-1 tvg-name="Shanghai Shenhua - Machida (15:15)" group-title="Maç Yayınları",Shanghai Shenhua - Machida (15:15)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivesm2.m3u8
+#EXTINF:-1 tvg-name="Sergey Zhmud - Konstantin Vorobiev (21:20)" group-title="Maç Yayınları",Sergey Zhmud - Konstantin Vorobiev (21:20)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335538.m3u8
+#EXTINF:-1 tvg-name="Sergey Zhmud - Konstantin Vorobiev (21:20)" group-title="Maç Yayınları",Sergey Zhmud - Konstantin Vorobiev (21:20)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335538.m3u8
+#EXTINF:-1 tvg-name="Serov - Smolensk (21:00)" group-title="Maç Yayınları",Serov - Smolensk (21:00)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335398.m3u8
+#EXTINF:-1 tvg-name="Serov - Smolensk (21:00)" group-title="Maç Yayınları",Serov - Smolensk (21:00)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335398.m3u8
+#EXTINF:-1 tvg-name="Skenderbeu - Tirana (20:00)" group-title="Maç Yayınları",Skenderbeu - Tirana (20:00)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335252.m3u8
+#EXTINF:-1 tvg-name="Skenderbeu - Tirana (20:00)" group-title="Maç Yayınları",Skenderbeu - Tirana (20:00)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335252.m3u8
 #EXTINF:-1 tvg-name="Smart Spor 1" group-title="Spor",Smart Spor 1
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
 #EXTINF:-1 tvg-name="Smart Spor 1" group-title="Spor",Smart Spor 1
@@ -262,20 +246,16 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/and
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivesm2.m3u8
 #EXTINF:-1 tvg-name="Smart Spor 2" group-title="Spor",Smart Spor 2
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivesm2.m3u8
-#EXTINF:-1 tvg-name="Sparta (4x4) - Stroitel (4x4) (15:00)" group-title="Maç Yayınları",Sparta (4x4) - Stroitel (4x4) (15:00)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18332909.m3u8
-#EXTINF:-1 tvg-name="Sparta (4x4) - Stroitel (4x4) (15:00)" group-title="Maç Yayınları",Sparta (4x4) - Stroitel (4x4) (15:00)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18332909.m3u8
+#EXTINF:-1 tvg-name="Sokol (4x4) - Astoria (4x4) (21:00)" group-title="Maç Yayınları",Sokol (4x4) - Astoria (4x4) (21:00)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335298.m3u8
+#EXTINF:-1 tvg-name="Sokol (4x4) - Astoria (4x4) (21:00)" group-title="Maç Yayınları",Sokol (4x4) - Astoria (4x4) (21:00)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335298.m3u8
 #EXTINF:-1 tvg-name="Sports Tv" group-title="Spor",Sports Tv
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivesptstv.m3u8
 #EXTINF:-1 tvg-name="Sports Tv" group-title="Spor",Sports Tv
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivesptstv.m3u8
 #EXTINF:-1 tvg-name="Sunderland - Liverpool (23:15)" group-title="Maç Yayınları",Sunderland - Liverpool (23:15)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-name="Sırbistan (TBL) - Uruguay (TBL) (15:00)" group-title="Maç Yayınları",Sırbistan (TBL) - Uruguay (TBL) (15:00)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333053.m3u8
-#EXTINF:-1 tvg-name="Sırbistan (TBL) - Uruguay (TBL) (15:00)" group-title="Maç Yayınları",Sırbistan (TBL) - Uruguay (TBL) (15:00)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333053.m3u8
 #EXTINF:-1 tvg-name="T.Fritz - M.Giron (04:00)" group-title="Maç Yayınları",T.Fritz - M.Giron (04:00)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
 #EXTINF:-1 tvg-name="Tabi Spor" group-title="Diğer Kanallar",Tabi Spor
@@ -344,8 +324,6 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/and
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs2.m3u8
 #EXTINF:-1 tvg-name="Tours VB - Ziraat Bankkart (22:00)" group-title="Maç Yayınları",Tours VB - Ziraat Bankkart (22:00)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetb.m3u8
-#EXTINF:-1 tvg-name="Tractor Sazi - Al Sadd (19:00)" group-title="Maç Yayınları",Tractor Sazi - Al Sadd (19:00)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
 #EXTINF:-1 tvg-name="Trt 1" group-title="Ulusal Kanallar",Trt 1
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetrt1.m3u8
 #EXTINF:-1 tvg-name="Trt 1" group-title="Ulusal Kanallar",Trt 1
@@ -358,10 +336,6 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/and
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetrtsy.m3u8
 #EXTINF:-1 tvg-name="Trt Spor Yıldız" group-title="Ulusal Kanallar",Trt Spor Yıldız
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetrtsy.m3u8
-#EXTINF:-1 tvg-name="Turan (Bayanlar) - Ertis Pavlodar (Bayanlar) (15:00)" group-title="Maç Yayınları",Turan (Bayanlar) - Ertis Pavlodar (Bayanlar) (15:00)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333270.m3u8
-#EXTINF:-1 tvg-name="Turan (Bayanlar) - Ertis Pavlodar (Bayanlar) (15:00)" group-title="Maç Yayınları",Turan (Bayanlar) - Ertis Pavlodar (Bayanlar) (15:00)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333270.m3u8
 #EXTINF:-1 tvg-name="Tv8" group-title="Ulusal Kanallar",Tv8
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetv8.m3u8
 #EXTINF:-1 tvg-name="Tv8" group-title="Ulusal Kanallar",Tv8
@@ -370,51 +344,23 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/and
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetv85.m3u8
 #EXTINF:-1 tvg-name="Tv8,5" group-title="Ulusal Kanallar",Tv8,5
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetv85.m3u8
-#EXTINF:-1 tvg-name="Tver - Gelendzhik (15:00)" group-title="Maç Yayınları",Tver - Gelendzhik (15:00)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333099.m3u8
-#EXTINF:-1 tvg-name="Tver - Gelendzhik (15:00)" group-title="Maç Yayınları",Tver - Gelendzhik (15:00)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333099.m3u8
 #EXTINF:-1 tvg-name="Türk Telekom - Chemnitz (19:00)" group-title="Maç Yayınları",Türk Telekom - Chemnitz (19:00)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
 #EXTINF:-1 tvg-name="Ulsan Hyundai - Melbourne City (13:00)" group-title="Maç Yayınları",Ulsan Hyundai - Melbourne City (13:00)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
-#EXTINF:-1 tvg-name="Ural - Petrel (14:45)" group-title="Maç Yayınları",Ural - Petrel (14:45)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333026.m3u8
-#EXTINF:-1 tvg-name="Ural - Petrel (14:45)" group-title="Maç Yayınları",Ural - Petrel (14:45)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333026.m3u8
-#EXTINF:-1 tvg-name="VC Yenisei (Bayanlar) - Tulitsa (Bayanlar) (15:00)" group-title="Maç Yayınları",VC Yenisei (Bayanlar) - Tulitsa (Bayanlar) (15:00)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333068.m3u8
-#EXTINF:-1 tvg-name="VC Yenisei (Bayanlar) - Tulitsa (Bayanlar) (15:00)" group-title="Maç Yayınları",VC Yenisei (Bayanlar) - Tulitsa (Bayanlar) (15:00)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333068.m3u8
+#EXTINF:-1 tvg-name="Vitali Sokolov - Alexey Dyukov (21:15)" group-title="Maç Yayınları",Vitali Sokolov - Alexey Dyukov (21:15)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335446.m3u8
+#EXTINF:-1 tvg-name="Vitali Sokolov - Alexey Dyukov (21:15)" group-title="Maç Yayınları",Vitali Sokolov - Alexey Dyukov (21:15)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18335446.m3u8
 #EXTINF:-1 tvg-name="Vitoria - Flamengo (03:30)" group-title="Maç Yayınları",Vitoria - Flamengo (03:30)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivesm1.m3u8
-#EXTINF:-1 tvg-name="Welwitschia Mirabilis - Alto Zambeze (14:00)" group-title="Maç Yayınları",Welwitschia Mirabilis - Alto Zambeze (14:00)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18332685.m3u8
-#EXTINF:-1 tvg-name="Welwitschia Mirabilis - Alto Zambeze (14:00)" group-title="Maç Yayınları",Welwitschia Mirabilis - Alto Zambeze (14:00)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18332685.m3u8
 #EXTINF:-1 tvg-name="West Ham - Manchester Utd (23:15)" group-title="Maç Yayınları",West Ham - Manchester Utd (23:15)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs3.m3u8
 #EXTINF:-1 tvg-name="Zalau - TFL Altekma (19:00)" group-title="Maç Yayınları",Zalau - TFL Altekma (19:00)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetrtsy.m3u8
-#EXTINF:-1 tvg-name="Zodiac - Intergalactic (14:56)" group-title="Maç Yayınları",Zodiac - Intergalactic (14:56)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333064.m3u8
-#EXTINF:-1 tvg-name="Zodiac - Intergalactic (14:56)" group-title="Maç Yayınları",Zodiac - Intergalactic (14:56)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333064.m3u8
 #EXTINF:-1 tvg-name="iDMAN Tv" group-title="Diğer Kanallar",iDMAN Tv
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamliveidm.m3u8
 #EXTINF:-1 tvg-name="iDMAN Tv" group-title="Diğer Kanallar",iDMAN Tv
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamliveidm.m3u8
-#EXTINF:-1 tvg-name="Çin (Bayanlar) - Brezilya (Bayanlar) (14:40)" group-title="Maç Yayınları",Çin (Bayanlar) - Brezilya (Bayanlar) (14:40)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333004.m3u8
-#EXTINF:-1 tvg-name="Çin (Bayanlar) - Brezilya (Bayanlar) (14:40)" group-title="Maç Yayınları",Çin (Bayanlar) - Brezilya (Bayanlar) (14:40)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333004.m3u8
 #EXTINF:-1 tvg-name="İsveç - ABD (20:05)" group-title="Maç Yayınları",İsveç - ABD (20:05)
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetb5.m3u8
-#EXTINF:-1 tvg-name="İtalya (Bayanlar) - Çin (Bayanlar) (15:30)" group-title="Maç Yayınları",İtalya (Bayanlar) - Çin (Bayanlar) (15:30)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333342.m3u8
-#EXTINF:-1 tvg-name="İtalya (Bayanlar) - Çin (Bayanlar) (15:30)" group-title="Maç Yayınları",İtalya (Bayanlar) - Çin (Bayanlar) (15:30)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333342.m3u8
-#EXTINF:-1 tvg-name="İtalya (Pro) - Serbia (Pro) (15:15)" group-title="Maç Yayınları",İtalya (Pro) - Serbia (Pro) (15:15)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333260.m3u8
-#EXTINF:-1 tvg-name="İtalya (Pro) - Serbia (Pro) (15:15)" group-title="Maç Yayınları",İtalya (Pro) - Serbia (Pro) (15:15)
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18333260.m3u8
