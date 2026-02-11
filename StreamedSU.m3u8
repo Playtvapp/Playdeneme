@@ -1,46 +1,61 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="U-BT Cluj-Napoca vs Aris BC" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAg4UeAlAhuIPiEQoQAExAkQRiCZMEKTPii5gym+vNGOmtMM7GiIQA.webp" group-title=" Basketball",U-BT Cluj-Napoca vs Aris BC
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/XBmjZPYGqoZxCSpZvVtvPHkwCDbYEeSO/echo/stream/cluj-napoca-vs-aris-basketball-453264/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Trk Telekom BK vs Niners Chemnitz" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIKPDB9qSENxBqYIFLhB9TiE8sIxgTPii5gym+vNGOmtMM7GiIQA.webp" group-title=" Basketball",Trk Telekom BK vs Niners Chemnitz
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/mSPoqfCZyMvewRBrBqUDUrxfpaPPLbNn/echo/stream/turk-telekom-vs-chemnitz-basketball-453271/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Free Dance: Warm-Up" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Olympics",Free Dance: Warm-Up
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/sKqiRhPPYjXhGvFKHvMsKkLhjAHDiyKx/1770814800/1770837600/olympics_2026-02-11_figure-skating_free-dance-warm-up/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Men's & Women's Doubles Luge" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Olympics",Men's & Women's Doubles Luge
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/GQxgrWnoXiADynWlOQLCkuRrHStJlQog/1770814800/1770846300/olympics_2026-02-11_luge_mens--womens-doubles-luge/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Slovakia Ice Hockey vs Finland Ice Hockey" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApghCCDj00IbiAAmuPVsMg+IEsYMEKTPmrZgy8IvNFqmtMM7GiIQA.webp" group-title=" Hockey",Slovakia Ice Hockey vs Finland Ice Hockey
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/nBfJAJmNrNLKGsTTSZNYXZzmDFaKrCFS/echo/stream/slovakia-vs-finland-hockey-395366/1/playlist.m3u8
+https://lb1.strmd.top/secure/foTMaRaGmUkPVQsWeUVpxMikYFCpmziF/echo/stream/slovakia-vs-finland-hockey-395366/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Slovakia vs. Finland (Men's Group B)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Olympics",Slovakia vs. Finland (Men's Group B)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/bjbpKZGOisiwlcdYFOqflDnfjFWTyugt/1770813600/1770840600/olympics_2026-02-11_hockey_slovakia-vs-finland-mens-group-b/index.m3u8
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/ZZtCmCBLTnRQNuvXhmjWejkayKSWhqnT/1770813600/1770840600/olympics_2026-02-11_hockey_slovakia-vs-finland-mens-group-b/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Levadiakos vs OFI" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxcYcPI0oQ3EABNVuEHxMhEh04wpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Football",Levadiakos vs OFI
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/yAPASNXeVNTMVCUjPPzMqesPxURkBzVL/echo/stream/levadiakos-vs-ofi-football-1508000/1/playlist.m3u8
+https://lb7.strmd.top/secure/vKzgesKWdwKxhlOZuFzUEAJDzajtZHgi/echo/stream/levadiakos-vs-ofi-football-1508000/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Pre-Season Testing - Day 1" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Pre-Season Testing - Day 1
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/ULGtmWlYhZaGgiTRUksldnmuiZvqTNds/1770811200/1770836400/f1/index.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="England Cricket vs West Indies Cricket" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDcwIEDB4gAJhtW6QEQ3xCmSuTSBQEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Cricket",England Cricket vs West Indies Cricket
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/UnqAewXGNzuEupFImdaHoshUSKxEkAAu/echo/stream/mens-t20-world-cup-england-vs-west-indies-cricket-1/1/playlist.m3u8
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/mxcyNvAzVfhdlgGHhncEyGAPRXFEqYpY/1770811200/1770836400/f1/index.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Gold Zone: Day 5" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Olympics",Gold Zone: Day 5
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/WYwxgsNrUCnclaswhhRnpwBRWoJATdrW/1770804000/1770854400/olympics_2026-02-11_gold-zone-day-5/index.m3u8
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/pmVYxGLWVYetgXOGDDNDhJFfyiKfZAoO/1770804000/1770854400/olympics_2026-02-11_gold-zone-day-5/index.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Figure Skating: Training" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Olympics",Figure Skating: Training
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/EllVYrFzQIOXIgVlEAEAGUFrmRgZFClO/1770798000/1770840900/olympics_2026-02-11_figure-skating_figure-skating-training/index.m3u8
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/woKhxWNQwnUFDmRxUAAmXbZOlGSLKXmW/1770798000/1770840900/olympics_2026-02-11_figure-skating_figure-skating-training/index.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Formula 1 2026 - Bahrain Test" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Formula 1 2026 - Bahrain Test
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/RKskdBPFEZWNRDuxKnbUnAASwDnzeiPd/delta/stream/live-event_formula-1-2026-bahrain-test-live-stream/1/playlist.m3u8
+https://lb9.strmd.top/secure/NDzkBiofMBDUTahdxQHvXCdPZIXLDPub/delta/stream/live-event_formula-1-2026-bahrain-test-live-stream/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP 500 Rotterdam / ATP 250 Buenos Aires " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",ATP 500 Rotterdam / ATP 250 Buenos Aires 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/gtgADLHEkEDdrYOReKfiWrTYpZnHijJW/echo/stream/atp-500-rotterdam-atp-250-buenos-aires-tn-1/1/playlist.m3u8
+https://lb9.strmd.top/secure/LIdUbqLpfswNRbyhDmvZULNnJqKlgnWV/echo/stream/atp-500-rotterdam-atp-250-buenos-aires-tn-1/1/playlist.m3u8
