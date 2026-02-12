@@ -1,31 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Women's 10km Free" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Olympics",Women's 10km Free
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="India Cricket vs Namibia Cricket" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLAow4biHhhNmkiAOJ9BmCAgg+IGAQpM+KLmDLb680Q6a0wTsaIhA.webp" group-title=" Cricket",India Cricket vs Namibia Cricket
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/DwEyxEwddeUBlTBSvsMYUPVstmhOJtuY/1770886800/1770911100/olympics_2026-02-12_cross-country-skiing_womens-10km-free/index.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Switzerland Ice Hockey vs France Ice Hockey" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQJQNEJu4gAJiBK59IbShCnNMAhSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title=" Hockey",Switzerland Ice Hockey vs France Ice Hockey
+https://lb1.strmd.top/secure/pIvIGrdQimwOovGtLHEMiJtjiIMIPvIn/echo/stream/mens-t20-world-cup-india-vs-namibia-cricket-1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Finland W vs Canada W" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCIgAJiADGIJnXIMVzYGB7xJVKYQasw+trghA.webp" group-title=" Hockey",Finland W vs Canada W
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/DpvJUlGvWDduCVsOmVFZOiwZYsRvECOw/delta/stream/live_olympic-games-group-a_switzerland-france-live-streaming-500746752/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Switzerland vs. France (Men's Group A)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Olympics",Switzerland vs. France (Men's Group A)
+https://lb2.strmd.top/secure/PmVyRZVkXdamymwrnjJYaHEZglnSsnxH/echo/stream/finland-w-vs-canada-w-hockey-419981/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Finland vs. Canada (Women's Group A)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Olympics",Finland vs. Canada (Women's Group A)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/uXbwOuNJIlONKGWniwohZrVORzpQJfYj/1770883800/1770910800/olympics_2026-02-12_hockey_switzerland-vs-france-mens-group-a/index.m3u8
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/VsGWbumufbIJbTtmbJPiwoJvvATyeTtQ/1770891600/1770919200/olympics_2026-02-12_hockey_finland-vs-canada-womens-group-a/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Great Britain Curling vs Sweden Curling" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQfddBIht3EABMQEI6vUGdF+AQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Olympics",Great Britain Curling vs Sweden Curling
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/ezXnOKpAVCFNAJlxjnfNXIsHBVEGaABZ/1770890700/1770919500/olympics_2026-02-12_curling_great-britain-vs-sweden-m-round-robin/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="USA vs. Switzerland (M Round-Robin)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Olympics",USA vs. Switzerland (M Round-Robin)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/woIglpMXnbBECGoXyPpOrWgkMFyZwLpd/1770890700/1770919500/olympics_2026-02-12_curling_usa-vs-switzerland-m-round-robin/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Norway vs. Germany (M Round-Robin)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Olympics",Norway vs. Germany (M Round-Robin)
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/mDtJIgIWarbfcOyTmdgchLHyWCTOIZhD/1770890700/1770919500/olympics_2026-02-12_curling_norway-vs-germany-m-round-robin/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Gold Zone: Day 6" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Olympics",Gold Zone: Day 6
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/fVOktqDrAUTzlBudzjHHuiNRKjrwzqri/1770890400/1770940800/olympics_2026-02-12_gold-zone-day-6/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Men's Snowboard Cross: Finals" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Olympics",Men's Snowboard Cross: Finals
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/bjWRsHMkUfqPyrTsGYHPcPTTQoLFMlcC/1770889500/1770913200/olympics_2026-02-12_snowboarding_mens-snowboard-cross-finals/index.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="PIF Saudi Ladies International" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",PIF Saudi Ladies International
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/wtGSDswAxcZKmUqoMNfTijZSzRNXsPjR/echo/stream/pif-saudi-ladies-international-game-162626/1/playlist.m3u8
+https://lb5.strmd.top/secure/PBWMOhsSlqYPecIIoNhVKDKqdcsSoEVe/echo/stream/pif-saudi-ladies-international-game-162626/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP 500 Rotterdam / ATP 250 Buenos Aires " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",ATP 500 Rotterdam / ATP 250 Buenos Aires 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/eWOGFqjTnfZQTvPxIiXunGPmCnqeWsDm/echo/stream/atp-500-rotterdam-atp-250-buenos-aires-tn-1/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Italy Cricket vs Nepal Cricket" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3n4QZPtQAmIbiB0R9IPsfUhEiZYRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Cricket",Italy Cricket vs Nepal Cricket
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/KpAVqQfVizfpCpdGDYQnbSpSHgMCxImA/echo/stream/mens-t20-world-cup-nepal-vs-italy-cricket-hundred-1/1/playlist.m3u8
+https://lb8.strmd.top/secure/ioFBslAhCBhzVrpRZrvfIZyHuECKaFPs/echo/stream/atp-500-rotterdam-atp-250-buenos-aires-tn-1/1/playlist.m3u8
