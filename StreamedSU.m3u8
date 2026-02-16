@@ -1,36 +1,46 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Boston University vs Colgate" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBSeCEABMwKENxAkQR-ZqMg+IGOdwEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Basketball",Boston University vs Colgate
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/LDKQqYEycOhCapITwfUQWFMuAXjTpYCb/delta/stream/live_ncaa_boston-uni-colgate-live-streaming-464123088/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Duke Blue Devils vs Syracuse Orange" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Duke Blue Devils vs Syracuse Orange
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/jRDJXymreCBDMpNVAoJRJhuwmAAlbmiO/delta/stream/live_ncaa_duke-syracuse-live-streaming-430392528/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Marshall Thundering Herd vs South Alabama Jaguars" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Marshall Thundering Herd vs South Alabama Jaguars
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/DclOLMwIGuuCwjHWacJTYKcYffzLbLNG/delta/stream/live_ncaa_marshall-south-alabama-live-streaming-462271104/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Delaware State Hornets vs Howard Bison" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Delaware State Hornets vs Howard Bison
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/TWRCwxsIdoRISGZlpOCXiwxOetitJvRM/delta/stream/live_ncaa_delaware-state-howard-live-streaming-464123952/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="North Carolina Central Eagles vs Morgan State Bears" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",North Carolina Central Eagles vs Morgan State Bears
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/SKgRqhlAnBydPehuPSvGqzzzTSqtSEFz/delta/stream/live_ncaa_nc-central-morgan-state-live-streaming-464125680/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Jackson State Tigers vs Bethune-Cookman Wildcats" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Jackson State Tigers vs Bethune-Cookman Wildcats
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/TKqLymqBIzDzSLAjkbAwivmuYONxzCUh/delta/stream/live_ncaa_jackson-state-bethune-cookman-live-streaming-464130000/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Deportivo Riestra vs Newell's Old Boys" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulwhavACZENIbiBIhDMQyAiqdieAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Football",Deportivo Riestra vs Newell's Old Boys
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/fKCuuoFYYhNbxtfCiznzQvEFfZsriBbl/echo/stream/deportivo-riestra-vs-newells-old-boys-football-1491883/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Boston University Terriers vs Colgate Raiders" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Boston University Terriers vs Colgate Raiders
+https://lb1.strmd.top/secure/FjKcRbqQwHLDdYBUtxXIKBFNnPpZDsom/echo/stream/deportivo-riestra-vs-newells-old-boys-football-1491883/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Best of Curling (Feb. 16)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Olympics",Best of Curling (Feb. 16)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/BLrmjsUowyjaONRMJZbCAAkSxeyqvxSb/delta/stream/live_ncaa_boston-uni-colgate-live-streaming-464123088/1/playlist.m3u8
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/qPNhDCKOtjnYLDkBlpVvIYJWGlUmvkKZ/1771268400/1771297200/olympics_2026-02-17_curling_best-of-curling-feb-16/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="South Carolina State Bulldogs vs Coppin State Eagles" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",South Carolina State Bulldogs vs Coppin State Eagles
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/uaunkJxduXKikcVRhrJnfnUHjcHKmohZ/delta/stream/live_ncaa_south-carolina-st-coppin-st-live-streaming-464126544/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Canada vs. Switzerland (Women's Semifinal)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Olympics",Canada vs. Switzerland (Women's Semifinal)
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/AAulMLuzsFBmDnkeJjabrmikCkxPeumi/1771261800/1771288800/olympics_2026-02-16_hockey_canada-vs-switzerland-womens-semifinal/index.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Canada W vs Switzerland W" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCIgAJiBQgmdcgwDGzYGB7xJVKYQasw+trghA.webp" group-title=" Hockey",Canada W vs Switzerland W
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/YxEAePhmcsMzcGAnocSAdBlmFkYbcgMZ/echo/stream/canada-w-vs-switzerland-w-hockey-420426/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Girona vs Barcelona" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huIFAnbYQ6gCYhEKEBBAwQB06fgEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Football",Girona vs Barcelona
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/rIJsedIOHqblsqxeeSwMbfGgDfIzdDll/1771261200/1771288200/laligatv/index.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Michigan Wolverines vs. Oregon State Beavers (Baseball)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Michigan Wolverines vs. Oregon State Beavers (Baseball)
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/YGdJiPdiWOlzZTEtBWwzEHHWvtjOZoGs/1771257600/1771288200/collegebaseball-7/index.m3u8
+https://lb7.strmd.top/secure/ghRBplPdPfPkIPYdqPPkntKOmYcWxHif/delta/stream/live_ncaa_south-carolina-st-coppin-st-live-streaming-464126544/1/playlist.m3u8
