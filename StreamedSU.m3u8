@@ -1,141 +1,166 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies vs Arizona Diamondbacks" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Colorado Rockies vs Arizona Diamondbacks
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Defensa y Justicia vs Belgrano" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBwoAvmCTsQ3ECV0g+RkABMQFmBaMEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Football",Defensa y Justicia vs Belgrano
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/DFTLWNOuSYOkZGEiHDlaqAHsFvKumxzY/delta/stream/live_mlb_rockies-diamondbacks-live-streaming-506150640/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners vs San Diego Padres" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Seattle Mariners vs San Diego Padres
+https://lb2.strmd.top/secure/OdbvSoPisJYIIIfZeRQGFVLkjZoojaby/echo/stream/defensa-y-justicia-vs-belgrano-cordoba-football-1491897/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies vs Arizona Diamondbacks" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCkQZAWEohuIPjpCIQIACYHjZ+AQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Baseball",Colorado Rockies vs Arizona Diamondbacks
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/thmTAjSgKNxFKtgtrPXbTJJakPINjzCJ/delta/stream/live_mlb_mariners-padres-live-streaming-506151072/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs vs Chicago White Sox" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Chicago Cubs vs Chicago White Sox
+https://lb7.strmd.top/secure/GEpZmrcljMDJfHzhNmpzZdZnKzzMHpLI/rtmp/stream/coloradorockies/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners vs San Diego Padres" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMH0ghetfNrX6+IErhBGTiGAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Baseball",Seattle Mariners vs San Diego Padres
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/LnisibHXQRJJBcyOUrMLIHUNkGUuOopM/delta/stream/live_mlb_cubs-white-sox-live-streaming-506149776/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Texas Rangers vs Kansas City Royals" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Texas Rangers vs Kansas City Royals
+https://lb6.strmd.top/secure/iHEvczfSAxNsfMZmNSDnjaHOcOJyecBk/rtmp/stream/seattlemariners/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="USA Ice Hockey vs Slovakia Ice Hockey" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplFNWSUmxDcQAE1zaQMPSFM4c8AhSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title=" Hockey",USA Ice Hockey vs Slovakia Ice Hockey
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/CIDJQDbOOhvtzqcmLtxkWCLFmWNDOvsH/delta/stream/live_mlb_rangers-royals-live-streaming-506150208/1/playlist.m3u8
+https://lb6.strmd.top/secure/hWCguwwATevryuiFnjMIQKnNRvMpFlGz/rtmp/stream/olympics_2026-02-20_hockey_usa-vs-slovakia-mens-semifinal/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Texas Rangers vs Kansas City Royals" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTsQ8akhDbuIEnpAQQMdSF04AJsYIUmfVWzBkN9eaNVNaYJ2NEQgA.webp" group-title=" Baseball",Texas Rangers vs Kansas City Royals
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/bpUQgBCKaWuvnbqUUkUfYuSflrjLPFBH/delta/stream/live_mlb_rangers-royals-live-streaming-506150208/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs vs Chicago White Sox" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA.webp" group-title=" Baseball",Chicago Cubs vs Chicago White Sox
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/NBYdbdTXVieYiCrYmXwxDCqvQyWQSTtR/rtmp/stream/chicagocubs/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="St Helens vs Leigh Leopards" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl5IuABjApcIbiAAmIPiEQkQEENuMhzBCkz4ouYMvCLzRTprTAuxoiCA.webp" group-title=" Rugby",St Helens vs Leigh Leopards
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/yDDmqBaxbTXoAcPQMPigjOAOINRebDZV/echo/stream/st-helens-vs-leigh-game-37322/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Bradford Bulls vs Catalans Dragons" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpOoATMOBQaQ3EBFwhVIFCER8D+5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Rugby",Bradford Bulls vs Catalans Dragons
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/QqSHdhcUgYMDKbCWilCsAjYTQOBHgtig/echo/stream/bradford-vs-catalans-dragons-game-182283/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Blackburn Rovers vs Preston North End" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5hu0VQBMwfENxAQDIY8f36Se3AQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Football",Blackburn Rovers vs Preston North End
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/kdBDnuSVSlYqVfhMkwuGNtcMnYXAyAxf/echo/stream/blackburn-vs-preston-football-1386938/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Athletic Bilbao vs Elche" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIgoAEx5g+IVdxDrdR1SjUhEiRhSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title=" Football",Athletic Bilbao vs Elche
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/qLcWlrmoOyRemRZmuxNGBFaMyJnSoxSe/rtmp/stream/ll_ath/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Gloucester vs Sale Sharks" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhybywIMlAghuGvThggAJnr4hzywjGBM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Rugby",Gloucester vs Sale Sharks
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/bAydVPnUrDlnJBdvSQqxDDckNbofLIvt/echo/stream/gloucester-vs-sale-sharks-rugby-51095/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sassuolo vs Hellas Verona" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphggAJswVs1IbiBIgUIRBH0g+54+YIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Football",Sassuolo vs Hellas Verona
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/VGQSBhlWJwFDXhVBtOroHghxzoZYWHFX/rtmp/stream/sa_sas/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Brest vs Marseille" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjJko8MCkghuICCD4hEJEDD0GQAEz0EKTPii5gyG+vNGOmtMM7GiIQA.webp" group-title=" Football",Brest vs Marseille
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/GxlCyvlqducOystSLIglOYDjPXLMzlSi/rtmp/stream/l1_bre/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Shelbourne vs Galway United" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyYpgYEBBAxtIbiBIgjOQwBMDIRFvgEKTPmrZgy8IvNFqmtMM7GiIQA.webp" group-title=" Football",Shelbourne vs Galway United
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/tdrHfCEIaEVDKOeWLBYGeXjCOEXVFurX/echo/stream/shelbourne-vs-galway-united-football-1492628/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Waterford vs Sligo Rovers" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC8SIFGD5gAJs1UgdIGLlPqjiRBMIxgTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Football",Waterford vs Sligo Rovers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/jpMeNyBUklbYloIKPcMYvsbyXLaKnkYn/echo/stream/waterford-vs-sligo-rovers-football-1492629/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Mainz vs Hamburg" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLAATaHDgQQ3ENr4hE2kodwgUIVQQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Football",Mainz vs Hamburg
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/BLimiJribpvGWTCxgxFWcwCAlqwbgMWV/rtmp/stream/bl_m05/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Widzew d vs Cracovia" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3l8wveWhAkQ3EH10gIuEDFPmQIACYEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Football",Widzew d vs Cracovia
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/PWLQhTCPoLMdZsXBVwtohuezXwLDEwZb/echo/stream/widzew-lodz-vs-cracovia-krakow-football-1380581/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Ceuta vs Granada" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFO3KJuIHWr4gDEQ7hBqQ6ghSZ8NbMGXhF5ojU1pgHY0RCA.webp" group-title=" Football",Ceuta vs Granada
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/InFOVmKWIFJPSBAzUyLucgleJhopeAgE/echo/stream/ad-ceuta-fc-vs-granada-cf-football-1392060/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="USL Dunkerque vs Bastia" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksLAATEDBAoGWkNxB8QJEBFwGQF46ZQEKTPtrZgy8IvNHamtMM7GiIQA.webp" group-title=" Football",USL Dunkerque vs Bastia
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/gAWKVkQDjDmGXtfAUwPkvObCZFADxaGp/echo/stream/dunkerque-vs-bastia-football-1389326/1/playlist.m3u8
+https://lb1.strmd.top/secure/yaHmWHcOvoqtqdViQEaYhgRZYjYhhJZG/echo/stream/dunkerque-vs-bastia-football-1389326/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Annecy vs Red Star" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphYgoopjm4gAJiBIhDffYbW5cBCkz4ouYMvCLzRtprTD2xoiEA.webp" group-title=" Football",Annecy vs Red Star
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/RJaFecdQlhdJfkucaSVfnNtDhUXiToWB/echo/stream/annecy-vs-red-star-fc-93-football-1389327/1/playlist.m3u8
+https://lb8.strmd.top/secure/ozKOmIKhJvUEsWapCJLCuUXOqZbdGsOk/echo/stream/annecy-vs-red-star-fc-93-football-1389327/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Nancy Lorraine vs Grenoble" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphC5i8CnxDcQEVfpw4tW1csIxgTPii5gyG+vNE2mtMHbGiIQA.webp" group-title=" Football",Nancy Lorraine vs Grenoble
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/EiUVvWOBfkorcLzuDprMNfHcMrhecPoM/echo/stream/nancy-vs-grenoble-football-1389323/1/playlist.m3u8
+https://lb8.strmd.top/secure/HGQqPVyVXGOoNbihppnsYflcFbzwFwyO/echo/stream/nancy-vs-grenoble-football-1389323/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Boulogne vs Clermont Foot" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7UUNSCG4gIuEABMQRvlr26UBCkz4ouYMvCLzRtprTD2xoiEA.webp" group-title=" Football",Boulogne vs Clermont Foot
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/MYymAheaqKNCMMxUcProlZRKDgPqRXfM/echo/stream/boulogne-vs-clermont-foot-football-1396834/1/playlist.m3u8
+https://lb6.strmd.top/secure/UIXHhNAnlGPTovjVUjmqszwxkNLnnOLp/echo/stream/boulogne-vs-clermont-foot-football-1396834/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Fortuna Sittard vs Excelsior" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3lt5+ECjAATENxC6cJPSD64QxywQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Football",Fortuna Sittard vs Excelsior
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/WqqYaIZOoUCraIHndYDnTjNMZriAsUWh/echo/stream/fortuna-sittard-vs-excelsior-football-1381080/1/playlist.m3u8
+https://lb2.strmd.top/secure/xUMZizCIzuIGhnLZTRKHfEJnbSpYzRst/echo/stream/fortuna-sittard-vs-excelsior-football-1381080/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Rodez AF vs Montpellier" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDgB+ECjCrE3EHxAkQMVfs0gIF1QQpM+KLmDLwi80Q6a0wTsaIhA.webp" group-title=" Football",Rodez AF vs Montpellier
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/ChoQwViYIiwyohgkZeMXWlsssBfBmcCt/echo/stream/rodez-vs-montpellier-football-1389329/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Athletic Club vs Elche" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Athletic Club vs Elche
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/HgApYNndgpUwFaDUzlOMURIUSUmFRjcP/delta/stream/live_laliga_athletic-club-elche-live-streaming-442312272/1/playlist.m3u8
+https://lb2.strmd.top/secure/yRTrvbeQfZTjpgViGVYbStehJBImqkpK/echo/stream/rodez-vs-montpellier-football-1389329/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Snocros National Seneca" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Snocros National Seneca
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/ccQlYShqJLYsvanNoSBcYzkozaRDKelb/echo/stream/ppv-event-11-snocros-national-seneca-ppv-11/1/playlist.m3u8
+https://lb6.strmd.top/secure/sywEcbYhhhxeTRFJbaiZioDxtwSuyuZc/echo/stream/ppv-event-11-snocros-national-seneca-ppv-11/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Mens Freeski Halfpipe Final Run 2" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Olympics",Mens Freeski Halfpipe Final Run 2
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/HIqIjPPfwpVaQZeClYEssJyPLdNRgaSf/rtmp/stream/olympics_2026-02-20_freestyle-skiing_mens-freeski-halfpipe-final/1/playlist.m3u8
+https://lb6.strmd.top/secure/CdGGHVMIWmwyUhQxGmuoEjwyJIlNevsH/rtmp/stream/olympics_2026-02-20_freestyle-skiing_mens-freeski-halfpipe-final/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Two-Woman Bobsled: Run 2" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Olympics",Two-Woman Bobsled: Run 2
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/wFTmrmsAElAnZlFxabHdBaKoNFSKMexg/rtmp/stream/olympics_2026-02-20_bobsled_two-woman-bobsled-run-2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sassuolo vs Hellas Verona" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Sassuolo vs Hellas Verona
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/cvGjtBhXFUyomzuZAKKAzZwbakQqaaVg/delta/stream/live_serie-a_sassuolo-verona-live-streaming-442311840/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="1. FSV Mainz 05 vs Hamburger SV" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",1. FSV Mainz 05 vs Hamburger SV
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/dftGmONPdYLIajEFgldlMGePESXhGdrD/delta/stream/live_bundesliga_mainz-05-hsv-live-streaming-442187856/1/playlist.m3u8
+https://lb2.strmd.top/secure/tLHMLGrjUIYxbZXclQtdlJloLIqiWKvf/rtmp/stream/olympics_2026-02-20_bobsled_two-woman-bobsled-run-2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles vs New York Yankees" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Baseball",Baltimore Orioles vs New York Yankees
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/WHyaNATgRHdoefKbUGmyMhaZmavBqwoG/rtmp/stream/baltimoreorioles/1/playlist.m3u8
+https://lb6.strmd.top/secure/keJDjTeoZovZDKpAGGYeFfXrkzECahty/rtmp/stream/baltimoreorioles/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Men's Bronze Final" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Olympics",Men's Bronze Final
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/yBjsYDlRiGgoXBOmwSLFejRQqRyWLnyz/rtmp/stream/olympics_2026-02-20_curling_mens-bronze-final/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Stuttgart II vs Waldhof Mannheim" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhADQAgCYgSIFCG7bVu-SBggtOPvoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Football",Stuttgart II vs Waldhof Mannheim
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/uqGyUkFhogYZeAUovBZcLdoIYxLtLQMw/echo/stream/stuttgart-ii-vs-waldhof-mannheim-football-1394300/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="FC Nordsjaelland vs Vejle" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhEKENnrkGAY2bie8EVW4EurMGFz5zQA.webp" group-title=" Football",FC Nordsjaelland vs Vejle
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/ikgfEIRbpHMkdbpXENoPqLZLotubytal/echo/stream/fc-nordsjaelland-vs-vejle-football-1379471/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bochum vs FC Nrnberg" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5EkIcPIghuIACYgSIFMZAwQ28zmOEYwJnxRcwZeEXminTWmBdjREEA.webp" group-title=" Football",Bochum vs FC Nrnberg
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/oAdwrxyqgmumqZzAVKEAXJcWRpeMAXly/echo/stream/vfl-bochum-vs-1-fc-nurnberg-football-1388812/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Greuther Frth vs Arminia Bielefeld" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnBZqfWGBAhuICHpB8QJECh2mQAEz0EKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Football",Greuther Frth vs Arminia Bielefeld
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/bXnnarSQyNBoiXrQtXkMogSAfPjcQsJZ/echo/stream/spvgg-greuther-furth-vs-arminia-bielefeld-football-1388815/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Union Berlin W vs FC Koln W" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZQGNF9cgxXNxPeCKrcCXVmDC58FoA.webp" group-title=" Football",Union Berlin W vs FC Koln W
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/uKvfmybOtxsMCZGyeJffRPbMDGmWZfnE/echo/stream/union-berlin-w-vs-fc-koln-w-football-1401341/1/playlist.m3u8
+https://lb6.strmd.top/secure/XtNbsHBZpjtVoFUuTaLNGGnkfYmjbOBi/rtmp/stream/olympics_2026-02-20_curling_mens-bronze-final/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP 500 Doha / ATP 500 Rio / ATP 250 Delray Beach " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",ATP 500 Doha / ATP 500 Rio / ATP 250 Delray Beach 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/YaPLbrjUjDikzXrJvkItIiTBVBxuvimu/echo/stream/atp-500-doha-atp-500-rio-atp-250-delray-beach-tn-1/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="The Genesis Invitational | PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",The Genesis Invitational | PGA Tour
+https://lb6.strmd.top/secure/HNZftzQXdKyAZzuBgalZdQMwfMOhMyXZ/echo/stream/atp-500-doha-atp-500-rio-atp-250-delray-beach-tn-1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="The Genesis Invitational Round 2" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title=" Golf",The Genesis Invitational Round 2
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/LqtxlUJFZJgTUEvkkgEnQRymtKNCEnbo/echo/stream/the-genesis-invitational-pga-tour-atp1000/1/playlist.m3u8
+https://lb2.strmd.top/secure/lgimNJgsQMQdXuDLJPVLYPEhwqtJxaFg/echo/stream/the-genesis-invitational-pga-tour-atp1000/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Lights Out 17" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Lights Out 17
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/CavRiSxnIsaAPhkrunCmGaDtrqmCLuxY/echo/stream/ppv-event-10-lights-out-17-ppv-10/1/playlist.m3u8
+https://lb8.strmd.top/secure/YLMmzDOnjDtkuXqZAhMlKQkfEgDNfhxM/echo/stream/ppv-event-10-lights-out-17-ppv-10/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Gold Zone: Day 14" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Olympics",Gold Zone: Day 14
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/ubrSgTRDfYJlrZTyzvGqcEjatCatuMyU/rtmp/stream/olympics_2026-02-20_gold-zone-day-14/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Poland Darts Open - Session 1 & 2 " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Poland Darts Open - Session 1 & 2 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/egyJLlnEDJhHUEqquycOIldKjDldKCoe/echo/stream/poland-darts-open-session-1-2-darts-1/1/playlist.m3u8
+https://lb6.strmd.top/secure/DngZrEarwCXZAkCegPVtwLEtbiUkLJFg/rtmp/stream/olympics_2026-02-20_gold-zone-day-14/1/playlist.m3u8
