@@ -1,46 +1,56 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles vs New York Yankees" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Baltimore Orioles vs New York Yankees
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/RTUkQNoxTsaioGSTpXLlBoXGxEKjFGlv/delta/stream/live_mlb_orioles-yankees-live-streaming-506149344/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Rizespor vs Kocaelispor" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFYPkAGdiG7rcBiCGMlDOCAQpM+KLmDLwi80Xaa0wDsaIhA.webp" group-title=" Football",Rizespor vs Kocaelispor
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/hVZWsFuGkSjmWFrJVIQKeWwkEbSRHZtS/echo/stream/rizespor-vs-kocaelispor-football-1394639/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Piast Gliwice vs Motor Lublin" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8wvMgBMwIENz2rcIGCEQkDJlCBQEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Football",Piast Gliwice vs Motor Lublin
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/VAiaAqxOTxIWimiaLDiAdVfuwdPZMXtg/echo/stream/piast-gliwice-vs-motor-lublin-football-1380579/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Two-Woman Bobsled: Run 1" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Olympics",Two-Woman Bobsled: Run 1
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/qFxuEHjsHwpsRzNOTKgCfnrmpbMyUaUd/rtmp/stream/olympics_2026-02-20_bobsled_two-woman-bobsled-run-1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP 500 Doha / ATP 500 Rio / ATP 250 Delray Beach " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",ATP 500 Doha / ATP 500 Rio / ATP 250 Delray Beach 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/XYhYuyQRwniSVTphwGqmmEbyAFefMAjw/echo/stream/atp-500-doha-atp-500-rio-atp-250-delray-beach-tn-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Canada Ice Hockey vs Finland Ice Hockey" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApghCCDj00IbiAAmuPVsMg+IEsYMEKTPmrZgy8IvNFqmtMM7GiIQA.webp" group-title=" Hockey",Canada Ice Hockey vs Finland Ice Hockey
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/ycfEgWnMSyzWixsLGxiFAKXhtUDOLbXx/rtmp/stream/olympics_2026-02-20_hockey_canada-vs-finland-mens-semifinal/1/playlist.m3u8
+https://lb3.strmd.top/secure/wtsJEdrQAPSkeGoSmlOkxzhCPhMNVJoO/rtmp/stream/olympics_2026-02-20_hockey_canada-vs-finland-mens-semifinal/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Women's 1500m" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Olympics",Women's 1500m
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/eMopYQjhUPNmmYKkVDCjdriqXlIqhdhu/rtmp/stream/olympics_2026-02-20_speed-skating_womens-1500m/1/playlist.m3u8
+https://lb8.strmd.top/secure/TlfzmFdnPKNSxJqBZZDtgNCQrGEqmRbF/rtmp/stream/olympics_2026-02-20_speed-skating_womens-1500m/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="The Genesis Invitational | PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",The Genesis Invitational | PGA Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/VyjrHcELkuShqKaTnhpfUjAAYGdEFVNk/echo/stream/the-genesis-invitational-pga-tour-atp1000/1/playlist.m3u8
+https://lb5.strmd.top/secure/VFZBKruzalJcjjSixYLVoQcFRQQwTIva/echo/stream/the-genesis-invitational-pga-tour-atp1000/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Lights Out 17" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Lights Out 17
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/uIaAfXcIXuKbAzJYTkJHViMsMaYiFXHb/echo/stream/ppv-event-10-lights-out-17-ppv-10/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="USA vs. Switzerland (W Semifinal)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Olympics",USA vs. Switzerland (W Semifinal)
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/zBPrzNQlbjAPDRozbZbxbelZPxwXiotv/rtmp/stream/olympics_2026-02-20_curling_usa-vs-switzerland-w-semifinal/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Sweden vs. Canada (W Semifinal)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Olympics",Sweden vs. Canada (W Semifinal)
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/UYpAqkSuvTgyosViiNTwHGfukjYhoIiN/rtmp/stream/olympics_2026-02-20_curling_sweden-vs-canada-w-semifinal/1/playlist.m3u8
+https://lb10.strmd.top/secure/aDXOKBBZlTRBvJFamwCaFjNfzYXTIkWA/echo/stream/ppv-event-10-lights-out-17-ppv-10/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Gold Zone: Day 14" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Olympics",Gold Zone: Day 14
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/JihQqMaeYsVmzAeFwxFeuGyfoBxDfWIU/rtmp/stream/olympics_2026-02-20_gold-zone-day-14/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="ONE Friday Fights 143 Vero vs Cohen" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",ONE Friday Fights 143 Vero vs Cohen
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/JhBjiKLDdruyRCHbdwVJSDBGoyMVoDHo/echo/stream/ppv-event-01-one-friday-fights-143-vero-v-cohen-ppv-001/1/playlist.m3u8
+https://lb1.strmd.top/secure/qCAkgvGerZysTQtybwPbGaOUaIHNTSZM/rtmp/stream/olympics_2026-02-20_gold-zone-day-14/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Poland Darts Open - Session 1 & 2 " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Poland Darts Open - Session 1 & 2 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/XDfffSDnXEadBjGYJbiwMoiNcwxcKdPO/echo/stream/poland-darts-open-session-1-2-darts-1/1/playlist.m3u8
+https://lb2.strmd.top/secure/cFVmTdobGYcwmDEYofrwoaxwZyQUzLic/echo/stream/poland-darts-open-session-1-2-darts-1/1/playlist.m3u8
