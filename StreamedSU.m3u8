@@ -1,36 +1,76 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Canada vs USA" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Hockey",Canada vs USA
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/InEDIWWJUpdDxTRfYAdtxHcnIoIsBPWC/delta/stream/live_olympic-games-playoffs_canada-usa-live-streaming-508524912/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="SUPERBET Poland Darts Open  Day 3" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title=" Darts",SUPERBET Poland Darts Open  Day 3
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/eiSvmShVhFioVbnCNRemsGqZInpoFmzr/echo/stream/poland-darts-open-session-1-2-darts-1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sheffield United vs Sheffield Wednesday" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzCVgTQnxAoQ3EABMQMXSC049xnCgIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Football",Sheffield United vs Sheffield Wednesday
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/InzsvggrSeFoZmEeMXYfaoGEEZXigZMY/delta/stream/live_championship_sheffield-utd-sheffield-wed-live-streaming-442212048/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Getafe vs Sevilla" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Getafe vs Sevilla
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/hgmYCvnlFnRURPwybQkUYoGzeUzovuwm/delta/stream/live_laliga_getafe-sevilla-live-streaming-442314432/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bundesliga 2 Multiview   " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Bundesliga 2 Multiview   
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/juwMpgSNgeuiBaCINDEPpkREphUzpcdi/echo/stream/bundesliga-2-multiview-bundes3-1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Genoa vs Torino" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDg4WaChDcQEXSAMGYIACaHjjCkz4ouYMvCLzRtprTD2xoiEA.webp" group-title=" Football",Genoa vs Torino
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/gyAhvuQcJIhpyKZQOvvyeWBKDCXtjEBr/1771749000/1771776000/sa_gen/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Twente vs Groningen" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIRCrC9CMENxBrDekLr4gI5kHwIUm1rmDLwi80SmBNaYR2NEQgA.webp" group-title=" Football",Twente vs Groningen
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/DxtWHhfctPqPHAWMDNeUIauKCyfUKDiY/echo/stream/twente-vs-groningen-football-1381081/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Arka Gdynia vs GKS Katowice" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiTkAJjxDdYWkGtx7dMEIhIgU5ghSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title=" Football",Arka Gdynia vs GKS Katowice
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/NDQOWfvjWOPnDrQkJAiNSdkLItEOioHs/echo/stream/arka-gdynia-vs-gks-katowice-football-1380573/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Four-Man Bobsled: Final Run" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Olympics",Four-Man Bobsled: Final Run
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/jNtNOeeaXdYPuDBirenYxKdBnyzHOLBm/1771748100/1771773600/olympics_2026-02-22_bobsled_four-man-bobsled-final-run/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Felgueiras vs Penafiel" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoQvEMDAg+ICOpAlVIRDFwgz3E3oIUmfFFzBl4ReaMdNaYZ2NEQgA.webp" group-title=" Football",Felgueiras vs Penafiel
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/TvIWRkGiUPEbCcSmLTqbpMTNxAOmCILk/echo/stream/felgueiras-1932-vs-penafiel-football-1398169/1/playlist.m3u8
+https://lb8.strmd.top/secure/EWUBFbcXSHNWBqXYFgrVkCKmjYfNysvd/echo/stream/felgueiras-1932-vs-penafiel-football-1398169/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Kayserispor vs Antalyaspor" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYXlXm8wIbiBUgYu-SZQgIIRCoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Football",Kayserispor vs Antalyaspor
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/mrtcrEqHttDekwQogqYaiPUaUVNzFDRx/echo/stream/kayserispor-vs-antalyaspor-football-1394637/1/playlist.m3u8
+https://lb5.strmd.top/secure/yMNWMrVHhJYlkxbUPkPrOohsLHVsrfSQ/echo/stream/kayserispor-vs-antalyaspor-football-1394637/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Switzerland vs. Sweden (W Gold Final)" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Olympics",Switzerland vs. Sweden (W Gold Final)
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.modifiles.fans/secure/KDKTjysfgNhhHUYoAmTyqYJYlYjxwIlE/1771743900/1771777200/olympics_2026-02-22_curling_switzerland-vs-sweden-w-gold-final/index.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Women's Freeski Halfpipe: Final" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Olympics",Women's Freeski Halfpipe: Final
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.modifiles.fans/secure/yptWBmnwbOdaxRMWHtiGcPJSuVXtHVbD/1771742400/1771770000/olympics_2026-02-22_freestyle-skiing_womens-freeski-halfpipe-final/index.m3u8
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/phWbipcZJBudHbfVRSrXEnTAcoHYUzyy/1771743900/1771777200/olympics_2026-02-22_curling_switzerland-vs-sweden-w-gold-final/index.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Sri Lanka Cricket vs England Cricket" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphQgyA2mBDbuIACYgI+kHxNqQukrgIUmfFFzBl4ReaIdNNTsaIhA.webp" group-title=" Cricket",Sri Lanka Cricket vs England Cricket
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/xsPeusznGsfBXYUUaUhOWtwIhnpqFghb/echo/stream/mens-t20-world-cup-england-vs-sri-lanka-cricket-hundred-1/1/playlist.m3u8
+https://lb7.strmd.top/secure/zTMwOoWXQLgWrnxCuSiCZnYYxNczHPfb/echo/stream/mens-t20-world-cup-england-vs-sri-lanka-cricket-hundred-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Womens 50km Mass Start Classic" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Olympics",Womens 50km Mass Start Classic
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.modifiles.fans/secure/EjNOvmGAqDSrhdOlIjncZMVHpzmlyVBG/1771740000/1771774200/olympics_2026-02-22_cross-country-skiing_womens-50km-mass-start-classic/index.m3u8
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/AGWMmZVmSYvxTTcfSreulXJmyGSHkoPn/1771740000/1771774200/olympics_2026-02-22_cross-country-skiing_womens-50km-mass-start-classic/index.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Magical Kenya Open | DP World Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Magical Kenya Open | DP World Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/wSLWyIsHaeWSIKJKTApRnoWsrkAdUddl/echo/stream/magical-kenya-open-dp-world-tour-tgl-001/1/playlist.m3u8
+https://lb4.strmd.top/secure/NQRAjojhoBYehMlPvZTEkyzXyeGVhxbs/echo/stream/magical-kenya-open-dp-world-tour-tgl-001/1/playlist.m3u8
