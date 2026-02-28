@@ -1,41 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Auckland FC vs Melbourne City" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnkAGQTNIhuIACYgYIRIkM6QICAYIUmfFFzBl4ReaPtNaYR2NEQgA.webp" group-title=" Football",Auckland FC vs Melbourne City
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Chiefs Super Rugby vs Crusaders Super Rugby" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAhgTJCBj8QfENxAkQKXLtMATEBH36CFJnxRcwZeEXminTWmBdjREEA.webp" group-title=" Rugby",Chiefs Super Rugby vs Crusaders Super Rugby
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/ZbJMNhRRkxVSlEhPsBpiWlEBiWNnXuer/echo/stream/auckland-vs-melbourne-city-football-1469665/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Fijian Drua vs Hurricanes Super Rugby" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnlgQMMSBCJuIEnpARDIXTC0g+hghSZ8UXMGXhF5o+01phHY0RCA.webp" group-title=" Rugby",Fijian Drua vs Hurricanes Super Rugby
+https://lb5.strmd.top/secure/XrjlneqDDWyRvOnRSieoQhOIJLdISUQN/echo/stream/chiefs-vs-crusaders-rugby-51797/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Central Coast Mariners vs Newcastle Jets" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCikggCbAADCBQhuIDapCIIIC3wuncBCkz4ouYMvCLzRTprTAuxoiCA.webp" group-title=" Football",Central Coast Mariners vs Newcastle Jets
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/ZSAsRIZHPgALuDzouMcYQhUBKvXzEkAc/echo/stream/fijian-drua-vs-hurricanes-rugby-51796/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Anaheim Ducks vs Winnipeg Jets" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgB+EClDYQ3ECRAQQfXCESIAJrt0EKTPlrZgy8IvNFamtMM7GiIQA.webp" group-title=" Hockey",Anaheim Ducks vs Winnipeg Jets
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.modifiles.fans/secure/jadZPNdpGsMOogQLgSbCdxSHqnDoXVcw/1772236800/1772265600/anaheimducks/index.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Oklahoma City Thunder vs Denver Nuggets" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAhKq4EhCiADCG7aQEEABMQMfadwg+RghSZ8UXMGXhF5o501phXY0QggA.webp" group-title=" Basketball",Oklahoma City Thunder vs Denver Nuggets
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/SZBBBVNZHJXfNRbzyhlTSIapSmZfsUwc/delta/stream/live_nba_thunder-nuggets-live-streaming-430851312/1/playlist.m3u8
+https://lb1.strmd.top/secure/fvZtKgwOMVykUvoFBcRjXVsBojeWxeER/echo/stream/central-coast-mariners-vs-newcastle-jets-football-1469666/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Rene Tellez vs Luis Torres" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Rene Tellez vs Luis Torres
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/aKdOypSvFVrNfZYNlaWcHApIbBhZaaJa/delta/stream/live-event_luis-torres-valenzuela-vs-rene-tellez-giron-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Friday Night SmackDown" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Friday Night SmackDown
+https://lb3.strmd.top/secure/dqrFLcBTXvJjxSZjSDFgPGcqgbLoqkEV/delta/stream/live-event_luis-torres-valenzuela-vs-rene-tellez-giron-live-stream/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE: Friday Night Smackdown " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",WWE: Friday Night Smackdown 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/dhHLTqXWmxgsuvXtbwkMNKApbkMitBaT/delta/stream/live-event_friday-night-smackdown-live-stream/1/playlist.m3u8
+https://lb3.strmd.top/secure/liJFuOKOAwjtrXlwSxVDxxjCaTfsHiDa/echo/stream/wwe-friday-night-smackdown-wwe-009/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Quinn vs Dodd" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Quinn vs Dodd
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/WUoKaLTdSxsYGuoBDeaNTdETWuIIOcQA/delta/stream/live-event_quinn-vs-dodd-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Edward Vazquez vs Grimardi Machuca" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Edward Vazquez vs Grimardi Machuca
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/XzesiMFPKMVTIJNpVhxKXkqVGtVtwXTF/delta/stream/live-event_edward-vazquez-vs-grimardi-machuca-live-stream/1/playlist.m3u8
+https://lb1.strmd.top/secure/ObBhusgMSJvjdyGJuizoZnhEfKCbuaYH/delta/stream/live-event_quinn-vs-dodd-live-stream/1/playlist.m3u8
