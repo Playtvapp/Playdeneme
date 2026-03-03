@@ -1,86 +1,156 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Wolverhampton vs Liverpool" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Wolverhampton vs Liverpool
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Wolverhampton Wanderers vs. Liverpool" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Wolverhampton Wanderers vs. Liverpool
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/JwVyyWlUQwnyOFamTiFZskhyMAJBCKGD/delta/stream/live_premier-league_wolves-liverpool-live-streaming-471796272/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners vs Los Angeles Angels" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Seattle Mariners vs Los Angeles Angels
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/bDRxDKCJarftMFlICgHtFqhQPyQXnaSh/1772558100/1772585100/pl_wol/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Wolves vs Liverpool" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIGPXIMAxs3E94IqtwJdWYMLnxmgA.webp" group-title=" Football",Wolves vs Liverpool
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/GkIVhfiAdqbVEqKzqeNpSgdULaSjGjCz/delta/stream/live_mlb_mariners-angels-live-streaming-511154928/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians vs Los Angeles Dodgers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Cleveland Guardians vs Los Angeles Dodgers
+https://lb2.strmd.top/secure/QyeXJqKNpNPWQiOfAdcENelgpuTStSqF/echo/stream/wolves-vs-liverpool-football-1379258/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels vs. Seattle Mariners" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EERABjeuQbKsonvElUhhBqzBhc+E0A.webp" group-title=" Baseball",Los Angeles Angels vs. Seattle Mariners
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/DGUkqcYndaASNoTxPjhytjaJLJUteKZe/delta/stream/live_mlb_guardians-dodgers-live-streaming-511153200/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago White Sox vs San Diego Padres" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Chicago White Sox vs San Diego Padres
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/UmLpgfORoOkVaAekIcwStAPWTQxDlmOW/1772557800/1772588400/seattlemariners/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Mexico vs D-backs" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Mexico vs D-backs
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/fgvqYRMueiScBwpdgUpiWjCNpxCWgrFL/delta/stream/live_mlb_white-sox-padres-live-streaming-511154064/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="NEC Nijmegen vs PSV Eindhoven" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphDAAJuSQg17ENxB9ceoygMgIRkAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Football",NEC Nijmegen vs PSV Eindhoven
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/uMmNvAjnedmanWalsOSxAjkJXPkDlxnz/1772557800/1772590200/arizonadiamondbacks/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="United States vs Giants" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",United States vs Giants
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/gykVkmNBvELnKjxNxQbJqxKfuCincNBV/echo/stream/nec-nijmegen-vs-psv-eindhoven-football-1520403/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Barcelona vs Atltico Madrid" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Barcelona vs Atltico Madrid
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/IXxMijhgcVDOpDwncEIUcddzLLedckNb/1772557680/1772590080/espn/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Dodgers vs. Cleveland Guardians" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EERAh65BgGNmonvElUhhBqzBhc+E0A.webp" group-title=" Baseball",Los Angeles Dodgers vs. Cleveland Guardians
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/kgfxRSFKIYrUilLLaXktxehoBqnWGXMk/delta/stream/live_copa-del-rey_barcelona-atl-madrid-live-streaming-503759088/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Goal Rush : Matchweek 29   " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Goal Rush : Matchweek 29   
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/njGqSKkPfSbczgAstslEnGGqblVcqCKr/1772557500/1772588100/clevelandguardians/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Como vs. Internazionale" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIGIvrkGAY2bie8EVW4EurMGFz5zQA.webp" group-title=" Football",Como vs. Internazionale
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/HNObPRmujArwVAXeqBitmuJUjqFGSmGI/echo/stream/goal-rush-matchweek-29-game-1363646/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bournemouth vs Brentford" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Bournemouth vs Brentford
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/smEoiJYMdbiGKWtABMVzGDDxYhhAnBKO/1772557200/1772584200/ita_como/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Barcelona vs. Atltico Madrid" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Barcelona vs. Atltico Madrid
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/EbXiqLTIrETyGqrIhahmGXnPHyPCdaqk/delta/stream/live_premier-league_bournemouth-brentford-live-streaming-471792816/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Everton vs Burnley" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Everton vs Burnley
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/hAkoPYTJMTinoaIuKOPKdrwPXmRbXLAN/1772557200/1772584200/esp_bar/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Strasbourg vs. Stade de Reims" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIePXIMAxs3E94IqtwJdWYMLnxmgA.webp" group-title=" Football",Strasbourg vs. Stade de Reims
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/pzIwrBZIZsGXusLMwIZWAHDKkbLlKRpP/delta/stream/live_premier-league_everton-burnley-live-streaming-471793680/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Leeds United vs Sunderland" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Leeds United vs Sunderland
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/fIQAoJHivYArFSiyxbrMQYxAkASwaEjj/1772557200/1772584200/fra_str/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Barcelona vs Atletico Madrid" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIRDHrkGAY2bie8EVW4EurMGFz5zQA.webp" group-title=" Football",Barcelona vs Atletico Madrid
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/cRrKtFVjJYBfoeOEsSNovzUprjpZHewZ/delta/stream/live_premier-league_leeds-sunderland-live-streaming-471794544/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays vs Canada Baseball" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4huIEOxD1Q6gCa4QJEDBAHE64yAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Baseball",Toronto Blue Jays vs Canada Baseball
+https://lb4.strmd.top/secure/pJKaZoNpWBhyHHgBrBNlDMnpClYuLcpY/echo/stream/barcelona-vs-atletico-madrid-football-1520392/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Doncaster vs Stockport County" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIfiFX965BgGNm4nvBFVuBLqzBhc+S0A.webp" group-title=" Football",Doncaster vs Stockport County
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://ortdruuckehagkdtgwevu.modifiles.fans/secure/dLncTggXostaoMjnLfUxbyPtgJoLrcsI/1772550420/1772582820/MLBNHD/index.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Minnesota Twins vs Tampa Bay Rays" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Baseball",Minnesota Twins vs Tampa Bay Rays
+https://lb4.strmd.top/secure/LlZFcKSFMvVjkrYIThOdvtoCEYhmsOPb/echo/stream/doncaster-vs-stockport-county-football-1522554/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Port Vale vs Bristol City" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsIfvXIMAxs3E94IqtwJdWYMLnxmgA.webp" group-title=" Football",Port Vale vs Bristol City
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/IBjaQEFrcHFvhmocVOILomEBwpECPzKc/delta/stream/live_mlb_twins-rays-live-streaming-511153632/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Osnabrck vs Viktoria Kln" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxTAwpfsAAmsENxAkQfECj0gYILbhA2YBCkz6q2YMvCLzRqprTCuxohBAA.webp" group-title=" Football",Osnabrck vs Viktoria Kln
+https://lb8.strmd.top/secure/mHIVwcjRxCXJjXCESSMEySvHpracVFPv/echo/stream/port-vale-vs-bristol-city-football-1506262/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Ipswich vs Hull City" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh+ICPXIMAxs3E94IqtwJdWYMLnxmgA.webp" group-title=" Football",Ipswich vs Hull City
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/AAgJczmOQxIPQeTajXoAPudyjDIYiOev/echo/stream/vfl-osnabruck-vs-fc-viktoria-koln-football-1394322/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Ulm vs Hoffenheim II" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMIPiFogQ0kNx3aQMPSAgntGiAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Football",Ulm vs Hoffenheim II
+https://lb8.strmd.top/secure/iOZSpYDbALQHUNBqtLVquYYOTWlCVXVG/echo/stream/ipswich-vs-hull-city-football-1386932/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Exeter City vs Burton Albion" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiAggQ9cg0XNxPeCKrcCXVmDC58FoA.webp" group-title=" Football",Exeter City vs Burton Albion
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/ztRQSkuqZPlmKPPgftHMjogRyUPtLVOM/echo/stream/ssv-ulm-1846-vs-hoffenheim-ii-football-1394320/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Verl vs Jahn Regensburg" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyl1q9biE0ATEDBAGciXShCn4BCkz4ouYMvCLzRtprTD2xoiEA.webp" group-title=" Football",Verl vs Jahn Regensburg
+https://lb2.strmd.top/secure/wbowbOsccKFErqihzhpqdCnjxRScICVs/echo/stream/exeter-city-vs-burton-albion-football-1387298/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Rotherham vs Mansfield Town" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRAGMQEeuQYrm4nvBFVuBLqzBhc+S0A.webp" group-title=" Football",Rotherham vs Mansfield Town
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/MaqYomZSHmIbcDLwEXhkZLjGzOCwaTmy/echo/stream/verl-vs-ssv-jahn-regensburg-football-1394321/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="1860 Munich vs Erzgebirge Aue" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYUVAEpIIbiBUgYIYzkQGUIEroIUmfFF3Xl680Q6a0w6sRqA.webp" group-title=" Football",1860 Munich vs Erzgebirge Aue
+https://lb9.strmd.top/secure/yhVMHOGyMVXiWpOmMUndVLnpGmtzFjnx/echo/stream/rotherham-vs-mansfield-town-football-1387399/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Barnsley vs Wycombe" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRNhAh65BgGNm4nvBFVuBLqzBhc+S0A.webp" group-title=" Football",Barnsley vs Wycombe
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/GCUmhmBetVpbPJAqPoJhIJlegwYZCRvU/echo/stream/tsv-1860-munchen-vs-erzgebirge-aue-football-1394315/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Alanyaspor vs Galatasaray" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxSUQApMAAMuEN3UgAJgZQgIe3aZAEKTPqrZgy8IvNGqmtME7GiIQA.webp" group-title=" Football",Alanyaspor vs Galatasaray
+https://lb9.strmd.top/secure/zLCiGXAWzKqysNpCjcmTDmMvzYrAdydJ/echo/stream/barnsley-vs-wycombe-football-1387404/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bromley vs Oldham" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRBBAp65BgGNm4nvBFVuBLqzBhc+S0A.webp" group-title=" Football",Bromley vs Oldham
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/GzzbFjhjFeiyfJtWGCOIUOxRTKxlmJbp/echo/stream/alanyaspor-vs-galatasaray-football-1489345/1/playlist.m3u8
+https://lb10.strmd.top/secure/lpoMovlOUTShXoyynsscezrPrphLraek/echo/stream/bromley-vs-oldham-football-1386286/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Newport County vs Tranmere" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRCEX1yDAMbNxPeCKrcCXVmDC58FoA.webp" group-title=" Football",Newport County vs Tranmere
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/HclwQgLfnHheJUDitAfiuHwzKKsDHhjY/echo/stream/newport-county-vs-tranmere-football-1386295/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Walsall vs Fleetwood Town" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRIn71yDAMbNxPeCKrcCXVmDC58FoA.webp" group-title=" Football",Walsall vs Fleetwood Town
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/nTvhzJCxOpLWciDzaltmifkytbWAFTrS/echo/stream/walsall-vs-fleetwood-town-football-1386294/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Grimsby vs Salford City" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIZRBAR65BgGNm4nvBFVuBLqzBhc+S0A.webp" group-title=" Football",Grimsby vs Salford City
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/tkWzcwYBnYbgWWdOuoVDeVUMkCcCHMVW/echo/stream/grimsby-vs-salford-city-football-1386303/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Chesterfield vs Colchester" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRP0X1yDAMbNxPeCKrcCXVmDC58FoA.webp" group-title=" Football",Chesterfield vs Colchester
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/PngbxuUSPXFvkhCnBrPEJfZQtxwQwEtA/echo/stream/chesterfield-vs-colchester-football-1386298/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Dundee Utd vs ST Mirren" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIbCBJ1yDAMbNxPeCKrcCXVmDC58FoA.webp" group-title=" Football",Dundee Utd vs ST Mirren
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/ajaFYTghYlinWCjgXevkHikXaMYAoGiS/echo/stream/dundee-utd-vs-st-mirren-football-1382799/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Everton vs. Burnley" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIi+uQYBjZuJ7wRVbgS6swYXPlNA.webp" group-title=" Football",Everton vs. Burnley
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/ujQAzQOCMVSLZvFRLzwAFeWqYqIqOLzO/1772555400/1772582400/pl_eve/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Leeds United vs. Sunderland" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiAgh+9cg0XNxPeCKrcCXVmDC58FoA.webp" group-title=" Football",Leeds United vs. Sunderland
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/CqTIbmWhVkibnLwBRbvjEPsrdHhAsEUe/1772555400/1772582400/pl_lee/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Goal Rush" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Goal Rush
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/SEFKnBcqFFONuNlMSQZFsSxKJVQhRcBJ/1772555400/1772582400/pl_goalrush/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="AFC Bournemouth vs. Brentford" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhsi+uQYBjZuJ7wRVbgS6swYXPlNA.webp" group-title=" Football",AFC Bournemouth vs. Brentford
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/qhxuhBBHdCHnwipFIzmBAjZNFKrjMGrW/1772555400/1772582400/pl_bou/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="FC Winterthur vs Servette FC" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIIiFUR65BgGNm4nvBFVuBLqzBhc+S0A.webp" group-title=" Football",FC Winterthur vs Servette FC
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/nBlZVmmyczHDClbVezbgwiiokkEcMHkq/echo/stream/fc-winterthur-vs-servette-fc-football-1494560/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago White Sox vs San Diego Padres" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EIhj1yDAMbNRPeJKpDCDVmDC58xoA.webp" group-title=" Baseball",Chicago White Sox vs San Diego Padres
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/BnePAukZavoScJeNlFCnTTrhIXeEimdx/delta/stream/live_mlb_white-sox-padres-live-streaming-511154064/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="NEC Nijmegen vs PSV Eindhoven" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIFCADG9cg3VZxPeCKrcCXVmDC58FoA.webp" group-title=" Football",NEC Nijmegen vs PSV Eindhoven
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/kQXzxgnjfUGtPNcvYbwfulVCoVlOnOvh/echo/stream/nec-nijmegen-vs-psv-eindhoven-football-1520403/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Canada vs Blue Jays" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Canada vs Blue Jays
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://ortdruuckehagkdtgwevu.modifiles.fans/secure/uuUrZwmEElPnAwtRIaxLKEQcAgeCoFDK/1772550420/1772582820/MLBNHD/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Minnesota Twins vs Tampa Bay Rays" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EIgj1yDAMbNRPeJKpDCDVmDC58xoA.webp" group-title=" Baseball",Minnesota Twins vs Tampa Bay Rays
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/aHGRpQFZpOSwUVmFDdCSOwXailBMzqDi/delta/stream/live_mlb_twins-rays-live-streaming-511153632/1/playlist.m3u8
