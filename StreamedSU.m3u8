@@ -1,56 +1,76 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles vs St. Louis Cardinals" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Baltimore Orioles vs St. Louis Cardinals
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays vs Pittsburgh Pirates" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMYPiAAmYMt2whuWgyA0lcJ44hAEKTPii47y9eaIdNaYHWNEQgA.webp" group-title=" Baseball",Toronto Blue Jays vs Pittsburgh Pirates
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/XFsdOQdxgzaeughKVHiSnOHoTKGqAAuv/delta/stream/live_mlb_orioles-cardinals-live-streaming-512234496/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Detroit Tigers vs Boston Red Sox" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Detroit Tigers vs Boston Red Sox
+https://lb9.strmd.top/secure/azZRAljcregqjLCXXitOqPDEGpgMauxC/delta/stream/live_mlb_pirates-phillies-live-streaming-512235792/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Detroit Tigers vs Boston Red Sox" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA.webp" group-title=" Baseball",Detroit Tigers vs Boston Red Sox
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/hQGtjoUJypQUKLGoMwciYmFSgsJZUAYb/delta/stream/live_mlb_tigers-red-sox-live-streaming-512234928/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Houston Astros vs Washington Nationals" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Houston Astros vs Washington Nationals
+https://lb1.strmd.top/secure/ZOylysGhKTIGJLKQrWhVahdIfjjOTjza/delta/stream/live_mlb_tigers-red-sox-live-streaming-512234928/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Houston Astros vs Washington Nationals" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj6ww3amQghuIbTkQATECj0g+IYxAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Baseball",Houston Astros vs Washington Nationals
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/mZmrxupkdwbAyZWSqPLTKRAcvzJOPAiz/delta/stream/live_mlb_astros-nationals-live-streaming-512235360/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Pittsburgh Pirates vs Philadelphia Phillies" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Pittsburgh Pirates vs Philadelphia Phillies
+https://lb1.strmd.top/secure/tdHflpoIrqJmbtTXidJgPHPAzXSixmUu/delta/stream/live_mlb_astros-nationals-live-streaming-512235360/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles vs St. Louis Cardinals" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIATMCjDrNObiAi59IGMZCIcfMwQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Baseball",Baltimore Orioles vs St. Louis Cardinals
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/keFVJItfPRaTTcpnIbLKCVzRBPmfRIHb/delta/stream/live_mlb_pirates-phillies-live-streaming-512235792/1/playlist.m3u8
+https://lb8.strmd.top/secure/cBvUFCsqzqLymCKvCSjGWlgezuqOYymM/delta/stream/live_mlb_orioles-cardinals-live-streaming-512234496/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Great Britain Baseball vs Mexico Baseball" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAC+IFMCYhVIbiAAmuEBA3H1KEyBgEKTPprZgy8IvNGamtMM7GiIQA.webp" group-title=" Baseball",Great Britain Baseball vs Mexico Baseball
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/YiDAuEDHLqvHzWYmUxEIerSLrTMwYkKx/delta/stream/live_world-baseball-classic-pool-b_great-britain-mexico-live-streaming-512242272/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Viktoria Kln vs 1860 Munich" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplpgeIEJRCJuIPiBIgY2gyAAmR8yAmEYwJnxRcwZeEXminTVS7GiIQA.webp" group-title=" Football",Viktoria Kln vs 1860 Munich
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/QPMiYcMPtPkJTHMFCOkhtWIcJfioKJZM/echo/stream/fc-viktoria-koln-vs-tsv-1860-munchen-football-1394331/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Anadolu Efes SK vs Lyon-Villeurbanne" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl7zerFDxDcQAExAxcIPgb1nEKAhSZ9NbMGXhF5ozU1pgHY0RCA.webp" group-title=" Basketball",Anadolu Efes SK vs Lyon-Villeurbanne
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/lFwWqeNQMUbCgzZHrRSYzJZVXOhOSAAl/echo/stream/anadolu-efes-vs-lyon-villeurbanne-basketball-454574/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Elversberg vs Magdeburg" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmuYCrBlwibiBIhEOEPpBqcelQQpM+KLlvL15o+01pgtY0RCA.webp" group-title=" Football",Elversberg vs Magdeburg
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/IoTNgPhyJnmHAssgFzzOghxyQWkucgmZ/echo/stream/sv-elversberg-vs-1-fc-magdeburg-football-1388832/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Schalke 04 vs Arminia Bielefeld" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnBZqfWGBAhuICHpB8QJECh2mQAEz0EKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Football",Schalke 04 vs Arminia Bielefeld
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/XSVKsbFnUAgTBGyGUjnPnfqHUGLJBtAG/echo/stream/fc-schalke-04-vs-arminia-bielefeld-football-1388838/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Venezuela Baseball vs Netherlands Baseball" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxRg+IEiBggQbENxAATXBq1GTmnDAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Baseball",Venezuela Baseball vs Netherlands Baseball
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/HmVoJPkcTrgBQvJuGfCQyLveChmQCGxY/delta/stream/live_world-baseball-classic-pool-d_venezuela-netherlands-live-streaming-512244000/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Great Britain vs Mexico" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Great Britain vs Mexico
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/eOhPtzrqPQNNEPPwayWIAwUvaPNAqQpQ/delta/stream/live_world-baseball-classic-pool-b_great-britain-mexico-live-streaming-512242272/1/playlist.m3u8
+https://lb2.strmd.top/secure/gOVbKsROinWEPhPQKPztSzkzqRWNevzU/delta/stream/live_world-baseball-classic-pool-d_venezuela-netherlands-live-streaming-512244000/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Panama Baseball vs Cuba Baseball" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphz0AJsAAMYAZpDcQa3CBIgYhkIlMoTBCkz4ouYMvCLzRTprTAuxoiCA.webp" group-title=" Baseball",Panama Baseball vs Cuba Baseball
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.modifiles.fans/secure/KqussiOEEnOlKKiHeXuFhshCjCQJAgUD/1772802000/1772832600/panama/index.m3u8
+https://lb1.strmd.top/secure/onhzBWNtcXacMElYaOXGkdjdMuePIGaG/delta/stream/live_world-baseball-classic-pool-a_panama-cuba-live-streaming-512241408/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="High Point Panthers vs Gardner-Webb Runnin' Bulldogs" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",High Point Panthers vs Gardner-Webb Runnin' Bulldogs
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/YWPByrSmobsvgybbxXMJFZkQbXtvvYjA/delta/stream/live_ncaa_high-point-gardner-webb-live-streaming-514360800/1/playlist.m3u8
+https://lb1.strmd.top/secure/hLffeoGSOEaDHNzwWrGPbTvKxBecfIAR/delta/stream/live_ncaa_high-point-gardner-webb-live-streaming-514360800/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Arnold Palmer Invitational | PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Arnold Palmer Invitational | PGA Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/DeDxVUZwDxsmPbrEtaPtCMPTPofrRvuc/echo/stream/arnold-palmer-invitational-pga-tour-pga-526234/1/playlist.m3u8
+https://lb8.strmd.top/secure/jSuJdvcxijDMrpBMHKUvjwfPwpkmrCKm/echo/stream/arnold-palmer-invitational-pga-tour-pga-526234/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Formula 1 2026 - Australia GP" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Formula 1 2026 - Australia GP
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/DANtLBkWyUzzZLihsfNFtZwvgnIARTgZ/delta/stream/live-event_formula-1-2026-australia-gp-live-stream/1/playlist.m3u8
+https://lb4.strmd.top/secure/iiJXqqIYlhfoDqCoABRfedvVlyWjxSMb/delta/stream/live-event_formula-1-2026-australia-gp-live-stream/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="UK Open Darts - Session 1 & 2  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",UK Open Darts - Session 1 & 2  
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/TUfmUJKxKyNvQnLpliwMDAxvzJhwfDrP/echo/stream/uk-open-darts-session-1-2-darts-1/1/playlist.m3u8
+https://lb4.strmd.top/secure/sBePOzTCkjcTspUrpvqOgVURDdVGNClU/echo/stream/uk-open-darts-session-1-2-darts-1/1/playlist.m3u8
