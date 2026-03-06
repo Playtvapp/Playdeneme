@@ -1,11 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Blue Bay China | PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Blue Bay China | PGA Tour
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chinese Taipei vs Japan" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Chinese Taipei vs Japan
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/dBtLgxRxuEnFwANQiwsIqVSuQJVGCyjg/echo/stream/blue-bay-china-pga-tour-atp1000/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="LIV Golf Hong Kong | HSBC LIV Golf Hong Kong" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",LIV Golf Hong Kong | HSBC LIV Golf Hong Kong
+https://lb9.strmd.top/secure/rDqkuryFlMfSkQQHeueOECPWvXlrsAmr/delta/stream/live_world-baseball-classic-pool-c_chinese-taipei-japan-live-streaming-511623216/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="New South Wales Waratahs vs Hurricanes Super Rugby" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnlgQMMSBCJuIEnpARDIXTC0g+hghSZ8UXMGXhF5o+01phHY0RCA.webp" group-title=" Rugby",New South Wales Waratahs vs Hurricanes Super Rugby
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/ULaiNOWiibrhqzyxyGOgfiqktaAUjbGh/echo/stream/liv-golf-hong-kong-hsbc-liv-golf-hong-kong-game-162626/1/playlist.m3u8
+https://lb4.strmd.top/secure/iTXAJPpiDUoflSEaxPqHujEmebrNsqHM/echo/stream/waratahs-vs-hurricanes-rugby-51800/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Adelaide United vs Wellington Phoenix" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBRRSEJpx8Q3EDpIgUIACYhE285oIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Football",Adelaide United vs Wellington Phoenix
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/BplxfBrVnlpRmEReNEFEqAwNtYqJFybf/echo/stream/adelaide-united-vs-wellington-phoenix-football-1469670/1/playlist.m3u8
