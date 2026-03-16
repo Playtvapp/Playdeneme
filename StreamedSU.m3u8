@@ -1,16 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Sacramento Kings vs Utah Jazz" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAowAE1XMQZGCG4g+O-YZB7EOTXwIUm1rmDLwi80SmBNaYR2NEQgA.webp" group-title=" Basketball",Sacramento Kings vs Utah Jazz
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Snooker World Open 2026 " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Snooker World Open 2026 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.modifiles.fans/secure/uIsNMKlILonyGpcLiGTHnmqBgPSSlKfj/1773615600/1773643680/sacramentokings/index.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Revolution" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Revolution
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.modifiles.fans/secure/eGhihObQkgkyCvFsADGVFeawpvSSWpdC/1773604800/1773644400/aew/index.m3u8
+https://lb5.strmd.top/secure/QNWlpoNKjOOFZkHARyVrkJtQXDdHReqn/echo/stream/snooker-world-open-2026-billar/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="AEW Revolution 2026" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",AEW Revolution 2026
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/VSBLscOJWrAAIxXGlUkufdMgNkiffEyH/delta/stream/live-event_aew-revolution-2026-live-stream/1/playlist.m3u8
+https://lb1.strmd.top/secure/zHHslKONajLlnufQZHMwjLvzPLZBXPNi/delta/stream/live-event_aew-revolution-2026-live-stream/1/playlist.m3u8
