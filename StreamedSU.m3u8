@@ -1,11 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Alanyaspor vs Kocaelispor" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFYPkAGdiG7rcBiCGMlDOCAQpM+KLmDLwi80Xaa0wDsaIhA.webp" group-title=" Football",Alanyaspor vs Kocaelispor
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Braga vs Ferencvros" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgEAGENxADWEDSAAmII0c2aSuAyGWEYwJnxRcwZeEXmjHTWmGdjREIA.webp" group-title=" Football",Braga vs Ferencvros
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/WnGdphKTRrIYlZEdwtlPDRIatELlXUuf/echo/stream/alanyaspor-vs-kocaelispor-football-1394667/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Real Madrid U19 vs Sporting CP U19" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBQql9cg0XNxPeCKrcCXVmDC58FoA.webp" group-title=" Football",Real Madrid U19 vs Sporting CP U19
+https://lb5.modifiles.fans/secure/THUaJnEyPdhDiKzwbujYAvgKITyposrd/1773837000/1773865800/uel_bra/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="SC Braga vs Ferencvarosi TC" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQh+IbCBJ1yDAMbNxPeCKrcCXVmDC58FoA.webp" group-title=" Football",SC Braga vs Ferencvarosi TC
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/lkamuEGRIRnZZRokRPOSBSnyJDXjOCpl/echo/stream/real-madrid-u19-vs-sporting-cp-u19-football-1528148/1/playlist.m3u8
+https://lb1.strmd.top/secure/VKTMdKyddvLcBpZwbMqkDqukaptrfLDB/echo/stream/sc-braga-vs-ferencvarosi-tc-football-1528348/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Internazionale U19 vs Benfica U19" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBWr65Boubie8EVW4EurMGFz5zQA.webp" group-title=" Football",Internazionale U19 vs Benfica U19
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/cKzcAOdqVsonLyYxRXkstUFqtMrrGoGM/echo/stream/internazionale-u19-vs-benfica-u19-football-1528147/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP/WTA 1000: Miami " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",ATP/WTA 1000: Miami 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/wZDdnksSicTSZvuGuqfExWZxywsRQdRi/echo/stream/atpwta-1000-miami-tn-1/1/playlist.m3u8
