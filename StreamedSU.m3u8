@@ -1,6 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Snooker World Open 2026 " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Snooker World Open 2026 
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Alanyaspor vs Kocaelispor" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFYPkAGdiG7rcBiCGMlDOCAQpM+KLmDLwi80Xaa0wDsaIhA.webp" group-title=" Football",Alanyaspor vs Kocaelispor
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/orLnqYWfliOJgEcffsyHFtEhxlSrBJzX/echo/stream/snooker-world-open-2026-billar/1/playlist.m3u8
+https://lb10.strmd.top/secure/WnGdphKTRrIYlZEdwtlPDRIatELlXUuf/echo/stream/alanyaspor-vs-kocaelispor-football-1394667/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Real Madrid U19 vs Sporting CP U19" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiBQql9cg0XNxPeCKrcCXVmDC58FoA.webp" group-title=" Football",Real Madrid U19 vs Sporting CP U19
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/lkamuEGRIRnZZRokRPOSBSnyJDXjOCpl/echo/stream/real-madrid-u19-vs-sporting-cp-u19-football-1528148/1/playlist.m3u8
