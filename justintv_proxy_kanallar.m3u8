@@ -325,118 +325,6 @@ http://iptv.prosto.tv:7000/ch335/video.m3u8
 http://iptv.prosto.tv:7000/ch346/video.m3u8
 #EXTINF:-1 tvg-name="ЭКО система" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00302.png" group-title="Belgesel",ЭКО система
 http://iptv.prosto.tv:7000/ch316/video.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 1" tvg-logo="" group-title="Spor",BeIN Sports 1
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 2" tvg-logo="" group-title="Spor",BeIN Sports 2
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 3" tvg-logo="" group-title="Spor",BeIN Sports 3
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 4" tvg-logo="" group-title="Spor",BeIN Sports 4
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 5" tvg-logo="" group-title="Spor",BeIN Sports 5
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs5.m3u8
-#EXTINF:-1 tvg-name="S Sport" tvg-logo="" group-title="Spor",S Sport
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 tvg-name="S Sport 2" tvg-logo="" group-title="Spor",S Sport 2
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivess2.m3u8
-#EXTINF:-1 tvg-name="S Sport Plus" tvg-logo="" group-title="Spor",S Sport Plus
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor" tvg-logo="" group-title="Spor",Tivibu Spor
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets.m3u8
-#EXTINF:-1 tvg-name="Trt Spor" tvg-logo="" group-title="Spor",Trt Spor
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
-#EXTINF:-1 tvg-name="A Spor" tvg-logo="" group-title="Spor",A Spor
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamliveas.m3u8
-#EXTINF:-1 tvg-name="Nba Tv" tvg-logo="" group-title="Spor",Nba Tv
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivenba.m3u8
-#EXTINF:-1 tvg-name="Fb Tv" tvg-logo="" group-title="Spor",Fb Tv
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivefb.m3u8
-#EXTINF:-1 tvg-name="Gs Tv" tvg-logo="" group-title="Spor",Gs Tv
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivegs.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 1" tvg-logo="" group-title="Spor",BeIN Sports 1
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 2" tvg-logo="" group-title="Spor",BeIN Sports 2
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 3" tvg-logo="" group-title="Spor",BeIN Sports 3
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 4" tvg-logo="" group-title="Spor",BeIN Sports 4
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 5" tvg-logo="" group-title="Spor",BeIN Sports 5
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs5.m3u8
-#EXTINF:-1 tvg-name="S Sport" tvg-logo="" group-title="Spor",S Sport
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 tvg-name="S Sport 2" tvg-logo="" group-title="Spor",S Sport 2
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivess2.m3u8
-#EXTINF:-1 tvg-name="S Sport Plus" tvg-logo="" group-title="Spor",S Sport Plus
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="Tivibu Spor" tvg-logo="" group-title="Spor",Tivibu Spor
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets.m3u8
-#EXTINF:-1 tvg-name="Trt Spor" tvg-logo="" group-title="Spor",Trt Spor
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
-#EXTINF:-1 tvg-name="A Spor" tvg-logo="" group-title="Spor",A Spor
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamliveas.m3u8
-#EXTINF:-1 tvg-name="Nba Tv" tvg-logo="" group-title="Spor",Nba Tv
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivenba.m3u8
-#EXTINF:-1 tvg-name="Fb Tv" tvg-logo="" group-title="Spor",Fb Tv
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivefb.m3u8
-#EXTINF:-1 tvg-name="Gs Tv" tvg-logo="" group-title="Spor",Gs Tv
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivegs.m3u8
 #EXTINF:-1 tvg-name="BEIN SPORTS 1 (Yedek)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/BeIN_Sports_1_HD.svg/200px-BeIN_Sports_1_HD.svg.png" group-title="Spor",BEIN SPORTS 1 (Yedek)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv493.top/
@@ -457,6 +345,118 @@ https://noisy-cake-8ebc.travestigamzes.workers.dev/https://corestream.ronaldovur
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.atomsportv493.top/
 https://noisy-cake-8ebc.travestigamzes.workers.dev/https://corestream.ronaldovurdu.help//hls/trt-spor.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 1" tvg-logo="" group-title="Spor",BeIN Sports 1
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 2" tvg-logo="" group-title="Spor",BeIN Sports 2
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 3" tvg-logo="" group-title="Spor",BeIN Sports 3
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 4" tvg-logo="" group-title="Spor",BeIN Sports 4
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 5" tvg-logo="" group-title="Spor",BeIN Sports 5
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs5.m3u8
+#EXTINF:-1 tvg-name="S Sport" tvg-logo="" group-title="Spor",S Sport
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
+#EXTINF:-1 tvg-name="S Sport 2" tvg-logo="" group-title="Spor",S Sport 2
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivess2.m3u8
+#EXTINF:-1 tvg-name="S Sport Plus" tvg-logo="" group-title="Spor",S Sport Plus
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor" tvg-logo="" group-title="Spor",Tivibu Spor
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets.m3u8
+#EXTINF:-1 tvg-name="Trt Spor" tvg-logo="" group-title="Spor",Trt Spor
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
+#EXTINF:-1 tvg-name="A Spor" tvg-logo="" group-title="Spor",A Spor
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamliveas.m3u8
+#EXTINF:-1 tvg-name="Nba Tv" tvg-logo="" group-title="Spor",Nba Tv
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivenba.m3u8
+#EXTINF:-1 tvg-name="Fb Tv" tvg-logo="" group-title="Spor",Fb Tv
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivefb.m3u8
+#EXTINF:-1 tvg-name="Gs Tv" tvg-logo="" group-title="Spor",Gs Tv
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivegs.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 1" tvg-logo="" group-title="Spor",BeIN Sports 1
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 2" tvg-logo="" group-title="Spor",BeIN Sports 2
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 3" tvg-logo="" group-title="Spor",BeIN Sports 3
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 4" tvg-logo="" group-title="Spor",BeIN Sports 4
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 5" tvg-logo="" group-title="Spor",BeIN Sports 5
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivebs5.m3u8
+#EXTINF:-1 tvg-name="S Sport" tvg-logo="" group-title="Spor",S Sport
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivess1.m3u8
+#EXTINF:-1 tvg-name="S Sport 2" tvg-logo="" group-title="Spor",S Sport 2
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivess2.m3u8
+#EXTINF:-1 tvg-name="S Sport Plus" tvg-logo="" group-title="Spor",S Sport Plus
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor" tvg-logo="" group-title="Spor",Tivibu Spor
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivets.m3u8
+#EXTINF:-1 tvg-name="Trt Spor" tvg-logo="" group-title="Spor",Trt Spor
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
+#EXTINF:-1 tvg-name="A Spor" tvg-logo="" group-title="Spor",A Spor
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamliveas.m3u8
+#EXTINF:-1 tvg-name="Nba Tv" tvg-logo="" group-title="Spor",Nba Tv
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivenba.m3u8
+#EXTINF:-1 tvg-name="Fb Tv" tvg-logo="" group-title="Spor",Fb Tv
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivefb.m3u8
+#EXTINF:-1 tvg-name="Gs Tv" tvg-logo="" group-title="Spor",Gs Tv
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivegs.m3u8
 #EXTINF:-1 tvg-name="Ziraat Türkiye Kupasi TV" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",Ziraat Türkiye Kupasi TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ztktv/playlist.m3u8
 #EXTINF:-1 tvg-name="ASPOR" tvg-logo="https://i.ibb.co/8Dc7chWS/MG-20260225-120930-473.jpg" group-title="Spor",ASPOR
@@ -1811,14 +1811,6 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/and
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivessplus1.m3u8
-#EXTINF:-1 tvg-name="Manly United (w) - Northern Tigers (w) (11:30)" tvg-logo="" group-title="Maç Yayınları",Manly United (w) - Northern Tigers (w) (11:30)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37277629.m3u8
-#EXTINF:-1 tvg-name="Dandenong City - Hume City (11:45)" tvg-logo="" group-title="Maç Yayınları",Dandenong City - Hume City (11:45)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37277793.m3u8
 #EXTINF:-1 tvg-name="Brisbane Roar (w) - Newcastle Jets (w) (12:00)" tvg-logo="" group-title="Maç Yayınları",Brisbane Roar (w) - Newcastle Jets (w) (12:00)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
@@ -1895,182 +1887,214 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/and
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37278955.m3u8
-#EXTINF:-1 tvg-name="FC Zbrojovka Brno U19 - FC Pardubice U19 (13:11)" tvg-logo="" group-title="Maç Yayınları",FC Zbrojovka Brno U19 - FC Pardubice U19 (13:11)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639295.m3u8
-#EXTINF:-1 tvg-name="Birmingham + - Charleston + (13:17)" tvg-logo="" group-title="Maç Yayınları",Birmingham + - Charleston + (13:17)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639422.m3u8
-#EXTINF:-1 tvg-name="Beijing+ - Shanghai+ (13:18)" tvg-logo="" group-title="Maç Yayınları",Beijing+ - Shanghai+ (13:18)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639432.m3u8
-#EXTINF:-1 tvg-name="Coritani+ - Trinobantes+ (13:18)" tvg-logo="" group-title="Maç Yayınları",Coritani+ - Trinobantes+ (13:18)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639392.m3u8
-#EXTINF:-1 tvg-name="Shinnik Yaroslavl (Gençler) - Baltika Kaliningrad (Gençler) (13:19)" tvg-logo="" group-title="Maç Yayınları",Shinnik Yaroslavl (Gençler) - Baltika Kaliningrad (Gençler) (13:19)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639326.m3u8
-#EXTINF:-1 tvg-name="Banik Ostrava U19 - MFK Karviná U19 (13:21)" tvg-logo="" group-title="Maç Yayınları",Banik Ostrava U19 - MFK Karviná U19 (13:21)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18638936.m3u8
-#EXTINF:-1 tvg-name="Picinguaba - Freerona (13:28)" tvg-logo="" group-title="Maç Yayınları",Picinguaba - Freerona (13:28)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639444.m3u8
-#EXTINF:-1 tvg-name="MATH - DES (13:31)" tvg-logo="" group-title="Maç Yayınları",MATH - DES (13:31)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639274.m3u8
-#EXTINF:-1 tvg-name="FK Mladá Boleslav U19 - FC Vysočina Jihlava U19 (13:31)" tvg-logo="" group-title="Maç Yayınları",FK Mladá Boleslav U19 - FC Vysočina Jihlava U19 (13:31)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639293.m3u8
-#EXTINF:-1 tvg-name="Barcelona (Gambit) - Lombardia FC (Forest) (13:33)" tvg-logo="" group-title="Maç Yayınları",Barcelona (Gambit) - Lombardia FC (Forest) (13:33)
+#EXTINF:-1 tvg-name="Barcelona (Gambit) - Lombardia FC (Forest) (13:10)" tvg-logo="" group-title="Maç Yayınları",Barcelona (Gambit) - Lombardia FC (Forest) (13:10)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639471.m3u8
-#EXTINF:-1 tvg-name="Desportivo Kalandula - Sporting do Imbondeiro (13:35)" tvg-logo="" group-title="Maç Yayınları",Desportivo Kalandula - Sporting do Imbondeiro (13:35)
+#EXTINF:-1 tvg-name="Bilbao+ - Montana+ (13:13)" tvg-logo="" group-title="Maç Yayınları",Bilbao+ - Montana+ (13:13)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18638836.m3u8
-#EXTINF:-1 tvg-name="Benfica (5x5) - Porto (5x5) (13:37)" tvg-logo="" group-title="Maç Yayınları",Benfica (5x5) - Porto (5x5) (13:37)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639504.m3u8
+#EXTINF:-1 tvg-name="St. Louis + - Fusion + (13:14)" tvg-logo="" group-title="Maç Yayınları",St. Louis + - Fusion + (13:14)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639441.m3u8
-#EXTINF:-1 tvg-name="Dukla Prague U19 - SK Dynamo České Budějovice U19 (13:38)" tvg-logo="" group-title="Maç Yayınları",Dukla Prague U19 - SK Dynamo České Budějovice U19 (13:38)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639497.m3u8
+#EXTINF:-1 tvg-name="Toledo+ - Verona+ (13:14)" tvg-logo="" group-title="Maç Yayınları",Toledo+ - Verona+ (13:14)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639040.m3u8
-#EXTINF:-1 tvg-name="Nijmegen (Amatörler) - Roda (Amatörler) (13:39)" tvg-logo="" group-title="Maç Yayınları",Nijmegen (Amatörler) - Roda (Amatörler) (13:39)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639503.m3u8
+#EXTINF:-1 tvg-name="Mirabel (2x2) - Mirador (2x2) (13:15)" tvg-logo="" group-title="Maç Yayınları",Mirabel (2x2) - Mirador (2x2) (13:15)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639439.m3u8
-#EXTINF:-1 tvg-name="Berliner Dynamo (Amatörler) - Alemannia Aachen (Amatörler) (13:39)" tvg-logo="" group-title="Maç Yayınları",Berliner Dynamo (Amatörler) - Alemannia Aachen (Amatörler) (13:39)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639543.m3u8
+#EXTINF:-1 tvg-name="B-YSU - ASFL (13:15)" tvg-logo="" group-title="Maç Yayınları",B-YSU - ASFL (13:15)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639452.m3u8
-#EXTINF:-1 tvg-name="Kızıl-Jar - FC İrtiş Pavlodar (13:39)" tvg-logo="" group-title="Maç Yayınları",Kızıl-Jar - FC İrtiş Pavlodar (13:39)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639549.m3u8
+#EXTINF:-1 tvg-name="FC Zbrojovka Brno U19 - FC Pardubice U19 (13:18)" tvg-logo="" group-title="Maç Yayınları",FC Zbrojovka Brno U19 - FC Pardubice U19 (13:18)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639295.m3u8
+#EXTINF:-1 tvg-name="Freerona - Cafeara (13:20)" tvg-logo="" group-title="Maç Yayınları",Freerona - Cafeara (13:20)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639541.m3u8
+#EXTINF:-1 tvg-name="Kızıl-Jar - FC İrtiş Pavlodar (13:20)" tvg-logo="" group-title="Maç Yayınları",Kızıl-Jar - FC İrtiş Pavlodar (13:20)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639282.m3u8
-#EXTINF:-1 tvg-name="Pari Nizhny Novgorod (Gençler) - Almaz-Antey (Gençler) (13:40)" tvg-logo="" group-title="Maç Yayınları",Pari Nizhny Novgorod (Gençler) - Almaz-Antey (Gençler) (13:40)
+#EXTINF:-1 tvg-name="Shinnik Yaroslavl (Gençler) - Baltika Kaliningrad (Gençler) (13:21)" tvg-logo="" group-title="Maç Yayınları",Shinnik Yaroslavl (Gençler) - Baltika Kaliningrad (Gençler) (13:21)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639331.m3u8
-#EXTINF:-1 tvg-name="Risers - Demizes (13:41)" tvg-logo="" group-title="Maç Yayınları",Risers - Demizes (13:41)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639326.m3u8
+#EXTINF:-1 tvg-name="INOSTR - BIO (13:23)" tvg-logo="" group-title="Maç Yayınları",INOSTR - BIO (13:23)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639455.m3u8
-#EXTINF:-1 tvg-name="MED - ENGIN (13:41)" tvg-logo="" group-title="Maç Yayınları",MED - ENGIN (13:41)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639526.m3u8
+#EXTINF:-1 tvg-name="Triana (3x3) - Commander (3x3) (13:24)" tvg-logo="" group-title="Maç Yayınları",Triana (3x3) - Commander (3x3) (13:24)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639348.m3u8
-#EXTINF:-1 tvg-name="Bayern (Amatörler) - Stuttgart (Amatörler) (13:44)" tvg-logo="" group-title="Maç Yayınları",Bayern (Amatörler) - Stuttgart (Amatörler) (13:44)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639553.m3u8
+#EXTINF:-1 tvg-name="Mungo - Camama (13:24)" tvg-logo="" group-title="Maç Yayınları",Mungo - Camama (13:24)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639577.m3u8
+#EXTINF:-1 tvg-name="Bayern (Amatörler) - Stuttgart (Amatörler) (13:24)" tvg-logo="" group-title="Maç Yayınları",Bayern (Amatörler) - Stuttgart (Amatörler) (13:24)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639453.m3u8
-#EXTINF:-1 tvg-name="Leuven+ - Geneva+ (13:47)" tvg-logo="" group-title="Maç Yayınları",Leuven+ - Geneva+ (13:47)
+#EXTINF:-1 tvg-name="Banik Ostrava U19 - MFK Karviná U19 (13:24)" tvg-logo="" group-title="Maç Yayınları",Banik Ostrava U19 - MFK Karviná U19 (13:24)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639402.m3u8
-#EXTINF:-1 tvg-name="Genoa+ - Nantes+ (13:49)" tvg-logo="" group-title="Maç Yayınları",Genoa+ - Nantes+ (13:49)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18638936.m3u8
+#EXTINF:-1 tvg-name="Nijmegen (Amatörler) - Roda (Amatörler) (13:28)" tvg-logo="" group-title="Maç Yayınları",Nijmegen (Amatörler) - Roda (Amatörler) (13:28)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639415.m3u8
-#EXTINF:-1 tvg-name="Triana (3x3) - Anteria (3x3) (13:51)" tvg-logo="" group-title="Maç Yayınları",Triana (3x3) - Anteria (3x3) (13:51)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639439.m3u8
+#EXTINF:-1 tvg-name="Pari Nizhny Novgorod (Gençler) - Almaz-Antey (Gençler) (13:28)" tvg-logo="" group-title="Maç Yayınları",Pari Nizhny Novgorod (Gençler) - Almaz-Antey (Gençler) (13:28)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639470.m3u8
-#EXTINF:-1 tvg-name="Concordia (2x2) - Mirabel (2x2) (13:51)" tvg-logo="" group-title="Maç Yayınları",Concordia (2x2) - Mirabel (2x2) (13:51)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639331.m3u8
+#EXTINF:-1 tvg-name="Gokulam Kerala - Dempo SC (13:30)" tvg-logo="" group-title="Maç Yayınları",Gokulam Kerala - Dempo SC (13:30)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639451.m3u8
-#EXTINF:-1 tvg-name="Chifeng - Fuxin (13:54)" tvg-logo="" group-title="Maç Yayınları",Chifeng - Fuxin (13:54)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37279255.m3u8
+#EXTINF:-1 tvg-name="Brisbane Knights - Southside Eagles (13:30)" tvg-logo="" group-title="Maç Yayınları",Brisbane Knights - Southside Eagles (13:30)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639438.m3u8
-#EXTINF:-1 tvg-name="Toledo+ - Genk+ (13:56)" tvg-logo="" group-title="Maç Yayınları",Toledo+ - Genk+ (13:56)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37279259.m3u8
+#EXTINF:-1 tvg-name="Pine Hills - Samford Rangers (13:30)" tvg-logo="" group-title="Maç Yayınları",Pine Hills - Samford Rangers (13:30)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639403.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37279267.m3u8
+#EXTINF:-1 tvg-name="Redlands United - Holland Park Hawks (13:33)" tvg-logo="" group-title="Maç Yayınları",Redlands United - Holland Park Hawks (13:33)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37279213.m3u8
+#EXTINF:-1 tvg-name="Berliner Dynamo (Amatörler) - Alemannia Aachen (Amatörler) (13:35)" tvg-logo="" group-title="Maç Yayınları",Berliner Dynamo (Amatörler) - Alemannia Aachen (Amatörler) (13:35)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639452.m3u8
+#EXTINF:-1 tvg-name="Birmingham + - Charleston + (13:37)" tvg-logo="" group-title="Maç Yayınları",Birmingham + - Charleston + (13:37)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639422.m3u8
+#EXTINF:-1 tvg-name="North Star - St George Willawong (13:38)" tvg-logo="" group-title="Maç Yayınları",North Star - St George Willawong (13:38)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37279217.m3u8
+#EXTINF:-1 tvg-name="Beijing+ - Osaka+ (13:43)" tvg-logo="" group-title="Maç Yayınları",Beijing+ - Osaka+ (13:43)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639515.m3u8
+#EXTINF:-1 tvg-name="Dukla Prague U19 - SK Dynamo České Budějovice U19 (13:43)" tvg-logo="" group-title="Maç Yayınları",Dukla Prague U19 - SK Dynamo České Budějovice U19 (13:43)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639040.m3u8
+#EXTINF:-1 tvg-name="Chifeng - Hefei (13:44)" tvg-logo="" group-title="Maç Yayınları",Chifeng - Hefei (13:44)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639537.m3u8
+#EXTINF:-1 tvg-name="MATH - ART (13:46)" tvg-logo="" group-title="Maç Yayınları",MATH - ART (13:46)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639525.m3u8
+#EXTINF:-1 tvg-name="FK Mladá Boleslav U19 - FC Vysočina Jihlava U19 (13:50)" tvg-logo="" group-title="Maç Yayınları",FK Mladá Boleslav U19 - FC Vysočina Jihlava U19 (13:50)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639293.m3u8
+#EXTINF:-1 tvg-name="Almanya (Ricky) - Netherlands (Eric) (13:51)" tvg-logo="" group-title="Maç Yayınları",Almanya (Ricky) - Netherlands (Eric) (13:51)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639498.m3u8
+#EXTINF:-1 tvg-name="Dongying Oilers - Weifang Athletic (13:56)" tvg-logo="" group-title="Maç Yayınları",Dongying Oilers - Weifang Athletic (13:56)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639528.m3u8
+#EXTINF:-1 tvg-name="Demizes - Kings FC (13:59)" tvg-logo="" group-title="Maç Yayınları",Demizes - Kings FC (13:59)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639556.m3u8
 #EXTINF:-1 tvg-name="TNT Tropang Giga - Rain or Shine Elasto Painters (12:15)" tvg-logo="" group-title="Maç Yayınları",TNT Tropang Giga - Rain or Shine Elasto Painters (12:15)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37278419.m3u8
-#EXTINF:-1 tvg-name="Suwon KT Sonicboom - Daegu Korea Gas Corporation (13:00)" tvg-logo="" group-title="Maç Yayınları",Suwon KT Sonicboom - Daegu Korea Gas Corporation (13:00)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37278863.m3u8
 #EXTINF:-1 tvg-name="Ryukyu Golden Kings Okinawa - Utsunomiya Brex (13:00)" tvg-logo="" group-title="Maç Yayınları",Ryukyu Golden Kings Okinawa - Utsunomiya Brex (13:00)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37278989.m3u8
-#EXTINF:-1 tvg-name="Mostodons FB - Gunners FB (13:11)" tvg-logo="" group-title="Maç Yayınları",Mostodons FB - Gunners FB (13:11)
+#EXTINF:-1 tvg-name="Suwon KT Sonicboom 3 pointers made - Daegu Korea Gas Corporation 3 pointers made (13:03)" tvg-logo="" group-title="Maç Yayınları",Suwon KT Sonicboom 3 pointers made - Daegu Korea Gas Corporation 3 pointers made (13:03)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639224.m3u8
-#EXTINF:-1 tvg-name="Meteor - Infinity Hoop (13:14)" tvg-logo="" group-title="Maç Yayınları",Meteor - Infinity Hoop (13:14)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37278863.m3u8
+#EXTINF:-1 tvg-name="Qingdao Guoxin Haitian Eagle II - Zhejiang Golden Bulls II (13:10)" tvg-logo="" group-title="Maç Yayınları",Qingdao Guoxin Haitian Eagle II - Zhejiang Golden Bulls II (13:10)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639261.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639513.m3u8
+#EXTINF:-1 tvg-name="IPBL Foxes (Bayanlar) - IPBL Sharks (Bayanlar) (13:13)" tvg-logo="" group-title="Maç Yayınları",IPBL Foxes (Bayanlar) - IPBL Sharks (Bayanlar) (13:13)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639215.m3u8
+#EXTINF:-1 tvg-name="Spartacus - Pase (13:16)" tvg-logo="" group-title="Maç Yayınları",Spartacus - Pase (13:16)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639510.m3u8
+#EXTINF:-1 tvg-name="Egypt (TBL) - İspanya (TBL) (13:19)" tvg-logo="" group-title="Maç Yayınları",Egypt (TBL) - İspanya (TBL) (13:19)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639212.m3u8
 #EXTINF:-1 tvg-name="Zvezda Balkana - Olympia NS (13:20)" tvg-logo="" group-title="Maç Yayınları",Zvezda Balkana - Olympia NS (13:20)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37279149.m3u8
-#EXTINF:-1 tvg-name="Novosibirsk - St. Petersburg (13:22)" tvg-logo="" group-title="Maç Yayınları",Novosibirsk - St. Petersburg (13:22)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639263.m3u8
-#EXTINF:-1 tvg-name="Belgorod - Saratov (13:24)" tvg-logo="" group-title="Maç Yayınları",Belgorod - Saratov (13:24)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639349.m3u8
-#EXTINF:-1 tvg-name="BC Samara II - CSKA Moskova-Yunior (13:24)" tvg-logo="" group-title="Maç Yayınları",BC Samara II - CSKA Moskova-Yunior (13:24)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18638952.m3u8
-#EXTINF:-1 tvg-name="Jinan Cyclones - Xi'an Legends (13:31)" tvg-logo="" group-title="Maç Yayınları",Jinan Cyclones - Xi'an Legends (13:31)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639170.m3u8
-#EXTINF:-1 tvg-name="Simferopol (Bayanlar) - Naberezhnye Chelny (Bayanlar) (13:32)" tvg-logo="" group-title="Maç Yayınları",Simferopol (Bayanlar) - Naberezhnye Chelny (Bayanlar) (13:32)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639255.m3u8
-#EXTINF:-1 tvg-name="IPBL Foxes (Bayanlar) - IPBL Sharks (Bayanlar) (13:34)" tvg-logo="" group-title="Maç Yayınları",IPBL Foxes (Bayanlar) - IPBL Sharks (Bayanlar) (13:34)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639215.m3u8
-#EXTINF:-1 tvg-name="Magnitogorsk (Bayanlar) - Izhevsk (Bayanlar) (13:37)" tvg-logo="" group-title="Maç Yayınları",Magnitogorsk (Bayanlar) - Izhevsk (Bayanlar) (13:37)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639257.m3u8
-#EXTINF:-1 tvg-name="Ryukyu Golden Kings Okinawa - Utsunomiya Brex (13:42)" tvg-logo="" group-title="Maç Yayınları",Ryukyu Golden Kings Okinawa - Utsunomiya Brex (13:42)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639328.m3u8
-#EXTINF:-1 tvg-name="Avustralya (TBL) - Germany (TBL) (13:44)" tvg-logo="" group-title="Maç Yayınları",Avustralya (TBL) - Germany (TBL) (13:44)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639211.m3u8
-#EXTINF:-1 tvg-name="Taipans - Aces (13:44)" tvg-logo="" group-title="Maç Yayınları",Taipans - Aces (13:44)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639384.m3u8
-#EXTINF:-1 tvg-name="Egypt (TBL) - İspanya (TBL) (13:45)" tvg-logo="" group-title="Maç Yayınları",Egypt (TBL) - İspanya (TBL) (13:45)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639212.m3u8
-#EXTINF:-1 tvg-name="IPBL Bears - IPBL Octopus (13:55)" tvg-logo="" group-title="Maç Yayınları",IPBL Bears - IPBL Octopus (13:55)
+#EXTINF:-1 tvg-name="IPBL Bears - IPBL Octopus (13:24)" tvg-logo="" group-title="Maç Yayınları",IPBL Bears - IPBL Octopus (13:24)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639204.m3u8
+#EXTINF:-1 tvg-name="Qingdao Eagles (res.) - Zhejiang Chouzhou Golden Bulls (res.) (13:30)" tvg-logo="" group-title="Maç Yayınları",Qingdao Eagles (res.) - Zhejiang Chouzhou Golden Bulls (res.) (13:30)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37279359.m3u8
+#EXTINF:-1 tvg-name="Avustralya (TBL) - Germany (TBL) (13:34)" tvg-logo="" group-title="Maç Yayınları",Avustralya (TBL) - Germany (TBL) (13:34)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639211.m3u8
+#EXTINF:-1 tvg-name="Simferopol (Bayanlar) - Naberezhnye Chelny (Bayanlar) (13:36)" tvg-logo="" group-title="Maç Yayınları",Simferopol (Bayanlar) - Naberezhnye Chelny (Bayanlar) (13:36)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639255.m3u8
+#EXTINF:-1 tvg-name="Jinan Cyclones - Xi'an Legends (13:37)" tvg-logo="" group-title="Maç Yayınları",Jinan Cyclones - Xi'an Legends (13:37)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639170.m3u8
+#EXTINF:-1 tvg-name="Taipans - Aces (13:43)" tvg-logo="" group-title="Maç Yayınları",Taipans - Aces (13:43)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639384.m3u8
+#EXTINF:-1 tvg-name="Meteor - Infinity Hoop (13:44)" tvg-logo="" group-title="Maç Yayınları",Meteor - Infinity Hoop (13:44)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639261.m3u8
+#EXTINF:-1 tvg-name="Shooters FB - Vikings FB (13:48)" tvg-logo="" group-title="Maç Yayınları",Shooters FB - Vikings FB (13:48)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639552.m3u8
+#EXTINF:-1 tvg-name="Ryukyu Golden Kings Okinawa - Utsunomiya Brex (13:48)" tvg-logo="" group-title="Maç Yayınları",Ryukyu Golden Kings Okinawa - Utsunomiya Brex (13:48)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639328.m3u8
+#EXTINF:-1 tvg-name="Novosibirsk - St. Petersburg (13:51)" tvg-logo="" group-title="Maç Yayınları",Novosibirsk - St. Petersburg (13:51)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639263.m3u8
+#EXTINF:-1 tvg-name="Belgorod - Saratov (13:51)" tvg-logo="" group-title="Maç Yayınları",Belgorod - Saratov (13:51)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639349.m3u8
+#EXTINF:-1 tvg-name="Magnitogorsk (Bayanlar) - Izhevsk (Bayanlar) (13:53)" tvg-logo="" group-title="Maç Yayınları",Magnitogorsk (Bayanlar) - Izhevsk (Bayanlar) (13:53)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639257.m3u8
 #EXTINF:-1 tvg-name="Bien Phong - Cong An TP HCM (12:00)" tvg-logo="" group-title="Maç Yayınları",Bien Phong - Cong An TP HCM (12:00)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
@@ -2083,58 +2107,54 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/and
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37279013.m3u8
-#EXTINF:-1 tvg-name="Brezilya - Rusya (13:15)" tvg-logo="" group-title="Maç Yayınları",Brezilya - Rusya (13:15)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639369.m3u8
-#EXTINF:-1 tvg-name="Impuls (4x4) - Stroitel (4x4) (13:17)" tvg-logo="" group-title="Maç Yayınları",Impuls (4x4) - Stroitel (4x4) (13:17)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639230.m3u8
-#EXTINF:-1 tvg-name="Brezilya - Hollandaa (13:19)" tvg-logo="" group-title="Maç Yayınları",Brezilya - Hollandaa (13:19)
+#EXTINF:-1 tvg-name="Brezilya - Hollandaa (13:21)" tvg-logo="" group-title="Maç Yayınları",Brezilya - Hollandaa (13:21)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639313.m3u8
-#EXTINF:-1 tvg-name="İtalya - Rusya (13:20)" tvg-logo="" group-title="Maç Yayınları",İtalya - Rusya (13:20)
+#EXTINF:-1 tvg-name="Brezilya - Rusya (13:22)" tvg-logo="" group-title="Maç Yayınları",Brezilya - Rusya (13:22)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639390.m3u8
-#EXTINF:-1 tvg-name="İspanya Pro (Bayanlar) - Hollandaa Pro (Bayanlar) (13:20)" tvg-logo="" group-title="Maç Yayınları",İspanya Pro (Bayanlar) - Hollandaa Pro (Bayanlar) (13:20)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639225.m3u8
-#EXTINF:-1 tvg-name="Türkiye (Bayanlar) - Sırbistan (Bayanlar) (13:28)" tvg-logo="" group-title="Maç Yayınları",Türkiye (Bayanlar) - Sırbistan (Bayanlar) (13:28)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18638720.m3u8
-#EXTINF:-1 tvg-name="Slovenya - Rusya (13:32)" tvg-logo="" group-title="Maç Yayınları",Slovenya - Rusya (13:32)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639413.m3u8
-#EXTINF:-1 tvg-name="Sırbistan (Bayanlar) - Rusya (Bayanlar) (13:39)" tvg-logo="" group-title="Maç Yayınları",Sırbistan (Bayanlar) - Rusya (Bayanlar) (13:39)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639369.m3u8
+#EXTINF:-1 tvg-name="Sırbistan (Bayanlar) - Rusya (Bayanlar) (13:23)" tvg-logo="" group-title="Maç Yayınları",Sırbistan (Bayanlar) - Rusya (Bayanlar) (13:23)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18638754.m3u8
-#EXTINF:-1 tvg-name="Savouge Spin Doctors - Alpha Insurance Protectors (13:44)" tvg-logo="" group-title="Maç Yayınları",Savouge Spin Doctors - Alpha Insurance Protectors (13:44)
+#EXTINF:-1 tvg-name="Savouge Spin Doctors - Alpha Insurance Protectors (13:24)" tvg-logo="" group-title="Maç Yayınları",Savouge Spin Doctors - Alpha Insurance Protectors (13:24)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18638905.m3u8
-#EXTINF:-1 tvg-name="Çin (Bayanlar) - Japonya (Bayanlar) (13:56)" tvg-logo="" group-title="Maç Yayınları",Çin (Bayanlar) - Japonya (Bayanlar) (13:56)
+#EXTINF:-1 tvg-name="Impuls (4x4) - Stroitel (4x4) (13:25)" tvg-logo="" group-title="Maç Yayınları",Impuls (4x4) - Stroitel (4x4) (13:25)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639493.m3u8
-#EXTINF:-1 tvg-name="Bien Phong - Cong An Ho Chi Minh TP (13:57)" tvg-logo="" group-title="Maç Yayınları",Bien Phong - Cong An Ho Chi Minh TP (13:57)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639230.m3u8
+#EXTINF:-1 tvg-name="Bien Phong - Cong An Ho Chi Minh TP (13:34)" tvg-logo="" group-title="Maç Yayınları",Bien Phong - Cong An Ho Chi Minh TP (13:34)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639252.m3u8
+#EXTINF:-1 tvg-name="Slovenya - Rusya (13:41)" tvg-logo="" group-title="Maç Yayınları",Slovenya - Rusya (13:41)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639413.m3u8
+#EXTINF:-1 tvg-name="Çin (Bayanlar) - Japonya (Bayanlar) (13:43)" tvg-logo="" group-title="Maç Yayınları",Çin (Bayanlar) - Japonya (Bayanlar) (13:43)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639493.m3u8
+#EXTINF:-1 tvg-name="İspanya Pro (Bayanlar) - Hollandaa Pro (Bayanlar) (13:46)" tvg-logo="" group-title="Maç Yayınları",İspanya Pro (Bayanlar) - Hollandaa Pro (Bayanlar) (13:46)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639225.m3u8
+#EXTINF:-1 tvg-name="Ushkyn-Kokshetau II U21 - Zhaiyk II U21 (13:51)" tvg-logo="" group-title="Maç Yayınları",Ushkyn-Kokshetau II U21 - Zhaiyk II U21 (13:51)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639340.m3u8
+#EXTINF:-1 tvg-name="İtalya - Rusya (13:53)" tvg-logo="" group-title="Maç Yayınları",İtalya - Rusya (13:53)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639390.m3u8
 #EXTINF:-1 tvg-name="Jennifer Ruggeri - Anastasiya Soboleva (12:04)" tvg-logo="" group-title="Maç Yayınları",Jennifer Ruggeri - Anastasiya Soboleva (12:04)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37278267.m3u8
-#EXTINF:-1 tvg-name="Charo Esquiva Banuls - Lisa Pigato (12:05)" tvg-logo="" group-title="Maç Yayınları",Charo Esquiva Banuls - Lisa Pigato (12:05)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37278279.m3u8
 #EXTINF:-1 tvg-name="Vendula Valdmannova - Samira De Stefano (12:35)" tvg-logo="" group-title="Maç Yayınları",Vendula Valdmannova - Samira De Stefano (12:35)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
@@ -2159,6 +2179,18 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/and
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37279053.m3u8
+#EXTINF:-1 tvg-name="Aurora Zantedeschi/Yvonne Cavalle-Reimers - Eva Bennemann/Anastasija Cvetkovic (13:25)" tvg-logo="" group-title="Maç Yayınları",Aurora Zantedeschi/Yvonne Cavalle-Reimers - Eva Bennemann/Anastasija Cvetkovic (13:25)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37279227.m3u8
+#EXTINF:-1 tvg-name="Zanchary Fuchs/James Hopper - Thomas Gerbaud/David Jeanne-Grandinot (13:35)" tvg-logo="" group-title="Maç Yayınları",Zanchary Fuchs/James Hopper - Thomas Gerbaud/David Jeanne-Grandinot (13:35)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37279343.m3u8
+#EXTINF:-1 tvg-name="Yanis Ghazouani Durand - Gauthier Onclin (13:37)" tvg-logo="" group-title="Maç Yayınları",Yanis Ghazouani Durand - Gauthier Onclin (13:37)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37279357.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports Max 1" tvg-logo="" group-title="Maç Yayınları",BeIN Sports Max 1
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
@@ -2315,14 +2347,6 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/and
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamliveexn8.m3u8
-#EXTINF:-1 tvg-name="Manly United (w) - Northern Tigers (w) (11:30)" tvg-logo="" group-title="Maç Yayınları",Manly United (w) - Northern Tigers (w) (11:30)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37277629.m3u8
-#EXTINF:-1 tvg-name="Dandenong City - Hume City (11:45)" tvg-logo="" group-title="Maç Yayınları",Dandenong City - Hume City (11:45)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37277793.m3u8
 #EXTINF:-1 tvg-name="Brisbane Roar (w) - Newcastle Jets (w) (12:00)" tvg-logo="" group-title="Maç Yayınları",Brisbane Roar (w) - Newcastle Jets (w) (12:00)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
@@ -2399,182 +2423,214 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/and
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37278955.m3u8
-#EXTINF:-1 tvg-name="FC Zbrojovka Brno U19 - FC Pardubice U19 (13:11)" tvg-logo="" group-title="Maç Yayınları",FC Zbrojovka Brno U19 - FC Pardubice U19 (13:11)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639295.m3u8
-#EXTINF:-1 tvg-name="Birmingham + - Charleston + (13:17)" tvg-logo="" group-title="Maç Yayınları",Birmingham + - Charleston + (13:17)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639422.m3u8
-#EXTINF:-1 tvg-name="Beijing+ - Shanghai+ (13:18)" tvg-logo="" group-title="Maç Yayınları",Beijing+ - Shanghai+ (13:18)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639432.m3u8
-#EXTINF:-1 tvg-name="Coritani+ - Trinobantes+ (13:18)" tvg-logo="" group-title="Maç Yayınları",Coritani+ - Trinobantes+ (13:18)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639392.m3u8
-#EXTINF:-1 tvg-name="Shinnik Yaroslavl (Gençler) - Baltika Kaliningrad (Gençler) (13:19)" tvg-logo="" group-title="Maç Yayınları",Shinnik Yaroslavl (Gençler) - Baltika Kaliningrad (Gençler) (13:19)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639326.m3u8
-#EXTINF:-1 tvg-name="Banik Ostrava U19 - MFK Karviná U19 (13:21)" tvg-logo="" group-title="Maç Yayınları",Banik Ostrava U19 - MFK Karviná U19 (13:21)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18638936.m3u8
-#EXTINF:-1 tvg-name="Picinguaba - Freerona (13:28)" tvg-logo="" group-title="Maç Yayınları",Picinguaba - Freerona (13:28)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639444.m3u8
-#EXTINF:-1 tvg-name="MATH - DES (13:31)" tvg-logo="" group-title="Maç Yayınları",MATH - DES (13:31)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639274.m3u8
-#EXTINF:-1 tvg-name="FK Mladá Boleslav U19 - FC Vysočina Jihlava U19 (13:31)" tvg-logo="" group-title="Maç Yayınları",FK Mladá Boleslav U19 - FC Vysočina Jihlava U19 (13:31)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639293.m3u8
-#EXTINF:-1 tvg-name="Barcelona (Gambit) - Lombardia FC (Forest) (13:33)" tvg-logo="" group-title="Maç Yayınları",Barcelona (Gambit) - Lombardia FC (Forest) (13:33)
+#EXTINF:-1 tvg-name="Barcelona (Gambit) - Lombardia FC (Forest) (13:10)" tvg-logo="" group-title="Maç Yayınları",Barcelona (Gambit) - Lombardia FC (Forest) (13:10)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639471.m3u8
-#EXTINF:-1 tvg-name="Desportivo Kalandula - Sporting do Imbondeiro (13:35)" tvg-logo="" group-title="Maç Yayınları",Desportivo Kalandula - Sporting do Imbondeiro (13:35)
+#EXTINF:-1 tvg-name="Bilbao+ - Montana+ (13:13)" tvg-logo="" group-title="Maç Yayınları",Bilbao+ - Montana+ (13:13)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18638836.m3u8
-#EXTINF:-1 tvg-name="Benfica (5x5) - Porto (5x5) (13:37)" tvg-logo="" group-title="Maç Yayınları",Benfica (5x5) - Porto (5x5) (13:37)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639504.m3u8
+#EXTINF:-1 tvg-name="St. Louis + - Fusion + (13:14)" tvg-logo="" group-title="Maç Yayınları",St. Louis + - Fusion + (13:14)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639441.m3u8
-#EXTINF:-1 tvg-name="Dukla Prague U19 - SK Dynamo České Budějovice U19 (13:38)" tvg-logo="" group-title="Maç Yayınları",Dukla Prague U19 - SK Dynamo České Budějovice U19 (13:38)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639497.m3u8
+#EXTINF:-1 tvg-name="Toledo+ - Verona+ (13:14)" tvg-logo="" group-title="Maç Yayınları",Toledo+ - Verona+ (13:14)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639040.m3u8
-#EXTINF:-1 tvg-name="Nijmegen (Amatörler) - Roda (Amatörler) (13:39)" tvg-logo="" group-title="Maç Yayınları",Nijmegen (Amatörler) - Roda (Amatörler) (13:39)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639503.m3u8
+#EXTINF:-1 tvg-name="Mirabel (2x2) - Mirador (2x2) (13:15)" tvg-logo="" group-title="Maç Yayınları",Mirabel (2x2) - Mirador (2x2) (13:15)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639439.m3u8
-#EXTINF:-1 tvg-name="Berliner Dynamo (Amatörler) - Alemannia Aachen (Amatörler) (13:39)" tvg-logo="" group-title="Maç Yayınları",Berliner Dynamo (Amatörler) - Alemannia Aachen (Amatörler) (13:39)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639543.m3u8
+#EXTINF:-1 tvg-name="B-YSU - ASFL (13:15)" tvg-logo="" group-title="Maç Yayınları",B-YSU - ASFL (13:15)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639452.m3u8
-#EXTINF:-1 tvg-name="Kızıl-Jar - FC İrtiş Pavlodar (13:39)" tvg-logo="" group-title="Maç Yayınları",Kızıl-Jar - FC İrtiş Pavlodar (13:39)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639549.m3u8
+#EXTINF:-1 tvg-name="FC Zbrojovka Brno U19 - FC Pardubice U19 (13:18)" tvg-logo="" group-title="Maç Yayınları",FC Zbrojovka Brno U19 - FC Pardubice U19 (13:18)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639295.m3u8
+#EXTINF:-1 tvg-name="Freerona - Cafeara (13:20)" tvg-logo="" group-title="Maç Yayınları",Freerona - Cafeara (13:20)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639541.m3u8
+#EXTINF:-1 tvg-name="Kızıl-Jar - FC İrtiş Pavlodar (13:20)" tvg-logo="" group-title="Maç Yayınları",Kızıl-Jar - FC İrtiş Pavlodar (13:20)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639282.m3u8
-#EXTINF:-1 tvg-name="Pari Nizhny Novgorod (Gençler) - Almaz-Antey (Gençler) (13:40)" tvg-logo="" group-title="Maç Yayınları",Pari Nizhny Novgorod (Gençler) - Almaz-Antey (Gençler) (13:40)
+#EXTINF:-1 tvg-name="Shinnik Yaroslavl (Gençler) - Baltika Kaliningrad (Gençler) (13:21)" tvg-logo="" group-title="Maç Yayınları",Shinnik Yaroslavl (Gençler) - Baltika Kaliningrad (Gençler) (13:21)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639331.m3u8
-#EXTINF:-1 tvg-name="Risers - Demizes (13:41)" tvg-logo="" group-title="Maç Yayınları",Risers - Demizes (13:41)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639326.m3u8
+#EXTINF:-1 tvg-name="INOSTR - BIO (13:23)" tvg-logo="" group-title="Maç Yayınları",INOSTR - BIO (13:23)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639455.m3u8
-#EXTINF:-1 tvg-name="MED - ENGIN (13:41)" tvg-logo="" group-title="Maç Yayınları",MED - ENGIN (13:41)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639526.m3u8
+#EXTINF:-1 tvg-name="Triana (3x3) - Commander (3x3) (13:24)" tvg-logo="" group-title="Maç Yayınları",Triana (3x3) - Commander (3x3) (13:24)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639348.m3u8
-#EXTINF:-1 tvg-name="Bayern (Amatörler) - Stuttgart (Amatörler) (13:44)" tvg-logo="" group-title="Maç Yayınları",Bayern (Amatörler) - Stuttgart (Amatörler) (13:44)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639553.m3u8
+#EXTINF:-1 tvg-name="Mungo - Camama (13:24)" tvg-logo="" group-title="Maç Yayınları",Mungo - Camama (13:24)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639577.m3u8
+#EXTINF:-1 tvg-name="Bayern (Amatörler) - Stuttgart (Amatörler) (13:24)" tvg-logo="" group-title="Maç Yayınları",Bayern (Amatörler) - Stuttgart (Amatörler) (13:24)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639453.m3u8
-#EXTINF:-1 tvg-name="Leuven+ - Geneva+ (13:47)" tvg-logo="" group-title="Maç Yayınları",Leuven+ - Geneva+ (13:47)
+#EXTINF:-1 tvg-name="Banik Ostrava U19 - MFK Karviná U19 (13:24)" tvg-logo="" group-title="Maç Yayınları",Banik Ostrava U19 - MFK Karviná U19 (13:24)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639402.m3u8
-#EXTINF:-1 tvg-name="Genoa+ - Nantes+ (13:49)" tvg-logo="" group-title="Maç Yayınları",Genoa+ - Nantes+ (13:49)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18638936.m3u8
+#EXTINF:-1 tvg-name="Nijmegen (Amatörler) - Roda (Amatörler) (13:28)" tvg-logo="" group-title="Maç Yayınları",Nijmegen (Amatörler) - Roda (Amatörler) (13:28)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639415.m3u8
-#EXTINF:-1 tvg-name="Triana (3x3) - Anteria (3x3) (13:51)" tvg-logo="" group-title="Maç Yayınları",Triana (3x3) - Anteria (3x3) (13:51)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639439.m3u8
+#EXTINF:-1 tvg-name="Pari Nizhny Novgorod (Gençler) - Almaz-Antey (Gençler) (13:28)" tvg-logo="" group-title="Maç Yayınları",Pari Nizhny Novgorod (Gençler) - Almaz-Antey (Gençler) (13:28)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639470.m3u8
-#EXTINF:-1 tvg-name="Concordia (2x2) - Mirabel (2x2) (13:51)" tvg-logo="" group-title="Maç Yayınları",Concordia (2x2) - Mirabel (2x2) (13:51)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639331.m3u8
+#EXTINF:-1 tvg-name="Gokulam Kerala - Dempo SC (13:30)" tvg-logo="" group-title="Maç Yayınları",Gokulam Kerala - Dempo SC (13:30)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639451.m3u8
-#EXTINF:-1 tvg-name="Chifeng - Fuxin (13:54)" tvg-logo="" group-title="Maç Yayınları",Chifeng - Fuxin (13:54)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37279255.m3u8
+#EXTINF:-1 tvg-name="Brisbane Knights - Southside Eagles (13:30)" tvg-logo="" group-title="Maç Yayınları",Brisbane Knights - Southside Eagles (13:30)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639438.m3u8
-#EXTINF:-1 tvg-name="Toledo+ - Genk+ (13:56)" tvg-logo="" group-title="Maç Yayınları",Toledo+ - Genk+ (13:56)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37279259.m3u8
+#EXTINF:-1 tvg-name="Pine Hills - Samford Rangers (13:30)" tvg-logo="" group-title="Maç Yayınları",Pine Hills - Samford Rangers (13:30)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639403.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37279267.m3u8
+#EXTINF:-1 tvg-name="Redlands United - Holland Park Hawks (13:33)" tvg-logo="" group-title="Maç Yayınları",Redlands United - Holland Park Hawks (13:33)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37279213.m3u8
+#EXTINF:-1 tvg-name="Berliner Dynamo (Amatörler) - Alemannia Aachen (Amatörler) (13:35)" tvg-logo="" group-title="Maç Yayınları",Berliner Dynamo (Amatörler) - Alemannia Aachen (Amatörler) (13:35)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639452.m3u8
+#EXTINF:-1 tvg-name="Birmingham + - Charleston + (13:37)" tvg-logo="" group-title="Maç Yayınları",Birmingham + - Charleston + (13:37)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639422.m3u8
+#EXTINF:-1 tvg-name="North Star - St George Willawong (13:38)" tvg-logo="" group-title="Maç Yayınları",North Star - St George Willawong (13:38)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37279217.m3u8
+#EXTINF:-1 tvg-name="Beijing+ - Osaka+ (13:43)" tvg-logo="" group-title="Maç Yayınları",Beijing+ - Osaka+ (13:43)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639515.m3u8
+#EXTINF:-1 tvg-name="Dukla Prague U19 - SK Dynamo České Budějovice U19 (13:43)" tvg-logo="" group-title="Maç Yayınları",Dukla Prague U19 - SK Dynamo České Budějovice U19 (13:43)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639040.m3u8
+#EXTINF:-1 tvg-name="Chifeng - Hefei (13:44)" tvg-logo="" group-title="Maç Yayınları",Chifeng - Hefei (13:44)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639537.m3u8
+#EXTINF:-1 tvg-name="MATH - ART (13:46)" tvg-logo="" group-title="Maç Yayınları",MATH - ART (13:46)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639525.m3u8
+#EXTINF:-1 tvg-name="FK Mladá Boleslav U19 - FC Vysočina Jihlava U19 (13:50)" tvg-logo="" group-title="Maç Yayınları",FK Mladá Boleslav U19 - FC Vysočina Jihlava U19 (13:50)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639293.m3u8
+#EXTINF:-1 tvg-name="Almanya (Ricky) - Netherlands (Eric) (13:51)" tvg-logo="" group-title="Maç Yayınları",Almanya (Ricky) - Netherlands (Eric) (13:51)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639498.m3u8
+#EXTINF:-1 tvg-name="Dongying Oilers - Weifang Athletic (13:56)" tvg-logo="" group-title="Maç Yayınları",Dongying Oilers - Weifang Athletic (13:56)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639528.m3u8
+#EXTINF:-1 tvg-name="Demizes - Kings FC (13:59)" tvg-logo="" group-title="Maç Yayınları",Demizes - Kings FC (13:59)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639556.m3u8
 #EXTINF:-1 tvg-name="TNT Tropang Giga - Rain or Shine Elasto Painters (12:15)" tvg-logo="" group-title="Maç Yayınları",TNT Tropang Giga - Rain or Shine Elasto Painters (12:15)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37278419.m3u8
-#EXTINF:-1 tvg-name="Suwon KT Sonicboom - Daegu Korea Gas Corporation (13:00)" tvg-logo="" group-title="Maç Yayınları",Suwon KT Sonicboom - Daegu Korea Gas Corporation (13:00)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37278863.m3u8
 #EXTINF:-1 tvg-name="Ryukyu Golden Kings Okinawa - Utsunomiya Brex (13:00)" tvg-logo="" group-title="Maç Yayınları",Ryukyu Golden Kings Okinawa - Utsunomiya Brex (13:00)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37278989.m3u8
-#EXTINF:-1 tvg-name="Mostodons FB - Gunners FB (13:11)" tvg-logo="" group-title="Maç Yayınları",Mostodons FB - Gunners FB (13:11)
+#EXTINF:-1 tvg-name="Suwon KT Sonicboom 3 pointers made - Daegu Korea Gas Corporation 3 pointers made (13:03)" tvg-logo="" group-title="Maç Yayınları",Suwon KT Sonicboom 3 pointers made - Daegu Korea Gas Corporation 3 pointers made (13:03)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639224.m3u8
-#EXTINF:-1 tvg-name="Meteor - Infinity Hoop (13:14)" tvg-logo="" group-title="Maç Yayınları",Meteor - Infinity Hoop (13:14)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37278863.m3u8
+#EXTINF:-1 tvg-name="Qingdao Guoxin Haitian Eagle II - Zhejiang Golden Bulls II (13:10)" tvg-logo="" group-title="Maç Yayınları",Qingdao Guoxin Haitian Eagle II - Zhejiang Golden Bulls II (13:10)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639261.m3u8
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639513.m3u8
+#EXTINF:-1 tvg-name="IPBL Foxes (Bayanlar) - IPBL Sharks (Bayanlar) (13:13)" tvg-logo="" group-title="Maç Yayınları",IPBL Foxes (Bayanlar) - IPBL Sharks (Bayanlar) (13:13)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639215.m3u8
+#EXTINF:-1 tvg-name="Spartacus - Pase (13:16)" tvg-logo="" group-title="Maç Yayınları",Spartacus - Pase (13:16)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639510.m3u8
+#EXTINF:-1 tvg-name="Egypt (TBL) - İspanya (TBL) (13:19)" tvg-logo="" group-title="Maç Yayınları",Egypt (TBL) - İspanya (TBL) (13:19)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639212.m3u8
 #EXTINF:-1 tvg-name="Zvezda Balkana - Olympia NS (13:20)" tvg-logo="" group-title="Maç Yayınları",Zvezda Balkana - Olympia NS (13:20)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37279149.m3u8
-#EXTINF:-1 tvg-name="Novosibirsk - St. Petersburg (13:22)" tvg-logo="" group-title="Maç Yayınları",Novosibirsk - St. Petersburg (13:22)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639263.m3u8
-#EXTINF:-1 tvg-name="Belgorod - Saratov (13:24)" tvg-logo="" group-title="Maç Yayınları",Belgorod - Saratov (13:24)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639349.m3u8
-#EXTINF:-1 tvg-name="BC Samara II - CSKA Moskova-Yunior (13:24)" tvg-logo="" group-title="Maç Yayınları",BC Samara II - CSKA Moskova-Yunior (13:24)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18638952.m3u8
-#EXTINF:-1 tvg-name="Jinan Cyclones - Xi'an Legends (13:31)" tvg-logo="" group-title="Maç Yayınları",Jinan Cyclones - Xi'an Legends (13:31)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639170.m3u8
-#EXTINF:-1 tvg-name="Simferopol (Bayanlar) - Naberezhnye Chelny (Bayanlar) (13:32)" tvg-logo="" group-title="Maç Yayınları",Simferopol (Bayanlar) - Naberezhnye Chelny (Bayanlar) (13:32)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639255.m3u8
-#EXTINF:-1 tvg-name="IPBL Foxes (Bayanlar) - IPBL Sharks (Bayanlar) (13:34)" tvg-logo="" group-title="Maç Yayınları",IPBL Foxes (Bayanlar) - IPBL Sharks (Bayanlar) (13:34)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639215.m3u8
-#EXTINF:-1 tvg-name="Magnitogorsk (Bayanlar) - Izhevsk (Bayanlar) (13:37)" tvg-logo="" group-title="Maç Yayınları",Magnitogorsk (Bayanlar) - Izhevsk (Bayanlar) (13:37)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639257.m3u8
-#EXTINF:-1 tvg-name="Ryukyu Golden Kings Okinawa - Utsunomiya Brex (13:42)" tvg-logo="" group-title="Maç Yayınları",Ryukyu Golden Kings Okinawa - Utsunomiya Brex (13:42)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639328.m3u8
-#EXTINF:-1 tvg-name="Avustralya (TBL) - Germany (TBL) (13:44)" tvg-logo="" group-title="Maç Yayınları",Avustralya (TBL) - Germany (TBL) (13:44)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639211.m3u8
-#EXTINF:-1 tvg-name="Taipans - Aces (13:44)" tvg-logo="" group-title="Maç Yayınları",Taipans - Aces (13:44)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639384.m3u8
-#EXTINF:-1 tvg-name="Egypt (TBL) - İspanya (TBL) (13:45)" tvg-logo="" group-title="Maç Yayınları",Egypt (TBL) - İspanya (TBL) (13:45)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639212.m3u8
-#EXTINF:-1 tvg-name="IPBL Bears - IPBL Octopus (13:55)" tvg-logo="" group-title="Maç Yayınları",IPBL Bears - IPBL Octopus (13:55)
+#EXTINF:-1 tvg-name="IPBL Bears - IPBL Octopus (13:24)" tvg-logo="" group-title="Maç Yayınları",IPBL Bears - IPBL Octopus (13:24)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639204.m3u8
+#EXTINF:-1 tvg-name="Qingdao Eagles (res.) - Zhejiang Chouzhou Golden Bulls (res.) (13:30)" tvg-logo="" group-title="Maç Yayınları",Qingdao Eagles (res.) - Zhejiang Chouzhou Golden Bulls (res.) (13:30)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37279359.m3u8
+#EXTINF:-1 tvg-name="Avustralya (TBL) - Germany (TBL) (13:34)" tvg-logo="" group-title="Maç Yayınları",Avustralya (TBL) - Germany (TBL) (13:34)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639211.m3u8
+#EXTINF:-1 tvg-name="Simferopol (Bayanlar) - Naberezhnye Chelny (Bayanlar) (13:36)" tvg-logo="" group-title="Maç Yayınları",Simferopol (Bayanlar) - Naberezhnye Chelny (Bayanlar) (13:36)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639255.m3u8
+#EXTINF:-1 tvg-name="Jinan Cyclones - Xi'an Legends (13:37)" tvg-logo="" group-title="Maç Yayınları",Jinan Cyclones - Xi'an Legends (13:37)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639170.m3u8
+#EXTINF:-1 tvg-name="Taipans - Aces (13:43)" tvg-logo="" group-title="Maç Yayınları",Taipans - Aces (13:43)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639384.m3u8
+#EXTINF:-1 tvg-name="Meteor - Infinity Hoop (13:44)" tvg-logo="" group-title="Maç Yayınları",Meteor - Infinity Hoop (13:44)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639261.m3u8
+#EXTINF:-1 tvg-name="Shooters FB - Vikings FB (13:48)" tvg-logo="" group-title="Maç Yayınları",Shooters FB - Vikings FB (13:48)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639552.m3u8
+#EXTINF:-1 tvg-name="Ryukyu Golden Kings Okinawa - Utsunomiya Brex (13:48)" tvg-logo="" group-title="Maç Yayınları",Ryukyu Golden Kings Okinawa - Utsunomiya Brex (13:48)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639328.m3u8
+#EXTINF:-1 tvg-name="Novosibirsk - St. Petersburg (13:51)" tvg-logo="" group-title="Maç Yayınları",Novosibirsk - St. Petersburg (13:51)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639263.m3u8
+#EXTINF:-1 tvg-name="Belgorod - Saratov (13:51)" tvg-logo="" group-title="Maç Yayınları",Belgorod - Saratov (13:51)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639349.m3u8
+#EXTINF:-1 tvg-name="Magnitogorsk (Bayanlar) - Izhevsk (Bayanlar) (13:53)" tvg-logo="" group-title="Maç Yayınları",Magnitogorsk (Bayanlar) - Izhevsk (Bayanlar) (13:53)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639257.m3u8
 #EXTINF:-1 tvg-name="Bien Phong - Cong An TP HCM (12:00)" tvg-logo="" group-title="Maç Yayınları",Bien Phong - Cong An TP HCM (12:00)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
@@ -2587,58 +2643,54 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/and
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37279013.m3u8
-#EXTINF:-1 tvg-name="Brezilya - Rusya (13:15)" tvg-logo="" group-title="Maç Yayınları",Brezilya - Rusya (13:15)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639369.m3u8
-#EXTINF:-1 tvg-name="Impuls (4x4) - Stroitel (4x4) (13:17)" tvg-logo="" group-title="Maç Yayınları",Impuls (4x4) - Stroitel (4x4) (13:17)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639230.m3u8
-#EXTINF:-1 tvg-name="Brezilya - Hollandaa (13:19)" tvg-logo="" group-title="Maç Yayınları",Brezilya - Hollandaa (13:19)
+#EXTINF:-1 tvg-name="Brezilya - Hollandaa (13:21)" tvg-logo="" group-title="Maç Yayınları",Brezilya - Hollandaa (13:21)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639313.m3u8
-#EXTINF:-1 tvg-name="İtalya - Rusya (13:20)" tvg-logo="" group-title="Maç Yayınları",İtalya - Rusya (13:20)
+#EXTINF:-1 tvg-name="Brezilya - Rusya (13:22)" tvg-logo="" group-title="Maç Yayınları",Brezilya - Rusya (13:22)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639390.m3u8
-#EXTINF:-1 tvg-name="İspanya Pro (Bayanlar) - Hollandaa Pro (Bayanlar) (13:20)" tvg-logo="" group-title="Maç Yayınları",İspanya Pro (Bayanlar) - Hollandaa Pro (Bayanlar) (13:20)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639225.m3u8
-#EXTINF:-1 tvg-name="Türkiye (Bayanlar) - Sırbistan (Bayanlar) (13:28)" tvg-logo="" group-title="Maç Yayınları",Türkiye (Bayanlar) - Sırbistan (Bayanlar) (13:28)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18638720.m3u8
-#EXTINF:-1 tvg-name="Slovenya - Rusya (13:32)" tvg-logo="" group-title="Maç Yayınları",Slovenya - Rusya (13:32)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639413.m3u8
-#EXTINF:-1 tvg-name="Sırbistan (Bayanlar) - Rusya (Bayanlar) (13:39)" tvg-logo="" group-title="Maç Yayınları",Sırbistan (Bayanlar) - Rusya (Bayanlar) (13:39)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639369.m3u8
+#EXTINF:-1 tvg-name="Sırbistan (Bayanlar) - Rusya (Bayanlar) (13:23)" tvg-logo="" group-title="Maç Yayınları",Sırbistan (Bayanlar) - Rusya (Bayanlar) (13:23)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18638754.m3u8
-#EXTINF:-1 tvg-name="Savouge Spin Doctors - Alpha Insurance Protectors (13:44)" tvg-logo="" group-title="Maç Yayınları",Savouge Spin Doctors - Alpha Insurance Protectors (13:44)
+#EXTINF:-1 tvg-name="Savouge Spin Doctors - Alpha Insurance Protectors (13:24)" tvg-logo="" group-title="Maç Yayınları",Savouge Spin Doctors - Alpha Insurance Protectors (13:24)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18638905.m3u8
-#EXTINF:-1 tvg-name="Çin (Bayanlar) - Japonya (Bayanlar) (13:56)" tvg-logo="" group-title="Maç Yayınları",Çin (Bayanlar) - Japonya (Bayanlar) (13:56)
+#EXTINF:-1 tvg-name="Impuls (4x4) - Stroitel (4x4) (13:25)" tvg-logo="" group-title="Maç Yayınları",Impuls (4x4) - Stroitel (4x4) (13:25)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639493.m3u8
-#EXTINF:-1 tvg-name="Bien Phong - Cong An Ho Chi Minh TP (13:57)" tvg-logo="" group-title="Maç Yayınları",Bien Phong - Cong An Ho Chi Minh TP (13:57)
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639230.m3u8
+#EXTINF:-1 tvg-name="Bien Phong - Cong An Ho Chi Minh TP (13:34)" tvg-logo="" group-title="Maç Yayınları",Bien Phong - Cong An Ho Chi Minh TP (13:34)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639252.m3u8
+#EXTINF:-1 tvg-name="Slovenya - Rusya (13:41)" tvg-logo="" group-title="Maç Yayınları",Slovenya - Rusya (13:41)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639413.m3u8
+#EXTINF:-1 tvg-name="Çin (Bayanlar) - Japonya (Bayanlar) (13:43)" tvg-logo="" group-title="Maç Yayınları",Çin (Bayanlar) - Japonya (Bayanlar) (13:43)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639493.m3u8
+#EXTINF:-1 tvg-name="İspanya Pro (Bayanlar) - Hollandaa Pro (Bayanlar) (13:46)" tvg-logo="" group-title="Maç Yayınları",İspanya Pro (Bayanlar) - Hollandaa Pro (Bayanlar) (13:46)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639225.m3u8
+#EXTINF:-1 tvg-name="Ushkyn-Kokshetau II U21 - Zhaiyk II U21 (13:51)" tvg-logo="" group-title="Maç Yayınları",Ushkyn-Kokshetau II U21 - Zhaiyk II U21 (13:51)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639340.m3u8
+#EXTINF:-1 tvg-name="İtalya - Rusya (13:53)" tvg-logo="" group-title="Maç Yayınları",İtalya - Rusya (13:53)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech18639390.m3u8
 #EXTINF:-1 tvg-name="Jennifer Ruggeri - Anastasiya Soboleva (12:04)" tvg-logo="" group-title="Maç Yayınları",Jennifer Ruggeri - Anastasiya Soboleva (12:04)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37278267.m3u8
-#EXTINF:-1 tvg-name="Charo Esquiva Banuls - Lisa Pigato (12:05)" tvg-logo="" group-title="Maç Yayınları",Charo Esquiva Banuls - Lisa Pigato (12:05)
-#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXT-X-REFERER:https://tvjustin.com/
-https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37278279.m3u8
 #EXTINF:-1 tvg-name="Vendula Valdmannova - Samira De Stefano (12:35)" tvg-logo="" group-title="Maç Yayınları",Vendula Valdmannova - Samira De Stefano (12:35)
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
@@ -2663,6 +2715,18 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/and
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
 https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37279053.m3u8
+#EXTINF:-1 tvg-name="Aurora Zantedeschi/Yvonne Cavalle-Reimers - Eva Bennemann/Anastasija Cvetkovic (13:25)" tvg-logo="" group-title="Maç Yayınları",Aurora Zantedeschi/Yvonne Cavalle-Reimers - Eva Bennemann/Anastasija Cvetkovic (13:25)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37279227.m3u8
+#EXTINF:-1 tvg-name="Zanchary Fuchs/James Hopper - Thomas Gerbaud/David Jeanne-Grandinot (13:35)" tvg-logo="" group-title="Maç Yayınları",Zanchary Fuchs/James Hopper - Thomas Gerbaud/David Jeanne-Grandinot (13:35)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37279343.m3u8
+#EXTINF:-1 tvg-name="Yanis Ghazouani Durand - Gauthier Onclin (13:37)" tvg-logo="" group-title="Maç Yayınları",Yanis Ghazouani Durand - Gauthier Onclin (13:37)
+#EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXT-X-REFERER:https://tvjustin.com/
+https://api.codetabs.com/v1/proxy/?quest=https://andro.2385437.xyz/checklist/androstreamlivech37279357.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports Max 1" tvg-logo="" group-title="Maç Yayınları",BeIN Sports Max 1
 #EXT-X-USER-AGENT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXT-X-REFERER:https://tvjustin.com/
@@ -3563,12 +3627,12 @@ http://streaming.radio.rtl.fr/rtl-1-44-128
 #EXTINF:-1 tvg-name="DFM Дискач 90-х" tvg-logo="" group-title="Radyo",DFM Дискач 90-х
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://dfm-disc90.hostingradio.ru/disc9096.aacp
-#EXTINF:-1 tvg-name="RMF FM" tvg-logo="http://www.rmf.fm/assets/images/favicon/apple-icon-120x120.png?3" group-title="Radyo",RMF FM
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-http://195.150.20.9/RMFFM48
 #EXTINF:-1 tvg-name="Your Classical - Relax" tvg-logo="http://www.yourclassical.org/apple-touch-icon.png" group-title="Radyo",Your Classical - Relax
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://relax.stream.publicradio.org/relax.mp3
+#EXTINF:-1 tvg-name="RMF FM" tvg-logo="http://www.rmf.fm/assets/images/favicon/apple-icon-120x120.png?3" group-title="Radyo",RMF FM
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+http://195.150.20.9/RMFFM48
 #EXTINF:-1 tvg-name=".977 Hitz" tvg-logo="" group-title="Radyo",.977 Hitz
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://playerservices.streamtheworld.com/pls/977_HITS.m3u
@@ -6287,12 +6351,12 @@ http://direct.franceinfo.fr/live/franceinfo-lofi.mp3
 #EXTINF:-1 tvg-name="FluxFM" tvg-logo="https://www.fluxfm.de/assets/favicons/apple-icon-120x120.png" group-title="Radyo",FluxFM
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://streams.fluxfm.de/live/mp3-320/audio/
-#EXTINF:-1 tvg-name="NDR 2" tvg-logo="https://www.ndr.de//apple-touch-icon-57x57.png" group-title="Radyo",NDR 2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-https://www.ndr.de/resources/metadaten/audio_ssl/m3u/ndr2.m3u
 #EXTINF:-1 tvg-name="Radio Tunisia Med" tvg-logo="https://www.wix.com/favicon.ico" group-title="Radyo",Radio Tunisia Med
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 https://azuracast.conceptradio.fr:8000/radio.mp3
+#EXTINF:-1 tvg-name="NDR 2" tvg-logo="https://www.ndr.de//apple-touch-icon-57x57.png" group-title="Radyo",NDR 2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+https://www.ndr.de/resources/metadaten/audio_ssl/m3u/ndr2.m3u
 #EXTINF:-1 tvg-name="Best FM" tvg-logo="" group-title="Radyo",Best FM
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 http://stream.webthings.hu:8000/fm95-x-128.mp3
