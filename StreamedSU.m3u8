@@ -1,16 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="New South Wales Waratahs vs Blues Super Rugby" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4gQwAAxgUFFCG4gSh4wYghEBnBMIxgTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Rugby",New South Wales Waratahs vs Blues Super Rugby
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Lusitnia Lourosa vs Acadmico de Viseu" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzAgUlYAAYGzENxAk1IRDFwhT+nIwpM+6tmDLwi80eqa0wjsaIhA.webp" group-title=" Football",Lusitnia Lourosa vs Acadmico de Viseu
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/EDnmboIhvMaHPHudCbZNhDkCMIAwlZEt/echo/stream/waratahs-vs-blues-rugby-51813/1/playlist.m3u8
+https://lb4.strmd.top/secure/bcLKxkfzujsYfEcNzNCJIMZAatIhLdkg/echo/stream/lusitania-lourosa-vs-academico-viseu-football-1398208/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Eintracht Frankfurt W vs Hamburger SV W" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIGCAggUIdXXIMAxs3E94IqtwJdWYMLnw2gA.webp" group-title=" Football",Eintracht Frankfurt W vs Hamburger SV W
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/qgkvrrtcpnlNUcdttYvEqofIefoqnMHZ/echo/stream/eintracht-frankfurt-w-vs-hamburger-sv-w-football-1401351/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="LIV Golf South Africa" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",LIV Golf South Africa
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/KccknoNLBXgvPIopexEICzImeCbmrNCv/echo/stream/liv-golf-south-africa-game-162626/1/playlist.m3u8
 #EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Fremantle Dockers vs Melbourne Demons" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQKeuQYBjZsJ7wxVcYQaswYXPn1A.webp" group-title=" Afl",Fremantle Dockers vs Melbourne Demons
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/CmkMKvcSBodZBEBJmQvuFqhlgCWUCKrl/echo/stream/fremantle-dockers-vs-melbourne-demons-australian-football-3363/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="South Sydney Rabbitohs vs Wests Tigers" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3gIQAE3Ybg6kNw0gIBxEb4hzKQwQpM+KLmDKr680faa0wjsaIhA.webp" group-title=" Rugby",South Sydney Rabbitohs vs Wests Tigers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/KqgVjsYalWrePYNUCpDOsUCJhTCaOpxE/echo/stream/south-sydney-rabbitohs-vs-wests-tigers-game-236363/1/playlist.m3u8
+https://lb3.strmd.top/secure/krYMPoYCWaCPfpXSEKxlhKDZgLSOZBTR/echo/stream/fremantle-dockers-vs-melbourne-demons-australian-football-3363/1/playlist.m3u8
