@@ -1,6 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Felgueiras vs Torreense" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgUwfCAAmzXCG7aQJECkOmIJkFcYUmfdWzBl4ReaPVNaYJ2NEQgA.webp" group-title=" Football",Felgueiras vs Torreense
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/mUsMxGbaFfEAoJfcAAehRblAqqaoNVEA/echo/stream/felgueiras-1932-vs-torreense-football-1398206/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="MXGP of Andalucia" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",MXGP of Andalucia
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.modifiles.fans/secure/mTdEfPKvEQYQvVvAseKWagCGdzipATRI/1774166400/1774216800/mxgp/index.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="LIV Golf South Africa" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",LIV Golf South Africa
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/KNsuKzLbFQWpMokPnJQciLfMdHomyBqE/echo/stream/liv-golf-south-africa-game-162626/1/playlist.m3u8
+https://lb6.strmd.top/secure/yDxkjmittzQvrLIezVtqwmeyPkAMucIV/echo/stream/liv-golf-south-africa-game-162626/1/playlist.m3u8
