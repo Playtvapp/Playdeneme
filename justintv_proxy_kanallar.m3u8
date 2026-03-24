@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="FİL TV b" tvg-logo="https://www.filbox.com.tr/static/media/filbox-main-logo.1a2a36c1.png" group-title="Dizi & Film",FİL TV b
-https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1 tvg-name="Filtv" tvg-logo="noimage.png" group-title="Dizi & Film",Filtv
-https://live.weinformers.com/wp-admin/admin-ajax.php?action=ucs_proxy_m3u8&url=https://tv191.radyotelekom.com.tr:3943/stream/play.m3u8|user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-name="Filmax" tvg-logo="noimage.png" group-title="Dizi & Film",Filmax
-https://tv191.radyotelekom.com.tr:3914/stream/play.m3u8
-#EXTINF:-1 tvg-name="izon TURK" tvg-logo="https://thumbs01.cdn.web.tv/zb/nc/zbnckvtgivs_140x79.jpg" group-title="Dizi & Film",izon TURK
-https://novamax.cinemax6.com:3760/stream/play.m3u8
 #EXTINF:-1 tvg-name="BBC EARTH HD" tvg-logo="https://i.ibb.co/GLXj6Qm/MG-20260225-120930-473.jpg" group-title="Belgesel",BBC EARTH HD
 #EXT-X-KANAL-TIPI:AUTO
 https://mss.ayakkabiparti.lol/bbc/index.m3u8
