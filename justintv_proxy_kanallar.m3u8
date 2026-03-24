@@ -3,3 +3,5 @@
 https://novamax.cinemax6.com:3760/stream/play.m3u8
 #EXTINF:-1 tvg-name="FİL TV" tvg-logo="https://www.filbox.com.tr/static/media/filbox-main-logo.1a2a36c1.png" group-title="Dizi & Film",FİL TV
 https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
+#EXTINF:-1 tvg-name="FİL TV b" tvg-logo="https://www.filbox.com.tr/static/media/filbox-main-logo.1a2a36c1.png" group-title="Dizi & Film",FİL TV b
+https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8|User-Agent=Mozilla/5.0
