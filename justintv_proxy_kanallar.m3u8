@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="TBMM TV" tvg-logo="https://i.ibb.co/BN9tk1q/tbmm22.png" group-title="Ulusal Kanallar",TBMM TV
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 #EXTINF:-1 tvg-name="BBC EARTH HD" tvg-logo="https://i.ibb.co/GLXj6Qm/MG-20260225-120930-473.jpg" group-title="Belgesel",BBC EARTH HD
 #EXT-X-KANAL-TIPI:AUTO
 https://mss.ayakkabiparti.lol/bbc/index.m3u8
