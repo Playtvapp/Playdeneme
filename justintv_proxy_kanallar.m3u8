@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="AA (feed)" tvg-logo="https://i.ibb.co/jLd8Fcb/aa.png" group-title="Ulusal Kanallar",AA (feed)
+#EXTINF:-1 tvg-name="AA (feed)" tvg-logo="https://i.ibb.co/jLd8Fcb/aa.png" group-title="Haber Kanalları",AA (feed)
 http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="AA Live" tvg-logo="https://i.ibb.co/jLd8Fcb/aa.png" group-title="Ulusal Kanallar",AA Live
+#EXTINF:-1 tvg-name="AA Live" tvg-logo="https://i.ibb.co/jLd8Fcb/aa.png" group-title="Haber Kanalları",AA Live
 https://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="DHA" tvg-logo="https://i.imgur.com/VZhag2x.png" group-title="Ulusal Kanallar",DHA
+#EXTINF:-1 tvg-name="DHA" tvg-logo="https://i.imgur.com/VZhag2x.png" group-title="Haber Kanalları",DHA
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
-#EXTINF:-1 tvg-name="DHA 2" tvg-logo="https://i.imgur.com/VZhag2x.png" group-title="Ulusal Kanallar",DHA 2
+#EXTINF:-1 tvg-name="DHA 2" tvg-logo="https://i.imgur.com/VZhag2x.png" group-title="Haber Kanalları",DHA 2
 https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist_w1843782493.m3u8
-#EXTINF:-1 tvg-name="DHA Canlı 1" tvg-logo="https://static.dha.com.tr/images/dha/dha-logo.png" group-title="Ulusal Kanallar",DHA Canlı 1
+#EXTINF:-1 tvg-name="DHA Canlı 1" tvg-logo="https://static.dha.com.tr/images/dha/dha-logo.png" group-title="Haber Kanalları",DHA Canlı 1
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist.m3u8
-#EXTINF:-1 tvg-name="DHA Canlı 2" tvg-logo="https://static.dha.com.tr/images/dha/dha-logo.png" group-title="Ulusal Kanallar",DHA Canlı 2
+#EXTINF:-1 tvg-name="DHA Canlı 2" tvg-logo="https://static.dha.com.tr/images/dha/dha-logo.png" group-title="Haber Kanalları",DHA Canlı 2
 https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist.m3u8
-#EXTINF:-1 tvg-name="meclis tv" tvg-logo="https://i.ibb.co/BN9tk1q/tbmm22.png" group-title="Ulusal Kanallar",meclis tv
+#EXTINF:-1 tvg-name="meclis tv" tvg-logo="https://i.ibb.co/BN9tk1q/tbmm22.png" group-title="Haber Kanalları",meclis tv
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
-#EXTINF:-1 tvg-name="TBMM TV" tvg-logo="https://i.ibb.co/BN9tk1q/tbmm22.png" group-title="Ulusal Kanallar",TBMM TV
+#EXTINF:-1 tvg-name="TBMM TV" tvg-logo="https://i.ibb.co/BN9tk1q/tbmm22.png" group-title="Haber Kanalları",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
