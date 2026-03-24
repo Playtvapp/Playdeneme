@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="AA (feed)" tvg-logo="https://i.ibb.co/jLd8Fcb/aa.png" group-title="Ulusal Kanallar",AA (feed)
 http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="AA Live" tvg-logo="https://i.ibb.co/jLd8Fcb/aa.png" group-title="Ulusal Kanallar",AA Live
+https://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
