@@ -1,41 +1,39 @@
-name: Otomatik M3U ve JSON Güncelleyici
+name: Tizam M3U/JSON Oynatma Listesi Güncelleyici
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # Her 12 saatte bir otomatik çalışır
-  workflow_dispatch: # Actions sekmesinden manuel olarak tetikleme imkanı verir
+    - cron: '0 */6 * * *' # Her 6 saatte bir (günde 4 kez) otomatik çalıştır
+  workflow_dispatch: # İhtiyaç duyduğunda GitHub Actions üzerinden manuel tetikle
 
 permissions:
-  contents: write # GITHUB_TOKEN için depoya yazma (push) izni
+  contents: write # Botun m3u ve json dosyalarını repoya yazabilmesi için GEREKLİ yazma izni
 
 jobs:
-  scrape-and-update:
+  scrape-and-push:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Depoyu Klonla
+      - name: Depoyu Klonla (Checkout)
         uses: actions/checkout@v3
 
-      - name: Python Ortamını Kur
+      - name: Python Kurulumu
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      - name: Gerekli Kütüphaneleri Yükle
+      - name: Kütüphaneleri Yükle
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4
 
-      - name: Scraping Kodunu Çalıştır
+      - name: Kazıma (Scraper) Kodunu Çalıştır
         run: python scraper.py
 
-      - name: Değişiklikleri Commit Et ve Pushla
+      - name: Değişiklikleri (M3U & JSON) Git Reposuna Yükle (Commit & Push)
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Yeni dosyaları git dizinine ekle
           git add playlist.m3u playlist.json
           
-          # Eğer dosyalarda bir değişiklik varsa commit et
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Otomatik güncelleme: M3U ve JSON oynatma listesi" && git push)
+          # Dosyalarda değişiklik yoksa hata vermemesi için mantıksal operatör kullanıyoruz
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Oynatma listesi otomatik güncellendi [M3U & JSON]" && git push)
