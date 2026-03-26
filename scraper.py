@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-BASE_URL = "https://tizam.video" # Sitenin güncel adresi
+BASE_URL = "https://tizam.video"
 START_URL = f"{BASE_URL}/fil_my_dlya_vzroslyh/"
 
 def get_video_details(detail_url):
@@ -49,8 +49,7 @@ def main():
     valid_count = 0
     
     for item in items:
-        # Şimdilik testi hızlı yapmak için ilk 10 "geçerli" filmi alıyoruz
-        # Tüm siteyi çekmek istersen bu iki satırı (if valid_count... ve break) silebilirsin.
+        # Hızlı test için ilk 10 geçerli filmi topluyoruz.
         if valid_count >= 10: 
             break
             
@@ -60,8 +59,8 @@ def main():
             
         link = a_tag.get('href', '')
         
-        # KATEGORİ FİLTRESİ: Sadece .html ile biten asıl film sayfalarını kabul et
-        if not link or ".html" not in link:
+        # KATEGORİ FİLTRESİ: Eğer kutunun içinde süre/tarih bilgisi (item__meta) yoksa bu bir kategoridir, ATLA!
+        if not item.find('ul', class_='item__meta'):
             continue
             
         detail_url = BASE_URL + link if link.startswith('/') else link
