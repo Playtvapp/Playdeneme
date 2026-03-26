@@ -1,36 +1,46 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals vs. Chicago Cubs" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EIgDG9cgyVZRPeJKpDCDVmDC58xoA.webp" group-title=" Baseball",Washington Nationals vs. Chicago Cubs
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.modifiles.fans/secure/JJbJyOrpnRrlbajYLFegSjwAIHVSrlZr/1774538400/1774569000/chicagocubs/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago White Sox vs. Milwaukee Brewers" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EAGN65Boqyie8SVSGEGrMGFz4jQA.webp" group-title=" Baseball",Chicago White Sox vs. Milwaukee Brewers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.modifiles.fans/secure/SYRlGSoxGJpnotAhvUNfHPkjpDwwzgIB/1774537800/1774568400/milwaukeebrewers/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Premier League Darts: Berlin  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Premier League Darts: Berlin  
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/QpCRDWLKTpAfvgWJpfqSXlBJwjyBDzuj/echo/stream/premier-league-darts-berlin-darts-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Pittsburgh Pirates vs. New York Mets" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EFRAh65BgGNmonvElUhhBqzBhc+E0A.webp" group-title=" Baseball",Pittsburgh Pirates vs. New York Mets
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.modifiles.fans/secure/fQwDybIpCYnIWSFgzgcYrEbTDGLvfnZi/1774534500/1774565100/newyorkmets/index.m3u8
+https://lb4.modifiles.fans/secure/XdItUDogbiuiIfSgIjTUpfDPCJzKPYIs/1774534500/1774565100/newyorkmets/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Georgia vs Israel" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksNIh6YYABM6IbiBK79IPiBim155YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Football",Georgia vs Israel
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/pAUoXUMqTFMSSxyeqAlddCuyrSCaChJK/echo/stream/georgia-vs-israel-football-1502469/1/playlist.m3u8
+https://lb8.strmd.top/secure/XwIywVzFndAGFXipeqwpMskVVyGlnnan/echo/stream/georgia-vs-israel-football-1502469/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Malta vs Luxembourg" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh0K1eABkqUQ3EHx0hE+nCUMgUIZYRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Football",Malta vs Luxembourg
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.modifiles.fans/secure/JYCwBOEwpIBvPioJfvhSygEXlIYPQRBT/1774533600/1774560600/uefa_mlt/index.m3u8
+https://lb5.modifiles.fans/secure/qKDbWuymElFAZWjBkChXTXSMYVYCSVis/1774533600/1774560600/uefa_mlt/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Gibraltar vs Latvia" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSSmBTAAJsAAMIbiB0gUuEyD5nL5lAQpM+2tmDJr680dqa0wbsVEIIA.webp" group-title=" Football",Gibraltar vs Latvia
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.modifiles.fans/secure/AkFKrDKBiLLtaliTcGDWGMLLinJmBbUs/1774533600/1774560600/uefa_gib/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Trkiye vs. Romania" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxkpAR65Boubie8EVW4EurMGFz5zQA.webp" group-title=" Football",Trkiye vs. Romania
+https://lb3.modifiles.fans/secure/zuslHdOazORikQHiECbzaKVObyOacuWI/1774533600/1774560600/uefa_gib/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Trkiye vs. Romania" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Trkiye vs. Romania
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.modifiles.fans/secure/OYkKAkXZsuAuJUYnCAXoFXhMePGnCzaz/1774533600/1774560600/fifa_tur/index.m3u8
+https://lb4.modifiles.fans/secure/yDoOTxDozsQPUjBVuhKgbAJISTTXsYxc/1774533600/1774560600/fifa_tur/index.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP/WTA 1000: Miami " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",ATP/WTA 1000: Miami 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/bAaZAHXoWRxDQNKtftqJcZvycOymlnyH/echo/stream/atpwta-1000-miami-tn-1/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Texas Children's Houston Open | PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Texas Children's Houston Open | PGA Tour
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/MnlLeNShdKpShGBjCTuTrpniYlUFvxHr/echo/stream/texas-childrens-houston-open-pga-tour-pga-526234/1/playlist.m3u8
+https://lb10.strmd.top/secure/IWqhWJOJmpNqDPPidRXmXlVQOVvPZnXc/echo/stream/atpwta-1000-miami-tn-1/1/playlist.m3u8
