@@ -1,61 +1,36 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Race | Suzuka International Racing Course | 307.5 Kms" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Race | Suzuka International Racing Course | 307.5 Kms
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/CRUBVOMThKFKTplPsSuykGKpQQWjdgsI/echo/stream/race-suzuka-international-racing-course-3075-kms-formula-1-2530/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Canberra Raiders vs Cronulla Sharks" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl74QtNWRzcQJXbhAwQfdYZDmQBCkz4ouYMvCLzRdprTAOxoiEA.webp" group-title=" Rugby",Canberra Raiders vs Cronulla Sharks
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/muDYyWQSKjaEJkGWJbNmcAZFhHSuRkqm/echo/stream/canberra-raiders-vs-cronulla-sharks-game-17u3262/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Japanese Grand Prix" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Japanese Grand Prix
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/muxHmLHMpsjALTFhwCsdOOeJOUwgGYvS/rtmp/stream/skyf1_japan_race_720/1/playlist.m3u8
 #EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Carlton Blues vs Melbourne Demons" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQKeuQYBjZsJ7wxVcYQaswYXPn1A.webp" group-title=" Afl",Carlton Blues vs Melbourne Demons
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/EjyuneFhQJvMsNSTzKtCpmJpaLCRdJPp/echo/stream/carlton-blues-vs-melbourne-demons-australian-football-3372/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Vegas Golden Knights vs Washington Capitals" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhApVzHuu4htAExCIQqkHxAQQMECVwEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Hockey",Vegas Golden Knights vs Washington Capitals
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.modifiles.fans/secure/MvGsgllRYAkRiSgasaOecfvyrRGRQrKR/1774740600/1774769400/vegasgoldenknights/index.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Phoenix Suns vs Utah Jazz" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAowAE1XMQZGCG4g+O-YZB7EOTXwIUm1rmDLwi80SmBNaYR2NEQgA.webp" group-title=" Basketball",Phoenix Suns vs Utah Jazz
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.modifiles.fans/secure/YehhskakJoebyRVoddanlhkVrLvsZaUL/1774738800/1774766880/phoenixsuns/index.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Calgary Flames vs Vancouver Canucks" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDcw4cHD4huICLh0gj2kiFO6UBCkz4ouYMvCLzRdprTAOxoiEA.webp" group-title=" Hockey",Calgary Flames vs Vancouver Canucks
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.modifiles.fans/secure/cWdMOmiubENahebpnrwwDKiAxKxiSrDp/1774738800/1774767600/calgaryflames/index.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners vs Cleveland Guardians" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwSMABN1CtCG4hNICCBggUh4yBLnTBCkz4ouYMmvrzRzprTCuxohBAA.webp" group-title=" Baseball",Seattle Mariners vs Cleveland Guardians
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.modifiles.fans/secure/wYGkJxwxreUcnoShzgmiFIVoyLooBngm/1774737600/1774768200/seattlemariners/index.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Dodgers vs Arizona Diamondbacks" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCkQZAWEohuIPjpCIQIACYHjZ+AQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Baseball",Los Angeles Dodgers vs Arizona Diamondbacks
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.modifiles.fans/secure/JnYNKbUXZVwQaZosAyAoittfZlBxMzAB/1774735800/1774766400/losangelesdodgers/index.m3u8
+https://lb9.strmd.top/secure/NGfWZxQnXPSnahqaswkVvyWhkZIGejEg/echo/stream/carlton-blues-vs-melbourne-demons-australian-football-3372/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="BKB 52 No Turning Back" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",BKB 52 No Turning Back
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/GWxIHdKzFnlIhERPtzrHUbGwDceNdyzp/echo/stream/ppv-event-15-bkb-52-no-turning-back-pppv15/1/playlist.m3u8
+https://lb10.strmd.top/secure/ZFueVYFIPGlWCYDECnEPzBRupcjoMyXO/echo/stream/ppv-event-15-bkb-52-no-turning-back-pppv15/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Sebastian Fundora vs Keith Thurman" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Sebastian Fundora vs Keith Thurman
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/JZqmHsPMDfLMrMWfPOogNnrJbCfRfgxN/delta/stream/live-event_fundora-vs-thurman-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="BKFC Fight Night Mohegan Sun Porter vs Watson" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",BKFC Fight Night Mohegan Sun Porter vs Watson
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/GMwxHasPVzdfBAVgtgUxkdGfbAyQGzTW/delta/stream/live-event_bkfc-fight-night-porter-vs-wilson-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="RAF 07: Tsarukyan vs. Poullas" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",RAF 07: Tsarukyan vs. Poullas
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.modifiles.fans/secure/UNtQofFxSeOKcPauokxBposUuYdFAcmC/1774731600/1774771200/raf/index.m3u8
+https://lb10.strmd.top/secure/ZyvBblwlBewasRRZCiesqUwDaSPrUZrr/delta/stream/live-event_fundora-vs-thurman-live-stream/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Bryan Acosta vs Ronny Rios" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Bryan Acosta vs Ronny Rios
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/WrJArSZzlYfFGPiylKRKExjBBjNOSPUs/delta/stream/live-event_bryan-acosta-vs-ronny-rios-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC Fight Night: Adesanya vs. Pyfer" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta0t+SfACYFgAY1CRu1BOhBj5IIfXIMxzYGB7wpVbqIaswWtrghA.webp" group-title=" Fight",UFC Fight Night: Adesanya vs. Pyfer
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.modifiles.fans/secure/qTFsYguvtODreOAYfiOejugIHjgyTeqE/1774720800/1774774800/ufc/index.m3u8
+https://lb3.strmd.top/secure/BrJqrNqVOgOcWemCPmKaDWWPHVzrATGd/delta/stream/live-event_bryan-acosta-vs-ronny-rios-live-stream/1/playlist.m3u8
