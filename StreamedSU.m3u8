@@ -1,36 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Race | Suzuka International Racing Course | 307.5 Kms" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Race | Suzuka International Racing Course | 307.5 Kms
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="MXGP of Switzerland" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",MXGP of Switzerland
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/CRUBVOMThKFKTplPsSuykGKpQQWjdgsI/echo/stream/race-suzuka-international-racing-course-3075-kms-formula-1-2530/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Canberra Raiders vs Cronulla Sharks" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl74QtNWRzcQJXbhAwQfdYZDmQBCkz4ouYMvCLzRdprTAOxoiEA.webp" group-title=" Rugby",Canberra Raiders vs Cronulla Sharks
+https://lb4.modifiles.fans/secure/nlASYyTSLyygPnecgjSfsQwNhKUEfLZS/1774759200/1774809600/mxgp/index.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Hero Indian Open | DP World Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Hero Indian Open | DP World Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/muDYyWQSKjaEJkGWJbNmcAZFhHSuRkqm/echo/stream/canberra-raiders-vs-cronulla-sharks-game-17u3262/1/playlist.m3u8
+https://lb6.strmd.top/secure/okgSswcCPSXtvvwPSFIIkkvVCBjGeteM/echo/stream/hero-indian-open-dp-world-tour-game-162626/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Gold Coast Titans vs St. George Illawara Dragons" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulxj4CEABMwKENy0gIBxEb4hzZmAQpM+KLmDLr680faa0wjsaIhA.webp" group-title=" Rugby",Gold Coast Titans vs St. George Illawara Dragons
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/cPDydxlLnnqGTjfJlUOKAJsooGhDvEZB/echo/stream/gold-coast-titans-vs-dragons-game-2737723/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Japanese Grand Prix" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Japanese Grand Prix
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/muxHmLHMpsjALTFhwCsdOOeJOUwgGYvS/rtmp/stream/skyf1_japan_race_720/1/playlist.m3u8
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Carlton Blues vs Melbourne Demons" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQKeuQYBjZsJ7wxVcYQaswYXPn1A.webp" group-title=" Afl",Carlton Blues vs Melbourne Demons
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/NGfWZxQnXPSnahqaswkVvyWhkZIGejEg/echo/stream/carlton-blues-vs-melbourne-demons-australian-football-3372/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="BKB 52 No Turning Back" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",BKB 52 No Turning Back
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/ZFueVYFIPGlWCYDECnEPzBRupcjoMyXO/echo/stream/ppv-event-15-bkb-52-no-turning-back-pppv15/1/playlist.m3u8
+https://lb5.modifiles.fans/secure/DbblXNLlNDlKrvepEaBtajqcXwoPcGNJ/1774749600/1774778400/skyf1_japan_race/index.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Sebastian Fundora vs Keith Thurman" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Sebastian Fundora vs Keith Thurman
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/ZyvBblwlBewasRRZCiesqUwDaSPrUZrr/delta/stream/live-event_fundora-vs-thurman-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Bryan Acosta vs Ronny Rios" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Bryan Acosta vs Ronny Rios
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/BrJqrNqVOgOcWemCPmKaDWWPHVzrATGd/delta/stream/live-event_bryan-acosta-vs-ronny-rios-live-stream/1/playlist.m3u8
+https://lb10.strmd.top/secure/HwYRFOWLmnURRirmheZUPlDpxbBRjfpA/delta/stream/live-event_fundora-vs-thurman-live-stream/1/playlist.m3u8
