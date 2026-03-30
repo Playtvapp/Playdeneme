@@ -1,11 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Germany vs Ghana" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQgSIDSjDg+IbiF3r96nABM9uEBAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Football",Germany vs Ghana
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.modifiles.fans/secure/zwYuxekmXqBoZDiwRGroffbpyAcMQJAP/1774885500/1774912500/fifa_ger/index.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Wisconsin Badgers vs Columbia Lions" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Wisconsin Badgers vs Columbia Lions
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/efRtNqVpulUHwdUDFxMQOkjmuZxYYxpy/delta/stream/live_women-s-basketball-invitation-tournament_wisconsin-badgers-columbia-lions-live-streaming-1229863905/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="Players Championship - Board 1" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title=" Darts",Players Championship - Board 1
+https://lb6.strmd.top/secure/ZwHIqMyBXHwMLTwwkGFAtekwdmCyHELf/delta/stream/live_women-s-basketball-invitation-tournament_wisconsin-badgers-columbia-lions-live-streaming-1229863905/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="Players Championship - Board 2" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title=" Darts",Players Championship - Board 2
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.modifiles.fans/secure/OMvCLXcuXuGQYlYXtzGoXxhfrTXWOkAy/1774861200/1774908000/darts1/index.m3u8
+https://lb4.modifiles.fans/secure/PojpfsSOhkaHEosQsFZxTGZJyEeBzMyp/1774861200/1774908000/darts2/index.m3u8
