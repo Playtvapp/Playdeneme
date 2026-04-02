@@ -1,16 +1,46 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Kolkata Knight Riders vs Sunrisers Hyderabad" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkplqIBobiAAmITRBAG+IfZpQhEOPgQpMrXMGXhF5olMCa0wDsaIhA.webp" group-title=" Cricket",Kolkata Knight Riders vs Sunrisers Hyderabad
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Straubing Tigers vs Eisbren Berlin" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphjswAgaxAhuIACYhEfEBH0gSuEzoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Hockey",Straubing Tigers vs Eisbren Berlin
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.modifiles.fans/secure/fmAjsCdLgxrVrIFaFHWkRNFtpJfUdxBX/1775127600/1775156400/ipl/index.m3u8
+https://lb5.strmd.top/secure/eoKxQIsGMXlOhtmFNXsfjuCDSyeUAYNY/echo/stream/straubing-tigers-vs-eisbaren-berlin-hockey-423575/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="EHC Red Bull Mnchen vs ERC Ingolstadt" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhRKMKpRqQ3EABMQiPiAgGdOExMIxgTPii6by9eervNgYTWNEQgA.webp" group-title=" Hockey",EHC Red Bull Mnchen vs ERC Ingolstadt
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/MsCXQzmCrGXNNEyoQVBaflQLEdaMyRBO/echo/stream/munchen-vs-erc-ingolstadt-hockey-423576/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Adler Mannheim vs Bremerhaven" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCogIIbPXIMAxs2Bge8SVSmEGrMDra4IQA.webp" group-title=" Hockey",Adler Mannheim vs Bremerhaven
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/ifBIRkWnBAHMtaVvBUEwydkOZCubeIvq/echo/stream/adler-mannheim-vs-bremerhaven-hockey-423756/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Hapoel Tel Aviv BC vs Panathinaikos BC" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhADa9JGD5gkIbqpAATA4mPGUIS3wIUm1rmDLwi80SmBNaYR2NEQgA.webp" group-title=" Basketball",Hapoel Tel Aviv BC vs Panathinaikos BC
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/BWxZDMykqpoaaPTxAlNJloWUCXJKTkkD/echo/stream/hapoel-tel-aviv-vs-panathinaikos-basketball-454619/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Las Palmas vs Granada" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFO3KJuIHWr4gDEQ7hBqQ6ghSZ8NbMGXhF5ojU1pgHY0RCA.webp" group-title=" Football",Las Palmas vs Granada
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/TvQVayHtOWVdNJezArlVYIPHbUrOcsvj/echo/stream/las-palmas-vs-granada-cf-football-1392123/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Zalgiris Kaunas vs Barcelona" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IKiEQqU9cgwDGzST3hiq3Al1ZgwufFaA.webp" group-title=" Basketball",Zalgiris Kaunas vs Barcelona
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/CkLyRrbHNGpwqJxfWacgKiAsGOUjRHBJ/echo/stream/zalgiris-kaunas-vs-barcelona-basketball-454620/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Barcelona W vs Real Madrid W" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIbCCqqQEeuQYBjZuJ7wRVbgS6swYXPmtA.webp" group-title=" Football",Barcelona W vs Real Madrid W
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/aoqiCjYBQgqJMfbrCNLCEpEforAGAPyp/echo/stream/barcelona-w-vs-real-madrid-w-football-1525454/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Valero Texas Open | PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Valero Texas Open | PGA Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/CQmXgPPbLTzqaASPtRefdYukkQChBOvs/echo/stream/valero-texas-open-pga-tour-pga-526234/1/playlist.m3u8
+https://lb1.strmd.top/secure/FdZDhNLXeIaxzRSdmYwgkiMjxeNPAIoT/echo/stream/valero-texas-open-pga-tour-pga-526234/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP / WTA: Bucharest / Houston / Marrakech / Bogota / Charleston " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",ATP / WTA: Bucharest / Houston / Marrakech / Bogota / Charleston 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/ANqOvdtTNvvqCxqxyrvimaXLuZBORRDM/echo/stream/atp-wta-bucharest-houston-marrakech-bogota-charleston-tn-1/1/playlist.m3u8
+https://lb4.strmd.top/secure/mohSKVCPxzWaNiEzlkruiqtQlIImXjmt/echo/stream/atp-wta-bucharest-houston-marrakech-bogota-charleston-tn-1/1/playlist.m3u8
