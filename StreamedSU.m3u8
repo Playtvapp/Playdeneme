@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="North Melbourne Kangaroos vs Carlton Blues" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQUuuQYBjZsJ7wxVcYQaswYXPn1A.webp" group-title=" Afl",North Melbourne Kangaroos vs Carlton Blues
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Crusaders Super Rugby vs Fijian Drua" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3ACADONIhuIACYgIuA8b4gYIC7oIUmfFFzBl4ReaPtNaYR2NEQgA.webp" group-title=" Rugby",Crusaders Super Rugby vs Fijian Drua
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/RtqVwyjLKYGIVrLXElxAKeBRImpWsdHJ/echo/stream/north-melbourne-kangaroos-vs-carlton-blues-australian-football-3374/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Los Angeles Kings vs Nashville Predators" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLB8w3MCjAATTSG4gIuYzBAljKEKZAEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Hockey",Los Angeles Kings vs Nashville Predators
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/KrQUxqMonefcOZKbAjMGSYUfYnsczahF/delta/stream/live_nhl_kings-predators-live-streaming-1224176598/1/playlist.m3u8
+https://lb3.strmd.top/secure/BzVKqLFlkSsmGPcHZPvXPhRIGSepRdXh/echo/stream/crusaders-vs-fijian-drua-rugby-51819/1/playlist.m3u8
