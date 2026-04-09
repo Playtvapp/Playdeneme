@@ -1,6 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="Premier League: Brighton" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title=" Darts",Premier League: Brighton
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Rosario Central vs Independiente del Valle" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl4AGMCRAxgYMABMQ3EHxCITBnDhOI9BCkz4ouG8vXminTWrtFS6QA.webp" group-title=" Football",Rosario Central vs Independiente del Valle
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://netanyahu.modifiles.fans/secure/BhFjuemtIxRCaeGXmrYiZptVvkStFkyX/1775746800/1775779200/darts/index.m3u8
+https://lb7.strmd.top/secure/sFMXPecbyTImlnFSJuaAPWsrttikSPDl/echo/stream/rosario-central-vs-independiente-del-valle-football-1535245/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="UCV vs Libertad Asuncion" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiikAGMQKeuQYrm4nvBFVuBLqzBhc+S0A.webp" group-title=" Football",UCV vs Libertad Asuncion
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/dUGNlddkIBTUeXZpBKVFWAfbLAxwywbb/echo/stream/ucv-vs-libertad-asuncion-football-1535249/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Premier League Darts: Brighton " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Premier League Darts: Brighton 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/jJJxLrlKKvAQacQlVtFqVqlqVpgizaZD/echo/stream/premier-league-darts-brighton-darts-1/1/playlist.m3u8
