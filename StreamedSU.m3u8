@@ -1,6 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Iglesias vs. Silyagin" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Iglesias vs. Silyagin
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="St. George Illawara Dragons vs Manly Sea Eagles" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC9WABhCIAJiF3c9ICIcTG+Ic8ZgEKTPii5gy8IvNEOmtME7GiIQA.webp" group-title=" Rugby",St. George Illawara Dragons vs Manly Sea Eagles
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://netanyahu.modifiles.fans/secure/tGLEJCJupiIKCiMqqYTTcAyxSelLcEZZ/1775763000/1775809800/iglesias-vs-silyagin/index.m3u8
+https://lb9.strmd.top/secure/KmlltqxsVyvHtyiuofmspBTcUxLsIacl/echo/stream/dragons-vs-manly-sea-eagles-game-17u3262/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Highlanders Super Rugby vs ACT Brumbies" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBwcKBKFghuIEnoO6IIYzBMgUBCkz4ouYMvCLzRdprTAOxoiEA.webp" group-title=" Rugby",Highlanders Super Rugby vs ACT Brumbies
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/dpbXhlyLFDqvLxLlMIUxWgvzqaKnfLHF/echo/stream/highlanders-vs-brumbies-rugby-51822/1/playlist.m3u8
