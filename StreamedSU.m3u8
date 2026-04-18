@@ -1,16 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Wellington Phoenix vs Western Sydney Wanderers" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIRCnrkGAY2bie8EVW4EurMGFz5zQA.webp" group-title=" Football",Wellington Phoenix vs Western Sydney Wanderers
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="South Sydney Rabbitohs vs St. George Illawara Dragons" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulxj4CEABMwKENy0gIBxEb4hzZmAQpM+KLmDLr680faa0wjsaIhA.webp" group-title=" Rugby",South Sydney Rabbitohs vs St. George Illawara Dragons
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/JfPvxqPUXnqQjKLaQHFhvwrNNJfmLbhV/echo/stream/wellington-phoenix-vs-western-sydney-wanderers-football-1469701/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="WWE Hall of Fame" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",WWE Hall of Fame
+https://lb9.strmd.top/secure/KPtOBnlwhFlewptzILepuAxCwdWjVfIC/echo/stream/south-sydney-rabbitohs-vs-dragons-game-2737723/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Chiefs Super Rugby vs Hurricanes Super Rugby" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnlgQMMSBCJuIEnpARDIXTC0g+hghSZ8UXMGXhF5o+01phHY0RCA.webp" group-title=" Rugby",Chiefs Super Rugby vs Hurricanes Super Rugby
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/ATrVOPiBAcKSoQDzzDHNimpOkrkYKKZM/echo/stream/ppv-event-13-wwe-hall-of-fame-ppv-13/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="BKFC 88: Camozzi vs Rodriguez" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",BKFC 88: Camozzi vs Rodriguez
+https://lb10.strmd.top/secure/LSHKEioKqtKHVwnqtndzhIHIhEeHFQYt/echo/stream/chiefs-vs-hurricanes-rugby-51829/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Brisbane Roar vs Melbourne City" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUICCGz1yDAMbNxPeCKrcCXVmDC58FoA.webp" group-title=" Football",Brisbane Roar vs Melbourne City
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/oilJkvrmccmlqxwnGIGLVrTmckjgMEHa/delta/stream/live-event_bkfc-88-camozzi-vs-rodriguez-live-stream/1/playlist.m3u8
+https://lb9.strmd.top/secure/HWIGPOTrezlTlgxbElqZyqCefbVUGohh/echo/stream/brisbane-roar-vs-melbourne-city-football-1469702/1/playlist.m3u8
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Hawthorn Hawks vs Port Adelaide Power" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQRGfXIMAxs2E94YquMINWYMLnwGgA.webp" group-title=" Afl",Hawthorn Hawks vs Port Adelaide Power
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/QkpiViKzdrXDrtFrdJGrTvvhLTKlUedA/echo/stream/hawthorn-hawks-vs-port-adelaide-power-australian-football-3394/1/playlist.m3u8
