@@ -1,26 +1,51 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Ipswich Town vs Middlesbrough" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAowIZupBwYIbiD4HtIEzhMATYzAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Football",Ipswich Town vs Middlesbrough
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/mibnSRZVvKbWVaZtZGDOzJveEqgihwjp/delta/stream/live_championship_ipswich-middlesbrough-live-streaming-1094625279/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="WEC: 6 Hours of Imola" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",WEC: 6 Hours of Imola
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/DdUtAUnqQBaIsRyuGKObTzWtUugADmvZ/rtmp/stream/wec_720/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Barcelona / Munich / Rouen / Stuttgart " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",ATP / WTA: Barcelona / Munich / Rouen / Stuttgart 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/CXUaOQKVZsimolrrkTxuyRlzqPWmrvpa/echo/stream/atp-wta-barcelona-munich-rouen-stuttgart-tn-1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="RBC Heritage | PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",RBC Heritage | PGA Tour
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/vDkELqfyediqRkQpKMhbpYrREYlAoGni/echo/stream/rbc-heritage-pga-tour-pga-526234/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Cremonese vs Torino" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnDg4WaChDcQEXSAMGYIACaHjjCkz4ouYMvCLzRtprTD2xoiEA.webp" group-title=" Football",Cremonese vs Torino
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://netanyahu.modifiles.fans/secure/ScOiCJCsJGiKOHSfEecAEHfLelSXpEnE/1776583800/1776610800/sa_cre/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bruk-Bet Termalica Nieciecza vs Wisla Plock" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzQhe+ECVxgAJmpB6UIY1q0RcIRBMIxgTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Football",Bruk-Bet Termalica Nieciecza vs Wisla Plock
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/fJPRFcFQqsJeybzyakFJrJkqqzoHYFwG/echo/stream/nieciecza-vs-wisla-plock-football-1380644/1/playlist.m3u8
+https://lb4.strmd.top/secure/dkRtPtAXgImwsRfBUjTuycGyMExSHcwq/echo/stream/nieciecza-vs-wisla-plock-football-1380644/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Kolkata Knight Riders vs Rajasthan Royals" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzCliTACZg+IbiAghDOjSBi7DIExAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Cricket",Kolkata Knight Riders vs Rajasthan Royals
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://netanyahu.modifiles.fans/secure/ffCiyLcDjgtQGSWprZFHcKDxykhqgjAM/1776582000/1776614400/ipl/index.m3u8
+https://netanyahu.modifiles.fans/secure/nykRDxklhjbWNsBaKNlvXxmctoqPCKlf/1776582000/1776614400/ipl/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Portimonense vs Lusitnia Lourosa" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpizUAJmD5gkbENxB9cICCFNq9IcyRAwCFJnxRcwZeEXminTWmBdjREEA.webp" group-title=" Football",Portimonense vs Lusitnia Lourosa
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/BoEUYvLoHNTJqfMqTgbgnDZUAWFmVwjd/echo/stream/portimonense-vs-lusitania-lourosa-football-1398235/1/playlist.m3u8
+https://lb6.strmd.top/secure/fUQQJjtGHzCRbIUdOPjifOoDxCJvRdKB/echo/stream/portimonense-vs-lusitania-lourosa-football-1398235/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="European Darts Grand Prix | Day 3 - Afternoon Session" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title=" Darts",European Darts Grand Prix | Day 3 - Afternoon Session
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://netanyahu.modifiles.fans/secure/GlVqsNDPRoqloejazYOyiGWfqOGvoJcl/1776582000/1776614400/darts/index.m3u8
+https://netanyahu.modifiles.fans/secure/kZukKhcIDIoxcZKcFJGidnbcVAIzIIze/1776582000/1776614400/darts/index.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="MXGP of Trentino (ITA) | Day 2" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",MXGP of Trentino (ITA) | Day 2
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://netanyahu.modifiles.fans/secure/EzxWgzpSjOEStOalqrBSDZVdiNZjvNVE/1776573300/1776627300/mxgp/index.m3u8
+https://netanyahu.modifiles.fans/secure/DrNpOKYwXSxZmjGKEsfedZUHmsogmpyH/1776573300/1776627300/mxgp/index.m3u8
