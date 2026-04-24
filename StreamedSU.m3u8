@@ -1,11 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Crusaders Super Rugby vs New South Wales Waratahs" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRgQIRNzWgQ3ECX2GAJuo2GcjCkz4ouYMvCLzRtprTD2xoiEA.webp" group-title=" Rugby",Crusaders Super Rugby vs New South Wales Waratahs
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/pqgfVdDjSpQnGdiUVLXtnVuTTtvJZkAm/echo/stream/crusaders-vs-waratahs-rugby-51832/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoGP Spanish Grand Prix" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",MotoGP Spanish Grand Prix
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/kLJnTXHoOcaVfkEniQnPHLvhVdSDaNot/echo/stream/motogp-spanish-grand-prix-game-122273/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Volvo China Open | DP World Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Volvo China Open | DP World Tour
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/MVaiFaVSfsspIWvvpnikmYovaItEZryB/echo/stream/volvo-china-open-dp-world-tour-game-162626/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="2026 NFL Draft" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true" group-title=" American Football",2026 NFL Draft
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/enkrHJUYftPoxFutZxFPeWykinrhpPQr/delta/stream/live-event_2026-nfl-draft-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Volvo China Open Round 2" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title=" Golf",Volvo China Open Round 2
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/VqdehXSMJEqBgsiPoAMudSPqHYwjlgJu/echo/stream/volvo-china-open-dp-world-tour-game-162626/1/playlist.m3u8
+https://lb5.strmd.top/secure/pSynoAVBBnWjdBEHJzQkarCQBZiQCHBb/delta/stream/live-event_2026-nfl-draft-live-stream/1/playlist.m3u8
