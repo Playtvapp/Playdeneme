@@ -1,36 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Essendon Bombers vs Collingwood Magpies" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQEeuQYBjZsJ7wxVcYQaswYXPn1A.webp" group-title=" Afl",Essendon Bombers vs Collingwood Magpies
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Blues Super Rugby vs Queensland Reds" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4gIIFBrFIQqkiH3r1q1QBM1IDYRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Rugby",Blues Super Rugby vs Queensland Reds
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/EQGRWFtlMvJUbaePrHFSEwwfbwkxfNrn/echo/stream/essendon-bombers-vs-collingwood-magpies-australian-football-3402/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Hurricanes Super Rugby vs ACT Brumbies" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBwcKBKFghuIEnoO6IIYzBMgUBCkz4ouYMvCLzRdprTAOxoiEA.webp" group-title=" Rugby",Hurricanes Super Rugby vs ACT Brumbies
+https://lb6.strmd.top/secure/caesrjlJEZQpwAUTycitlnDAdEUNnkgb/echo/stream/blues-vs-reds-rugby-51833/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="St George-Illawarra Dragons vs Sydney Roosters" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuAUxAQxQKwiIAmIWwEwwhw8wa16YAnGBQMbBsrBjbBcwDu2yYWgysOwJ0eEChAs5LBSAjyUhWMALDe1dgkjcBvPfTCiqFCEA.webp" group-title=" Rugby",St George-Illawarra Dragons vs Sydney Roosters
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/TPRdXxLeMJiNYISGtcTtpaXyqUaXJSNa/echo/stream/hurricanes-vs-brumbies-rugby-51834/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="LUX 060" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",LUX 060
+https://lb3.strmd.top/secure/vrHKjrWLZAqsSxWVlQQOTePEHRFrQOYN/echo/stream/dragons-vs-sydney-roosters-game-2737723/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoGP Spanish Grand Prix" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",MotoGP Spanish Grand Prix
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/rtsZxUpqlEqqLLHfNiunURLEOnNBzrno/echo/stream/ppv-event-06-lux-060-ppv-06/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Tuff N Uff 153" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Tuff N Uff 153
+https://lb6.strmd.top/secure/sPaohyMNqPgCMYOYhxsGsDbPEzslsPbt/echo/stream/motogp-spanish-grand-prix-game-122273/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Volvo China Open | DP World Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Volvo China Open | DP World Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/PfFLGZiWvlCpyrMmaZAjHaoAoXhXsSLj/echo/stream/ppv-event-07-tuff-n-uff-153-ppv-07/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="TFNF Night of Champions XI" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",TFNF Night of Champions XI
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/zyCMZpfwbxEVKroPQQbScCBdtcLfOTpF/echo/stream/ppv-event-05-tfnf-night-of-champions-xi-ppv-05/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Volvo China Open Round 3" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title=" Golf",Volvo China Open Round 3
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/dCHfylzcFTyoRKtboUxZALPUmbFoqGoX/echo/stream/volvo-china-open-dp-world-tour-game-162626/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="BKFC Fight Night Clearwater Gaskins vs Guymon" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",BKFC Fight Night Clearwater Gaskins vs Guymon
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/hWCaiGBznhTrcwGlQMkwDurdOKbMiuKa/delta/stream/live-event_bkfc-fight-night-clearwater-gaskins-vs-guymon-live-stream/1/playlist.m3u8
+https://lb10.strmd.top/secure/HrXCHGRMtraocUfxJKrokqBKRYfDDkSC/echo/stream/volvo-china-open-dp-world-tour-game-162626/1/playlist.m3u8
