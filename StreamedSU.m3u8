@@ -1,26 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="U20 RC: New Zealand vs. Australia" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title=" Rugby",U20 RC: New Zealand vs. Australia
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="U20 RC: South Africa vs. Argentina" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title=" Rugby",U20 RC: South Africa vs. Argentina
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://netanyahu.modifiles.fans/secure/qxOtNFTUeZQafmSacjFCzExiFTPFiRzw/1777280400/1777305600/u20-rc_nz/index.m3u8
+https://netanyahu.modifiles.fans/secure/WSIcDUOQtieieqSpxKdToCqJyqtZTDxV/1777288200/1777313400/u20-rc_za/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Alanyaspor vs Samsunspor" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYJCBggyKEHxDcQKvSF0RtRy1tOEYwJnxRcwZeEXminTWmBdjREEA.webp" group-title=" Football",Alanyaspor vs Samsunspor
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/HsAGdFtGJKUyXrvEtAPjkcyqxOAVSOJP/echo/stream/alanyaspor-vs-samsunspor-football-1394703/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Delhi Capitals vs. Royal Challengers Bengaluru" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title=" Cricket",Delhi Capitals vs. Royal Challengers Bengaluru
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://netanyahu.modifiles.fans/secure/ARMbtZrrYHFTOYVNEfStHfljKubkJDgm/1777287600/1777320000/ipl/index.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="2026 Players Championship 11" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title=" Darts",2026 Players Championship 11
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://netanyahu.modifiles.fans/secure/jYaPijuMVhJbMLThUQmnYXqAuvQvcgCj/1777280400/1777320000/darts1/index.m3u8
+https://netanyahu.modifiles.fans/secure/PNeQfnTIyCEhKSxhDafpCCTquEMCaqqD/1777280400/1777320000/darts1/index.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="World Snooker Championship  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",World Snooker Championship  
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/dFowncOFExtkFwZwUPFkRmrFzbfuzhKD/echo/stream/world-snooker-championship-game-298775/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="County Championship: Surrey vs Essex" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",County Championship: Surrey vs Essex
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/UUwmqAxbdQbdzCseVQyBlLNwyRJmVGgY/echo/stream/county-championship-surrey-vs-essex-cricket-hundred-1/1/playlist.m3u8
+https://lb5.strmd.top/secure/pxMzfUdgdEuZPhsqOuJqfvDBydeJrUPY/echo/stream/world-snooker-championship-game-298775/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP/WTA 1000: Madrid " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",ATP/WTA 1000: Madrid 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/zynajnlRzgDdSDDZdnUYUWdHJVZukpip/echo/stream/atpwta-1000-madrid-tn-1/1/playlist.m3u8
+https://lb8.strmd.top/secure/bpJnLTDyzMyUDsKvykxFULRXBQeegSFc/echo/stream/atpwta-1000-madrid-tn-1/1/playlist.m3u8
