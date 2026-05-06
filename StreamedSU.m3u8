@@ -1,41 +1,91 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="New York City FC vs Los Angeles FC" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",New York City FC vs Los Angeles FC
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/zkxoFiDNTAfJDldgTwtbzpnIGBLzstZq/delta/stream/live_mls_ny-city-los-angeles-live-streaming-1241241516/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="CF Montreal vs Calgary Blizzard SC" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",CF Montreal vs Calgary Blizzard SC
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/JvMBPAjNmXMqnBKAUPaDWDcVbLxSuVfj/echo/stream/cf-montreal-vs-calgary-blizzard-sc-football-1543077/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees vs Texas Rangers" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6QQKMLwAM7ENxAlcekCZQhE+wxMIxgTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Baseball",New York Yankees vs Texas Rangers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://netanyahu.modifiles.fans/secure/VvNEjWWFnvaMEwRWjnByqdQbarqVHXoT/1778097900/1778128500/newyorkyankees/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="New York Knicks vs Philadelphia 76ers" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB8Q3ECRARNwACbrNhkNpAGdJnSgIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Basketball",New York Knicks vs Philadelphia 76ers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://netanyahu.modifiles.fans/secure/wVcFQfUMvFbwYdAeNPqqSBVYYaNqXDFg/1778097600/1778126400/newyorkknicks/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Buffalo Sabres vs Montreal Canadiens" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4WMCjAgQ3EBFy6QfECiMmSIeAQpM+KLmDKr680Q6a0wTsaIhA.webp" group-title=" Hockey",Buffalo Sabres vs Montreal Canadiens
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://netanyahu.modifiles.fans/secure/rEnRonxpKhHcepPRiiZroGgyfZwSrWnU/1778097600/1778126400/buffalosabres/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Buffalo Sabres vs Montral Canadiens" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Hockey",Buffalo Sabres vs Montral Canadiens
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/rFhNbGzyLKwkLqsEqvcMnsaDJiBEYfOc/delta/stream/live_nhl-playoffs_sabres-canadiens-live-streaming-1300048650/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="AEW Dynamite & Collision" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",AEW Dynamite & Collision
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/FbtxqXoEqojytpwSBMKBrFBbWKZcQOgn/delta/stream/live-event_aew-dynamite-collision-live-stream/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals vs Minnesota Twins" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyajaEEGQAmIbpty6QKEDH19DKAhSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title=" Baseball",Washington Nationals vs Minnesota Twins
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://netanyahu.modifiles.fans/secure/sZOtvdkkZlBqZvGkCmBAzMIfvZUFbSIN/1778096700/1778127300/washingtonnationals/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies vs Athletics" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3hgUYACbUNIRNxB8QEEPp3GYBy3wIUm1rmDKr680SmBNaYR2NEQgA.webp" group-title=" Baseball",Philadelphia Phillies vs Athletics
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://netanyahu.modifiles.fans/secure/wDfsqcAloSITxOVXIoxfGuOifJTfDvHb/1778096400/1778127000/philadelphiaphillies/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins vs Baltimore Orioles" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTRVfMABMwJENxAQQifTl18QMEFZAEKTPii47y9eaMdNaYHWNEQgA.webp" group-title=" Baseball",Miami Marlins vs Baltimore Orioles
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://netanyahu.modifiles.fans/secure/xkGXmarpiicGLHsrZIKRXrnijdqCEAiI/1778096400/1778127000/miamimarlins/index.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Detroit Tigers vs Boston Red Sox" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA.webp" group-title=" Baseball",Detroit Tigers vs Boston Red Sox
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://netanyahu.modifiles.fans/secure/vkSUbEYVBLkoxMXnhBxIeQaRRLdPlpFz/1778096400/1778127000/detroittigers/index.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Deportivo La Guaira vs Bolvar" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAxKIUUmpIQ3DSD4gUBoyDMRTKAhSZ8UXMGXhF5o+01phHY0RCA.webp" group-title=" Football",Deportivo La Guaira vs Bolvar
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/rHxCMuMRVLZJMYhmmjVwyMUocNLAxWSv/echo/stream/deportivo-la-guaira-vs-bolivar-football-1535290/1/playlist.m3u8
+https://lb10.strmd.top/secure/QtynAxiOHAmIViljluYkfsxXNtJLaXun/echo/stream/deportivo-la-guaira-vs-bolivar-football-1535290/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Cusco vs Estudiantes L.P." tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIIbCBj1yDAMbNxPeCKrcCXVmDC58FoA.webp" group-title=" Football",Cusco vs Estudiantes L.P.
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/BYNNQuxgxGanWwTEwjsybrpCULhKkYMe/echo/stream/cusco-vs-estudiantes-lp-football-1535285/1/playlist.m3u8
+https://lb5.strmd.top/secure/jfZseEwfqeETNXHyFXvsAMKsKgNEXhby/echo/stream/cusco-vs-estudiantes-lp-football-1535285/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Atletico Torque vs Palestino" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIRERAh65BgGNm4nvBFVuBLqzBhc+S0A.webp" group-title=" Football",Atletico Torque vs Palestino
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/NIIhwOPnQYaXtyIcEmKKHwrEJaoOBjvS/echo/stream/atletico-torque-vs-palestino-football-1535198/1/playlist.m3u8
+https://lb2.strmd.top/secure/QkITmLWHhbEREjzPSEMypDpZxaPrGacd/echo/stream/atletico-torque-vs-palestino-football-1535198/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="A. Italiano vs Vasco DA Gama" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIRPHrkGAY2bie8EVW4EurMGFz5zQA.webp" group-title=" Football",A. Italiano vs Vasco DA Gama
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/IqRlIaWdkObSEyEtqUTbXpauGStLEZQY/echo/stream/a-italiano-vs-vasco-da-gama-football-1535186/1/playlist.m3u8
+https://lb2.strmd.top/secure/JOeQgHtBtXVLjTZRtDxVUAAmjFtVzsbO/echo/stream/a-italiano-vs-vasco-da-gama-football-1535186/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners vs Atlanta Braves" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAkCEHxAATUiG479mkCYMGIIFDoIUmfVWzBl4ReaNVNaYJ2NEQgA.webp" group-title=" Baseball",Seattle Mariners vs Atlanta Braves
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://netanyahu.modifiles.fans/secure/JSnrPkThhKpANUUYaGsRAjzmpIfSlJTV/1778087400/1778118000/seattlemariners/index.m3u8
+https://netanyahu.modifiles.fans/secure/hKykQEgFHQIfprgprawANojAKKhTLEGX/1778087400/1778118000/seattlemariners/index.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels vs Chicago White Sox" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVSEKPogQ3Tfoi6QhmDrMQCFJnxRcwZeEXmjbTWmHtitQA.webp" group-title=" Baseball",Los Angeles Angels vs Chicago White Sox
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://netanyahu.modifiles.fans/secure/mXWJPTBgHluyQaMwDrlzUPntTrrYezba/1778087220/1778117820/losangelesangels/index.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants vs San Diego Padres" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMH0ghetfNrX6+IErhBGTiGAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Baseball",San Francisco Giants vs San Diego Padres
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://netanyahu.modifiles.fans/secure/ZYdsMzxiOoiUqavKMZcjVPNdccMMZZbq/1778085900/1778116500/sanfranciscogiants/index.m3u8
+https://netanyahu.modifiles.fans/secure/fXvUxvVijOMsdJMYepeLGBkRKqXTmANv/1778087220/1778117820/losangelesangels/index.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies vs New York Mets" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EFRAR65BgGNmonvElUhhBqzBhc+E0A.webp" group-title=" Baseball",Colorado Rockies vs New York Mets
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/JZosiFQwfukBFSvQxehtYxykGizTjJIX/echo/stream/colorado-rockies-vs-new-york-mets-baseball-178563/1/playlist.m3u8
+https://lb2.strmd.top/secure/ejchnThdgIjJCfgboioYAXEPiJiwxvMS/echo/stream/colorado-rockies-vs-new-york-mets-baseball-178563/1/playlist.m3u8
