@@ -1,11 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP/WTA 1000: Rome " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",ATP/WTA 1000: Rome 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/tdWgApvilvZdXEVXozZdCCCisVgzikIv/echo/stream/atpwta-1000-rome-tn-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Mikito Nakano vs Lerato Dlamini" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Mikito Nakano vs Lerato Dlamini
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/cwIcjLYfHEPVhHVgzsUmVImZQKHhFNtY/delta/stream/live-event_mikito-nakano-vs-lerato-dlamini-live-stream/1/playlist.m3u8
+https://lb1.strmd.top/secure/coUyEvPtUZHvSUHnLEXsAPPApsQYVyfd/delta/stream/live-event_mikito-nakano-vs-lerato-dlamini-live-stream/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Nikita Tszyu vs Oscar Diaz" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Nikita Tszyu vs Oscar Diaz
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/GxZgZTbvqchXkHiGttOlrMdVNgVZsIXs/delta/stream/live-event_nikita-tszyu-vs-oscar-diaz-live-stream/1/playlist.m3u8
+https://lb1.strmd.top/secure/QEMXPvDrTcXjjiEbDiRNMPpbQfYODRgL/delta/stream/live-event_nikita-tszyu-vs-oscar-diaz-live-stream/1/playlist.m3u8
