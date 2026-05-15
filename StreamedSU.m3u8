@@ -1,56 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="2026 Truck Series at Dover" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",2026 Truck Series at Dover
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/OjQAHRtGbLINMxOpiUUzXWtBBUAjXJRx/delta/stream/live-event_2026-truck-series-at-dover-live-stream/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoAmerica Superbikes Barber" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",MotoAmerica Superbikes Barber
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb16.strmd.top/secure/GAjIuLIehQssjyetKVVttXNOaLGrYqYV/echo/stream/ppv-event-10-motoamerica-superbikes-barber-ppv-10/1/playlist.m3u8
+https://lb11.strmd.top/secure/laqsNNtkyXFpdjObiRlKdnhjpJRBLLtJ/echo/stream/ppv-event-10-motoamerica-superbikes-barber-ppv-10/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Chukhadzhian vs. Donovan" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Chukhadzhian vs. Donovan
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb17.strmd.top/secure/blTbtAYgLhJFjWLkkaOKqoZdKoppTKtY/rtmp/stream/yngRP4e61NRC7Ghk6XStmy59vgljr3XttLwZJik3d2PTfDNkhyKwFOg7vzdrORRz0ISBJGM3/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Wakefield Trinity Wildcats vs Catalans Dragons" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpOoATMOBQaQ3EBFwhVIFCER8D+5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Rugby",Wakefield Trinity Wildcats vs Catalans Dragons
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb13.strmd.top/secure/xnTfkzlhWeuSxSJdMRbVYBjrJTfsOdRe/echo/stream/wakefield-trinity-vs-catalans-dragons-game-37322/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Aston Villa vs Liverpool" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMwACYKQgnNxB8QiAyhDqQJgzggEKTPii5gy8IvNEOmtME7GiIQA.webp" group-title=" Football",Aston Villa vs Liverpool
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.top/secure/IpGUXxdqvvOLVlmEgGFvfBSsvbclfBKn/rtmp/stream/kNBMVlk0BUBFizPWrVi-vToHKPBbvwSlBdlQYE5sxhaT-dXae6YmGYc9iwwfia_MYSNmy3Eeh8g/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Notts County vs Chesterfield" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYPutjUUIbiAi59IGCEQ4Sh5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Football",Notts County vs Chesterfield
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb20.strmd.top/secure/ELFcCJZJcrxSCVqNmsrMzzXqMJvWocmK/rtmp/stream/RfDim-eVow7lobEXxfcRWPMtYpgiut0IpPe5RgZ86JJymrfDD0N4E6qxuxbIMO24Fw2MDbZvJesijA/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Cordoba vs Albacete" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCor65Boubie8EVW4EurMGFz5zQA.webp" group-title=" Football",Cordoba vs Albacete
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/DfnlZNgpyOmiukcGdKtzoyjLzZYyvDPq/echo/stream/cordoba-vs-albacete-football-1392200/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Czech Republic Ice Hockey vs Denmark Ice Hockey" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmDEPSQha3ELpW49IGCAN8NpkCgIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Hockey",Czech Republic Ice Hockey vs Denmark Ice Hockey
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/tqxgRFDwDGjbopFOmoWwrslndcazBFZU/rtmp/stream/FUnlQHKSHXzmd89reYgzBKXTHIx6ylrUgicnGjLdeRdtJne4yO2Of82MFIYUt7v3ixV0ilkbYEaCqw/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="USA Ice Hockey vs Switzerland Ice Hockey" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQglYAWxzcQAE1wgdMPSFMkQEUwQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Hockey",USA Ice Hockey vs Switzerland Ice Hockey
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/OjSfOhIIgXZrubQCAPxIbfHLFPNadwuz/rtmp/stream/TCjZ0uAiIUmtPTj-xq8OzgY99cXnL17Hqv7Gyw6dzTlNjxPK8pC0QU830TfW-mHkoSUCndf6IdSbVA/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Salford City vs Grimsby Town" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRhVZOOETcQEEABNdIEiER8QMEOeWEYwJnxRcwZeEXminTWmBdjREEA.webp" group-title=" Football",Salford City vs Grimsby Town
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb13.strmd.top/secure/jZdoZdLEaWycSXFCWohYvIsklwHDPtGG/delta/stream/live_league-two-playoffs_salford-grimsby-live-streaming-1314477207/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Leeds Rhinos vs Manchester Thunder" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAwQ8MCRD1C3EHoAm2kClUhzptXxAGCFJnxRdN5evNFOmtMJrGiIQA.webp" group-title=" Rugby",Leeds Rhinos vs Manchester Thunder
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.top/secure/qoUPGDNKkqIAXxVoBNoSKeUoABBqSlLk/echo/stream/wigan-warriors-vs-leeds-rhinos-game-182283/1/playlist.m3u8
+https://lb20.strmd.top/secure/lXlbZYvfGXtKvtqwlskSFEtXJEpAWOUk/rtmp/stream/fnI9dmkW3OuK6znIlOuAhsJ1-g0_fPmhjsXaq0-GODtQhaMGWlR0vK1a9OZ6sUj5NVUmPMAq/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Karen Chukhadzhyan vs Paddy Donovan" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Karen Chukhadzhyan vs Paddy Donovan
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.top/secure/xCvGrtGJkALEXgeGJrlXghboOYLCVwaY/delta/stream/live-event_karen-chukhadzhyan-vs-paddy-donovan-live-stream/1/playlist.m3u8
+https://lb1.strmd.top/secure/sebAhATlNEPvjLDaNTFUputrArzaGtka/delta/stream/live-event_karen-chukhadzhyan-vs-paddy-donovan-live-stream/1/playlist.m3u8
