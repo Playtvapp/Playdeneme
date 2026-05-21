@@ -1,21 +1,41 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name=" USAC National Sprints " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other", USAC National Sprints 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/JzierBILesMIKQEymfuCsfRiVutBDNSF/echo/stream/ppv-event-03-usac-national-sprints-ppv-03/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees vs Toronto Blue Jays" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmIFGCTAADCFpgQ3EGqN8QJXCDNqQxghSZ8UXMGXhF5o5032uxoiCA.webp" group-title=" Baseball",New York Yankees vs Toronto Blue Jays
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/uWQkIOusIDLHvUHcwhnVglMBNTeSQSsR/rtmp/stream/BgOUX-_d0h1OfzpJgBYIjLMSZ7w5usQblFTvgheSdIKpmMzzFX2SeEfKXZ7TmAoNQ3zbH6IrSVs4IrKyhfdNsQ/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="STSS Lebanon Valley    " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",STSS Lebanon Valley    
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb16.strmd.top/secure/RnpLvGvbDNsXBbucsTBdIjvBCmvBREZl/echo/stream/ppv-event-01-stss-lebanon-valley-ppv-01/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins vs Atlanta Braves" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphTAkCEHxAATUiG479mkCYMGIIFDoIUmfVWzBl4ReaNVNaYJ2NEQgA.webp" group-title=" Baseball",Miami Marlins vs Atlanta Braves
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb20.strmd.top/secure/fBaWAFqjZLQChLgZeDtCBsuxFlwwxHuS/rtmp/stream/QYzIp-jBu3TwZ27nAXDWoVNSrmOpYF_4EKQW-XmlXOPLF6N406PvopPM_fQralBY1jva6qtTffQNu-lQrrk/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Academia Puerto Cabello vs Juventud Las Piedras" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm5hw4VfDB8Q3EBBAATfSFOmdBnPAIUmfFFzBkt9eaIdNaYJ2NEQgA.webp" group-title=" Football",Academia Puerto Cabello vs Juventud Las Piedras
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.top/secure/dfngSOKbkhNdwREvTYoWOLRjgWWRtwmg/echo/stream/puerto-cabello-vs-juventud-football-1535213/1/playlist.m3u8
+https://lb4.strmd.top/secure/WrCewrBuMJQpOyLPMOWPZshXCOcKuaXA/echo/stream/puerto-cabello-vs-juventud-football-1535213/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Deportivo La Guaira vs Independiente Rivadavia" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl58wSdrgYhuIPiAAmIFCAggYhnbhDLCMYEz4ouYMvCLzRzprTCuxohBAA.webp" group-title=" Football",Deportivo La Guaira vs Independiente Rivadavia
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/bSYoLniRPMipHBolBUslqbPNXqIFFZnc/echo/stream/deportivo-la-guaira-vs-independ-rivadavia-football-1535306/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals vs New York Mets" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpixhw3cnG4htEEIm0kQemPrN8CFJha5gy8IvNEpgTWmDtjREIA.webp" group-title=" Baseball",Washington Nationals vs New York Mets
+https://lb6.strmd.top/secure/raubLFcZMWFvPsbZoRUIXfClKhjAkNFp/echo/stream/deportivo-la-guaira-vs-independ-rivadavia-football-1535306/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Atletico-MG vs Cienciano" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIbCH6L65BgGNm4nvBFVuBLqzBhc+S0A.webp" group-title=" Football",Atletico-MG vs Cienciano
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb19.strmd.top/secure/xveCfoOAYbNhcclWBpIUnjLSKNZktGzx/rtmp/stream/VZvje-EsJ-gs5NvF3Zg6HhM8a6PJ8hfrMb5uv0CNlgi9QkPv9UpBKdGM9LxyVWRRXlw-DYo_hUEYGXn9_ojt7epUnJFv/1/playlist.m3u8
+https://lb7.strmd.top/secure/IckCHYcLgKNFgQmgTLdCwudCnGziKjdh/echo/stream/atletico-mg-vs-cienciano-football-1535204/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="The CJ Cup Byron Nelson | PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",The CJ Cup Byron Nelson | PGA Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/lPqwpLwDPAkbLqfwZzBwkCYIYmykddhs/echo/stream/the-cj-cup-byron-nelson-pga-tour-pga-526234/1/playlist.m3u8
+https://lb2.strmd.top/secure/yypniffpGaeGQIZNSDokbgzYYWxaiklC/echo/stream/the-cj-cup-byron-nelson-pga-tour-pga-526234/1/playlist.m3u8
