@@ -1,21 +1,31 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Auckland FC vs Sydney FC" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjL0+YbiHBIQmkiAggAJrtMwQfAxYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Football",Auckland FC vs Sydney FC
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/yUFGSfhOgVkqJJOZuSOmzHGIQKhmuFet/rtmp/stream/eeeXJ4F9PYSaKRbDu5IbxOSE-85cLahgE27yzSaIc4m7hru3Qqc7QZKB8gHzIwS8RgPdUs8ZYtjV/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="St. George Illawara Dragons vs New Zealand Warriors" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4gQDECmAAGMKu4gAJiAhGQiU6tXG+BCk1tcwZeEXmitTWmGdjREIA.webp" group-title=" Rugby",St. George Illawara Dragons vs New Zealand Warriors
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/AfPAAGmJJftTIUfOWePMtVUreimwPCKL/rtmp/stream/sCLrJ5NvHlNhgNNWLnUB6PGsuCzSEqrmOxZ9RI_shADcrQRz24MhkFiKwqZAl3VzyeFRVq42d2aFh0E/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Hurricanes Super Rugby vs Highlanders Super Rugby" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphghaAE36gwJENxC7dEEMf2qchghSZ8UXHeXrzRdprTA6xoiEA.webp" group-title=" Rugby",Hurricanes Super Rugby vs Highlanders Super Rugby
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb14.strmd.top/secure/RoGRhDsQwwpHqIWmwGfCDkzbsuHtCIKZ/echo/stream/hurricanes-vs-highlanders-rugby-51854/1/playlist.m3u8
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Collingwood Football Club vs West Coast Eagles" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnAxmsXMAAmIbiB0QQfECeMwjIQ1oIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Afl",Collingwood Football Club vs West Coast Eagles
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb17.strmd.top/secure/iFcIczgixcemiHOFcMyQyNANxHxChmhR/echo/stream/collingwood-magpies-vs-west-coast-eagles-australian-football-3440/1/playlist.m3u8
 #EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Geelong Football Club vs Sydney Swans" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyZT22EChDcQAExAQQfECeMw9BkwQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Afl",Geelong Football Club vs Sydney Swans
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.top/secure/apDOdkAsJtPRfodEUwpLhvWvBTpaFJvW/echo/stream/geelong-cats-vs-sydney-swans-australian-football-3439/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Moana Pasifika vs Queensland Reds" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm4gIIFBrFIQqkiH3r1q1QBM1IDYRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Rugby",Moana Pasifika vs Queensland Reds
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb16.strmd.top/secure/uJZCuVYLqbBsHAoWgZzxgHactwsYIXhq/echo/stream/moana-pasifika-vs-reds-rugby-51853/1/playlist.m3u8
+https://lb7.strmd.top/secure/kmUEFEXZBnMrfzvUDmxVnIYMmtxyEYVU/echo/stream/geelong-cats-vs-sydney-swans-australian-football-3439/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="BKFC 89: Herring vs Larrimore" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",BKFC 89: Herring vs Larrimore
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/aIqYqhLkeWdOXeHznZdHjFddMKlwRXfS/delta/stream/live-event_bkfc-89-herring-vs-larrimore-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Amari Jones vs Vincenzo Gualtieri" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Amari Jones vs Vincenzo Gualtieri
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/pTyHkRivBfwKnQjjgzktkOAbEIrLkZCO/delta/stream/live-event_amari-jones-vs-vincenzo-gualtieri-live-stream/1/playlist.m3u8
+https://lb11.strmd.top/secure/VNmpmGXbHNJhvtVlyuLNzhNFirnUwnnM/delta/stream/live-event_bkfc-89-herring-vs-larrimore-live-stream/1/playlist.m3u8
