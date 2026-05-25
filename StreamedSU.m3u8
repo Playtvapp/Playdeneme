@@ -1,41 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants vs Arizona Diamondbacks" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphCkQZAWEohuIPjpCIQIACYHjZ+AQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Baseball",San Francisco Giants vs Arizona Diamondbacks
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb16.strmd.top/secure/MJSVCzbNdiNbBRXWUTCkzdIoAiuZbvQy/rtmp/stream/kaUNecF3Ly390gNfsJG5hh8or6G4G9rucwSsd2CKwF6RvSc5WrOmIRjnM6OL1dzMNBzlBprwa768JtPuHurmwZzQtfE/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets vs Cincinnati Reds" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7k4ZeNhDcQEEIh0l9IEycSMKTPii5gNReaJtNaYO2NEQgA.webp" group-title=" Baseball",New York Mets vs Cincinnati Reds
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/GdcgkoCDTcHUoSQGqhtzSovDmHnAnhJq/rtmp/stream/B4qRYJ9QqlsMDPYMKtkEpgdF00j_o4UX6uFqkYbmczsSGP5py1mu-qed1JeMqFvmiEApxeaN4ACVgLSh0Q/1/playlist.m3u8
+https://lb16.strmd.top/secure/JeHnBAGmIbGiBzTSbqZdetRbXVYKkcYT/rtmp/stream/g9PBGKlBsTt4ZrusEmrefHwEB90ZHRavsbSdS06hUOnseq0-ea2EW0BJWFVa0XxZV_KJnAZomw4GwtW6DQ/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Kansas City Royals vs New York Yankees" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Baseball",Kansas City Royals vs New York Yankees
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/uBitLhKITNSRDBEyYrzsChKCPPnmFZqT/rtmp/stream/QzVcl7h-LHgS75k-NsYBH6klcLz3EqZxvFanQEBepeTAlvUj5H4HY3FPKh0F-ZjjfuuHnTmAR7tyOQdXs0WleavV/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="St Mirren vs Partick Thistle" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQg1MEL25gSmkHxAbdAExARDuEKZAEKTPii47y9eaMdNaYHWNEQgA.webp" group-title=" Football",St Mirren vs Partick Thistle
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/ZkqkSMSdMOZuWYgawSBoRMdlWYDXIcoa/delta/stream/live_premiership-relegationpromotion_st-mirren-partick-thistle-live-streaming-1324549125/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Paderborn vs Wolfsburg" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSS70UIFNFoATELxBYDIY4nXqSIC1gIV8AlDzBl4RBWId36YJ+LEQgA.webp" group-title=" Football",Paderborn vs Wolfsburg
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb12.strmd.top/secure/CbvlRbMCAnwYfzySXkKfKzjZAtpNHghb/echo/stream/sc-paderborn-07-vs-vfl-wolfsburg-football-1545418/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Milwaukee Brewers vs St. Louis Cardinals" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIATMCjDrNObiAi59IGMZCIcfMwQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Baseball",Milwaukee Brewers vs St. Louis Cardinals
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb17.strmd.top/secure/AUcNtxzDWHLDWYGScMbFCiJNRWcmvpba/rtmp/stream/36GCCiBN5LMlOjwuBloqcQP-1aYCb5lsx2V8MYoOiE3pK5ZGzEvMVF0yQoiLUzrgBwvnGHuyGWv6tp0TSyUr1h2o/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago White Sox vs Minnesota Twins" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyajaEEGQAmIbpty6QKEDH19DKAhSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title=" Baseball",Chicago White Sox vs Minnesota Twins
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb16.strmd.top/secure/fWwkVKcTilpwNknmdxpdBDwrXyVBOVuP/rtmp/stream/G6HEdUu5RWIfUap2clFOrEEaa07Z4VrG-S3uLrM50R4AVyKsavS8T602IG05wHRbz2PD3Y5iJnxQu0c9PWlcrXU/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Pittsburgh Pirates vs Chicago Cubs" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gQDUiBgg+IbiBK49IEyiOIzEwjGBM+KLmDLwi80Q6a0wTsaIhA.webp" group-title=" Baseball",Pittsburgh Pirates vs Chicago Cubs
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb16.strmd.top/secure/qcCcKuiViqBhXLBkSQFZHtAGaJRGnbip/rtmp/stream/G_f3toGjsnyGV9HXTymutrqOgK5bY5dEqbfTjtuF4WZCQlZaSriZHz5e4Hc7glBLWZ3uNWUg7-oDgsFLDVwGhBUDSA/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles vs Tampa Bay Rays" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Baseball",Baltimore Orioles vs Tampa Bay Rays
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/WeigOHOFtgJAJHRETyaCQItLqOaSaaJe/rtmp/stream/PwF4BJ4Z9f99S1na_FkEYGSnfqbIu4N5kP-FMl93AXKCuJypFvmBYEZ7v7EnjZJjvMgcaBlhpB1bPsSiXT_FjvEh/1/playlist.m3u8
+https://lb8.strmd.top/secure/wCsAwJAtSaNJgsLmnjhAhMkljViVwilx/rtmp/stream/XxXiUYkYAvOlXO1AEhm9GDnSSBB5wRSeV1VPi_26r0CFo10-YYOrfmk1xCmF0UNFo9HLf6-5Czcwon_7uoYlDNeU/1/playlist.m3u8
