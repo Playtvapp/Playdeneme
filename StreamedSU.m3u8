@@ -1,21 +1,46 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="USA Ice Hockey vs Hungary Ice Hockey" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhARVDYPhAwQKENxB99IEoZAATE1YMwCFJnxRcwZeEXminTWmBdjREEA.webp" group-title=" Hockey",USA Ice Hockey vs Hungary Ice Hockey
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="St Mirren vs Partick Thistle" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyQg1MEL25gSmkHxAbdAExARDuEKZAEKTPii47y9eaMdNaYHWNEQgA.webp" group-title=" Football",St Mirren vs Partick Thistle
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb14.strmd.top/secure/WdfSChKoEZuBtVCBNitQsashawhbUsdJ/delta/stream/live_world-championship-group-a_usa-hungary-live-streaming-1308362328/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Czechia vs Norway" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Hockey",Czechia vs Norway
+https://lb8.strmd.top/secure/GqVdxsomGTjQvrUUBUNjEmmxcYVGPKin/delta/stream/live_premiership-relegationpromotion_st-mirren-partick-thistle-live-streaming-1324549125/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Paderborn vs Wolfsburg" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSS70UIFNFoATELxBYDIY4nXqSIC1gIV8AlDzBl4RBWId36YJ+LEQgA.webp" group-title=" Football",Paderborn vs Wolfsburg
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.top/secure/ivzCByuQEGXrVVIEgdjllYTsHEquDbfG/delta/stream/live_world-championship-group-b_czechia-norway-live-streaming-1308365325/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Notts County vs Salford City" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyiIU7MKL4huIACYgYOkCaMpcIcygIUmfdW03l680eqa0wmsaIhA.webp" group-title=" Football",Notts County vs Salford City
+https://lb8.strmd.top/secure/gbHfBIsGVSvJEuSvIqIRpOvFIERgWzht/echo/stream/sc-paderborn-07-vs-vfl-wolfsburg-football-1545418/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Slovenia Ice Hockey vs Italy Ice Hockey" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAmYUUySUQ3HSD4gV+kChBndZ08sIxgTPii7ry9eaMdNaYdWNEQgA.webp" group-title=" Hockey",Slovenia Ice Hockey vs Italy Ice Hockey
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb17.strmd.top/secure/lNNkSKkcySLNRpmVsSDnCUmsdGDcVXfj/delta/stream/live_league-two-playoffs_notts-county-salford-live-streaming-1324521153/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Roland Garros French Open " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Roland Garros French Open 
+https://lb3.strmd.top/secure/vOEPbBAUcYKqpljHsJRPXbhtqKEmkkLV/rtmp/stream/A68GN_JKoL_Gjkh3rH-HlDwDlB5kLAN41s9DjCSStVbSPDsZakgnIrj7Bsq9RBXFO12ZMBYg/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Germany Ice Hockey vs Great Britain Ice Hockey" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxBc0IOOBAhuIACa4dG-SD6njfAhSaWuYMvCLzRKYE1ph7Y0RCA.webp" group-title=" Hockey",Germany Ice Hockey vs Great Britain Ice Hockey
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb17.strmd.top/secure/BZjmnlwqHSaGXTBkeIoEpKPGvdgNpnuS/echo/stream/roland-garros-french-open-roland-2026/1/playlist.m3u8
+https://lb15.strmd.top/secure/WZEuDEsBFZfXvyebjXmWbahJtPTaqIEm/delta/stream/live_world-championship-group-a_germany-great-britain-live-streaming-1308363327/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Germany vs. United Kingdom" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Hockey",Germany vs. United Kingdom
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb15.strmd.top/secure/YLTkzKdgVqQTCqMyBxrXQLPgumzHQSoz/rtmp/stream/KHSdSrq_94_GBTxLQ8iIyGThOV5Npj8ilNtS2WIgl1n4QRhTzp9ktTr8sVN4N9ByVvOmDf6e/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Milwaukee Brewers vs St. Louis Cardinals" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIATMCjDrNObiAi59IGMZCIcfMwQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Baseball",Milwaukee Brewers vs St. Louis Cardinals
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/WpdUAfrIGzjYVanBedckKfVAKEuThdWc/rtmp/stream/xNXzpf9KAtZPmGuWVLNmubUrlo-QiOAnKTRO6xyUNvcwsDGQqTRVJ5ZWWdXeYO0zCK2kgbr2Tp9F1b0CtY4NGqB4/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago White Sox vs Minnesota Twins" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyajaEEGQAmIbpty6QKEDH19DKAhSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title=" Baseball",Chicago White Sox vs Minnesota Twins
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/LsMXXfgjDBixovhJQFIKvFqyNWHfkNVd/rtmp/stream/6Gc_EEur75iNSxjbsxZNWM5bvEMlq6ppWiIeNB0naEoJrFvUBoYGdFRYczth9CPcshDek1nTTCSwA0Z3EUyIK7A/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Pittsburgh Pirates vs Chicago Cubs" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5gQDUiBgg+IbiBK49IEyiOIzEwjGBM+KLmDLwi80Q6a0wTsaIhA.webp" group-title=" Baseball",Pittsburgh Pirates vs Chicago Cubs
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/BUpqOfUwvruuqYKjXVfolbniaHgHwkUJ/rtmp/stream/9Mr786YTT8F_eo6E65rMAhOPaiFkg2F5OtBDqt03ycFCgcjqGBivY-1TAr5e-SvxFw5AQH96p8axnpp6lX5Ydv97qg/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles vs Tampa Bay Rays" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzDtoUFJBDcQJXSAggYIRDoAmuEwQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Baseball",Baltimore Orioles vs Tampa Bay Rays
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb15.strmd.top/secure/cGULALDpgfXVIoowKfsKBetOivpmhkyY/rtmp/stream/nWrF2P04WY6H2U4Mj63ip08ndlVinfEmiKYiIWPAu3AelAGp2fsA-pbvxE61ERxiJ9qpBJ4hAmwSbYLvbCBImrxt/1/playlist.m3u8
