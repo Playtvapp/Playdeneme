@@ -1,11 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Croatia U17 vs Belgium U17" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIAMYgUICCCZ1yDZc3E94IqtwJdWYMLnw2gA.webp" group-title=" Football",Croatia U17 vs Belgium U17
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Czech Republic Ice Hockey vs Norway Ice hockey" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpJAATML1X8wSENzW49IGAZDGjEAhSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title=" Hockey",Czech Republic Ice Hockey vs Norway Ice hockey
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/qRUutCioNQpaPwitRbgPzvoZIiSITkOK/echo/stream/croatia-u17-vs-belgium-u17-football-1540161/1/playlist.m3u8
+https://lb8.strmd.top/secure/JEWmRixZWbItiKESNxAfkmIvYBiCvvbQ/rtmp/stream/TrclNe6avIuCXDaR0HcfQIgVlLm544XcRcJM1I_t_nzxPD6yZm6ZdV7DR5WJXab6rlT_7gzD/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="USA Ice Hockey vs Hungary Ice Hockey" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhARVDYPhAwQKENxB99IEoZAATE1YMwCFJnxRcwZeEXminTWmBdjREEA.webp" group-title=" Hockey",USA Ice Hockey vs Hungary Ice Hockey
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/ewTKNTZmfjzUKvyWIarFwlDIoLFQpxSF/rtmp/stream/Ox7QIz48OuDa2drHeEopcvZktJicNzC_aqviUtQWkrzZ5b7iVMQbKuZuAHP7qDBeKGcEYzdS/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Czechia vs Norway" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Hockey",Czechia vs Norway
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb18.strmd.top/secure/vsZzsvJcUOroEzSqlhyErYyNtaoHfYty/delta/stream/live_world-championship-group-b_czechia-norway-live-streaming-1308365325/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Notts County vs Salford City" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyiIU7MKL4huIACYgYOkCaMpcIcygIUmfdW03l680eqa0wmsaIhA.webp" group-title=" Football",Notts County vs Salford City
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/nirCImDvluTJydJsDMOsTJdQJDQkOOLs/rtmp/stream/JTc-LCdzw5el8QJn84XDOOlDlfkR8mHWc06HoM3T3gFCUMiwzQoLZ1eiPI0UXDJ0ZwqZoAIl09EjzA/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Roland Garros French Open " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Roland Garros French Open 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/cXWPDLSLhGQHRJhgosAHagfvGcPuMpFw/echo/stream/roland-garros-french-open-roland-2026/1/playlist.m3u8
+https://lb14.strmd.top/secure/KvJrcDdDqvVXDYxwHiqSRIqJpmPmjsVI/echo/stream/roland-garros-french-open-roland-2026/1/playlist.m3u8
