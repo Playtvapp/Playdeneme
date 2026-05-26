@@ -1,6 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Royal Challengers Bangalore vs Gujarat Titans" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMNzB8QUHNu5qQJHSAPaIRkDBAgCFJnxRcwZeEXminTWmBdjREEA.webp" group-title=" Cricket",Royal Challengers Bangalore vs Gujarat Titans
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Saint Etienne vs Nice" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQhFEeuQYBjZuJ7wRVbgS6swYXPlNA.webp" group-title=" Football",Saint Etienne vs Nice
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/vcsQCJlfpCyfBNsSxnrjGBsCUzuRxhBZ/rtmp/stream/VmzQW1zux8vMRyxmLa3DF-PwzwBnZ3WK2-MCj6DOm6WABY5hI2WJi1ogouY9InjR48yS6gM/1/playlist.m3u8
+https://lb3.strmd.top/secure/UBSXxVjkRXfYYndGCYCFdhcHMitUNyfu/echo/stream/saint-etienne-vs-nice-football-1545408/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="SpVgg Greuther Frth vs Rot-Wei Essen" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIfiCqL65BgGNm4nvBFVuBLqzBhc+S0A.webp" group-title=" Football",SpVgg Greuther Frth vs Rot-Wei Essen
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb14.strmd.top/secure/vvdPTnTDKKsXwTYSgRPjxxVdXenpwYds/echo/stream/spvgg-greuther-furth-vs-rot-weiss-essen-football-1545406/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Czech Republic vs. Canada" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCIhEVefXIMAxs2Bge8SVSmEGrMDra4IQA.webp" group-title=" Hockey",Czech Republic vs. Canada
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/KowbBdaZGuTLrJrATNKQjUhWWEZWscQF/rtmp/stream/WWXBW0CA_rfC3aspbkZv2bf-RzF5-LU3p4AP_Cc0CLHBj8-bnkYB4gEYKxaLID4dLh7HKifU/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Switzerland vs. Finland" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1QKWwAAzcwKdJG7EsCdCCIhEVEBHrkGAY2bAwPeJKpTCDVmF1tcEIA.webp" group-title=" Hockey",Switzerland vs. Finland
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/QiitUWsxliVwKYMFPawvAKgoEgZbPmBt/rtmp/stream/9jc0H3sCIULkOHjQi2o9xZIyScl1wT2oPPp-UN04WadV0YDbRdywo1Rw9CmVuZAk339HV3Qz/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Czechia vs Canada" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Hockey",Czechia vs Canada
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb20.strmd.top/secure/yMLGyYvdnjVPAgcZnoCdJVlVQLZEgMVB/delta/stream/live_world-championship-group-b_czechia-canada-live-streaming-1308489201/1/playlist.m3u8
