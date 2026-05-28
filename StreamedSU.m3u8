@@ -1,31 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Canada Ice Hockey vs USA Ice Hockey" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3hEUPELRAhuIACa4dIGPu0g+hkAQpM+6tmDKr680eqa0wjsaIhA.webp" group-title=" Hockey",Canada Ice Hockey vs USA Ice Hockey
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Detroit Tigers vs Los Angeles Angels" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAm5PuTUgQ3EBBCIcJEHxN6zKghSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title=" Baseball",Detroit Tigers vs Los Angeles Angels
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/sWJQSzpTKqZMkDKLIPYvDUwFopxvRHqQ/rtmp/stream/QwZYTEM_jaPFBK49HDwucB5VLyUunpvWNjnDVrN5BklcdKtUvyk04I39t6WSWCuwfoA63tXT/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Finland Ice Hockey vs Czech Republic Ice Hockey" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyTAmaEDFygQ3EABNcuzSEQoQfCwYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Hockey",Finland Ice Hockey vs Czech Republic Ice Hockey
+https://lb5.strmd.top/secure/dMffHQHGiFFxdoakVIGawyWNlWlomZHE/rtmp/stream/aZC03rLGl_xu-ib54Eo3f3fqeIjqaQbkTHUrESsQaAqFUpGqguCSuE4T_5D8UvNahCKgtGf32dXlevzOqcMl/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Charles Schwab Challenge | PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Charles Schwab Challenge | PGA Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/SkDyHNCKBriSuNiBJgHossxlxnXDwfBF/rtmp/stream/_bRQ-Hv-53odawlq666gJsVrWrDDW1dKgz6tRDsCQUfR1f0zkuESNEZUnIRq1svUzsLf4Zim/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Finland vs Czechia" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Hockey",Finland vs Czechia
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/gdvKBZzCuQpJcIflKmcsoqTqdvTEQahW/delta/stream/live_world-championship-final-round_finland-czechia-live-streaming-1331718948/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="UCI Giro dItalia | UCI World Tour " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",UCI Giro dItalia | UCI World Tour 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/dbfJJfyrAGQDllHCHaMRsfQFiFlvXGGU/echo/stream/uci-giro-ditalia-uci-world-tour-game-13622/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Austrian Alpine Open | DP World Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Austrian Alpine Open | DP World Tour
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/tSYGDbvayzecgOfBbtFNtMhTwwsPiVed/echo/stream/austrian-alpine-open-dp-world-tour-atp1000/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Roland Garros French Open " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Roland Garros French Open 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.top/secure/JsSjeyPEeongCHSSiIgTbVkBwsYWmtWm/echo/stream/roland-garros-french-open-roland-2026/1/playlist.m3u8
+https://lb18.strmd.top/secure/DUUfyQGGrlAIqFrXqCVZVESGBDzHzdMz/echo/stream/charles-schwab-challenge-pga-tour-pga-526234/1/playlist.m3u8
