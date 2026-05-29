@@ -1,16 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Colorado Avalanche vs Vegas Golden Knights" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Hockey",Colorado Avalanche vs Vegas Golden Knights
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Roland Garros French Open " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Roland Garros French Open 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/FyQubdKaxhhwbjeyqkvDsUZVabprMNrr/delta/stream/live_nhl-playoffs_avalanche-golden-knights-live-streaming-1319171508/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="2026 Truck Series at Nashville" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",2026 Truck Series at Nashville
+https://lb7.strmd.top/secure/njTLgtcJYxldSmdQtsajkkyRvIGVaber/echo/stream/roland-garros-french-open-roland-2026/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoGP Italian Grand Prix " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",MotoGP Italian Grand Prix 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb20.strmd.top/secure/SlrNWjZYgKoUHRCHDSiUTYJjVOmARFLQ/delta/stream/live-event_2026-truck-series-at-nashville-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="World of Outlaws Late Models Wayne " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",World of Outlaws Late Models Wayne 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/QYTTbBwBygnyziajUkciFexMnZwexHPo/echo/stream/ppv-event-02-world-of-outlaws-late-models-wayne-ppv-02/1/playlist.m3u8
+https://lb4.strmd.top/secure/nHzamHlZXIckQnqnaBUseqjKJTmVdUqp/echo/stream/motogp-italian-grand-prix-game-122273/1/playlist.m3u8
