@@ -1,31 +1,56 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Kansas City W vs Boston Legacy W" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIAMYhEq5fXINNWcT3giq3Al1ZgwufFaA.webp" group-title=" Football",Kansas City W vs Boston Legacy W
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb18.strmd.top/secure/LOnoNqPcsXLZdJKdKEqKDsCKOELWYQFh/echo/stream/kansas-city-w-vs-boston-legacy-w-football-1508443/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Senshi 31 Gladiators" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Senshi 31 Gladiators
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb13.strmd.top/secure/awdusHxMnZdmKQAiKwCuSAxOlLjyJQwm/echo/stream/ppv-event-05-senshi-31-gladiators-ppv-05/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Toronto Tempo vs Seattle Storm" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphT8wSEDBB8wIENxAATXCAiaQiAySNGCFJn1VswZeEXmjVTWmBdjREEA.webp" group-title=" Basketball",Toronto Tempo vs Seattle Storm
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/lOHsTmLXeVeSrKsUJliGOJTxAmdbPdvG/rtmp/stream/emexSmJZ6Yamj0gu64z0Vkmve6o8V9BUhHLa0MoNDrXQnyRmjWLmftX0YVXK70oR3d9EN8K5eSsVHafDkpI/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Pro Motocross: Fox Raceway" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Pro Motocross: Fox Raceway
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb12.strmd.top/secure/MaQFvyTYebzLWZDHENboUzqZpfnKJOdD/rtmp/stream/zDjQ17KAiVAEA-u8uXGGfzyZ0N28RAeaVKdfBhTkP-nkN7NAK8_U5UJplg-QEgy6PAliMMc/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Kevin Lerena vs Ryad Merhy" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Kevin Lerena vs Ryad Merhy
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/JGwcRAwpyGFfTSYKsFTlDcennJXlvFyM/delta/stream/live-event_kevin-lerena-vs-ryad-merhy-1-live-stream/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Adam Azim vs Steve Claggett" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Adam Azim vs Steve Claggett
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/uGodYbKSGAIMMuHJVzGFhbwRYBsPjmzj/delta/stream/live-event_adam-azim-vs-steve-claggett-live-stream/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Paris SG vs Arsenal" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjIpi8gCakQ3EBp24QEPSD4gYIRCAIUmfNWzBl4ReaLVNaYJ2NEQgA.webp" group-title=" Football",Paris SG vs Arsenal
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/nHODpACynAavAiAVRvqgYUnfuVgoNCIR/rtmp/stream/R_xTzifUa-958pCu2QOcozQtZGGuWujh2Si9mRhEo5zhheR2-pHhrGx8DDwoh1nBWl7ep0YMhKbX/1/playlist.m3u8
+https://lb19.strmd.top/secure/aPILZPLNHCvcditKEuXsACTVNMWWQfwE/rtmp/stream/Rj0U9-3HPW53vRSD87MCBW5U8Sf3M1uThh6nL-dcYON4m2GxlqpXqV-7_p6VvUcyqejFmd_mvWFm/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Charles Schwab Challenge | PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title=" Golf",Charles Schwab Challenge | PGA Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/pGpBbfKlFifEjEzyfTusUpmCcXuliZFQ/echo/stream/charles-schwab-challenge-pga-tour-pga-526234/1/playlist.m3u8
+https://lb10.strmd.top/secure/oASyRJOtXnzylHNeNdYadcHgjOIWMqPn/echo/stream/charles-schwab-challenge-pga-tour-pga-526234/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Dmitry Bivol vs. Michael Eifert" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Dmitry Bivol vs. Michael Eifert
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/ntnlrvHkYjZYCTFlAUXyUMwBVmZLMYXx/rtmp/stream/NnFt3QjCYwBt68nzWMKgYF9YPkhkC4p1BoYSiQUqaJiYr32g_yjjqaFAIkS3X9gOcwKo0oso2CofVIk/1/playlist.m3u8
+https://lb10.strmd.top/secure/ffJeaaOvyYSltdpRQFxLvOJZgTJWFiXT/rtmp/stream/hr37pZa0PUIjCbV1LUC85oMOM7v1mHw20R_hAZTYiKhoxiJRwU_tqEp9LQeHkQ5MasCl29CLUtGtNnE/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoAmerica Superbikes Road America" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",MotoAmerica Superbikes Road America
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/nXJUhbiGwjpgQiCMUULetEbTDdAcTGvq/echo/stream/ppv-event-15-motoamerica-superbikes-road-america-pppv15/1/playlist.m3u8
+https://lb7.strmd.top/secure/cEmMGDOdutYKNaSFRLSGLyvYdGkiWVDx/echo/stream/ppv-event-15-motoamerica-superbikes-road-america-pppv15/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="PDC Darts Elten Safety Shoes Baltic Sea Darts Open  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",PDC Darts Elten Safety Shoes Baltic Sea Darts Open  
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb17.strmd.top/secure/dNdSenCPBuRjBAXjSOIFjyFmLcHuNxmh/echo/stream/pdc-darts-elten-safety-shoes-baltic-sea-darts-open-darts-1/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Roland Garros French Open " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Roland Garros French Open 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/iXIYBJUXoLxzENbmKofcdnwijXuuFJWx/echo/stream/roland-garros-french-open-roland-2026/1/playlist.m3u8
+https://lb2.strmd.top/secure/ACvYIZpjCimhStozcldjTNfqaHbmpWaN/echo/stream/pdc-darts-elten-safety-shoes-baltic-sea-darts-open-darts-1/1/playlist.m3u8
