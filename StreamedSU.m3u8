@@ -1,6 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Brown v Vasquez" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Brown v Vasquez
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Newcastle Knights vs Parramatta Eels" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBkoAEy7dcIbepAQQ+xIb4hzh9QQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Rugby",Newcastle Knights vs Parramatta Eels
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cdn15.zohanayaan.com:1686/hls/mevent1.m3u8?md5=Nemp7s_dlO6Dtt4iqUumWg&expires=1780115619
+https://lb3.strmd.top/secure/ElexMzSGbUegcgNDyLoZnVabJfWVpOci/rtmp/stream/ECKOF1ePNgBwKrPoKN-Q_tJjlT1JY-f8YF07egw_fw4-uVuIGxZ6wvhvd285TN9qmrvL0KJTz6_HWrg/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="ACT Brumbies vs Moana Pasifika" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIAJiBRhum3CB0aIeo0b4gSe5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Rugby",ACT Brumbies vs Moana Pasifika
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/QmIUCgsNTCobvfnWWKoYvoTqUjOMUCUC/echo/stream/brumbies-vs-moana-pasifika-rugby-51858/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="LUX 061" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",LUX 061
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/pJoXMZAhsxqCecQgsCcBAgWcdvhdVMLb/delta/stream/live-event_lux-061-live-stream/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="TFNF Night of Champions XII" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",TFNF Night of Champions XII
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/FyVKpTxBuMzjcYqqFpwGhCxDvJlKMrpy/echo/stream/ppv-event-10-tfnf-night-of-champions-xii-ppv-10/1/playlist.m3u8
