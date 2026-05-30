@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Newcastle Knights vs Parramatta Eels" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBkoAEy7dcIbepAQQ+xIb4hzh9QQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Rugby",Newcastle Knights vs Parramatta Eels
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Roland Garros French Open " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Roland Garros French Open 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/ElexMzSGbUegcgNDyLoZnVabJfWVpOci/rtmp/stream/ECKOF1ePNgBwKrPoKN-Q_tJjlT1JY-f8YF07egw_fw4-uVuIGxZ6wvhvd285TN9qmrvL0KJTz6_HWrg/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="ACT Brumbies vs Moana Pasifika" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhCIAJiBRhum3CB0aIeo0b4gSe5YRjAmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Rugby",ACT Brumbies vs Moana Pasifika
+https://lb5.strmd.top/secure/AbzFapiSxVLVFtYuexRRVWXMzHgpYlTq/echo/stream/roland-garros-french-open-roland-2026/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC Fight Night 277 Song vs Figueiredo" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",UFC Fight Night 277 Song vs Figueiredo
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/QmIUCgsNTCobvfnWWKoYvoTqUjOMUCUC/echo/stream/brumbies-vs-moana-pasifika-rugby-51858/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="LUX 061" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",LUX 061
+https://lb1.strmd.top/secure/TKpxjKJvHTgmeMETFqZvKXWyxakXJGvk/rtmp/stream/2kDYlZ1UwN-BSVz2eNuatZYg0R4CZ43uK70SxuIpvEJFYdw2cDT6A9p8iYRpUDpCdctRycg/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Wests Tigers vs Canterbury Bankstown Bulldogs" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmPMNxAxg+EIk0qQEEIcTG+JkCisEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Rugby",Wests Tigers vs Canterbury Bankstown Bulldogs
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/pJoXMZAhsxqCecQgsCcBAgWcdvhdVMLb/delta/stream/live-event_lux-061-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="TFNF Night of Champions XII" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",TFNF Night of Champions XII
+https://lb7.strmd.top/secure/EHOPStUyTpLKOIdVNPjWKmwemPMKHtuK/rtmp/stream/1BIByksvzjP3L6vZ42lusymV-b50aQP03dnD1KgASrKz-fMyH_TXHUteaU9jku4TNMi6YLzF7h3xUWI/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="MotoGP Italian Grand Prix " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",MotoGP Italian Grand Prix 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/FyVKpTxBuMzjcYqqFpwGhCxDvJlKMrpy/echo/stream/ppv-event-10-tfnf-night-of-champions-xii-ppv-10/1/playlist.m3u8
+https://lb14.strmd.top/secure/wtASovnLthcQDYcfIhYFHMxCIdIFawFQ/echo/stream/motogp-italian-grand-prix-game-122273/1/playlist.m3u8
