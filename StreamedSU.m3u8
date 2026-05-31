@@ -1,81 +1,66 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="Louisville Kings vs. Columbus Aviators" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true" group-title=" American Football",Louisville Kings vs. Columbus Aviators
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/qIgWOXrpiuvSqwYfRXTzhYWmlIZvNiEq/rtmp/stream/X3jREPN08UELXqTcjeEvmWgXTukVQ4I9D4vbHRbS8gacmGfvC6bDONp79rYCDE-kOTh_MG4/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Racing Club vs Defensa Y Justicia" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgIikEzrkGAY2bie8EVW4EurMGFz5zQA.webp" group-title=" Football",Racing Club vs Defensa Y Justicia
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb13.strmd.top/secure/NXdbzzYpUmkVgEdDItGitNdwDwpGyvdo/echo/stream/racing-club-vs-defensa-y-justicia-football-1540059/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Big Block Special Utica" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Big Block Special Utica
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb17.strmd.top/secure/WBwEXYLsuEcZZkKRubZHtNLEENPXCtTT/echo/stream/ppv-event-05-big-block-special-utica-ppv-05/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Brazil vs. Panama" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgii+uQYBjZuJ7wRVbgS6swYXPlNA.webp" group-title=" Football",Brazil vs. Panama
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb13.strmd.top/secure/rkdNaCympxyDbyPzvPRvGcPNdUXtzzui/rtmp/stream/K1IdV-YhLH-wWOHxwdKxknLEkdfWAeiradgG8jFMgoRrYWwUS4p_8Kzcvi1zVZw09uLN0c2gM2TrFg/1/playlist.m3u8
+https://lb16.strmd.top/secure/WHRAsZrBiDzwTcpHNZoOWPDTySpEashm/rtmp/stream/fAqtu1HawqDilyd-TlAwdLPZITDU_FR17QqOaA7v42ghPK6eefhSKyV3mcBWhIJ3OY1SYsrea6xsHw/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="FURY FC 120" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",FURY FC 120
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb13.strmd.top/secure/UPFqFDojyuthzlezczZjPmvyItDqrQWu/rtmp/stream/vqflu8_VIt_tL0whPi1fBTwmglT528-y22CNldDduHP3t6-0I_gVlNo0dDeNxkeJfMWBuaQVz1k/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies vs. Los Angeles Dodgers" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EFRABjeuQbKsonvElUhhBqzBhc+E0A.webp" group-title=" Baseball",Philadelphia Phillies vs. Los Angeles Dodgers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/EoYgFYVsdoSCoKcBuwKahnRfASVMuIqP/rtmp/stream/sg-i90VSRxfk-HWBPq4QubdTf92bVWwcbRbl39_zXZ_c0J9F3eHYI-ncgqC2jqIDtiVwV3cDSW72gyLbPQGjAWA36A/1/playlist.m3u8
+https://lb7.strmd.top/secure/gTLDSrfyMOxolNrqviYpnxWghlqzsUSb/rtmp/stream/5ElmUUsvb5wtu67O_Ys3p8hmoBq4uvPi9wkXLcbyFsShJuPyRHdj8XAd7_6LbVU3cf_LoW2eIBY/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Arizona Diamondbacks vs. Seattle Mariners" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EEzrkGAY2aie8SVSGEGrMGFz4jQA.webp" group-title=" Baseball",Arizona Diamondbacks vs. Seattle Mariners
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/ttPTTkUkxIfwqIiOzpAVbnHVopsglzUT/rtmp/stream/ISznID2UwZtwtTau6IPJ_2iUwJphJ8onnw8lYXdOMrq_7oPO3IpF1wuqAahbbZAoeNOlvTHGUdtez0xO2Rs44zQ/1/playlist.m3u8
+https://lb7.strmd.top/secure/bbQfpHxWLZKMBJGfqnamNsjGVmvfDcbt/rtmp/stream/dJ_UKwCHaOXPol2TqV6YI8WyuXKbfnpKpHpFjKmsM5EfJKVPFaVKN_ve2vxUeP3io-obwcmKEIzfa5UWTocOYag/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies vs. Los Angeles Dodgers" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EFRABjeuQbKsonvElUhhBqzBhc+E0A.webp" group-title=" Baseball",Philadelphia Phillies vs. Los Angeles Dodgers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/irBBWRmozULhsAoufwpLfkQWbxxZvfSh/rtmp/stream/tq-p1KltphmoDY9rRPbTZjDDc2eb_9kPdO_djnOEvgIMqwc9K80D8KuQ-R21ou7VIkUK1_1mjV97Jdtgjy4ZryGoJg/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees vs. Athletics" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EFRDZ65BgGNmonvElUhhBqzBhc+E0A.webp" group-title=" Baseball",New York Yankees vs. Athletics
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/toEoxFnHBpVctbGjHpsSAeZNVTRAObDd/rtmp/stream/UdTgFAS3StAl7TrGbyvpPWAq0E6whW6mdJFFfegGlWzVhxtxjDVxvKhpI5VErcXp8fvrJRhr-8MfbXQ/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Forge vs Cavalry FC" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgqIfiCIgU9cgwDGzcT3giq3Al1ZgwufFaA.webp" group-title=" Football",Forge vs Cavalry FC
+https://lb5.strmd.top/secure/uGnGtCoQvufEOOOWhhZkmhUIFuDpssaM/rtmp/stream/m7hgySCQEiHIK07bnX-p9bAHMlWSe5bTTW--rJ64_KuOVgVozCpt2N7FsM8a29dljJ-MyfMhtnSGoJ8/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies vs San Francisco Giants" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EIhJ1yDAMbNRPeJKpDCDVmDC58xoA.webp" group-title=" Baseball",Colorado Rockies vs San Francisco Giants
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/tHskFDOZHmcxglYgHnNXFzLajlJheYku/echo/stream/forge-vs-cavalry-fc-football-1517292/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Las Vegas Aces vs. Golden State Valkyries" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Las Vegas Aces vs. Golden State Valkyries
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/UrmJodgvhNlKAtPbzKbNyowMDghYLnMk/rtmp/stream/Md_7Adr-6CUc2AFRvlSfKGIpQaWEpomsRgJMZVAcPfVAsOeQXNrUdrCH7qx3ASztXxaiqYl2etvPdVBZmZ0ETO10_rm-uw/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="United States vs. Senegal" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",United States vs. Senegal
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb16.strmd.top/secure/AcsUkzdrfFYJrBtVOzUrpQcralzNpdWm/rtmp/stream/jPe_447YIn-rIyvqXa_b3guFeVWNREYkNY6aWOKLuRsTCMZQc_Tp297Wpfn1Rh7PaMY4Z2--ekHlTQ/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants vs. Colorado Rockies" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiE3fkWBhR6SEJGj46EIhJ1yDAMbNRPeJKpDCDVmDC58xoA.webp" group-title=" Baseball",San Francisco Giants vs. Colorado Rockies
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb16.strmd.top/secure/alpGKIceRvFBeanQweKcjrRjXgUOGsks/rtmp/stream/gYdLJND2laJy8BxGULiJ1K7SqXDhmWQhrsbAXVBo2pFQ8HE-WnhDZbsfWxqMq4RdNmV3Z0IMsG4JUrUdFiDQ9aE/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Kansas City Royals vs. Texas Rangers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Kansas City Royals vs. Texas Rangers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb14.strmd.top/secure/NrKCPPVhwdNfXuSXKYUjyjcYaYbxfDNd/rtmp/stream/-T9YeS6E2PEtRY9IU-nTPstc1q9Mc8_nF4H4BZrrPjv-shGrHJfTTr4DpJWzdNAGZHGYuHWvPE843dhMaMI/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE: Clash in Italy" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",WWE: Clash in Italy
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.top/secure/ixFNHUoOPBCSBeOwCaEhXsUUPpnflMXr/rtmp/stream/V9l-1zx53CeHAxW4ojhBSj90P0stcCPL6fo8EdIkrsR6rwStymLiEpQ8QQi7L8fX_DIQFN0/1/playlist.m3u8
+https://lb3.strmd.top/secure/mrfgSrZVsuHEuouXTylnPIlLRhcyOYlO/delta/stream/live_mlb_rockies-giants-live-streaming-1309047642/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="PDC Darts Elten Safety Shoes Baltic Sea Darts Open  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",PDC Darts Elten Safety Shoes Baltic Sea Darts Open  
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb14.strmd.top/secure/NndyJYcBFugbqsmuCtqcfXFsewbVESoJ/echo/stream/pdc-darts-elten-safety-shoes-baltic-sea-darts-open-darts-1/1/playlist.m3u8
+https://lb5.strmd.top/secure/zaorzqTpqFTpssidsHvwfsWjgHVBArHK/echo/stream/pdc-darts-elten-safety-shoes-baltic-sea-darts-open-darts-1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Clash in Italy 2026" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Clash in Italy 2026
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb20.strmd.top/secure/fKQGvqSkXElQIbPdLnvEwgBmhGINBYRZ/delta/stream/live-event_clash-in-italy-2026-live-stream/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Velocity Invitational Sonoma  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Velocity Invitational Sonoma  
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb14.strmd.top/secure/rKcuhOvpibgIavlJWerMgRBfpqFYIDaT/echo/stream/ppv-event-03-velocity-invitational-sonoma-ppv-03/1/playlist.m3u8
+https://lb18.strmd.top/secure/AsLbMpyZnGmvBaKqDAACHTgEoNdhRzSW/echo/stream/ppv-event-03-velocity-invitational-sonoma-ppv-03/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Charles Schwab Challenge | PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title=" Golf",Charles Schwab Challenge | PGA Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/UvXyutwoQacLrMxxgrYDUBIUgLCKSLCB/echo/stream/charles-schwab-challenge-pga-tour-pga-526234/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="AMSOIL Championship Off Road " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",AMSOIL Championship Off Road 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb19.strmd.top/secure/jqJdGCvevHPFysIlGltgitVcVraXNUOe/echo/stream/ppv-event-02-amsoil-championship-off-road-ppv-02/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoAmerica Superbikes Road America" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",MotoAmerica Superbikes Road America
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb13.strmd.top/secure/zPMNJFQmbLKgszrwXdMaRUTXrgWvrotl/echo/stream/ppv-event-01-motoamerica-superbikes-road-america-ppv-01/1/playlist.m3u8
+https://lb13.strmd.top/secure/DqdNQbIQdFAdECbGzpIpyKoyYvnAAspz/echo/stream/charles-schwab-challenge-pga-tour-pga-526234/1/playlist.m3u8
