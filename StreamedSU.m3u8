@@ -1,31 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Switzerland vs. Jordan" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIbCAggQ9cgwDGzcT3giq3Al1ZgwufFaA.webp" group-title=" Football",Switzerland vs. Jordan
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/WRiNnhfPojfyFzBacSGaMIERVSpMjXUe/rtmp/stream/imnLX5Hubk-M_yOnzCEQLy9IFLZXKgXCjXeoF8KrgU5NsdVhSaJf7jopFbkpsDxla1WDGeHT-nOSRQ/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="MotoGP: Grand Prix of Italy" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",MotoGP: Grand Prix of Italy
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/eMHibtNdvMZBOHeRJKEqorcSamzthHTZ/rtmp/stream/GtEqar7XsNAxYWHbchsJ73C7LFHXvy908cjXPBvVC6Cbi1Bl34K1PVaowqFB3WKYHytgQvEA/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Austrian Alpine Open | DP World Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Austrian Alpine Open | DP World Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb16.strmd.top/secure/EYnTkZAUEzVWLoRDzSgmYFbNowMtukCO/echo/stream/austrian-alpine-open-dp-world-tour-atp1000/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Japan vs Iceland" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgiIEPXIMAxs3E94IqtwJdWYMLnxmgA.webp" group-title=" Football",Japan vs Iceland
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/ijhOQbbEDKWQMiVBNRlWGAOJFpWZoJvj/echo/stream/japan-vs-iceland-football-1540351/1/playlist.m3u8
+https://lb1.strmd.top/secure/EkmKWciQZTFVtPEoUksIeGJTlOAFGKWg/echo/stream/austrian-alpine-open-dp-world-tour-atp1000/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="PDC Darts Elten Safety Shoes Baltic Sea Darts Open  " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title=" Darts",PDC Darts Elten Safety Shoes Baltic Sea Darts Open  
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/IFgzMyycMpBFENWoItkZtHHpZTuSOxTu/echo/stream/pdc-darts-elten-safety-shoes-baltic-sea-darts-open-darts-1/1/playlist.m3u8
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="West Coast Eagles vs Essendon Bombers" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQ2euQYBjZsJ7wxVcYQaswYXPn1A.webp" group-title=" Afl",West Coast Eagles vs Essendon Bombers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/oRoboirSMoMeFBHkuKhqdhLJWiaPJsJv/echo/stream/west-coast-eagles-vs-essendon-bombers-australian-football-3450/1/playlist.m3u8
+https://lb19.strmd.top/secure/MurwRVAQDWSiPWOovjoXDEtGGcMFsMmP/echo/stream/pdc-darts-elten-safety-shoes-baltic-sea-darts-open-darts-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Roland Garros French Open " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Roland Garros French Open 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/DbwqpLeynfqTTJHrdCJmFTcGmXHNDMLV/echo/stream/roland-garros-french-open-roland-2026/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="MotoGP Italian Grand Prix " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",MotoGP Italian Grand Prix 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.top/secure/JJGNDJsOpcviBwSWvbktTnRMdZnALYsJ/echo/stream/motogp-italian-grand-prix-game-122273/1/playlist.m3u8
+https://lb5.strmd.top/secure/qNownzYCYwDAdsidNWkdgKrTTgMrBPZo/echo/stream/roland-garros-french-open-roland-2026/1/playlist.m3u8
