@@ -1,6 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Croatia vs. Belgium" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgSdcgwDGzcT3giq3Al1ZgwufCaA.webp" group-title=" Football",Croatia vs. Belgium
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb19.strmd.top/secure/UADNtLpjznXBpxoXheuPEkTbCWWKkOen/rtmp/stream/hnjDXdr0y8te5hCxr49aVMOM8z7DXYnn8fZBNNvngqE5y0BqQxG7aar4o4xFirB1nhsrjxpPieiDAQ/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Roland Garros French Open " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Roland Garros French Open 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb14.strmd.top/secure/PCirLXZPSCjvGFexHhJEaVHUzvAxSWPO/echo/stream/roland-garros-french-open-roland-2026/1/playlist.m3u8
+https://lb17.strmd.top/secure/qyujPoDVqwfSqysjNNHMwEnbXlIKlwGD/echo/stream/roland-garros-french-open-roland-2026/1/playlist.m3u8
