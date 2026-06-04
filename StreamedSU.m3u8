@@ -1,11 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Adelaide Crows vs Geelong Cats" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQAY3rkGcrMJ7wxVcYQaswYXPn1A.webp" group-title=" Afl",Adelaide Crows vs Geelong Cats
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="LIV Golf Andalusia | LIV Golf Series" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",LIV Golf Andalusia | LIV Golf Series
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.top/secure/hTnMTffucPvkmyeibkxbUcfUqBqkPTPb/echo/stream/adelaide-crows-vs-geelong-cats-australian-football-3451/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="England vs New Zealand" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0ICCAAmIbPXIMBzYGB7xxVCYQaswWtrghA.webp" group-title=" Other",England vs New Zealand
+https://lb4.strmd.top/secure/bNPxfPouissiWEpbFcVFVoeoLdySPitZ/echo/stream/liv-golf-andalusia-liv-golf-series-game-162626/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="KLM Open | DP World Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",KLM Open | DP World Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/vydYTXTaLHutIQxmtggtAQnEPVHcCwZg/echo/stream/england-vs-new-zealand-first-test-cricket-1/1/playlist.m3u8
+https://lb4.strmd.top/secure/ewFUdyFsuVNcRfZLBcwPenrtJbYDOFlI/echo/stream/klm-open-dp-world-tour-atp1000/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="England vs. New Zealand" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0ICCAAmIbPXIMBzYGB7xxVCYQaswWtrghA.webp" group-title=" Cricket",England vs. New Zealand
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb19.strmd.top/secure/HabpCubgoNQqBeSSizIpkpRCkmvWWixY/rtmp/stream/XDwk1DK6bCUx-nO3pkFMAI1yUBpC1QyHQpFx7ab6-eZjj5HgHTQQ5wZQDfDy67Ld3-B2vaaBmEWDREFssxoLsqI/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Roland Garros French Open " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Roland Garros French Open 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb18.strmd.top/secure/xLQiLleofOsbqsbMlKNYWvTHqzRrsCWb/echo/stream/roland-garros-french-open-roland-2026/1/playlist.m3u8
