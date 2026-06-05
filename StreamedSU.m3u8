@@ -1,16 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Ramirez vs Richards" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Ramirez vs Richards
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="KLM Open | DP World Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",KLM Open | DP World Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb13.strmd.top/secure/afkRPSvPFyqYgtTGyiEKryukqzJfiCIn/delta/stream/live-event_ramirez-vs-richards-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC BJJ 9: Fowler vs Johnson" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",UFC BJJ 9: Fowler vs Johnson
+https://lb18.strmd.top/secure/fPXIGlGCnLBXavUBknBXUrVsyitcVyFs/echo/stream/klm-open-dp-world-tour-atp1000/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Canberra Raiders vs Sydney Roosters" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgUuEOpRg+IbiAAmICIZCITukFbMEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Rugby",Canberra Raiders vs Sydney Roosters
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb16.strmd.top/secure/EuJxZkdfdWlEyqVawqaCgYMhCHQSFUmc/delta/stream/live-event_ufc-bjj-9-fowler-vs-johnson-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="BKFC Fight Night Hollywood Henry vs Lane" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",BKFC Fight Night Hollywood Henry vs Lane
+https://lb18.strmd.top/secure/pgVisvVQtxNqDOyKFZSjslvgyclYQqOX/rtmp/stream/bvg0GwEN9F-e3c2fX0TEzbcim_wxiPTigyJ9wMYZBZ-6ZBFB-9krtRhfRSWmUiWMuXFVmfMZawBXS8Y/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="England vs. New Zealand" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773htbKbcAxozAp0kbsSwJ0ICCAAmIbPXIMBzYGB7xxVCYQaswWtrghA.webp" group-title=" Cricket",England vs. New Zealand
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/hGiDPMaGUOQeVHlxClvFQZjhImFadVNM/delta/stream/live-event_bkfc-hollywood-henry-vs-lane-live-stream/1/playlist.m3u8
+https://lb14.strmd.top/secure/HLgDFyvOgqLLQAeiTCMaWsNGGmzLPijp/rtmp/stream/uYSh0400hcbpe_jWUUyQy_LfWXR3xh5MWDx76BiGKPVbkC8Pl3qF1BOd3OUonbO-VZupdN3hIKCqkyrH/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Roland Garros French Open " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Roland Garros French Open 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/KWVuBfXCnVUsfwBcCdMhCFKKrJRjlWRS/echo/stream/roland-garros-french-open-roland-2026/1/playlist.m3u8
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Hawthorn Football Club vs Western Bulldogs" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhxIhaIfiFWruIACYgIIPiFMmYxrcYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Afl",Hawthorn Football Club vs Western Bulldogs
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/TgKTaIXLKIiqOPzhpWuRTuVlsbercXRE/echo/stream/hawthorn-hawks-vs-western-bulldogs-australian-football-3452/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Formula 1 2026 - Monaco GP" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Formula 1 2026 - Monaco GP
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb20.strmd.top/secure/CIPzVEdZSSxrYWnsFnBNFzURQPLxjfDi/delta/stream/live-event_formula-1-2026-monaco-gp-live-stream/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoGP Grand Prix of Hungary " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",MotoGP Grand Prix of Hungary 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb15.strmd.top/secure/LVezrjCXMphofkYBKImiUEHbLnoiAaXd/echo/stream/motogp-grand-prix-of-hungary-game-122273/1/playlist.m3u8
