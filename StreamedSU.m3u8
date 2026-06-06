@@ -1,16 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Crusaders Super Rugby vs Blues Super Rugby" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4gQwAAxgUFFCG4gSh4wYghEBnBMIxgTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Rugby",Crusaders Super Rugby vs Blues Super Rugby
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Roland Garros French Open " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Roland Garros French Open 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/MJHVqwsOmONkQlKzWvqIEteYsShezjeV/echo/stream/crusaders-vs-blues-rugby-53251/1/playlist.m3u8
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="North Melbourne Kangaroos vs Fremantle Dockers" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQA+uQYBjZsJ7wxVcYQaswYXPn1A.webp" group-title=" Afl",North Melbourne Kangaroos vs Fremantle Dockers
+https://lb4.streami.su/secure/QIrsCvMQtPkusCAqFdWzJeUyQKPGaBLJ/echo/stream/roland-garros-french-open-roland-2026/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="North Queensland Cowboys vs Dolphins" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLApKqkBFwhuIACYg+2mPpBmSIRHoIUmfNWzBl4ReaLVNaYJ2NEQgA.webp" group-title=" Rugby",North Queensland Cowboys vs Dolphins
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/spLOONEDtjGHicfZctAoBjDWGaSnrGDu/echo/stream/north-melbourne-kangaroos-vs-fremantle-dockers-australian-football-3453/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Tuff N Uff 154" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Tuff N Uff 154
+https://lb7.streami.su/secure/PwtOKFxwwOtqItuBNwqhDZfcDhBTzrih/echo/stream/north-queensland-vs-dolphins-game-2737723/1/playlist.m3u8
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Gold Coast Football Club vs Brisbane Lions" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLAATNWHDqYIbiAgg++kDsQhzukwQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Afl",Gold Coast Football Club vs Brisbane Lions
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/QDmzPyMfHHoVQooMTUmCQDLotgmaquxe/delta/stream/live-event_tuff-n-uff-154-live-stream/1/playlist.m3u8
+https://lb7.streami.su/secure/PpjGxasehmzkbbmomPXdmpfAeqRjEyKH/echo/stream/gold-coast-suns-vs-brisbane-lions-australian-football-3454/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Willibaldo Garcia vs Andrew Moloney" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Willibaldo Garcia vs Andrew Moloney
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb16.streami.su/secure/HUlfgijItZyZjtkkJcWnFLlACisHBObA/delta/stream/live-event_willibaldo-garcia-vs-andrew-moloney-live-stream/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoGP Grand Prix of Hungary " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",MotoGP Grand Prix of Hungary 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb11.streami.su/secure/FCuDvJJUVLqLjhpOMRHxzEdaJKNHjqUA/echo/stream/motogp-grand-prix-of-hungary-game-122273/1/playlist.m3u8
