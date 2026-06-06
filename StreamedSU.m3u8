@@ -1,6 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Portugal vs Chile" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBkQwJORQgIIbqpDb92kKZB8QiRhSZ8UXMGXhF5o+01phHY0RCA.webp" group-title=" Football",Portugal vs Chile
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC Fight Night 278 Muhammad vs Bonfim" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",UFC Fight Night 278 Muhammad vs Bonfim
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://shiva.embedindia.st/secure/hUXwFsiacFLTJJdcVaTXhhKmGoxWIKju/1780757100/1780784100/fifa_por/index.m3u8
+https://vishnu.embedindia.st/secure/JTZVzWoAWLqSSMcCkjsyorJeZPRfGYjZ/1780768800/1780815600/ufc/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="England vs New Zealand" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoQ3MOBjAADCH3cQfEBFyr9ZtYmWFtTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Football",England vs New Zealand
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://netanyahu.embedindia.st/secure/xQKYyjraUHJnXcoxEGoYncppYwWtWdaz/1780765200/1780792200/fifa_eng/index.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="East vs West 24" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",East vs West 24
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://vishnu.embedindia.st/secure/MwHJnCgvgpVXfrGEoJxkBAqrxGJrnKps/1780754400/1780797600/evw24/index.m3u8
