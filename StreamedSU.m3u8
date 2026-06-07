@@ -1,31 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="London Warriors vs Alpine Rams" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAY29lBWSUYAUwVmDTAE5p5gJhqDh61hh1OPgBDYLKQRcOJBt16ZGY-p3bU+4wSUyD4YEAIQMQvEFn2GQxkNRAwTKwjGD4BKHmDLrGCsQ7v0wT8WIhA.webp" group-title=" American Football",London Warriors vs Alpine Rams
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Denmark vs Ukraine" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhwAMIRABN+uUiG4gSIFHqMgzOPiaOEYwJnxRcwZeEXmjHTWmGdjREIA.webp" group-title=" Football",Denmark vs Ukraine
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.st/secure/wOROhbKTkcXkufMdvjOFpmhLsZHPwgva/rtmp/stream/sgP9siAGxS56UbKGWLhZ_-N0VfjYzqJ8pE1zq5sjyhxGIiSi9HQrpL_PpcybrOHX8E1u7zWGTqNCxNw3Dw8MPQyAP1Tf/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Monaco Grand Prix" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Monaco Grand Prix
+https://lb11.strmd.st/secure/vtXKunchzItoXTNVQzMnWHUHYDSWRkqx/rtmp/stream/2N7T95Yl7Y0jm38lZOiiJh058M2IASctTrgci8dFy3ccWEdnhR1A1J1GX5aRGS904NQcSs8iH9p5JA/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="The Memorial Tournament presented by Workday Final Round" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title=" Golf",The Memorial Tournament presented by Workday Final Round
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.st/secure/ujdDfiCNyhkRVioQkwsrdPAScAVYaqjM/rtmp/stream/tyOjIuUF_ZlOjiJu9u9owU0Zi03l8nVxYH-gSGQ-gvEx1zibmJzZWhImDgLxJkpi5xLx8mCwdjwdzLmrS9iOjOaD5Q/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Liechtenstein vs Cyprus" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhz4h4CYGDAgQAExDcQJHSBQhVZnaphGCFJnxRcwZdfXminTWltFS6QA.webp" group-title=" Football",Liechtenstein vs Cyprus
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb11.strmd.st/secure/pkeUwqJKuvGenqmLWduNFXosNSkeASad/rtmp/stream/rd468VREFIJ9RcW7006vNDNeqxu4RFQmZx_q2Yj_lzjj4E4BtxJ28PjnPk2DXeKdCb9nSLpXUCc88Q/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Race | Circuit de Monaco | 260.3 Kms" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Race | Circuit de Monaco | 260.3 Kms
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb13.strmd.st/secure/UoRijmAplEFPZRbQPVAeroUSzTInmZrj/echo/stream/race-circuit-de-monaco-2603-kms-formula-1-2550/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="LIV Golf Andalusia | LIV Golf Series" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",LIV Golf Andalusia | LIV Golf Series
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb13.strmd.st/secure/jVPjiHfcXAWjfhfnXnZvBOKMQJPkKqTd/echo/stream/liv-golf-andalusia-liv-golf-series-game-162626/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="Roland Garros French Open " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",Roland Garros French Open 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.st/secure/IZBZxvflwwjXHVvQSzVVzXTPVKncNtpo/echo/stream/roland-garros-french-open-roland-2026/1/playlist.m3u8
+https://lb15.strmd.st/secure/CjSAtFuyZnrIAzSvQWOpzfCOjLdmeuSg/echo/stream/the-memorial-tournament-presented-by-workday-pga-tour-pga-526234/1/playlist.m3u8
