@@ -1,6 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="France vs N.Ireland" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjjzuReqG4gSIbbt2JtIPToIUmfFFzBl4ReaOtNaYW2NEQgA.webp" group-title=" Football",France vs N.Ireland
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.st/secure/OwfFRdEpmFRJULsEULEbKSyhHamajWwE/rtmp/stream/dUL5uG6FAwRt9hE64pTO50BabwdfQePsmDy0DFLxvpkIH2qTgvVzac4HHUMOIkFU8A38lDqbomXaoQ/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Netherlands vs Uzbekistan" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphIhR8vmCSkQ3NSBQg+BkBBCIAJiBhqCFJnxRcwZeEXminTWmBdjREEA.webp" group-title=" Football",Netherlands vs Uzbekistan
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.st/secure/iuBUreIINiARVStWnFuTBEawSukJSfjT/rtmp/stream/HJif6QwCkLRumDXP8xnVi_XsG0mU4OrnBv653KnkU7RwoRMIIVNIHtVTNmaXVi5H7DKhCk7XmHtCAw/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE: Monday Night RAW" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",WWE: Monday Night RAW
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.st/secure/IsNEkguIdJKuWDLDVPeUWRYODYUOiAFn/rtmp/stream/OF077pF1I6nJLHIQfUewdGfgtC8RveI5LQMsBZPD8FfyiZM94pqb-aHYzaLx71cvURRbbkqfwQ/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Super Series Pool  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Super Series Pool  
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.st/secure/dirUlVhGsCERXVjVPadLOqQFILjaqZng/echo/stream/super-series-pool-pick3/1/playlist.m3u8
+https://lb13.strmd.st/secure/RFImmyILBHDcQmNDKuKyWuVJSMXSoMIi/echo/stream/super-series-pool-pick3/1/playlist.m3u8
