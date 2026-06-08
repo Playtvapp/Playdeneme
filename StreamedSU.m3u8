@@ -1,46 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Appalachian LM Speedweek Potomac" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Appalachian LM Speedweek Potomac
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Collingwood Magpies vs Melbourne Demons" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQKeuQYBjZsJ7wxVcYQaswYXPn1A.webp" group-title=" Afl",Collingwood Magpies vs Melbourne Demons
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.st/secure/QOHmdDWwooKWwKFzUpdZSWBwrIqhignB/echo/stream/ppv-event-05-appalachian-lm-speedweek-potomac-ppv-05/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="World of Outlaws Sprint Cars Angell" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",World of Outlaws Sprint Cars Angell
+https://lb6.strmd.st/secure/ZohubpBdYKgjOSsQNayIlwkNESmPTchK/echo/stream/collingwood-magpies-vs-melbourne-demons-australian-football-3458/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Oklahoma Sooners vs Kansas Jayhawks" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Oklahoma Sooners vs Kansas Jayhawks
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.st/secure/jEDUgbvcEKcNVjFPBlaqXvWwwLOgZiFv/echo/stream/ppv-event-04-world-of-outlaws-sprint-cars-angell-ppv-004/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Los Angeles Sparks vs Portland Fire" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBw+YXvJBsQ3EHxAlchkClMgLOZYRjAmfFFzBl4ReaMdNaYZ2NEQgA.webp" group-title=" Basketball",Los Angeles Sparks vs Portland Fire
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/hWeIsbWGSohmZiMnVYsASVQAzkEIMAGg/rtmp/stream/L2BbH7PCvXLoJGT-f_Ugu4cbXf-eKDJXqhu6rJNCYoqSYZRDU2ViRBIQvjZcUmBZEGYwfF582tu1LDljlRoEFrsp/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Colombia vs Jordan" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAkQKYABNKuBCG4g+ICLn0gY5y4ggEKTPhrZgy8IvNEamtMM7GiIQA.webp" group-title=" Football",Colombia vs Jordan
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb17.strmd.st/secure/TcbOQzvMGYzCJqBFiiFSjYSBAUVxEtmF/rtmp/stream/oMOuuKglnK4CX83TRsFXyNbJ1z-XXjzKGzSP6yV9h3tmXSD4j65vt4o7zmN1TazDjEbhCZMFC2UeHA/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="St Louis BattleHawks vs Louisville Kings" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhBQUCSm1ghuIPnpAwQAEwNGcIEPAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" American Football",St Louis BattleHawks vs Louisville Kings
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.st/secure/nVLUagsGrOqOnZGxIzzeuiHhhDysixHX/rtmp/stream/SdsYLDekAkQZVytLMp1MMuSe2EHjq8riPrGz0cQQeI6VoA3E4ZQvCbRYhaJfL50uCMtpFWU/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="GCW Cage of Survival 5 " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",GCW Cage of Survival 5 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.st/secure/mIgerELuJJcKhNldwzuWeBZXpNporTkG/echo/stream/ppv-event-03-gcw-cage-of-survival-5-ppv-03/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="NTT IndyCar Series " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",NTT IndyCar Series 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb12.strmd.st/secure/NUXdYANoXWdHBdHXzoMpZQHanaJIHhOo/echo/stream/ntt-indycar-series-racing-0059/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="2026 NASCAR Cup Series at Michigan" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",2026 NASCAR Cup Series at Michigan
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb20.strmd.st/secure/CmvepWnEArXCaApysluvETcHpBImaJlr/delta/stream/live-event_2026-nascar-cup-series-at-michigan-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Arizona Diamondbacks vs Washington Nationals" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj6ww3amQghuIbTkQATECj0g+IYxAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Baseball",Arizona Diamondbacks vs Washington Nationals
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.st/secure/HmDvyqxMWCNfhISDjAUrzCfllRqUThIf/golf/stream/22964/1/playlist.m3u8
+https://lb16.strmd.st/secure/eHOOVrCZeaiZMUcDXbxNtuGlqzsuQAHJ/delta/stream/live_ncaa-division-i-championship_oklahoma-sooners-kansas-jayhawks-live-streaming-1338550110/1/playlist.m3u8
