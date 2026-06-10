@@ -1,21 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tampa Bay Rays vs Boston Red Sox" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA.webp" group-title=" Baseball",Tampa Bay Rays vs Boston Red Sox
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="England vs Costa Rica" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyzlEKEDB4huIACYhEfECYiadIEjoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Football",England vs Costa Rica
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.st/secure/irSzAXNDEbfbtTjiXnUFpblpFRWfLZfY/rtmp/stream/CtsdkLoSiwyUCU_rXpiZIp3W7h3l5RPRwyxh-bW3KYhcUz_MuNsjOauCgn43AlBCBySESjRBB3AMYgsudC8/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians vs New York Yankees" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Baseball",Cleveland Guardians vs New York Yankees
+https://lb6.strmd.st/secure/JuwttRhLnGMcJyHnxpcEikPyfzhmStYM/rtmp/stream/WTWZJUEs8zbrvuLVqlO0SWsVwly-6gMGgmUEgWCp1VVcQ-dCD1R9zQaRhNPmqZDl9W5vA_8o9wBVvw/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Diego Padres vs Cincinnati Reds" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj7k4ZeNhDcQEEIh0l9IEycSMKTPii5gNReaJtNaYO2NEQgA.webp" group-title=" Baseball",San Diego Padres vs Cincinnati Reds
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.st/secure/BwrGSWDbUOMfqcbybZCLPJQomAIUJaDn/rtmp/stream/rcJqnN_Upv3CoUIX_Y5Tfu9XbDbRBRTccl5MD-JZDnXLCwDJyelHBAJZOcHiD-XLM3quBVWQUw9GBCF-5jAFMHeLINI/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="24 Hours of Le Mans - Qualifying" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",24 Hours of Le Mans - Qualifying
+https://lb14.strmd.st/secure/yBTCPsfKnNWaCjfsfHMRGMZYsAQdANpM/rtmp/stream/ph-eM7Mdo6WZ_UZSAjXs9jNKj1-yOiY3M1krSI61L0IlRn5y_20U3SLZ8CgfFey_IivycOa4-cOVP6hjvtw8BQ/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="24 Hours of Le Mans - Practice 2" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",24 Hours of Le Mans - Practice 2
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb19.strmd.st/secure/sNlJtAOByKlOTkyoJBasbiKembXMUqAx/rtmp/stream/Fi8Pej7nTovwaeXeYY2JE2uAARrmU7oAH7sxLCT4ODxKB_7Z4ZXbAtr_IKyB1pU2pchoe1GvGhZ1W-dDc4jDkny-KgSBAQeRXGR2/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Endurance World Championship Circuit des 24 Heures " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Endurance World Championship Circuit des 24 Heures 
+https://lb14.strmd.st/secure/cpMTLrNvRYUseiVLAvoosWUVNWrmhdaP/rtmp/stream/z-71F-agIaiNJ2eu9XDSH49K-zmYyI0rVTd3MiPyqROYdEOSESZKaKt0EIXAb1BjOPTvB5gUASvKCoYh2L_Mlt0NiY4/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants vs Washington Nationals" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj6ww3amQghuIbTkQATECj0g+IYxAIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title=" Baseball",San Francisco Giants vs Washington Nationals
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb17.strmd.st/secure/OcKygipaQzCxxzwpmgvudUQWzBlhrfmk/echo/stream/endurance-world-championship-circuit-des-24-heures-racing-0059/1/playlist.m3u8
+https://lb18.strmd.st/secure/wrEVRDNipBFGwWFZPmffOhqrsRRxyAbV/rtmp/stream/0_7MEm6j1CXmhbHSMSpGq2a5JZzDaXMcLZ1NFMwQXT3m-Kp82ChKYGPnmlgdOkPsi0O3sIESTShWsnTvw1NpLalgdIM/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Portugal vs Nigeria" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm7UyKMOBzcQEECX26QAExMgYh4wQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Football",Portugal vs Nigeria
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb19.strmd.st/secure/gWZnDibNgwuQwfgYqRkIDwEWkXDyBqms/rtmp/stream/rauJrtfbdm9ctbADPcSBlKRtQ4Of6E4qet-ntcf_bISojjtiRlDePNygCKL88vTKRcMd_53D_ip-TQ/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Mlaga vs Las Palmas" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAksK7gUDEN00gAJtr0QQhxHpiaCFJn3VswZeEXmj1TWmDtjREIA.webp" group-title=" Football",Mlaga vs Las Palmas
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb20.strmd.st/secure/oNdWJdGEVUGyZmqagTqCQTeXaYpnbRuD/rtmp/stream/AhcIb2vcukYRKc-U1XwuYjNEgsiR7aMFEHo-MqW8x6dHJjoj5wsJ1o-xD_37O_Wkk97SVQnllxzL/1/playlist.m3u8
