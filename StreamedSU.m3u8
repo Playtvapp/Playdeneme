@@ -1,16 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="24 Hours of Le Mans - Practice 1" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",24 Hours of Le Mans - Practice 1
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tampa Bay Rays vs Boston Red Sox" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnjQ4qsom4gIuECRDacMPduWEYwJnxRcwmovNG2mtMPbGiIQA.webp" group-title=" Baseball",Tampa Bay Rays vs Boston Red Sox
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.st/secure/kmwwDBBQytRRvhSUKbhFxZQrqjtzAjUz/rtmp/stream/PpNrvPT4qB6Sqz5AwJZyL-7gJI1mWgr64YlcZuuG5Xbx1C1EY3_kBtiNQMI93etu_cK3Fd_U90mexRvILTobyfwMTnI/1/playlist.m3u8
+https://lb4.strmd.st/secure/irSzAXNDEbfbtTjiXnUFpblpFRWfLZfY/rtmp/stream/CtsdkLoSiwyUCU_rXpiZIp3W7h3l5RPRwyxh-bW3KYhcUz_MuNsjOauCgn43AlBCBySESjRBB3AMYgsudC8/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Cleveland Guardians vs New York Yankees" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj5huYVavAgQ3EBFwhEBvjpCmAJiAsEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Baseball",Cleveland Guardians vs New York Yankees
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb15.strmd.st/secure/BwrGSWDbUOMfqcbybZCLPJQomAIUJaDn/rtmp/stream/rcJqnN_Upv3CoUIX_Y5Tfu9XbDbRBRTccl5MD-JZDnXLCwDJyelHBAJZOcHiD-XLM3quBVWQUw9GBCF-5jAFMHeLINI/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="24 Hours of Le Mans - Qualifying" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",24 Hours of Le Mans - Qualifying
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb19.strmd.st/secure/sNlJtAOByKlOTkyoJBasbiKembXMUqAx/rtmp/stream/Fi8Pej7nTovwaeXeYY2JE2uAARrmU7oAH7sxLCT4ODxKB_7Z4ZXbAtr_IKyB1pU2pchoe1GvGhZ1W-dDc4jDkny-KgSBAQeRXGR2/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Endurance World Championship Circuit des 24 Heures " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Endurance World Championship Circuit des 24 Heures 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.st/secure/RuwnoePIwvZWnblgFAIXohrZiwYkKnJk/echo/stream/endurance-world-championship-circuit-des-24-heures-racing-0059/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Stuttgart / Hertogenbosch " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",ATP / WTA: Stuttgart / Hertogenbosch 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/llsieArMJyxJNHqZSdGRkyUbAstIiMbj/echo/stream/atp-wta-stuttgart-hertogenbosch-tn-1/1/playlist.m3u8
+https://lb17.strmd.st/secure/OcKygipaQzCxxzwpmgvudUQWzBlhrfmk/echo/stream/endurance-world-championship-circuit-des-24-heures-racing-0059/1/playlist.m3u8
