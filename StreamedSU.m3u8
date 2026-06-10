@@ -1,6 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="24 Hours of Le Mans - Practice 1" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",24 Hours of Le Mans - Practice 1
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.st/secure/kmwwDBBQytRRvhSUKbhFxZQrqjtzAjUz/rtmp/stream/PpNrvPT4qB6Sqz5AwJZyL-7gJI1mWgr64YlcZuuG5Xbx1C1EY3_kBtiNQMI93etu_cK3Fd_U90mexRvILTobyfwMTnI/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Endurance World Championship Circuit des 24 Heures " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Endurance World Championship Circuit des 24 Heures 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.st/secure/RuwnoePIwvZWnblgFAIXohrZiwYkKnJk/echo/stream/endurance-world-championship-circuit-des-24-heures-racing-0059/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Stuttgart / Hertogenbosch " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",ATP / WTA: Stuttgart / Hertogenbosch 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.st/secure/WwwwKfBDawZKNAMSxehGWnvZEmzVqvao/echo/stream/atp-wta-stuttgart-hertogenbosch-tn-1/1/playlist.m3u8
+https://lb3.strmd.st/secure/llsieArMJyxJNHqZSdGRkyUbAstIiMbj/echo/stream/atp-wta-stuttgart-hertogenbosch-tn-1/1/playlist.m3u8
