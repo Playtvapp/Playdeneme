@@ -1,26 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="RBC Canadian Open | PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",RBC Canadian Open | PGA Tour
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="World Cup 2026 Opening Ceremony" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",World Cup 2026 Opening Ceremony
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.st/secure/sEXKfYJNskCSTFTnHlQLjwcFNHFaDZmA/echo/stream/rbc-canadian-open-pga-tour-pga-526234/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Rabbitohs vs. Broncos" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title=" Rugby",Rabbitohs vs. Broncos
+https://lb4.strmd.st/secure/NbBNvRkbCSwooiZUIPLOokdQXQrQMWdu/delta/stream/live-event_world-cup-2026-opening-ceremony-live-stream/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="UCI Tour Auvergne | UCI World Tour " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",UCI Tour Auvergne | UCI World Tour 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.st/secure/FHnNEVTizbAmhPDdhCjmtJtjfAbGGRzn/rtmp/stream/4USI-G20xeujlEkfqjpyJZLz6LRbs3RNb75Ivmm5-gDnH7l-A1AaITx6Hw095tDfIipyq23y6OQjLQ8/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Penrith Panthers vs New Zealand Warriors" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuAUxAThQKwiIAmIWwEwwhw8wa16YuYFAxsKysGNsAENg7Ntky5BlYdgToQAkCjxzcikBDwh2hWMALCe1Ngkhd+PffTCiqFCEA.webp" group-title=" Rugby",Penrith Panthers vs New Zealand Warriors
+https://lb9.strmd.st/secure/TOCFKhXZpdEHuUCPVTPqyMeojtpZKzQV/echo/stream/uci-tour-auvergne-uci-world-tour-game-13622/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Endurance World Championship Circuit des 24 Heures " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Endurance World Championship Circuit des 24 Heures 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb17.strmd.st/secure/ekhkOxCYuoWASgIuyplZHxTBhYCiDIJP/echo/stream/south-sydney-rabbitohs-vs-brisbane-broncos-game-197832/1/playlist.m3u8
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Western Bulldogs vs Adelaide Crows" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQJOuQYBjZsJ7wxVcYQaswYXPn1A.webp" group-title=" Afl",Western Bulldogs vs Adelaide Crows
+https://lb20.strmd.st/secure/geGOmZMihbmVJKcRwOJUqCotOyPtRmxd/echo/stream/endurance-world-championship-circuit-des-24-heures-racing-0059/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="RBC Canadian Open Round 1" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title=" Golf",RBC Canadian Open Round 1
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.st/secure/EXWFUctBjcoJrSncRaVPWncNzzTzQZft/echo/stream/western-bulldogs-vs-adelaide-crows-australian-football-3459/1/playlist.m3u8
+https://lb2.strmd.st/secure/mlrAwtkLRFgMvIocvrxCxaIvDCwTWqAp/echo/stream/rbc-canadian-open-pga-tour-pga-526234/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Stuttgart / Hertogenbosch " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",ATP / WTA: Stuttgart / Hertogenbosch 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.st/secure/XjAETcbLpWpUXmmHTvipMlMQqWkPcgYB/echo/stream/atp-wta-stuttgart-hertogenbosch-tn-1/1/playlist.m3u8
+https://lb16.strmd.st/secure/ZCQFtxcOTwBqPtsdQlKoLsyPGvluVAHt/echo/stream/atp-wta-stuttgart-hertogenbosch-tn-1/1/playlist.m3u8
