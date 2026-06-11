@@ -1,1 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="RBC Canadian Open | PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",RBC Canadian Open | PGA Tour
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb18.strmd.st/secure/sEXKfYJNskCSTFTnHlQLjwcFNHFaDZmA/echo/stream/rbc-canadian-open-pga-tour-pga-526234/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Rabbitohs vs. Broncos" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title=" Rugby",Rabbitohs vs. Broncos
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.st/secure/FHnNEVTizbAmhPDdhCjmtJtjfAbGGRzn/rtmp/stream/4USI-G20xeujlEkfqjpyJZLz6LRbs3RNb75Ivmm5-gDnH7l-A1AaITx6Hw095tDfIipyq23y6OQjLQ8/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Penrith Panthers vs New Zealand Warriors" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuAUxAThQKwiIAmIWwEwwhw8wa16YuYFAxsKysGNsAENg7Ntky5BlYdgToQAkCjxzcikBDwh2hWMALCe1Ngkhd+PffTCiqFCEA.webp" group-title=" Rugby",Penrith Panthers vs New Zealand Warriors
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb17.strmd.st/secure/ekhkOxCYuoWASgIuyplZHxTBhYCiDIJP/echo/stream/south-sydney-rabbitohs-vs-brisbane-broncos-game-197832/1/playlist.m3u8
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Western Bulldogs vs Adelaide Crows" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQJOuQYBjZsJ7wxVcYQaswYXPn1A.webp" group-title=" Afl",Western Bulldogs vs Adelaide Crows
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.st/secure/EXWFUctBjcoJrSncRaVPWncNzzTzQZft/echo/stream/western-bulldogs-vs-adelaide-crows-australian-football-3459/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Stuttgart / Hertogenbosch " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",ATP / WTA: Stuttgart / Hertogenbosch 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.st/secure/XjAETcbLpWpUXmmHTvipMlMQqWkPcgYB/echo/stream/atp-wta-stuttgart-hertogenbosch-tn-1/1/playlist.m3u8
