@@ -1,6 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Chiefs Super Rugby vs Crusaders Super Rugby" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAhgTJCBj8QfENxAkQKXLtMATEBH36CFJnxRcwZeEXminTWmBdjREEA.webp" group-title=" Rugby",Chiefs Super Rugby vs Crusaders Super Rugby
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Barcelona-Catalunya Grand Prix Practice 1" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Barcelona-Catalunya Grand Prix Practice 1
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.st/secure/VUlAzqVPyFajWEIRyzOleFbdClxYYqZr/echo/stream/chiefs-vs-crusaders-rugby-53363/1/playlist.m3u8
+https://lb3.strmd.st/secure/nUcrjnWpMbfYTtXnUenKVDixrgIcUxFc/rtmp/stream/xz28AwRGYY7uYmggUY4f2bsyPAgfkAOvzht7DxqURHPhpLlzYs2o5OQtECXiG9Nmx-fMm6pf3jkM2BbZFb9tTa02N_1_opXm90rnUJd9b0k/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="1st Practice | Circuit de Barcelona-Catalunya |" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",1st Practice | Circuit de Barcelona-Catalunya |
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.st/secure/HpxRcRCvuApQLWNlyziSBLpiCOClwRaL/echo/stream/1st-practice-circuit-de-barcelona-catalunya-formula-1-2551/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="RBC Canadian Open Round 2" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title=" Golf",RBC Canadian Open Round 2
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb14.strmd.st/secure/VEfZUAEzDKpYJArVPerSCnZfqwfCfHir/echo/stream/rbc-canadian-open-pga-tour-pga-526234/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="BetVictor World Cup Darts Day 2" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title=" Darts",BetVictor World Cup Darts Day 2
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb18.strmd.st/secure/ttjRYGzoQnCPnvQnswoOCKjLccODpyMS/rtmp/stream/y-7L0Nv4iUXUM5IsHUDcKiayv1ADFHIK8i-YBnXV23FP4_QDpfv1YrZ5sugOKoP256909FLu1A/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Dolphins vs Sydney Roosters" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyxgUuEOpRg+IbiAAmICIZCITukFbMEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Rugby",Dolphins vs Sydney Roosters
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb17.strmd.st/secure/CKgYsPtOOuieHlYyfHoYGaEoYrprSRul/rtmp/stream/L96Q6I2Y4cUtZ87BPu_2C_XuXGSMaPC5qKroykiKLTgYd-pwY3aVa54brv3Y0chwnwAZe9iYiV0wXBw/1/playlist.m3u8
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Geelong Cats vs Gold Coast Suns" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1jgAJsDDpI3fsPjoQREAGN65BgqzCe8MVXGEGrMGFz5DQA.webp" group-title=" Afl",Geelong Cats vs Gold Coast Suns
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb15.strmd.st/secure/GtVpiyWhWRKRqNBMgbUkSOfpzzTYGZmS/echo/stream/geelong-cats-vs-gold-coast-suns-australian-football-3460/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Stuttgart / Hertogenbosch " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",ATP / WTA: Stuttgart / Hertogenbosch 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb15.strmd.st/secure/aHLHFoPhKAobJWVGicWodZLsJgNSjrhP/echo/stream/atp-wta-stuttgart-hertogenbosch-tn-1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Formula 1 2026 - Spain GP" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Formula 1 2026 - Spain GP
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb13.strmd.st/secure/gePRuKwzNfkPIfgcQVcuvUpWJJUuRJPj/delta/stream/live-event_formula-1-2026-spain-gp-live-stream/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="World SBK Italian Round | World SBK Championship Season " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",World SBK Italian Round | World SBK Championship Season 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb12.strmd.st/secure/wxShdPpjfCVqhCZBVJdJJDlDXCAmEfBS/echo/stream/world-sbk-italian-round-world-sbk-championship-season-game-4u8337/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Le Mans Cup | 24 Hours of Le Mans " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Le Mans Cup | 24 Hours of Le Mans 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb12.strmd.st/secure/NsHgmLojpQSeVWukzwciAbErpihCtYah/echo/stream/le-mans-cup-24-hours-of-le-mans-racing-0059/1/playlist.m3u8
