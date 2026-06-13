@@ -1,41 +1,31 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="24 Hours of Le Mans - Race" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",24 Hours of Le Mans - Race
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.st/secure/fNfCTtuaUdiMIAZZNMoNycOBLLUTDgHX/rtmp/stream/TX4R0pgifBSMRu2xaMaW7t1suiGFlL7xTZgBVNt90lZDi_m-OV3l7vRcOYHYPqhFdteHPRiQc1b6Tl3UIJDN8rgJWROC/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="RBC Canadian Open Round 3" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title=" Golf",RBC Canadian Open Round 3
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.st/secure/iyQLmEsDCOQkLyJIOsYzArlRGosInypP/echo/stream/rbc-canadian-open-pga-tour-pga-526234/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="BetVictor World Cup Darts Day 3" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title=" Darts",BetVictor World Cup Darts Day 3
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.st/secure/sZnGqMZILgRqaaBfkFkxFdIYEFIxFqen/rtmp/stream/8Fm81TpYGH20z2rmtIMakGeAXY8xjx0w4039SptSb7FeKLU4pOjizsPwEYmdv8Q8Ubg4Vc6eUA/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Barcelona-Catalunya Grand Prix Practice 3" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Barcelona-Catalunya Grand Prix Practice 3
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb16.strmd.st/secure/BuRoxEhngCxCIhZFvpRNFKlYNmxxYnDq/rtmp/stream/MATYY0M_sBNptF_bW6_OMhKkGABEl9LZxd8FMG4XnLySRUdheQXcU2gcpdfIPPlSH8POfYpyQhuf-j45J2wFw1g-FCWi-hf71-eYYQhFWHo/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="3rd Practice | Circuit de Barcelona-Catalunya |" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",3rd Practice | Circuit de Barcelona-Catalunya |
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb20.strmd.st/secure/BRpVeIFmyCnUbGPHozBhsUpasrthxFkw/echo/stream/3rd-practice-circuit-de-barcelona-catalunya-formula-1-2553/1/playlist.m3u8
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Port Adelaide Football Club vs Sydney Swans" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyZT22EChDcQAExAQQfECeMw9BkwQpM+KLmDLwi80faa0wjsaIhA.webp" group-title=" Afl",Port Adelaide Football Club vs Sydney Swans
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb20.strmd.st/secure/upesXwirwBXVRZsvAJjkIKQUIjGtmqkD/echo/stream/port-adelaide-power-vs-sydney-swans-australian-football-3463/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Parramatta Eels vs Canberra Raiders" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgFswYJJRDbuIACYgI+kIiN9j5iYRjAmfFFzBl4ReaIdNa60VLpA.webp" group-title=" Rugby",Parramatta Eels vs Canberra Raiders
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/ypUrlsNGlGMspdloghmVVIfCcqsZxETY/rtmp/stream/k7AVn64Sp9POu7BYsxXjbUsXm2_Km-Mbv4uqXGQ0UpvpHq4LCWv7ZwEIVKvwmQYsJysNgzhzxkSAbXE/1/playlist.m3u8
+https://lb13.strmd.st/secure/MlIDtwwyUwvoGemFQzIqdRczNgaEHlEu/rtmp/stream/Ep3sn-l5WXZnNg3EuhhkmYlsjDE5ZvtQ70syH_wEhoCYoR5ZM9hooDR1xR1Wu4KWYgtIjOv-Cw/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Stuttgart / Hertogenbosch " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",ATP / WTA: Stuttgart / Hertogenbosch 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb17.strmd.st/secure/MAuJXugDYUuHgYUNqeTGTIqWhmojeEoD/echo/stream/atp-wta-stuttgart-hertogenbosch-tn-1/1/playlist.m3u8
+https://lb18.strmd.st/secure/sFygAOJsgjcsJtrzlwZizPEqRqRCdtxC/echo/stream/atp-wta-stuttgart-hertogenbosch-tn-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Formula 3: Spain -R4 | Formula 2: Spain -R5" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Formula 3: Spain -R4 | Formula 2: Spain -R5
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb14.strmd.st/secure/tZcGjQkOrEBnTxyHmZQZDgaSubYZdORR/echo/stream/formula-3-spain-r4-formula-2-spain-r5-game-19996/1/playlist.m3u8
+https://lb15.strmd.st/secure/dEqBuqwgCALxTvAfpukCJQiScTzwdBOT/echo/stream/formula-3-spain-r4-formula-2-spain-r5-game-19996/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="World SBK Italian Round | World SBK Championship Season " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",World SBK Italian Round | World SBK Championship Season 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.st/secure/IKmWLYGfhhLoCdaepljZhXnxorCiVPyX/echo/stream/world-sbk-italian-round-world-sbk-championship-season-game-4u8337/1/playlist.m3u8
+https://lb15.strmd.st/secure/ZIIAkToEbPahHsnpshGhTnmcQYqwMwcO/echo/stream/world-sbk-italian-round-world-sbk-championship-season-game-4u8337/1/playlist.m3u8
