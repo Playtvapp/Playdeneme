@@ -1,26 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sweden vs Tunisia" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhB9sIDSmz8Q3ECVwgAJqsN8zqghSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title=" Football",Sweden vs Tunisia
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Halle / Berlin " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",ATP / WTA: Halle / Berlin 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.st/secure/gnGCUGMPNqEpkurUqakSsNoKEaZidYZT/rtmp/stream/zXcgaZMpVzjErTTRiQvkAK0h4rG9MUfe7ECdTn5qTXDUlcMmQx0ThVYIge359epbJWwotps/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="DIRTcar Summer Nationals Late Models Sycamore" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",DIRTcar Summer Nationals Late Models Sycamore
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb13.strmd.st/secure/bvqMyzRIFKzhRusOCJNfOdaymtgFfSfz/echo/stream/ppv-event-11-dirtcar-summer-nationals-late-models-sycamore-ppv-11/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC Freedom 250 Topuria vs Gaethje" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",UFC Freedom 250 Topuria vs Gaethje
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb13.strmd.st/secure/rYqRLEvGCjhbScqGdMHrEeLdmofXOrhx/rtmp/stream/2nx-FEno6-yyWkhmO_MLalUvRRRylENNXd6PZXyYjd3VWxUmFE0fPgz7aLK8y8mEDyHuOlQ/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Vegas Golden Knights vs Carolina Hurricanes" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmIGCAGh4YECG4gSICJtwhEOI3uWEYwJnxRcwZHfXminTWmBdjREEA.webp" group-title=" Hockey",Vegas Golden Knights vs Carolina Hurricanes
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.st/secure/QrElDNOIXALrUaUzeGyvtvUNKtlunRhi/rtmp/stream/oe8Hj_O54NnM4J85ZRyCTNMP5V9Ijej8VqJQIncUa-ZCT4a1Cc7AFJylgB11QGfv6GUqHglZhapyoO0mEHPhFk9NMAU/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox vs Texas Rangers" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpm6QQKMLwAM7ENxAlcekCZQhE+wxMIxgTPii5gy8IvNGOmtMM7GiIQA.webp" group-title=" Baseball",Boston Red Sox vs Texas Rangers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.st/secure/TmjcJdGOVAyvvwEUuGbBavtrVuRpRbnq/echo/stream/boston-red-sox-vs-texas-rangers-baseball-179084/1/playlist.m3u8
+https://lb12.strmd.st/secure/rrhCylFEAEnJYDVUDJOehXpZYkEnpAzT/echo/stream/atp-wta-halle-berlin-tn-1/1/playlist.m3u8
