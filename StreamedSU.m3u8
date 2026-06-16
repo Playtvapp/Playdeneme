@@ -1,6 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Halle / Berlin " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",ATP / WTA: Halle / Berlin 
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="World Weightlifting Championships " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",World Weightlifting Championships 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.st/secure/gjiEVwxXdJbrGgzJvkezmmnPWOeJaLne/echo/stream/atp-wta-halle-berlin-tn-1/1/playlist.m3u8
+https://lb19.strmd.st/secure/rFfoTMIHnazQhWGhHkAZYGOMoBmafEZy/echo/stream/world-weightlifting-championships-game-1037674/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="2026 Players Championship 21" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title=" Darts",2026 Players Championship 21
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb19.strmd.st/secure/NaNXAABvTzaTipKgLrHJUVauEsBgrBhS/rtmp/stream/FXTeokw_C6vnuzcJSK_7BuTlVi1JB85TeAQR4jXcGSaLcfiF0WxHHGJAZpXKvixOLwjn2gxgvv8/1/playlist.m3u8
