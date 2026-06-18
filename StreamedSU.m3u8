@@ -1,11 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Czechia vs. South Africa" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Czechia vs. South Africa
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb20.strmd.st/secure/NUrbxJmehtbBBpVwoFegFrhZNoJGYdQm/rtmp/stream/IwjHL0zXcLGhXJFNesRtDUYWiGjNOt_rYevGjWlF0hF5c67iXSVwYbG1VEPAi5sIM-cSN370aQ/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="U.S. Open Championship" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",U.S. Open Championship
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.st/secure/XKIALspxPevLyJPERWrNzCZOZMzbpUUt/echo/stream/us-open-championship-atp1000/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="England vs. New Zealand" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title=" Cricket",England vs. New Zealand
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.st/secure/savNXCjNVPGdEJDbIxwSKlpNWIAyJkwV/rtmp/stream/YmUxeQOaMhHU0xCr3GZWB9yKqk43wRzK92OAjCmpin2TYlHvEx5paER80eZ4OKXtgUwNCbS6ToU/1/playlist.m3u8
+https://lb8.strmd.st/secure/vjKlsunvSIxxsRsGlNTxXzKRgzjMTAeK/rtmp/stream/qhwiZ1-G6GMrxdrEnbFLoy53xOJcb7551qbKJ_XxcZOyvnxenzmE05DGq0goXP0jHT_K-jROOGQ/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP / WTA: Halle / Berlin " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",ATP / WTA: Halle / Berlin 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb11.strmd.st/secure/CgjvtovCvfyfYirgNWqLKAsPieIxizRf/echo/stream/atp-wta-halle-berlin-tn-1/1/playlist.m3u8
+https://lb11.strmd.st/secure/RqGiFRpEtWwfXMOqerQsaMoHgncyIuWi/echo/stream/atp-wta-halle-berlin-tn-1/1/playlist.m3u8
