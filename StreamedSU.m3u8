@@ -1,21 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Czechia vs. South Africa" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Czechia vs. South Africa
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Switzerland vs Bosnia-Herzegovina" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Switzerland vs Bosnia-Herzegovina
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb20.strmd.st/secure/NUrbxJmehtbBBpVwoFegFrhZNoJGYdQm/rtmp/stream/IwjHL0zXcLGhXJFNesRtDUYWiGjNOt_rYevGjWlF0hF5c67iXSVwYbG1VEPAi5sIM-cSN370aQ/1/playlist.m3u8
+https://lb8.strmd.st/secure/PHztksKLMBNEJLJUrFeKGpNszxauBwWE/rtmp/stream/zTMdq-FWF63JGrjYH6Aqao3HW4vi_s-otwihHgsuc6ovP4USiZe4TrBffzfj-Bj43iD00tSOrQ/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Hull K R vs York Knights" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title=" Rugby",Hull K R vs York Knights
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb12.strmd.st/secure/vhDBGRrlDebpCkuFrGBvHwvQFmDdtLoR/echo/stream/warrington-wolves-vs-leeds-rhinos-game-37322/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Texas Rangers vs Minnesota Twins" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Texas Rangers vs Minnesota Twins
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb18.strmd.st/secure/kUxlmYWtMzKUtkJpAjNqcFjbUGomlaFY/rtmp/stream/kar89zIcpTvTV2gltsJmnN_Mx90dq8updFI_-AKFbEWFEVLLlCSEFRChYglKPMpkVcn9W2rmJCRiN33PbXA/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Milwaukee Brewers vs Cleveland Guardians" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Milwaukee Brewers vs Cleveland Guardians
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.st/secure/FYnxAmthCqZLEiOoXuiraavXxyTAQIPA/rtmp/stream/rHUpYE-n6M6KoOxyScrsx4PYzQ7ZiAPJnHXw4vsbj9OcP2RIAZRxbqWhnjFSNLj1aAY1FaL9s7A_q0YwZOll-O0o/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox vs Toronto Blue Jays" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Boston Red Sox vs Toronto Blue Jays
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.st/secure/cPHcWWUlCZMMhsRpCsXTBAtCwsNOQIwK/rtmp/stream/-lpnWGncE_d_4EspKdgwRyyo_P6nuh8d8x2jaHw6QkIbX_UOeLIZSc2iUhnOxmqs2lT4aZ0ajW0v7DkYN9o/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="U.S. Open Championship" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",U.S. Open Championship
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.st/secure/XKIALspxPevLyJPERWrNzCZOZMzbpUUt/echo/stream/us-open-championship-atp1000/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="England vs. New Zealand" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title=" Cricket",England vs. New Zealand
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.st/secure/vjKlsunvSIxxsRsGlNTxXzKRgzjMTAeK/rtmp/stream/qhwiZ1-G6GMrxdrEnbFLoy53xOJcb7551qbKJ_XxcZOyvnxenzmE05DGq0goXP0jHT_K-jROOGQ/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP / WTA: Halle / Berlin " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",ATP / WTA: Halle / Berlin 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb11.strmd.st/secure/RqGiFRpEtWwfXMOqerQsaMoHgncyIuWi/echo/stream/atp-wta-halle-berlin-tn-1/1/playlist.m3u8
+https://lb11.strmd.st/secure/MtDLmhIoAOrOwwWIzJspQmnRcqLApViV/echo/stream/us-open-championship-atp1000/1/playlist.m3u8
