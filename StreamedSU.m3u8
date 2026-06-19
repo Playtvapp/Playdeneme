@@ -1,21 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Hull Kingston Rovers vs Leigh Leopards" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title=" Rugby",Hull Kingston Rovers vs Leigh Leopards
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="NAPA OH Speedweek Fremont" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",NAPA OH Speedweek Fremont
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.st/secure/JCxtkXFhUDxxieKnlqgYQLYkyBoSYNlG/rtmp/stream/y8zFuOqCoNz_R4P7-z096jVEBNIgYUIsKsxjys2SQ0jvZiR_np98VqdpA2XKz3vA1Nasj5zntemB3iQ/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Leinster vs Bulls" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title=" Rugby",Leinster vs Bulls
+https://lb7.strmd.st/secure/ESDBATCeGmRgXxclHMAzkIOeldjlTpMg/echo/stream/ppv-event-10-napa-oh-speedweek-fremont-ppv-10/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Detroit Tigers vs Chicago White Sox" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Detroit Tigers vs Chicago White Sox
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/umWBnWByxnSIyjBHQNdjFtgWTRsXXrEL/rtmp/stream/FbCpr91Bfngzg8FuLDAX0vuLQa79rREO2XDUUayKZjfV0g41wgoOtZ4GN4DjM7BolHl3C2s/1/playlist.m3u8
+https://lb7.strmd.st/secure/WqSxizHctQNfRDiZOaKUtjAUteNphLeh/rtmp/stream/mQML-YYYS7TXiQ0-zhLSIOdVwY_pVqUqqBh26BdIejeA95-oyuE348Ntaf2av_IavKl3nB82jiV6U_3wwGto/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Scotland vs Morocco" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Scotland vs Morocco
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb17.strmd.st/secure/zzAvLgVzIvfbytJxmIEffHYcBqLeEOFz/rtmp/stream/0n0LNiKtEDCndTMK_tH8rFK04aIq2D50XsxgP-9xdV4TnxtjsqoDAdmI4oIMTwOVZC6ecZYrIQ/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Cage Warriors 206 Unplugged" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Cage Warriors 206 Unplugged
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb12.strmd.st/secure/KDEQgBdyGDegdgqnQxbvUJtexHrYmccz/rtmp/stream/aijdGbCKwhUEr0LqPhtN0LQganbUfWrJJ8f56xdL8IxZXk-gdjjadHMhT9zvjpJn9zoYlNAIalwDwBfsKKE/1/playlist.m3u8
+https://lb11.strmd.st/secure/smzsypDDLYzkAGTWxXCrKftaMZNIjdsh/delta/stream/live-event_cage-warriors-206-unplugged-live-stream/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="2026 PFL MENA 2: Jeddah" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",2026 PFL MENA 2: Jeddah
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.st/secure/uHfNGLAOQFmSzzaegSGSgqFtvuPWDYzB/delta/stream/live-event_2026-pfl-mena-2-jeddah-live-stream/1/playlist.m3u8
+https://lb6.strmd.st/secure/KVcPRfBBSDnxoMecRrEVkAtzyBmGPXhO/delta/stream/live-event_2026-pfl-mena-2-jeddah-live-stream/1/playlist.m3u8
