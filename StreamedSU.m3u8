@@ -1,21 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Athletics vs Los Angeles Angels" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Athletics vs Los Angeles Angels
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="V8 Darwin Triple Crown Race 1 - Hidden Valley Raceway " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",V8 Darwin Triple Crown Race 1 - Hidden Valley Raceway 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb20.strmd.st/secure/DoylRknowjmBKSMqvsRiumLaqlwUdBaL/rtmp/stream/lA59_ctlGwxZzsaPSKHyrmcbPKZrBgKOUi8AeQaWW0wksyBa7dSgyYIBARb3pBabea2z1kvmQQ-as_0/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="TNA: Impact" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",TNA: Impact
+https://lb17.strmd.st/secure/IqTlEukGFqyeJuQceGUCWUuMdriivlUW/echo/stream/v8-darwin-triple-crown-race-1-hidden-valley-raceway-racing-0059/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoGP Czech Republic Grand Prix  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",MotoGP Czech Republic Grand Prix  
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.st/secure/MCxzuKZeLLCEEhburYXVXPJhQRZpPQpS/rtmp/stream/7W_4SZUVbRVhsjpRDVutwCSkko0y5D1vEnMtZCEAJ8HXqsH0sShEck_hRa0qBV_ngZ_cFp4/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="NARC Super Dirt Cup Skagit" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",NARC Super Dirt Cup Skagit
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb12.strmd.st/secure/JUjdDgUZMvZXVeNXpdLQDJsmVDnSsJZf/echo/stream/ppv-event-07-narc-super-dirt-cup-skagit-ppv-07/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="World of Outlaws Sprints Hussets" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",World of Outlaws Sprints Hussets
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.st/secure/sXaXJszUKKyxprjBqdMxxehBfhnhPdHt/echo/stream/ppv-event-04-world-of-outlaws-sprints-hussets-ppv-004/1/playlist.m3u8
+https://lb11.strmd.st/secure/hpxJqbZAyzzhsvyweEeLxTreKKBzJQQs/echo/stream/motogp-czech-republic-grand-prix-game-122273/1/playlist.m3u8
