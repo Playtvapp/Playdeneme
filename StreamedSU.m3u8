@@ -1,36 +1,41 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="2026 PFL MENA 2: Jeddah" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",2026 PFL MENA 2: Jeddah
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.st/secure/rccOtvpjxmvNlHVTPquErFgfeiqjWYsx/delta/stream/live-event_2026-pfl-mena-2-jeddah-live-stream/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ONE Friday Fights 159 Gonzalez v Chatanan " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",ONE Friday Fights 159 Gonzalez v Chatanan 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.st/secure/BquDMwMoKkGTAAQsEyfpfDIaIsWtLroa/echo/stream/ppv-event-01-one-friday-fights-159-gonzalez-v-chatanan-ppv-01/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="ONE Friday Fights 159 & The Inner Circle 19" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",ONE Friday Fights 159 & The Inner Circle 19
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.st/secure/ESVaawzGcQyJinpTlMKjXvkuqDUOvpDH/rtmp/stream/rpRJFOlmT9aaahSyLGsXdxY7igUe9iFSercU8y9188-sIM9sq8E9tlplwSX1THo1IhgsRVGpaw/1/playlist.m3u8
+https://lb16.strmd.st/secure/epxTwpMfLkrIGMvjInYsZYzeCSNENEnL/rtmp/stream/ePjCFv7sQqkWDZxhYQCt4KLdxFH9QJcY_uUsNefAl0NvwEZdBQ7V2XyUgDH0FWIFezD2NcWmtw/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="U.S. Open Championship" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",U.S. Open Championship
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb13.strmd.st/secure/GFkzvHpTXQxrojIFyOFgbVfGiECPOXTl/echo/stream/us-open-championship-atp1000/1/playlist.m3u8
+https://lb5.strmd.st/secure/GKtntBJhADsNJCObvowiZOCuqWUdDFab/echo/stream/us-open-championship-atp1000/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="Slovak Darts Open | Day 1" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title=" Darts",Slovak Darts Open | Day 1
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.st/secure/eecfkDXlkcDbfUxWGCnJKWxiTSRTKRyi/rtmp/stream/di4J0l7m-lob7KbJWfo8Xgyum2rF8WAp27h34232J4_8BcikoNwBBp86YPTduGDdvQFwEGnDtQ/1/playlist.m3u8
+https://lb2.strmd.st/secure/iXipqKjjCgwePCIvJucgVcmpETJcOaHU/rtmp/stream/q7xXiJC4im0p6-Obgj7fBQEt_2kO4N09DOb_a5pam6kKeKfyFbMZh6W7qkxMQJFdUOS_7ioE0g/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="US Open - Round 2" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title=" Golf",US Open - Round 2
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb16.strmd.st/secure/skxIuzRVzsNFSTpcvcRBsQxgvcrvllCJ/rtmp/stream/lh-Jd1Vn1WWk2jjh13WMSCWqzKqok7ehBW45VhySP7tAq8r1ZrcO0TbR1pCNNQ6ujvRxno0JbS2g_t81iA/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="England vs. New Zealand" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title=" Cricket",England vs. New Zealand
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.st/secure/jAiZQNXeXlpGvkmDxBNnltTrvEPMoCFh/rtmp/stream/50foiMXlPEF9eFlI2Wd4K0rQ_hDj8y2cYqhniWMvWuS8MgQu7ShmwZGKHbvCMLVljPiAR3QB5v9sHz6z/1/playlist.m3u8
+https://lb9.strmd.st/secure/zUHDQlyEbLWZAzPcyddWnZpxifMZSiID/rtmp/stream/8hoPRJQvF7CSil7VL7O9Sojv1Ek5ouDQD3j8R9eK-WUiQu_nt7hNYDXWn5czR7paGZBQYDdxk4rhSjpO/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP / WTA: Halle / Berlin " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",ATP / WTA: Halle / Berlin 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb16.strmd.st/secure/wJTXtbmFsbDTssoAFxalZiBPlfQrzVZu/echo/stream/atp-wta-halle-berlin-tn-1/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="V8 Darwin Triple Crown Race 1 - Hidden Valley Raceway " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",V8 Darwin Triple Crown Race 1 - Hidden Valley Raceway 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.st/secure/KIDyoBbqmDfOSSWEmeFcgFQJDYngmVPt/echo/stream/v8-darwin-triple-crown-race-1-hidden-valley-raceway-racing-0059/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoGP Czech Republic Grand Prix  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",MotoGP Czech Republic Grand Prix  
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.st/secure/fljNvjFbdTdTThBUYBnusBroDQeiqGQY/echo/stream/motogp-czech-republic-grand-prix-game-122273/1/playlist.m3u8
+https://lb1.strmd.st/secure/MxnYPrbmsjurPPHoOoylZnlCWkXMZoLy/echo/stream/atp-wta-halle-berlin-tn-1/1/playlist.m3u8
