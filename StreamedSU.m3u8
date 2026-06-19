@@ -1,41 +1,36 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs vs Toronto Blue Jays" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Chicago Cubs vs Toronto Blue Jays
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.st/secure/wCUhmHBDCfnNctSRashuoehjXNhaMajJ/rtmp/stream/2fOstPeUHj6Do-qiAD31HXCFA-HkuvBfa5w-rFoPNDg4Wfm7kbEbAGHJ9oWeLv5n8KWx3x_Gl-v7_9y7_Q/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Cage Warriors 206 Unplugged" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Cage Warriors 206 Unplugged
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.st/secure/qrGBJNPEBNpMIEAWXgDFyhiLSosSxwbY/rtmp/stream/0XfhGoRUTScPOSVr_3rETkrLTsdKxPi1XByqOVGV07jxDhdbFDwK9XPBrb77_shH3giSz07P-N7-M2x9rjI/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="2026 PFL MENA 2: Jeddah" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",2026 PFL MENA 2: Jeddah
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.st/secure/rccOtvpjxmvNlHVTPquErFgfeiqjWYsx/delta/stream/live-event_2026-pfl-mena-2-jeddah-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ONE Friday Fights 159 Gonzalez v Chatanan " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",ONE Friday Fights 159 Gonzalez v Chatanan 
+https://lb15.strmd.st/secure/KrYWvMAMszvejGZhxiVjzOcMFkXHTgBr/delta/stream/live-event_2026-pfl-mena-2-jeddah-live-stream/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Nascar Truck Series 2026 - NASCAR CRAFTSMAN Truck Series Race at San Diego" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Nascar Truck Series 2026 - NASCAR CRAFTSMAN Truck Series Race at San Diego
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.st/secure/BquDMwMoKkGTAAQsEyfpfDIaIsWtLroa/echo/stream/ppv-event-01-one-friday-fights-159-gonzalez-v-chatanan-ppv-01/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="ONE Friday Fights 159 & The Inner Circle 19" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",ONE Friday Fights 159 & The Inner Circle 19
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb16.strmd.st/secure/epxTwpMfLkrIGMvjInYsZYzeCSNENEnL/rtmp/stream/ePjCFv7sQqkWDZxhYQCt4KLdxFH9QJcY_uUsNefAl0NvwEZdBQ7V2XyUgDH0FWIFezD2NcWmtw/1/playlist.m3u8
+https://lb3.strmd.st/secure/czpUdEIbEJIdIaMZsnuseWuHTEuEgVGN/delta/stream/live-event_nascar-truck-series-2026-nascar-craftsman-truck-series-race-at-san-diego-live-stream/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="U.S. Open Championship" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",U.S. Open Championship
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.st/secure/GKtntBJhADsNJCObvowiZOCuqWUdDFab/echo/stream/us-open-championship-atp1000/1/playlist.m3u8
+https://lb16.strmd.st/secure/ZhgxiocoIjUIeJMwRtiiPKOETCikPCNR/echo/stream/us-open-championship-atp1000/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="Slovak Darts Open | Day 1" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title=" Darts",Slovak Darts Open | Day 1
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.st/secure/iXipqKjjCgwePCIvJucgVcmpETJcOaHU/rtmp/stream/q7xXiJC4im0p6-Obgj7fBQEt_2kO4N09DOb_a5pam6kKeKfyFbMZh6W7qkxMQJFdUOS_7ioE0g/1/playlist.m3u8
+https://lb14.strmd.st/secure/yzwmfCWBNASeYpajKiymgfvrFspNoEeT/rtmp/stream/e473zm6j6kHBKwgyiLyPXZ_7gCew-f2F8onQ7QI0UTnDYlHUaXkEWAZZZLR4p60GwQkRUf3kxQ/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="US Open - Round 2" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title=" Golf",US Open - Round 2
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb16.strmd.st/secure/skxIuzRVzsNFSTpcvcRBsQxgvcrvllCJ/rtmp/stream/lh-Jd1Vn1WWk2jjh13WMSCWqzKqok7ehBW45VhySP7tAq8r1ZrcO0TbR1pCNNQ6ujvRxno0JbS2g_t81iA/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="England vs. New Zealand" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title=" Cricket",England vs. New Zealand
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.st/secure/zUHDQlyEbLWZAzPcyddWnZpxifMZSiID/rtmp/stream/8hoPRJQvF7CSil7VL7O9Sojv1Ek5ouDQD3j8R9eK-WUiQu_nt7hNYDXWn5czR7paGZBQYDdxk4rhSjpO/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="ATP / WTA: Halle / Berlin " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",ATP / WTA: Halle / Berlin 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.st/secure/MxnYPrbmsjurPPHoOoylZnlCWkXMZoLy/echo/stream/atp-wta-halle-berlin-tn-1/1/playlist.m3u8
+https://lb5.strmd.st/secure/EGvBDsDTuUvlsRXsqxBElisRgAiCWvTw/rtmp/stream/9OnuXLPei9Rk7LHPnDtqYcFzL9NFQ5wqAdnxyrqioreAqdSn6kWb__MmUR1CBNe2lWSXqSEW7qaYhvUbfw/1/playlist.m3u8
