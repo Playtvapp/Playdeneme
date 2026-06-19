@@ -1,41 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Indiana Fever vs Atlanta Dream" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Indiana Fever vs Atlanta Dream
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Athletics vs Los Angeles Angels" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Athletics vs Los Angeles Angels
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb20.strmd.st/secure/vLncBFyCoiZvufNAzkJLHuzgLpYIjGEv/rtmp/stream/tp7YOsdXGHVTitvrdX2eqT5WD55Qcox_8CK99dT4CKDqPtrCwD_vgypHvi22dewTrXaTq6ZqtjC5TlnU9lE/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Indiana Fever W vs Atlanta Dream W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Indiana Fever W vs Atlanta Dream W
+https://lb20.strmd.st/secure/DoylRknowjmBKSMqvsRiumLaqlwUdBaL/rtmp/stream/lA59_ctlGwxZzsaPSKHyrmcbPKZrBgKOUi8AeQaWW0wksyBa7dSgyYIBARb3pBabea2z1kvmQQ-as_0/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="TNA: Impact" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",TNA: Impact
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/WOXwmLzKvZFcdKEUewqMTUxnfVOZgJde/echo/stream/indiana-fever-w-vs-atlanta-dream-w-basketball-494886/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Atlanta Braves vs San Francisco Giants" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Atlanta Braves vs San Francisco Giants
+https://lb2.strmd.st/secure/MCxzuKZeLLCEEhburYXVXPJhQRZpPQpS/rtmp/stream/7W_4SZUVbRVhsjpRDVutwCSkko0y5D1vEnMtZCEAJ8HXqsH0sShEck_hRa0qBV_ngZ_cFp4/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="NARC Super Dirt Cup Skagit" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",NARC Super Dirt Cup Skagit
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb14.strmd.st/secure/fLQKTPiqrNMusekLyGkYLDFPHXrfArJi/rtmp/stream/hPqS4aHEpFKA1IQE3190q-9KVwdyeD7yzscTP1wA0LwjgVVPWSIKb1sOypvy8Qpr2ewWr6lrZN6_XoCh-FRI/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="USAC Eastern Storm Big Diamond " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",USAC Eastern Storm Big Diamond 
+https://lb12.strmd.st/secure/JUjdDgUZMvZXVeNXpdLQDJsmVDnSsJZf/echo/stream/ppv-event-07-narc-super-dirt-cup-skagit-ppv-07/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="World of Outlaws Sprints Hussets" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",World of Outlaws Sprints Hussets
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.st/secure/fmKbLYxMkBzIWzflJoufTmMgPoevOeJe/echo/stream/ppv-event-02-usac-eastern-storm-big-diamond-ppv-02/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees vs Chicago White Sox" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",New York Yankees vs Chicago White Sox
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.st/secure/uAEbtarypvaqDEoRolcLuhFZTMHbnEnA/rtmp/stream/Jv5RnNVnYT1HJZvX8qwb26whWm6Sn8WrxKBnTDM9Q2lx8hOsoF5CNneDkJIJwbF4yeWi0WBvosFcxS_dhdp6Hw/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="NAPA OH Speedweek Waynesfield" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",NAPA OH Speedweek Waynesfield
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb19.strmd.st/secure/sKnvaFWApEtIDNQQqtjhzIuijvNzvpFE/echo/stream/ppv-event-01-napa-oh-speedweek-waynesfield-ppv-01/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies vs New York Mets" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Philadelphia Phillies vs New York Mets
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.st/secure/BYIUPRcFZeOsQOvEnNwhBXiWqDbcTHJV/rtmp/stream/wUAvf9ST4IJkpye-YbOaB7ZBgD52y4u2UnM_OP47ifvTctO_IJ-KUuGMh20NJQrQZbSugX0ELFUa3ykirp0QlqLeV7391g/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Canada vs Qatar" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Canada vs Qatar
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb12.strmd.st/secure/aiEHdPTymMzOKpDUTcOXyNzbvJZTZMBG/rtmp/stream/cDSSQBU5WBKXy91xahYGp5rX2ARXQZGH7jYjR52fFKz1tuWY1VXZCg3bxDeN3SA5pzBwlfi8lA/1/playlist.m3u8
+https://lb18.strmd.st/secure/sXaXJszUKKyxprjBqdMxxehBfhnhPdHt/echo/stream/ppv-event-04-world-of-outlaws-sprints-hussets-ppv-004/1/playlist.m3u8
