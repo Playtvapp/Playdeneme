@@ -1,46 +1,46 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="York City Knights vs Wigan Warriors" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title=" Rugby",York City Knights vs Wigan Warriors
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Atlanta Dream vs Indiana Fever" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Atlanta Dream vs Indiana Fever
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb19.strmd.st/secure/gAbMuUEguRCwktdfkSqfTzpjUWtMCzPl/echo/stream/york-knights-vs-wigan-warriors-game-182283/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Northampton Saints vs Exeter Chiefs" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title=" Rugby",Northampton Saints vs Exeter Chiefs
+https://lb12.strmd.st/secure/RkeGqLeIWuGaZesADcvIfyaSthQphrun/delta/stream/live_wnba_atlanta-fever-live-streaming-1211112675/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Catalans Dragons vs Bradford Bulls" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title=" Rugby",Catalans Dragons vs Bradford Bulls
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.st/secure/ySOSmyGuKCoiAOcwmtBmiNYrodNcxcHY/echo/stream/northampton-saints-vs-exeter-chiefs-rugby-53629/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Pro Motocross: High Point" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Pro Motocross: High Point
+https://lb7.strmd.st/secure/hYzvKgWpxOEAZCdbnQOdGwzqdqtUgJyh/echo/stream/catalans-dragons-vs-bradford-bulls-game-37322/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Netherlands vs Sweden" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Netherlands vs Sweden
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.st/secure/uhaPjBIjITvCIVPbqAdtvywJUClykhBi/rtmp/stream/yAXgUEN731L1GIBcDzzHR-crpm677EPgrwkiTEM4RXEswNC8WiuuBrVgapDvwuOn_HQkmvE/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="US Open | Round 3" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title=" Golf",US Open | Round 3
+https://lb20.strmd.st/secure/EkNetFHkOodofXrAwbZIYBznMPWWzzOl/delta/stream/live_world-championship-gr-f_netherlands-sweden-live-streaming-1243654101/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Wroclaw Speedway Grand Prix " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Wroclaw Speedway Grand Prix 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb16.strmd.st/secure/TasWYppYRAolWgZgNgLSWGInejAnzzVE/rtmp/stream/cqVbhg0yDI0jhlilxXNcYZDXT-n6JXgEgLvROT6zINHOg4lUxVy0kFilRUR_3IyAZEm5nbGsxYUoRoDXJw/1/playlist.m3u8
+https://lb16.strmd.st/secure/WtqvfjCaaxEcQDyZNouaQYfzfUxEblBX/echo/stream/wroclaw-speedway-grand-prix-racing-0059/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Garner v Magnesi " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Garner v Magnesi 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.st/secure/tOZpfNWsDYVCgJMKuQBKRztXESAYRgCe/echo/stream/ppv-event-02-garner-v-magnesi-ppv-02/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="AMA Supercross Championship Mount Morris" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",AMA Supercross Championship Mount Morris
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.st/secure/xuVRpOZYppvxVjnrdANxiGJBeqZSLrEp/echo/stream/ppv-event-13-ama-supercross-championship-mount-morris-ppv-13/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="NTT IndyCar Series 2026 " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",NTT IndyCar Series 2026 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.st/secure/RnEPfJdQsCUPWNGHxOJewCShgFnGPWDi/echo/stream/ntt-indycar-series-2026-game-4u8337/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="U.S. Open Championship" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" group-title=" Golf",U.S. Open Championship
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.st/secure/WojQrvHgbSohHEeBKxyQfPyoXdRKsCcw/echo/stream/us-open-championship-atp1000/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="South Africa Rugby vs Barbarians" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title=" Rugby",South Africa Rugby vs Barbarians
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.st/secure/tVbFqzSGVvyWKfRuWbWPTGbBDWGkGshn/echo/stream/south-africa-vs-barbarians-rugby-52833/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="Slovak Darts Open | Day 2" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title=" Darts",Slovak Darts Open | Day 2
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb17.strmd.st/secure/BaXIGJMnkGVrsJmuIzHjnsAGlzPCdSEH/rtmp/stream/09jvp04AlZh0QfgcbgXWbRrj4BbKTC6waKu6gayX-CUmdz4UcmyT-TPiqvq4HEMCVnY1OqFvXA/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="England vs. New Zealand" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title=" Cricket",England vs. New Zealand
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb13.strmd.st/secure/KcmAwRuOGAKraOosUZkcQwvnMnrBuzFx/rtmp/stream/iCuiwTifJqhpC3T83MRAHUoZe4IcCxjhP1NNaIF4bh3Lan5NXoDJdbeSHvbvs55DSOdbYO952og/1/playlist.m3u8
+https://lb11.strmd.st/secure/REoXCvNPKGxLRlEnsLYoYAwnKDaKRInw/echo/stream/us-open-championship-atp1000/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Halle / Berlin " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",ATP / WTA: Halle / Berlin 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb12.strmd.st/secure/IeifTNBJTlzkHOYEFjddwMtiUfHXRONM/echo/stream/atp-wta-halle-berlin-tn-1/1/playlist.m3u8
+https://lb19.strmd.st/secure/tGStjtPqmDLLzWQKJglbEZXmVNdRqIzi/echo/stream/atp-wta-halle-berlin-tn-1/1/playlist.m3u8
