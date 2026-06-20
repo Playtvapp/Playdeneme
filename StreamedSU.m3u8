@@ -1,31 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="Slovak Darts Open | Day 2" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title=" Darts",Slovak Darts Open | Day 2
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.st/secure/cfdaqjybjrZIewbsbpbOTJtDxcwUjztO/rtmp/stream/ITB16Fp6WnlmSO0K3ZrqbZXjyJhZU5EwHgvT1iHDqki98UgFBIYuVwOxPCEGSuA4Hd1RqtagZQ/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="MotoGP 2026 - Czech Republic Grand Prix" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",MotoGP 2026 - Czech Republic Grand Prix
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.st/secure/kYIwTzBtpCKgjgqTUSshANkZiunrMCqm/echo/stream/motogp-czech-republic-grand-prix-game-122273/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="England vs. New Zealand" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title=" Cricket",England vs. New Zealand
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.st/secure/WRBClXBZWzIZCMFrCSyLMvRDJcEmohum/rtmp/stream/2DekSIgQFgnYpLFcjBNHdUHLNhDtC-ExCFL6-nAiPKjrnoT05Ufdis4hTrrVFNsdfdUBjfxd_7s/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Canterbury Bankstown Bulldogs vs Manly Sea Eagles" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title=" Rugby",Canterbury Bankstown Bulldogs vs Manly Sea Eagles
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb17.strmd.st/secure/TIdZgentuxKggOEKdddhieMrdpvAVTXr/rtmp/stream/HKdWOzRt33xcw3PFKLCDv-FUgHFYSTd4F3ArHqLj5CVQNxb8vGgMHMpbLjuq8_Va5NaFGCRZRnTrGfY/1/playlist.m3u8
-#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Collingwood Magpies vs Port Adelaide Power" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Afl",Collingwood Magpies vs Port Adelaide Power
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.st/secure/TVOZvJeVWJYUUARZWzraDuQqOfxkTrbS/echo/stream/collingwood-magpies-vs-port-adelaide-power-australian-football-3470/1/playlist.m3u8
+https://lb17.strmd.st/secure/SqQdLVpYXyKCykVJplWUGCBQVEyvuWeO/rtmp/stream/HJlh1PmpJTm3kVmMizcjZlQk_TwKDuZOMijsrySwjmLixrdZY6CefT21jOCrh4yGQDhuRuIReT8/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Halle / Berlin " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",ATP / WTA: Halle / Berlin 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb20.strmd.st/secure/BLbepGkLsjZJwcGBpKVEgtUrJUgbVVQy/echo/stream/atp-wta-halle-berlin-tn-1/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Sydney Ice Dogs vs. Sydney Bears" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Hockey",Sydney Ice Dogs vs. Sydney Bears
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.st/secure/xXmZSsVgyAdRznkyLKCfIZvZtdbBqCYT/rtmp/stream/_Xcg-f9R97P4LfDggLnhjTfXHjktzDvB1jkXp8LPCWTknN5c3sgLth3nDDicy7ojCdNpJHIt/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoGP Czech Republic Grand Prix  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",MotoGP Czech Republic Grand Prix  
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.st/secure/vqdtDJpfOtbxMmoARjtvXWJqCwQozUxX/echo/stream/motogp-czech-republic-grand-prix-game-122273/1/playlist.m3u8
+https://lb20.strmd.st/secure/epTopOoHmMNJNSQHyqLsgIORcftjlIKn/echo/stream/atp-wta-halle-berlin-tn-1/1/playlist.m3u8
