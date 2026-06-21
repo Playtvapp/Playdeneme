@@ -1,31 +1,46 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="St Helens vs Huddersfield Giants" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title=" Rugby",St Helens vs Huddersfield Giants
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.st/secure/jdAkrcuBTKcSYOwtGWCOSYWHlgeddUop/echo/stream/st-helens-vs-huddersfield-giants-game-182283/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="U.S. Open Championship" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",U.S. Open Championship
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.st/secure/dJjkropbvYAVrboRLChGnXGByiWKkDhI/echo/stream/us-open-championship-atp1000/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="London Warriors vs Vienna Vikings" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true" group-title=" American Football",London Warriors vs Vienna Vikings
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb16.strmd.st/secure/seMaxJMFmQxJceQwYqYEtvZqGhILAnHA/rtmp/stream/noLrPrYYtDvYA1XjQq9n6sKDWYyyvGtAX_FgEZQxGxGc6ydvqwm9aKqnZs-D7cvMDrkxxMicqGOQlkiW4QqjbvljTBS6/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="British GT 2026: Spa - Francorchamps " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",British GT 2026: Spa - Francorchamps 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.st/secure/FjwZHxujvvvrfqYZPOsUZjBTtHdNtzJi/echo/stream/british-gt-2026-spa-francorchamps-game-4u8337/1/playlist.m3u8
+https://lb20.strmd.st/secure/bDAkCthoRBIpdeSUYEwmDdAmyXCcoOHd/echo/stream/british-gt-2026-spa-francorchamps-game-4u8337/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="Slovak Darts Open | Day 3" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title=" Darts",Slovak Darts Open | Day 3
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb14.strmd.st/secure/mgPcrubDoiKYBXzjEdIpWfYWMtEHkBFL/rtmp/stream/BP3ELDKWtpzjrzQ-y02mi1hCsPXXFG0aqipNWHnzm4pT6xhF7KCfQM8b78Ib1flzY__Hhi77Vw/1/playlist.m3u8
+https://lb14.strmd.st/secure/DiCPPhMgOefvOscmFOUBcDJbTNagsmGU/rtmp/stream/qt0NE5_rFjTK92eDq7HjXxThxDWZrEAIHCQ0E59Usm8uQK-iBRGDr4wXtZe1OisT5IHMhhmJ4A/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="England vs. New Zealand" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title=" Cricket",England vs. New Zealand
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/FUbCaWDoeZtCRMVYXgymwtNJkPysJLrA/rtmp/stream/A2k74zZL4Yg-FmiwXSJjR9f0XXFRahiAQ9MLEiT3CiXIQrDkZKdVRgz4az7Fl57002wlIQL4PXg/1/playlist.m3u8
+https://lb13.strmd.st/secure/skHeLJhmyUPQZbopiKWlJfmCcXVhkUcl/rtmp/stream/l5HI5L1kBF7fynq8nCAH7Uv4dsJP8zkfKIkn8cEBH2iCC1kCtmfsePxr-H0HEzPp8MCikQEJXgs/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Halle / Berlin " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",ATP / WTA: Halle / Berlin 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/HrwFyvJxkqfEYfUTOaPTlkyhserFdfUK/echo/stream/atp-wta-halle-berlin-tn-1/1/playlist.m3u8
+https://lb13.strmd.st/secure/iLlFmnsxHlkkPmTbkIjfLzMsSFTjAuWN/echo/stream/atp-wta-halle-berlin-tn-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Nascar Cup Series 2026 - Anduril 250" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Nascar Cup Series 2026 - Anduril 250
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.st/secure/gqSIAydhlOZmHqFFrRyaTLrMvggTsknJ/delta/stream/live-event_nascar-cup-series-2026-anduril-250-live-stream/1/playlist.m3u8
+https://lb3.strmd.st/secure/cbOJVoxpAINqlzqvIJYNtksLrXsIVoxa/delta/stream/live-event_nascar-cup-series-2026-anduril-250-live-stream/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoGP Czech Republic Grand Prix  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",MotoGP Czech Republic Grand Prix  
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.st/secure/fkFKSSNMvywmsZSKQdfnISKBAyEMJTSu/echo/stream/motogp-czech-republic-grand-prix-game-122273/1/playlist.m3u8
+https://lb10.strmd.st/secure/RyDLoFmhASxibWepLJGHGEYYTyKbmgTe/echo/stream/motogp-czech-republic-grand-prix-game-122273/1/playlist.m3u8
