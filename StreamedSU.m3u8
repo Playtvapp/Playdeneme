@@ -1,81 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Dallas Wings vs Chicago Sky" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Dallas Wings vs Chicago Sky
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="St Kilda Football Club vs Western Bulldogs" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Afl",St Kilda Football Club vs Western Bulldogs
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.st/secure/opXECTwgswKNsVkGwqmvDIVkuRBsvmhK/rtmp/stream/bvS36jBs0I3osD7KvsmZV5BoVDZGiwoG17XwjBChYJKshuaRCXmLD48S82I33BIcqW_EPJVQnJI9tMtrvA/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Ecuador vs Curaao" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Ecuador vs Curaao
+https://lb6.strmd.st/secure/OWsmimehvKMNJMtTuWdysTxyCIlageEL/echo/stream/st-kilda-saints-vs-western-bulldogs-australian-football-3472/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="V8 Darwin Triple Crown | V8 Supercars Championship" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",V8 Darwin Triple Crown | V8 Supercars Championship
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.st/secure/bwJbPDbSyOYTEcOWSWSIGUTPKqUAPFNa/rtmp/stream/rH3LYOFdBf1WPJgJpI15zexjQjj_y552CFKcF_SnyIVuU3XdORHzWTin_EDC23FG9z9TPNFILg/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="AEW: Saturday Night Collision" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",AEW: Saturday Night Collision
+https://lb7.strmd.st/secure/VICwqJaNcQDWBiZLuZYhMJJJyNtxiraH/echo/stream/v8-darwin-triple-crown-v8-supercars-championship-game-19996/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="New Zealand Warriors vs North Queensland Cowboys" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title=" Rugby",New Zealand Warriors vs North Queensland Cowboys
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb14.strmd.st/secure/WwhkLehjKxSIjywKcQMZmjMdpdKhijLG/rtmp/stream/eEyrKVgUOajn29rtiXznNLuVizi2020qgxQiz2MSOr43qHuwaUkq5MeZW-IwT7Jf4zQEL54/1/playlist.m3u8
+https://lb13.strmd.st/secure/bBkluGyFfoYPeimSqAihSEKFJIppDlKl/rtmp/stream/0nfkfyWn8XwtN-CelOBiXi6XoimzfqmJg2sLP1sRny6I3Q1Jw7Gv2Euz3L50o1xkfZnniLv6fG1afMg/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Tunisia vs Japan" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Tunisia vs Japan
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb12.strmd.st/secure/qnYPzmTEeCsxEdZquIEBoXkonTGGzxGJ/rtmp/stream/Uprvf0W1uaa7CLg2N2RTjjl5jzSISv-1FU1hQ-c40rQT8KSSs6jj_7Oi1CsaytLDO0-iQHrC0A/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Oscar Collazo vs Neider Valdez" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Oscar Collazo vs Neider Valdez
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.st/secure/RHjkxdGTsdAWRXMnLZLxZiEKydevqZBQ/delta/stream/live-event_oscar-collazo-vs-neider-valdez-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Dallas Wings W vs Chicago Sky W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Dallas Wings W vs Chicago Sky W
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/LdBhSjHxvHHhkSdSssqEyBvwAhQFcBfy/echo/stream/dallas-wings-w-vs-chicago-sky-w-basketball-494892/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="World of Outlaws Sprint Cars Husets" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",World of Outlaws Sprint Cars Husets
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.st/secure/ZPgOcvPCGtBNgfcQKAXJmPhvhaHoIEAt/echo/stream/ppv-event-25-world-of-outlaws-sprint-cars-husets-ppv-25/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies vs New York Mets" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Philadelphia Phillies vs New York Mets
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.st/secure/cygnIkxeKCCINwNFISPXfISwANAkHrcT/rtmp/stream/GZ3M9TIzIGwJcTxAQYrIMkT0XHhaSttKfJeUIzw6nonoe1EjuPTCDEwnQ5wDB2M1ScvzbT-GZYtJOlNomA0Vq01cUzwmWg/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Houston Astros vs Cleveland Guardians" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Houston Astros vs Cleveland Guardians
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb19.strmd.st/secure/nVuiHiOcFIsyGsCHYsALDOvRvEhQfxTo/rtmp/stream/kK4VyIrJzV6gQSBVMAHHE4-obgK6451K-Rr5j1IxPveZxAtJEEf4ft1hsq4c7jZBk0KX61NDGDONOlKcEHN9/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="Calgary Stampeders vs Saskatchewan Roughriders" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true" group-title=" American Football",Calgary Stampeders vs Saskatchewan Roughriders
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.st/secure/DEaqqMCUfLpzjSVIYkJdHtRibHKSFRGH/rtmp/stream/RXiiNWeGXiANQmUz-WVOcG78y5-XFfjqxrjx2HvyfzguAzI6hhS3zGaaihFPj7ZrOEZBW7r8Nxehu45JGeYk37i67HSpRFI/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="USAC Eastern Storm Port Royal" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",USAC Eastern Storm Port Royal
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb13.strmd.st/secure/NaUtsTwUtwGIkQBSALCehjrwStUKsjyB/echo/stream/ppv-event-20-usac-eastern-storm-port-royal-ppv-20/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="IRA Sprints Butler Motor" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",IRA Sprints Butler Motor
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb13.strmd.st/secure/JrVlytNEftnbiifwVfNblQhZOQCxtkEM/echo/stream/ppv-event-18-ira-sprints-butler-motor-ppv-18/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Supermodifieds Oswego" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Supermodifieds Oswego
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb16.strmd.st/secure/uaiGMLDJTcYimDXpNaKgWQtojSLmbZLB/echo/stream/ppv-event-16-supermodifieds-oswego-ppv16/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="NAPA OH Speedweek Wayne Co" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",NAPA OH Speedweek Wayne Co
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.st/secure/HSTFPsTQBPYdprvmTmGvkTxPVKqRtCRc/echo/stream/ppv-event-15-napa-oh-speedweek-wayne-co-pppv15/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC Fight Night: Kape vs. Horiguchi" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",UFC Fight Night: Kape vs. Horiguchi
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.st/secure/DPgALrhsItZNExfMvLhqxBCNyifoNrdx/rtmp/stream/xYQe7uRuYxf1h1eG43LIylmGQG2kbN-68eJ87dWjW2qkwVNTVWUGrCMRJct5tXPixtSIxlg/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Cage Warriors 207 Manchester" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Cage Warriors 207 Manchester
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb11.strmd.st/secure/iHZbERvbneCMomjktfVMUHYHcexkjMoR/rtmp/stream/SxDqbj_zW7q0TiZgFt43-uXHCI89d4KnXCfkJFaSbnSV_MUdtDNoCqFHAA6pccqGmpKADXiB5TuDeNxv4kM/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Ryan Garner vs Michael Magnesi" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Ryan Garner vs Michael Magnesi
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.st/secure/WcsEaluydVZdYzEXrtWKFZWxchxmzLbh/delta/stream/live-event_ryan-garner-vs-michael-magnesi-live-stream/1/playlist.m3u8
+https://lb5.strmd.st/secure/FIIokZzjCNzjvvHenBWbelbeqOuIwGXv/delta/stream/live-event_oscar-collazo-vs-neider-valdez-live-stream/1/playlist.m3u8
