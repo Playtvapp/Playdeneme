@@ -1,26 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="England vs New Zealand" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title=" Cricket",England vs New Zealand
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="British GT 2026: Spa - Francorchamps " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",British GT 2026: Spa - Francorchamps 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb13.strmd.st/secure/buwEGJVlWtJxTqrSSPQdXqSvBFneNnzd/echo/stream/second-test-england-vs-new-zealand-cricket-hundred-1/1/playlist.m3u8
+https://lb1.strmd.st/secure/FjwZHxujvvvrfqYZPOsUZjBTtHdNtzJi/echo/stream/british-gt-2026-spa-francorchamps-game-4u8337/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Darts.Dummy.us" tvg-name="Slovak Darts Open | Day 3" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts2.png?raw=true" group-title=" Darts",Slovak Darts Open | Day 3
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb14.strmd.st/secure/mgPcrubDoiKYBXzjEdIpWfYWMtEHkBFL/rtmp/stream/BP3ELDKWtpzjrzQ-y02mi1hCsPXXFG0aqipNWHnzm4pT6xhF7KCfQM8b78Ib1flzY__Hhi77Vw/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="England vs. New Zealand" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title=" Cricket",England vs. New Zealand
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.st/secure/FUbCaWDoeZtCRMVYXgymwtNJkPysJLrA/rtmp/stream/A2k74zZL4Yg-FmiwXSJjR9f0XXFRahiAQ9MLEiT3CiXIQrDkZKdVRgz4az7Fl57002wlIQL4PXg/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Halle / Berlin " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",ATP / WTA: Halle / Berlin 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.st/secure/HrwFyvJxkqfEYfUTOaPTlkyhserFdfUK/echo/stream/atp-wta-halle-berlin-tn-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Nascar Cup Series 2026 - Anduril 250" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Nascar Cup Series 2026 - Anduril 250
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb12.strmd.st/secure/SblGCRDMgsEbeBaiqvXcrWsNVdYgQUmh/delta/stream/live-event_nascar-cup-series-2026-anduril-250-live-stream/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Sydney Roosters vs Cronulla Sharks" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title=" Rugby",Sydney Roosters vs Cronulla Sharks
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb11.strmd.st/secure/zlMWXwwAZmVQeIkXEKmDjWaihcNUcYzz/rtmp/stream/aa-XRvjwJr5PEwuoO7jM7q29LRJH6tz6Avo51UXB7CMtYn17oOR1f7qS-g-C1TP--HwNourorvcQFqE/1/playlist.m3u8
+https://lb1.strmd.st/secure/gqSIAydhlOZmHqFFrRyaTLrMvggTsknJ/delta/stream/live-event_nascar-cup-series-2026-anduril-250-live-stream/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoGP Czech Republic Grand Prix  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",MotoGP Czech Republic Grand Prix  
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.st/secure/BHnsfRczjttuqfhyhmGFbabvttySCOUz/echo/stream/motogp-czech-republic-grand-prix-game-122273/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="V8 Darwin Triple Crown | V8 Supercars Championship" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",V8 Darwin Triple Crown | V8 Supercars Championship
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.st/secure/yZjdSPIAcmWvGZjjTCBEGIeHLWdLtpRH/echo/stream/v8-darwin-triple-crown-v8-supercars-championship-game-19996/1/playlist.m3u8
+https://lb5.strmd.st/secure/fkFKSSNMvywmsZSKQdfnISKBAyEMJTSu/echo/stream/motogp-czech-republic-grand-prix-game-122273/1/playlist.m3u8
