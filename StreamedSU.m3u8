@@ -1,6 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Portugal vs Uzbekistan" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Portugal vs Uzbekistan
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays vs Houston Astros" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Toronto Blue Jays vs Houston Astros
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.st/secure/pxyrJrdXrXbZLhpPiJiblSrOqLpEtyzi/rtmp/stream/2pvvOgZGM6Js_LZdLQuaMbBbPR1GtPJhwo3CRINnLxWMqoODWi-wmgkJpGFcthbCaOQBuzU7gw/1/playlist.m3u8
+https://lb20.strmd.st/secure/gWMDsWHmzGfeSoDieXbHHkYxROWasCJX/rtmp/stream/FHUSrO9xBHWdLz6RCcmA9l1neIh9Yib0edMmCpzZwqiTKNwhBTUm1uUpklmqqnnHww9UegeZj0duVS-oXjdJL8w/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="England vs Ghana" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",England vs Ghana
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb20.strmd.st/secure/nQypwmZqrTQYcRCtEJjwnWcyfMPLsCOF/rtmp/stream/xiFtATIRy1hKcs8sUbIcaSz0eyTScOl-ibcWsBeI0lzsj1Qq8Y0aTBQPyt3AihWG5aTb-yVxaA/1/playlist.m3u8
