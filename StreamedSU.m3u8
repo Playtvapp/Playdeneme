@@ -1,31 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Morocco vs Haiti" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Morocco vs Haiti
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb16.strmd.st/secure/pwWZDNabuPhkkIeRCtdOCllqywFcplYe/rtmp/stream/t5WMNlKpwXdy2VmTYHTCSCNRqwbYVz5U0gz3ELxW5fHRq9JhMTg33u2QxLwqc2Qt7D3QXsyN/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Scotland vs Brazil" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Scotland vs Brazil
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.st/secure/YFkdPAsviHyMirnrSLMkeXBxELbSxePo/rtmp/stream/Mo4AiLTYRQn9yzY9HhFD6VZ4-KZjWzQkphaV4mfs4KA9iKTGMWCE4P_QxL5y0pXvKgAyNUHsoA/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels vs Baltimore Orioles" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Los Angeles Angels vs Baltimore Orioles
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb19.strmd.st/secure/uiWphxVkODdvwHIrPODfcDktFmFoirDS/rtmp/stream/CIFwTXsBttAV_fWg8oXqFbk2-0Gh4XQ1FqVUEbEhX5QYQsTEIrjKlM90aGaT5J6iXiPZvbDN5VpIYajvFo16lx6a/1/playlist.m3u8
+https://lb11.strmd.st/secure/crimpvUjjzPCpqnagqWlkLtQReXwzJBR/rtmp/stream/a78qE1MGGsRs1ZTLQHCA9TR9Bjdpa4QFGbRi5s0HdnbPqYyRSdwrcoG3PrLbiGi5LO9iE0cVXkf29nj5GlSwAVNH/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies vs Boston Red Sox" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Colorado Rockies vs Boston Red Sox
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.st/secure/tFvbZoSUQWRZHpgqWEsbIinZOwnUDnnk/rtmp/stream/UBRCd6WnCK3GfPYbqsuOTlWfJo9EkaIY2b98AaG23gSoiLXU26pzw9DuS8p3bwNN5MxoYm4zCwimsaRFVcrVuJc/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Switzerland vs Canada" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Switzerland vs Canada
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb16.strmd.st/secure/ZaYijRxlPiPRmSDYEWfDEuecMLrFKTKr/rtmp/stream/MV8NZ2BjM85jJ3SzMYdHGbVBmgj3UnwHPRG7yQ28k3rt80aNeGKdjTyVjRV8h1R1_dbcobdAdQ/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bosnia-Herzegovina vs Qatar" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Bosnia-Herzegovina vs Qatar
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.st/secure/QPPXwHXsxGmTpUmMnpIoZvfZntjHywgC/rtmp/stream/bwEw3LmPEJVBuz-SFKZQboNFgU-PXoUyeGpEaefeI319UL37QopXB1xbgyjLSFNz8pO-jiaV/1/playlist.m3u8
+https://lb18.strmd.st/secure/kyFVELJAaZbxXzgJcOjUnwZghmXiiYfG/rtmp/stream/DWgmQA9NS-fCgJt4o7cM3DiA_eM3Uw6GU2Y2Kmb-d4XF1IN44KW5UmPSkolPk_YyCf8UyjRrIUHzF8OFR9Ax7eM/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago White Sox vs Cleveland Guardians" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Chicago White Sox vs Cleveland Guardians
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.st/secure/XSqGEetTiHVyYnnoFNhMzUxtrKiowXVP/rtmp/stream/BWDVTotCV17M6rpd4M2IOt6b9I9L5-NDu6KiRwYFVj75DkoV9de4V4oqd75TWTADOcmAU5pVM7Ewgv4reKCLD5w/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets vs Chicago Cubs" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",New York Mets vs Chicago Cubs
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.st/secure/WodCHCYKVweOUWZLizjPpsnKSGpDOwXA/rtmp/stream/t4VogXOfaGTqjeXoafqfarabMrz-Hze_SpDtQES4xAZiSrvinH7dM7NaMOPlJ8ymVwRk4MTSLii5Ssua0A/1/playlist.m3u8
+https://lb5.strmd.st/secure/eiOVTFzRZJvfTktyqTOnYfkiXVoPXhgA/delta/stream/live_mlb_white-sox-guardians-live-streaming-1341891765/1/playlist.m3u8
