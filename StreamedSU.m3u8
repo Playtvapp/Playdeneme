@@ -1,16 +1,31 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Los Angeles Angels vs Baltimore Orioles" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Los Angeles Angels vs Baltimore Orioles
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb19.strmd.st/secure/uiWphxVkODdvwHIrPODfcDktFmFoirDS/rtmp/stream/CIFwTXsBttAV_fWg8oXqFbk2-0Gh4XQ1FqVUEbEhX5QYQsTEIrjKlM90aGaT5J6iXiPZvbDN5VpIYajvFo16lx6a/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Colorado Rockies vs Boston Red Sox" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Colorado Rockies vs Boston Red Sox
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.st/secure/tFvbZoSUQWRZHpgqWEsbIinZOwnUDnnk/rtmp/stream/UBRCd6WnCK3GfPYbqsuOTlWfJo9EkaIY2b98AaG23gSoiLXU26pzw9DuS8p3bwNN5MxoYm4zCwimsaRFVcrVuJc/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Switzerland vs Canada" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Switzerland vs Canada
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb16.strmd.st/secure/ZaYijRxlPiPRmSDYEWfDEuecMLrFKTKr/rtmp/stream/MV8NZ2BjM85jJ3SzMYdHGbVBmgj3UnwHPRG7yQ28k3rt80aNeGKdjTyVjRV8h1R1_dbcobdAdQ/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Bosnia-Herzegovina vs Qatar" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Bosnia-Herzegovina vs Qatar
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb15.strmd.st/secure/QPPXwHXsxGmTpUmMnpIoZvfZntjHywgC/rtmp/stream/bwEw3LmPEJVBuz-SFKZQboNFgU-PXoUyeGpEaefeI319UL37QopXB1xbgyjLSFNz8pO-jiaV/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago White Sox vs Cleveland Guardians" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Chicago White Sox vs Cleveland Guardians
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.st/secure/IDpFUiAXdsDNsjJfCuGPRgCDhtDGuKuK/rtmp/stream/dreNuMcHZQnUDt3BG64McNvyRVT8hv8WT2-B8PhbATHe6x4XxuhniqAkUhhSlhKJcl3xXzlid5_ONFWGjvld4Ok/1/playlist.m3u8
+https://lb15.strmd.st/secure/XSqGEetTiHVyYnnoFNhMzUxtrKiowXVP/rtmp/stream/BWDVTotCV17M6rpd4M2IOt6b9I9L5-NDu6KiRwYFVj75DkoV9de4V4oqd75TWTADOcmAU5pVM7Ewgv4reKCLD5w/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets vs Chicago Cubs" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",New York Mets vs Chicago Cubs
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.st/secure/QoBbzMLNuSNwryHlzrUznphgEnUzSKcU/rtmp/stream/Ovr-jjGWhbwES4trHX6uIgn0pFP8CQvbZU2r3nnoMZ92pcLYkbjRzKe75v9SEwzCvzwsxKa3kqKAvRAZWg/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins vs Texas Rangers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Miami Marlins vs Texas Rangers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb16.strmd.st/secure/TkutIXWbwWQIeRJRNRatbFeCobvKKHcJ/rtmp/stream/ANpw5jcQ4wkPpOh81Sj0pOju2HVDwpZsDUCRXd5ko8bVPFWPMK2-ZuaeCVC2aechOnSmKk9Mn3aU9yKH2dY/1/playlist.m3u8
+https://lb18.strmd.st/secure/WodCHCYKVweOUWZLizjPpsnKSGpDOwXA/rtmp/stream/t4VogXOfaGTqjeXoafqfarabMrz-Hze_SpDtQES4xAZiSrvinH7dM7NaMOPlJ8ymVwRk4MTSLii5Ssua0A/1/playlist.m3u8
