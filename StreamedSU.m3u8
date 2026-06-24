@@ -1,6 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Bad Homburg / Mallorca " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",ATP / WTA: Bad Homburg / Mallorca 
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago White Sox vs Cleveland Guardians" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Chicago White Sox vs Cleveland Guardians
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.st/secure/FsAwpxyTzPxfsAwRWkdCwNLIwjjKvyxU/echo/stream/atp-wta-bad-homburg-mallorca-tn-1/1/playlist.m3u8
+https://lb10.strmd.st/secure/IDpFUiAXdsDNsjJfCuGPRgCDhtDGuKuK/rtmp/stream/dreNuMcHZQnUDt3BG64McNvyRVT8hv8WT2-B8PhbATHe6x4XxuhniqAkUhhSlhKJcl3xXzlid5_ONFWGjvld4Ok/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets vs Chicago Cubs" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",New York Mets vs Chicago Cubs
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.st/secure/QoBbzMLNuSNwryHlzrUznphgEnUzSKcU/rtmp/stream/Ovr-jjGWhbwES4trHX6uIgn0pFP8CQvbZU2r3nnoMZ92pcLYkbjRzKe75v9SEwzCvzwsxKa3kqKAvRAZWg/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Miami Marlins vs Texas Rangers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Miami Marlins vs Texas Rangers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb16.strmd.st/secure/TkutIXWbwWQIeRJRNRatbFeCobvKKHcJ/rtmp/stream/ANpw5jcQ4wkPpOh81Sj0pOju2HVDwpZsDUCRXd5ko8bVPFWPMK2-ZuaeCVC2aechOnSmKk9Mn3aU9yKH2dY/1/playlist.m3u8
