@@ -1,11 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Golden State Valkyries vs Atlanta Dream" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Golden State Valkyries vs Atlanta Dream
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="World Rally Championship 2026 - Rally Greece" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",World Rally Championship 2026 - Rally Greece
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/docMoLWVLQRelXbWlDMALktwpQWOsGnP/rtmp/stream/PQtrWFEnhZzfwUg00tR1J0dFPeAEXKMKZeOGBQgYvD5gOPKTgAOm42-urs4NV-T2uEJHx-LFLCMS907sbWZc1smAq1CXcg/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants vs Athletics" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",San Francisco Giants vs Athletics
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.st/secure/jluEWxHFkayIEFpFGZtgYutXLnnxfcai/rtmp/stream/2xqANQHyInSuysqOsVWEq6FSCJ_HLv2XgYpltDzxzMjtZWXgLoqtBx8FlQYvbG0735FZ-Xg1MbD0JRSWPtiMJfp0FVg/1/playlist.m3u8
+https://lb3.strmd.st/secure/CmMtARcuEcRDxLBGKnhCRaOQmmSWaZtq/delta/stream/live-event_world-rally-championship-2026-rally-greece-live-stream/1/playlist.m3u8
