@@ -1,6 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Parramatta Eels vs South Sydney Rabbitohs" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title=" Rugby",Parramatta Eels vs South Sydney Rabbitohs
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb18.strmd.st/secure/ngXQSPMrHPlEYeMVxIvWIjKqhAyGVwth/rtmp/stream/d_48Rw5UxJac-w6kiAEjU_xUred2gjF4G9Oge9xPWtz2mFnqqAAjR5GolPhuLj8k8gxLWEDc7qU/1/playlist.m3u8
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Brisbane Lions vs Sydney Swans" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Afl",Brisbane Lions vs Sydney Swans
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb13.strmd.st/secure/VBxXqmilHnsCcJKPlBpERlQfOlYKdngR/echo/stream/brisbane-lions-vs-sydney-swans-australian-football-3473/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Bad Homburg / Mallorca " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",ATP / WTA: Bad Homburg / Mallorca 
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb15.strmd.st/secure/uMlUKHnMpuZnFbfsBllGusJeFMYFIewy/echo/stream/atp-wta-bad-homburg-mallorca-tn-1/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="England vs New Zealand" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",England vs New Zealand
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb15.strmd.st/secure/ziyfxmPWURZtEihLvFxWFYcLImihdmdA/echo/stream/england-vs-new-zealand-third-test-cricket-hundred-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="World Rally Championship 2026 - Rally Greece" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",World Rally Championship 2026 - Rally Greece
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/CmMtARcuEcRDxLBGKnhCRaOQmmSWaZtq/delta/stream/live-event_world-rally-championship-2026-rally-greece-live-stream/1/playlist.m3u8
+https://lb8.strmd.st/secure/VLMzhrQzbFLoYyjcbQGdqQbwdlfzskhn/delta/stream/live-event_world-rally-championship-2026-rally-greece-live-stream/1/playlist.m3u8
