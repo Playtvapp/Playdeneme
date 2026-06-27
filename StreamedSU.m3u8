@@ -1,26 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Toulouse Olympique vs Leigh Leopards" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title=" Rugby",Toulouse Olympique vs Leigh Leopards
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Toronto Tempo vs Phoenix Mercury" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Toronto Tempo vs Phoenix Mercury
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.st/secure/wRxfzRqJDZdAWzlDekerrPBmNIhKGLVW/echo/stream/toulouse-olympique-vs-leigh-leopards-game-37322/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="Alpine Rams vs Rhein Fire" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true" group-title=" American Football",Alpine Rams vs Rhein Fire
+https://lb20.strmd.st/secure/IsrZesjGdCFphjEGUBoQbOprVHXRTqjB/rtmp/stream/MghKjQWXGR9__sDuEUmckN305rOMnUdpd--PeZSox0fAG_FAcJiBuYr_TyKmyoUIO8M_1ygbESVelvBLvrI/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Toronto Tempo W vs Phoenix Mercury W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Toronto Tempo W vs Phoenix Mercury W
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.st/secure/zeepiIDUgfluKwXelnHPlxFvtBfYnfqU/rtmp/stream/lZxC9QXjS-v77F2gZXZmYOxR_uxDRStm5OvwVOIfF9QHwBpKvnTPpRUYoCPQrJfjobGO1_EkOppPF-R85G06C14/1/playlist.m3u8
+https://lb4.strmd.st/secure/wIKnqzLQemtCYXzJsOcVKAntCALBXdST/echo/stream/toronto-tempo-w-vs-phoenix-mercury-w-basketball-494911/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Detroit Tigers vs Houston Astros" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Detroit Tigers vs Houston Astros
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb11.strmd.st/secure/XAevVnharNlfsEBnXYmXoHTHniqiYSPz/rtmp/stream/UXmVz4HFZe4_GuKrDe8ue7ytIFIHWIR4HY8bvnRxugDbB1HooTR_3v3zxFsrMDYFhydxW1JHzJNUB48x8-8M/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox vs New York Yankees" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Boston Red Sox vs New York Yankees
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.st/secure/NhEervhJvXMINIyUkKkkDRlukMPyAJxn/rtmp/stream/DDxMef1Qem8w_jUzTRZdjFuXKkdXAlNhRPxgidJyLuUMw5VdzcxKEXDFtRjzRdEWgsbFJRRVAF96ws41iOY/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Night Of Champions" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Night Of Champions
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb18.strmd.st/secure/ZdNobPAzacTSuqkUWtbPUyjLSrKeKjDz/rtmp/stream/ORtMxCBpAcPZrtm7Nt2K-oea92F2Djb4xyM7bXX4g6wUg9tR5VIVYGxH1dFpbrsruJBI9KQ/1/playlist.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="2026 NHL Draft | Rounds 2-7" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Hockey",2026 NHL Draft | Rounds 2-7
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.st/secure/YJWwOyfzpvkqHYLDrBLqsSHAwpeVxKsM/rtmp/stream/9-RjS8wXTLxiLZs-J9CHQzLlb6KAWIxLSZsHVxlmAlr6C_OdymTq2ctItLI3iNB-oraMnhoo/1/playlist.m3u8
+https://lb15.strmd.st/secure/ciJTdcetKkEKjxgrakberxlxEmziRGyX/rtmp/stream/gx2pQKFYHb8ByBnwR0maeOT5AUQGR3wjIS8HqUj0cv0Sa4SvHubWSqiqDAZCLyuTaTp9RqBN/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC Fight Night 280 Fiziev vs Torres" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",UFC Fight Night 280 Fiziev vs Torres
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.st/secure/XNAunwWUdtYgZBGYNUxsCPXyBuIjkXMV/rtmp/stream/9SM4_o6M6dEU9MATLDIbWpIocnxgopvHcVIl5ZDndoXhJi8LVlEqjyIgfMMTQcZDP-cspUY/1/playlist.m3u8
+https://lb1.strmd.st/secure/PjJmjeFurSnxxJSlAILqOOjsePlLVZaG/rtmp/stream/xMeYRdkQ97nLVddZ0J2bAZs3bSpQAsss0JqaF9a0jRNrwjfwxQ_ga9T3t6t_xv9PZDytmJg/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Bad Homburg / Mallorca " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",ATP / WTA: Bad Homburg / Mallorca 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb17.strmd.st/secure/jOfYPPDQIzvPSUEKicMGicAaPYaoPrbs/echo/stream/atp-wta-bad-homburg-mallorca-tn-1/1/playlist.m3u8
+https://lb19.strmd.st/secure/YbPyOvmNwdLMACvAwJbYfklXsabjNWZJ/echo/stream/atp-wta-bad-homburg-mallorca-tn-1/1/playlist.m3u8
