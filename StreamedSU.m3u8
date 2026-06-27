@@ -1,41 +1,51 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets vs Philadelphia Phillies" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",New York Mets vs Philadelphia Phillies
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb14.strmd.st/secure/FaWInaWFosNNYLEJSDcFBKvkCEBJCZqn/rtmp/stream/6KVWK2KlnXbfFKoDOXPTcIXHiRFTZ_yfrgjXBUdtYwAYlkvHHTXhqpkhQf8fV1DJIJYfYNT3jbX1sL8bYw/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago White Sox vs Kansas City Royals" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Chicago White Sox vs Kansas City Royals
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.st/secure/rHBEGyKeHicqCWMnXigYDiEbwGIDQPaC/rtmp/stream/XOCSWWBDlTZMvPCitBxLbFf1dA-JtfZpOI9r7mHMKOHvQYzUevDVUOo8W7fdu5e43l5oAgXL3WQ5_L5AYVcvyU0/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Pittsburgh Pirates vs Cincinnati Reds" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Pittsburgh Pirates vs Cincinnati Reds
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.st/secure/tFERDPCwNLzunTuzYuuWeiVyPkcJGOyt/rtmp/stream/-iOKIGsBvSz2QAVTGsluWg2U57ja7XjJsWrUC02_yXDqPhcHLea-4lZ0vB0AXdvDssjQD0nAVwsPWte6x17nkHriQw/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays vs Texas Rangers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Toronto Blue Jays vs Texas Rangers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.st/secure/MZNFkymlUpXjTMEUuszEZApiERkVjyqj/rtmp/stream/9zi7QOmcFyqJVVcDp0rvjDp4SYQ5QMIVoVmkO7XSi2xaFjTGX_88ERmC8hIUVCBAfAKvhmdfCv32kYNbxE0UjEs/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Bradford Bulls vs St Helens" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title=" Rugby",Bradford Bulls vs St Helens
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb15.strmd.st/secure/NwFAKSoKuIrzppQgIIyQrfDeWRgEgewJ/echo/stream/bradford-bulls-vs-st-helens-game-182283/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Travelers Championship | PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Travelers Championship | PGA Tour
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb12.strmd.st/secure/TqvltVDMIQeyZbgDhVMOAnmezbascNvB/echo/stream/travelers-championship-pga-tour-pga-526234/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Toronto Tempo vs Phoenix Mercury" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Toronto Tempo vs Phoenix Mercury
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb20.strmd.st/secure/IsrZesjGdCFphjEGUBoQbOprVHXRTqjB/rtmp/stream/MghKjQWXGR9__sDuEUmckN305rOMnUdpd--PeZSox0fAG_FAcJiBuYr_TyKmyoUIO8M_1ygbESVelvBLvrI/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Toronto Tempo W vs Phoenix Mercury W" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title=" Basketball",Toronto Tempo W vs Phoenix Mercury W
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.st/secure/wIKnqzLQemtCYXzJsOcVKAntCALBXdST/echo/stream/toronto-tempo-w-vs-phoenix-mercury-w-basketball-494911/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Detroit Tigers vs Houston Astros" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Detroit Tigers vs Houston Astros
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb11.strmd.st/secure/XAevVnharNlfsEBnXYmXoHTHniqiYSPz/rtmp/stream/UXmVz4HFZe4_GuKrDe8ue7ytIFIHWIR4HY8bvnRxugDbB1HooTR_3v3zxFsrMDYFhydxW1JHzJNUB48x8-8M/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Boston Red Sox vs New York Yankees" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Boston Red Sox vs New York Yankees
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.st/secure/NhEervhJvXMINIyUkKkkDRlukMPyAJxn/rtmp/stream/DDxMef1Qem8w_jUzTRZdjFuXKkdXAlNhRPxgidJyLuUMw5VdzcxKEXDFtRjzRdEWgsbFJRRVAF96ws41iOY/1/playlist.m3u8
+https://lb17.strmd.st/secure/TJZLHCqGTPHqgHZmGjwqJYdKLfSXRUeP/rtmp/stream/gV36pTWQPFJ1kpC_e1TwbEzONZwL6tyHJfV_aMj_CZsTEz6R6tVhZ4xWlA76NGaK1Vg3aN78WxW4skyBaXc/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Night Of Champions" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Night Of Champions
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.st/secure/ZdNobPAzacTSuqkUWtbPUyjLSrKeKjDz/rtmp/stream/ORtMxCBpAcPZrtm7Nt2K-oea92F2Djb4xyM7bXX4g6wUg9tR5VIVYGxH1dFpbrsruJBI9KQ/1/playlist.m3u8
+https://lb11.strmd.st/secure/DzumhZeQSOsmlSODEIkYWujaMEaRmBnj/rtmp/stream/MiY_UwjxkUqR64hTm6eXVEuDrgdYpMHK4Q5ZB-_XD4BYnt5i38vBj2vMqdnXwTi19s64hvM/1/playlist.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="2026 NHL Draft | Rounds 2-7" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Hockey",2026 NHL Draft | Rounds 2-7
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.st/secure/ciJTdcetKkEKjxgrakberxlxEmziRGyX/rtmp/stream/gx2pQKFYHb8ByBnwR0maeOT5AUQGR3wjIS8HqUj0cv0Sa4SvHubWSqiqDAZCLyuTaTp9RqBN/1/playlist.m3u8
+https://lb13.strmd.st/secure/UFxazlpIkhCKVGmvoOcNEnPOoXrxhZJq/rtmp/stream/YGYTqL0T-2rQ9aRdH8GWrvjR91SFR6VrqEqlgFNRl5uQ8pLkXRKsmjSwR5r8hxIalkDqogwa/1/playlist.m3u8
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="UFC Fight Night 280 Fiziev vs Torres" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",UFC Fight Night 280 Fiziev vs Torres
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.st/secure/PjJmjeFurSnxxJSlAILqOOjsePlLVZaG/rtmp/stream/xMeYRdkQ97nLVddZ0J2bAZs3bSpQAsss0JqaF9a0jRNrwjfwxQ_ga9T3t6t_xv9PZDytmJg/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="ATP / WTA: Bad Homburg / Mallorca " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title=" Tennis",ATP / WTA: Bad Homburg / Mallorca 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb19.strmd.st/secure/YbPyOvmNwdLMACvAwJbYfklXsabjNWZJ/echo/stream/atp-wta-bad-homburg-mallorca-tn-1/1/playlist.m3u8
+https://lb18.strmd.st/secure/gxudqTaDghcUOuCpJJKXWXICmmPDNSox/echo/stream/ppv-event-01-ufc-fight-night-fiziev-v-torres-ppv-01/1/playlist.m3u8
