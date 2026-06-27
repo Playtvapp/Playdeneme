@@ -1,21 +1,36 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Austrian Grand Prix Practice 3" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Austrian Grand Prix Practice 3
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb20.strmd.st/secure/yYEdbWtEWmuTwLxiHZXrjwwKUlgCsxsR/rtmp/stream/xtRalj_Xvqw7_nxNiRJyhKhfd3zWfdBp23a7W0z8OeSa7UZS7OhRMDeiYPmEJnXZFuO4wtR1Sjv9P93ejt5vYMa2s0Y/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="3rd Practice | Red Bull Ring |" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",3rd Practice | Red Bull Ring |
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.st/secure/NjSIrAPdxtcQQuopANONdkZHScWhoRsu/echo/stream/3rd-practice-red-bull-ring-formula-1-2557/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Manly Sea Eagles vs Melbourne Storm" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title=" Rugby",Manly Sea Eagles vs Melbourne Storm
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.st/secure/COVOBUtawLSAzApPZOteaYKJwkThquSo/rtmp/stream/zA6h7KUz83qJK-FhJC-k-yqRV9MbIsenPIQUxvlGwOYswyCOVWtxR05sNw_FQmpLlcLPZYaLyUfZd1o/1/playlist.m3u8
+#EXTINF:-1 tvg-id="AUS.Rules.Football.Dummy.us" tvg-name="Port Adelaide Power vs Adelaide Crows" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Afl",Port Adelaide Power vs Adelaide Crows
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.st/secure/EozzGokHkBfqOTFFzVUvttNWFJttzyDB/echo/stream/port-adelaide-power-vs-adelaide-crows-australian-football-3555/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="England vs New Zealand" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",England vs New Zealand
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb19.strmd.st/secure/oervgNOBwDaLHLwAXAdYXoOXeyPEtEGm/echo/stream/england-vs-new-zealand-third-test-cricket-hundred-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Formula 3: Austria -R5 | Formula 2: Austria -R6 " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Formula 3: Austria -R5 | Formula 2: Austria -R6 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.st/secure/ebLswNXXGNxqurKzOhrIGBHYRHNpAGEh/echo/stream/formula-3-austria-r5-formula-2-austria-r6-game-19996/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="North Queensland Cowboys vs Penrith Panthers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title=" Rugby",North Queensland Cowboys vs Penrith Panthers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.st/secure/REdjgJtGNzHrcXiKageGRGKeBmzZtCco/rtmp/stream/w0kakVmELlQh6DrdjOFZA0ZUvA25hL2uXyyDi0970VTr6gKyz86VABRdxDBxsNlX-EymDx98z_uBtyg/1/playlist.m3u8
+https://lb14.strmd.st/secure/tnfOVUhYgCzWLwglYHiqmoGSyidLkOQH/echo/stream/formula-3-austria-r5-formula-2-austria-r6-game-19996/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="World Rally Championship Greece " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",World Rally Championship Greece 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb14.strmd.st/secure/jtScDUerUpLOhNnluOPdPhhSfSHVTAlg/echo/stream/world-rally-championship-greece-racing-0059/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="New Zealand vs Belgium" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",New Zealand vs Belgium
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb19.strmd.st/secure/PyKpQaGpxInFxhlffsgCbXIRnepafAOW/echo/stream/england-vs-new-zealand-third-test-cricket-hundred-1/1/playlist.m3u8
+https://lb13.strmd.st/secure/GAvQzzdkoIKuMfdyEvYyQwBLhjtMpkAV/echo/stream/world-rally-championship-greece-racing-0059/1/playlist.m3u8
