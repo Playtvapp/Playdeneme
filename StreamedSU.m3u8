@@ -1,51 +1,46 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Xander Zayas vs Jaron Ennis" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Xander Zayas vs Jaron Ennis
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb20.strmd.st/secure/NFvtqSdANvdKbGYUuiqZNBbWVqnLVXYq/rtmp/stream/DGHYBJKLOXDnPub2pYCK_1I7cUp4_47MgljVoWeGSvpNHyMVVh5ACSTwUF-NjQWemibAzwjKiV5FWU4/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Tampa Bay Rays vs Arizona Diamondbacks" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Tampa Bay Rays vs Arizona Diamondbacks
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.st/secure/uPMNZDweUDHMiCZbeQkandebPgTvIlBF/rtmp/stream/kgrZyxASrlPNf0vvtWoPkCMfwcUqNc38_hRXHhd1OUBG5QwrwVDPP05MtrkXIW1rtoK1WWFTSmNLSy-FJE4/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="MI New York vs Los Angeles Knight Riders" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Cricket.png" group-title=" Cricket",MI New York vs Los Angeles Knight Riders
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.st/secure/davCSSZmfsFUDmDYnTCVMpCbKHnHgSly/echo/stream/mlc-mi-new-york-vs-la-knight-riders-cricket-1/1/playlist.m3u8
+https://lb5.strmd.st/secure/ePrkSrKogvhcKopYtRvGhHczdMoOuYmQ/echo/stream/mlc-mi-new-york-vs-la-knight-riders-cricket-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Croatia vs Ghana" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Croatia vs Ghana
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.st/secure/QVtpxPcyninjeuZZcAZYZakCmSMBgftH/rtmp/stream/XHpQv9eg92qikWB6wNQuZ0nl0Ceftg7MW2LCrd-lwnbrUOhxD_bek-KnfLejQTQHZ_N3iz98/1/playlist.m3u8
+https://lb12.strmd.st/secure/AVxLNWHtdQTsMOnMfTlqelEboIDHggXW/rtmp/stream/Ly1VrA8BNG4jor3XmFYmgATbdYqbiAEql5m1Lh4vMHYns8UUxH1ohMi2YwtyyHR6s7ruZ_4j/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Panama vs England" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Panama vs England
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.st/secure/HKcBUpVmXNiwmieJNYpInSLfVUMnjGIZ/rtmp/stream/NT8NOP1j2tyf8cHs141PYC3DUW7T5EIBSlyP0CzFQ1YYCZKpNibT3HSKeKKjmohrJTGIWgQEvg/1/playlist.m3u8
+https://lb12.strmd.st/secure/GPNAqSuxvFUQGQePKKwdvYwfWogTZbJs/rtmp/stream/dPhrGIJY5KZaTI8a_paB_rAIieN6X-wZjrY3RIvilj8qxSacXc0u4N7oWrF1C7g3sYhf6wtVpg/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Mets vs Philadelphia Phillies" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",New York Mets vs Philadelphia Phillies
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.st/secure/gxqpQucPCGNVwJrKfqkXInxPXIFabFgh/rtmp/stream/aoPkvYrFJ1JOS-RGErmXUStbNudkwuXSNYrA7iBcv-Fa9ChapRd1pCjmQWSgilTYLToD0Q4_jFJckO9L6Q/1/playlist.m3u8
+https://lb10.strmd.st/secure/AUjjEoXNWGnpaVVIqajIlqSEFalAsgRD/rtmp/stream/bkxzu1bzoilN9tgBCWEQk_rWsRhGP9VLC4ZqE0q3oyclnCucF5BqcqsxgCZ0BslqVNio0Oxh9kcm8hf2TQ/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago White Sox vs Kansas City Royals" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Chicago White Sox vs Kansas City Royals
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.st/secure/KYuDxBczuJGsNSqkpZppeJRsBJeZgXKT/rtmp/stream/Idd3_Q_xKUbbSC2zLZ3cbdoXkY34A_n--9oRBCtVPAtejfr9vUYrElbLpVF2SstY3aqRloGaiiiqCgpLR6JxNs8/1/playlist.m3u8
+https://lb19.strmd.st/secure/ufyUzZSxSmRabVANJrEzDUMrAUZEBFRE/rtmp/stream/CiO72v4dFzR9cX_3CaYXg56KgJ2iZ7liulwxvKCGrZS9TGX6AZnKY7wVejsLL4oq6jCUO4Bn5uac5fRy4WVCO10/1/playlist.m3u8
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Pittsburgh Pirates vs Cincinnati Reds" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Pittsburgh Pirates vs Cincinnati Reds
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.st/secure/RHnAQsPiuyyEggYlcCvTckxSemgffTAb/rtmp/stream/nkPlowFSyE_igXTgjfuDGLwjNdMXzTVBNiGVhX1WrSwQmxyzWqG6AxKkkGGmzzL3x42FI8qIF1ZvHyNTV_Eu4t4w4w/1/playlist.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Toronto Blue Jays vs Texas Rangers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Toronto Blue Jays vs Texas Rangers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.st/secure/FihcrZIcAGCBQCRZsbtuPEuVEOcefrUg/rtmp/stream/E4AF3D0wXIutFXeKenK3dFgnYiAJnFotXS8RuoeoRVKTp2X2YtCeuJnsqDn9W2K4jaRo-zUDewpoCnLllolBVbA/1/playlist.m3u8
+https://lb6.strmd.st/secure/szFdBAmWJyoSYjvmNKGEUAKsxZWxwSlj/rtmp/stream/tRtlTgHfZSo3yP6mm2WggfUg8LRZ4Jsyq1sMdKFKRdpmXH0kF7XotXtxUB1vVq90dzb26bjIloXVsw0eA5R5t6DRZQ/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Travelers Championship | PGA Tour" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Travelers Championship | PGA Tour
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.st/secure/yJCIuNIwDqkwuXSAKSSIaHlWDELRzxfN/echo/stream/travelers-championship-pga-tour-pga-526234/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Night Of Champions" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",Night Of Champions
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb1.strmd.st/secure/WJDYEiqjKmpbczOzCOQtqhUoonlPNrJB/echo/stream/ppv-event-02-wwe-night-of-champions-ppv-02/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="UFC Fight Night Fiziev v Torres " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",UFC Fight Night Fiziev v Torres 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb11.strmd.st/secure/bBjCMlcPaLoENtvQZhJNGAWtmPasZUlu/echo/stream/ppv-event-01-ufc-fight-night-fiziev-v-torres-ppv-01/1/playlist.m3u8
+https://lb14.strmd.st/secure/QGDtTHxuRpyIJxIcyzxmCZiDSqEKLcrW/echo/stream/travelers-championship-pga-tour-pga-526234/1/playlist.m3u8
