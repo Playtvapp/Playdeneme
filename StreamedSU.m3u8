@@ -1,26 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Wakefield Trinity Wildcats vs Huddersfield Giants" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title=" Rugby",Wakefield Trinity Wildcats vs Huddersfield Giants
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb11.strmd.st/secure/dvEiuWhOaXAjjZwsKUAnBfnmZlWlOaVn/echo/stream/wakefield-trinity-vs-huddersfield-giants-game-184842/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="Firenze Red Lions vs Wrocaw Panthers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true" group-title=" American Football",Firenze Red Lions vs Wrocaw Panthers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb15.strmd.st/secure/dQWltxsycwhZGFKrraiKnvivPQkxuDCO/rtmp/stream/5Xap-jBfEPasYVUJLInZPGCdO4M7VQKQLWMjSHK4atdoS63mXnhxiiZrjykzpva0RmUoMh3V-4i6Em-wJ2RdqScIsdauaw/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Austrian Grand Prix" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Austrian Grand Prix
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb19.strmd.st/secure/pdXLmxWkEfCviQGMuHfCxFpUcnFUCclm/golf/stream/23373/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Race | Red Bull Ring | 307.0 Kms" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Race | Red Bull Ring | 307.0 Kms
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.st/secure/FjnRQqBatFwMaAxrUJUYRWvbKgsJrnHW/echo/stream/race-red-bull-ring-3070-kms-formula-1-2558/1/playlist.m3u8
+https://lb4.strmd.st/secure/ulhyYiOJdPWWQlUCotPWaGXIiYKcRTDE/rtmp/stream/0vzggZDRTYbW58JHSF6M19C8muiNb5eLR69gROXDvBbE_leDryV0HqQEPpEUNMY5FprPE45VDzK9o01B4SfbhOk0ru3t/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="England vs New Zealand" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",England vs New Zealand
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.st/secure/xCvYrhQQhrbKsSXnxHfwLSNFxvHiZqcT/echo/stream/england-vs-new-zealand-third-test-cricket-hundred-1/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Formula 3: Austria -R5 | Formula 2: Austria -R6 " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Formula 3: Austria -R5 | Formula 2: Austria -R6 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb17.strmd.st/secure/JjhgASweDizMaEiCbOZwCfUXEljzIYQt/echo/stream/formula-3-austria-r5-formula-2-austria-r6-game-19996/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoGP Netherlands Grand Prix  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",MotoGP Netherlands Grand Prix  
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.st/secure/CSdXiIkYfaqIEcfIbhbgogWEVUDobFpq/echo/stream/motogp-netherlands-grand-prix-game-122273/1/playlist.m3u8
+https://lb17.strmd.st/secure/TciflnflYtPghUelJVYivHUPOIIynhDY/echo/stream/england-vs-new-zealand-third-test-cricket-hundred-1/1/playlist.m3u8
