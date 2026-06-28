@@ -1,41 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="England vs New Zealand" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",England vs New Zealand
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.st/secure/uPmkxkqWaOxhLxyfLmWkYzDGUaxlDkXG/echo/stream/england-vs-new-zealand-third-test-cricket-hundred-1/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Formula 3: Austria -R5 | Formula 2: Austria -R6 " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",Formula 3: Austria -R5 | Formula 2: Austria -R6 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.st/secure/imNgSWSHNTjUgJRUnIOWEdephzpYnLBY/echo/stream/formula-3-austria-r5-formula-2-austria-r6-game-19996/1/playlist.m3u8
+https://lb14.strmd.st/secure/EuoPjAiDurRRIdskrTybSTewSJfZCGaR/echo/stream/formula-3-austria-r5-formula-2-austria-r6-game-19996/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="MotoGP Netherlands Grand Prix  " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",MotoGP Netherlands Grand Prix  
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb17.strmd.st/secure/GxMpdZpixjDGvgYJdGADDRGZklUuaXob/echo/stream/motogp-netherlands-grand-prix-game-122273/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Newcastle Knights vs Wests Tigers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title=" Rugby",Newcastle Knights vs Wests Tigers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb11.strmd.st/secure/tcmkViDdTjUnZrhPbJlrxxJJUcbVuTQq/rtmp/stream/4o31JFQGruZulGNw40gi22aF_2_4XhkiIf4kJ2ggMxj713Ur055ncq2CeVZJp_i-n6_EyAW_61PVkpE/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Newcastle Knights W vs Wests Tigers" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title=" Rugby",Newcastle Knights W vs Wests Tigers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.st/secure/EIcumSDuTcIvFmIMEvvShqoAsuXQbtTn/echo/stream/newcastle-vs-wests-tigers-game-3373252/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="World Rally Championship Greece " tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title=" Motor Sports",World Rally Championship Greece 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb18.strmd.st/secure/hgKhjiRsZPGHGnFBljnmIGImaNaFExjK/echo/stream/world-rally-championship-greece-racing-0059/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Pancrase 363" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",Pancrase 363
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb13.strmd.st/secure/GcTACjButqpbSzdrLgeBeTfQLIXKyniZ/echo/stream/ppv-event-15-pancrase-363-pppv15/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Canberra Raiders vs St. George Illawara Dragons" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Rugby.png" group-title=" Rugby",Canberra Raiders vs St. George Illawara Dragons
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb17.strmd.st/secure/nNiORJCvztmWxvNBrtOCsrGvabWpnMJN/rtmp/stream/PjyWcUVX2CJ0SgAdieoo2BTcSiJCzEQyX43BfC-BvRyvIYkFfNyiFM6Xb2oFjwuDDBi_x91TCYK0UI0/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="GCW Amerikaz Most Wanted" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Other",GCW Amerikaz Most Wanted
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb11.strmd.st/secure/QkmZDExXwErwXjZhDPBgSrDUbLQLRtdn/echo/stream/ppv-event-14-gcw-amerikaz-most-wanted-ppv14/1/playlist.m3u8
+https://lb8.strmd.st/secure/CVnzhOONuHjRqwoaIsiKGslBukZhZhXN/echo/stream/motogp-netherlands-grand-prix-game-122273/1/playlist.m3u8
