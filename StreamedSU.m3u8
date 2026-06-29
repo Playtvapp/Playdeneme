@@ -1,6 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies vs Pittsburgh Pirates" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Philadelphia Phillies vs Pittsburgh Pirates
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.st/secure/tEhhDEEFueXeBMnoZCFsBJqLhbUROkOe/rtmp/stream/CN0fwPvfwopxkD82IBXM8eUIZFgTnKqMC20pKLvgEMOy93P8lHjTUv4HKfHuusFJKfgvHFl3MezafpGFuWgQVw5ZEihwFA/1/playlist.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Baltimore Orioles vs Chicago White Sox" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title=" Baseball",Baltimore Orioles vs Chicago White Sox
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.st/secure/OulrJnxEKphTbypLZMZjiRNXZEaUfUEk/rtmp/stream/bASIDx74HUdoSbjWrVt8LKN5E7l1W1ePRQrqUoNj321Kr0YHE1o8JZaDfXvM3_ldSdGxZCBeiM0gZJKHpMzlmv8B/1/playlist.m3u8
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE: Monday Night RAW" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title=" Fight",WWE: Monday Night RAW
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb15.strmd.st/secure/qFtCTMrQvnKaNHZogSxJwyMUaEgZyyPW/rtmp/stream/acTz7hCoUpUheDBxGWk_p3Un2YmfXTrncmrQOxgZAGqV1-0BJFtK4A7QiZyin3XZIgS4an8Wvw/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Germany vs Paraguay" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Germany vs Paraguay
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb15.strmd.st/secure/dAJARnWVfWVLOpZQWUQBuXcWfvaixLKy/rtmp/stream/VMxHpi17jCAkNrWjZ4w6ZwhN5-RnOfnz8yDxh3q9jP8jjNBjuFyqdcDHIXlSg7Fg5NEs1DJYaA/1/playlist.m3u8
+https://lb16.strmd.st/secure/derwqOTUQUUfzmCcWwaTanJPTIrEdCLU/rtmp/stream/Ufr8x8X_qpYiGOSHeHb5fNUpkFmxBHQArhWZTu4DUvKG6XevDBPuZUrd1PZby2ed53XxTM6keg/1/playlist.m3u8
