@@ -1,1 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Germany vs Paraguay" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title=" Football",Germany vs Paraguay
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb15.strmd.st/secure/dAJARnWVfWVLOpZQWUQBuXcWfvaixLKy/rtmp/stream/VMxHpi17jCAkNrWjZ4w6ZwhN5-RnOfnz8yDxh3q9jP8jjNBjuFyqdcDHIXlSg7Fg5NEs1DJYaA/1/playlist.m3u8
